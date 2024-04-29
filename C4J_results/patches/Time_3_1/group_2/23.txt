@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/MutableDateTime.java:636:replace:0,3$if (clone() == null) {throw new IllegalArgumentException("Field must not be null");}

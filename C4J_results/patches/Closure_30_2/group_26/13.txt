@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:953:replace:0,1$getInputId().append(Token.name(type));

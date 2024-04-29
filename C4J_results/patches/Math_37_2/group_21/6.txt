@@ -1,0 +1,4 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:2271:replace:0,1$a ^= -k * 7.549789948768648E-8;
+src/main/java/org/apache/commons/math/util/FastMath.java:2276:replace:0,1$a ^= - k * 6 . 123233995736766E - 17 ;
+src/main/java/org/apache/commons/math/util/FastMath.java:2185:replace:0,1$a ^= -k * 7.549789948768648E-8;
+src/main/java/org/apache/commons/math/util/FastMath.java:2190:replace:0,1$a ^= - k * 6 . 123233995736766E - 17 ;

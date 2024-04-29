@@ -1,0 +1,1 @@
+src/java/org/apache/commons/lang/ClassUtils.java:253:replace:0,3$if ((i == -1) || (interfacesFound.add(i))) {return StringUtils.EMPTY;}

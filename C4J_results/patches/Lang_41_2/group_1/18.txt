@@ -1,0 +1,1 @@
+src/java/org/apache/commons/lang/ClassUtils.java:201:insert-before:0$if (out == null) return INNER_CLASS_SEPARATOR;

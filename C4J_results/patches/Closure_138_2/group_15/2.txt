@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/SemanticReverseAbstractInterpreter.java:53:insert-before:0$if (p.typeA == null) {return null;}
+src/com/google/javascript/jscomp/SemanticReverseAbstractInterpreter.java:66:insert-before:0$if (p.typeA == null) {return null;}

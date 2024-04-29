@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/SemanticReverseAbstractInterpreter.java:262:replace:0,2$return caseEquality(condition.getFirstChild(), condition.hasSideEffects(),blindScope, merging);

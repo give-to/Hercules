@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/type/ChainableReverseAbstractInterpreter.java:169:replace:0,1$scope.inferQualifiedSlot(node, getFirst(), origType, type);

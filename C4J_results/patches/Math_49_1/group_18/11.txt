@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java:396:replace:0,1$final double previous = growTable()[index];

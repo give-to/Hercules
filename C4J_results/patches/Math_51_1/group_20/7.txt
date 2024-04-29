@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java:117:replace:0,1$return super.solve(maxEval, f, doSolve(), max, startValue);

@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/ProxyObjectType.java:258:wrap:0,1$if (referencedType != null) {

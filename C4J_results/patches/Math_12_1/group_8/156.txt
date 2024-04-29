@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java:428:replace:0,3$if (u >= this.densityPrefactor2 || (u < 1 - 0.0331 * x2 * x2)) {return scale * d * v;}

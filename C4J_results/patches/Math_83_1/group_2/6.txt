@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java:190:insert-before:0$if (tableau == null) {throw new IllegalArgumentException("Null 'tableau' argument.");}
+src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java:172:insert-before:0$if (tableau == null) {throw new IllegalArgumentException("Null 'tableau' argument.");}

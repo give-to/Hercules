@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math3/linear/MatrixUtils.java:523:wrap:0,5$if (left != null && right != null) {
+src/main/java/org/apache/commons/math3/linear/MatrixUtils.java:528:wrap:0,5$if (left != null && right != null) {

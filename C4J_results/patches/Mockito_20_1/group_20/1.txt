@@ -1,0 +1,1 @@
+src/org/mockito/internal/configuration/SpyAnnotationEngine.java:107:insert-before:0$if (type == null) {throw new IllegalArgumentException("Null 'type' argument.");}

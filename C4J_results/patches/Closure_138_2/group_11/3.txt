@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/SemanticReverseAbstractInterpreter.java:304:insert-before:0$if (blindScope == null) blindScope = new FlowScope();

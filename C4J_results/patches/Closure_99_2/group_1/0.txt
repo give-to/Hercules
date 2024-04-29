@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/TypeSafeDispatcher.java:145:replace:0,1$return processArrayLiteral((InfixExpression) node);

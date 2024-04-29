@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeInference.java:789:insert-after:0$ensurePropertyDeclared(n);

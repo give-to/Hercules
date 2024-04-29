@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeCheck.java:544:replace:0,1$ensureTyped(t, expr, NULL_TYPE);

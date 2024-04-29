@@ -1,0 +1,2 @@
+source/org/jfree/chart/axis/Axis.java:1225:insert-before:0$if (dataArea == null) {return;}
+source/org/jfree/chart/axis/ValueAxis.java:525:insert-before:0$if (dataArea == null) {return;}

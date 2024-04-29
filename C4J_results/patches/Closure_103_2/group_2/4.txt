@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/Node.java:197:insert-before:0$if (SOURCENAME_PROP == null) return new String();
+src/com/google/javascript/rhino/Node.java:213:insert-before:0$if (SOURCENAME_PROP == null) return new String();

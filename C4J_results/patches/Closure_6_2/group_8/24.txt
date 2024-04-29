@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeValidator.java:532:replace:0,1$JSDocInfo info = n.removeChildren();

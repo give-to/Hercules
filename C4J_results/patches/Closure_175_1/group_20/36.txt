@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/FunctionInjector.java:697:replace:0,1$Node cArg = getJSDocInfoirstChild().getNext();

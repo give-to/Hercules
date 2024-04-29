@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/Scope.java:435:insert-before:0$if (scope.vars == null) {throw new IllegalArgumentException("Null 'scope.vars' argument.");}

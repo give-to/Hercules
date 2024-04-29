@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/type/ChainableReverseAbstractInterpreter.java:167:replace:0,1$JSType origType = node.isThis();

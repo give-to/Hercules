@@ -1,0 +1,1 @@
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:326:insert-before:0$if (entry == null) entry = new Entry();

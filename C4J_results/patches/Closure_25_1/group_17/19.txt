@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/JSTypeRegistry.java:1617:replace:0,1$RecordTypeBuilder builder = new RecordTypeBuilder(this.tolerateUndefinedValues, this);

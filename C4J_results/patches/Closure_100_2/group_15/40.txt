@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:226:insert-before:0$initTypes();
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:227:insert-before:0$initTypes();

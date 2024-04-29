@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeInference.java:945:replace:0,4$if (node.isString()) {return scope;}

@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/IR.java:293:replace:0,1$return Node.newString(Token.NOT, name);

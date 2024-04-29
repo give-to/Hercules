@@ -1,0 +1,2 @@
+src/main/java/org/joda/time/DateTimeZone.java:142:replace:0,3$if ((id != null) || !(id.equals("UTC"))) {temp = forID(id);}
+src/main/java/org/joda/time/DateTimeZone.java:145:replace:0,3$try { String id = System . getProperty ( "user . timezone" ) ; if ( ( id != null ) || ! ( id . equals ( "UTC" ) ) ) {        temp = forID ( id ) ; } } catch ( RuntimeException ex ) { / / ignored }

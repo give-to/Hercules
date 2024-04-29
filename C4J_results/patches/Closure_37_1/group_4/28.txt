@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/IRFactory.java:1066:insert-before:0$if (sourceName == null) sourceName = new String();

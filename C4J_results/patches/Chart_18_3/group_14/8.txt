@@ -1,0 +1,1 @@
+source/org/jfree/data/DefaultKeyedValues.java:337:replace:0,1$removeValue(getKeys());

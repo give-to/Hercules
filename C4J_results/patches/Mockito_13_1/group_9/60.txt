@@ -1,0 +1,2 @@
+src/org/mockito/internal/stubbing/answers/AnswersValidator.java:54:wrap:0,3$if (invocation != null) {
+src/org/mockito/internal/stubbing/answers/AnswersValidator.java:50:wrap:0,3$if (invocation != null) {

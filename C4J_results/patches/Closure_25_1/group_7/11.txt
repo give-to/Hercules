@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:2160:insert-before:0$if (Token.COLON == null) return new Node();

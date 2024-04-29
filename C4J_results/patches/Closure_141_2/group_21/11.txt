@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:680:wrap:0,72$if (parent != null) {
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:579:wrap:0,72$if (parent != null) {

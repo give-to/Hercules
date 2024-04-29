@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/format/FormatUtils.java:337:wrap:0,5$if (Long.MIN_VALUE != null) {

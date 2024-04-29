@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:2084:insert-before:0$if (Token.LC == null) return this.templateNode;
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:2106:insert-before:0$if (Token.LB == null) return this.templateNode;

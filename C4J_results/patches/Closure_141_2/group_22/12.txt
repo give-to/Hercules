@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:675:insert-before:0$if (DecompositionType.MOVABLE == null) {return null;}
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:672:insert-before:0$if (DecompositionType.MOVABLE == null) {return null;}

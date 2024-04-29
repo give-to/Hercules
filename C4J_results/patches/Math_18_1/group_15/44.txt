@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java:971:wrap:0,3$if (point != null) {

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/JsDocTokenStream.java:151:replace:0,1$getStringFromBuffer()[ungetCursor++] = c;

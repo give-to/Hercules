@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/LocalDateTime.java:542:replace:0,12$switch (toString()) {case YEAR:return chrono.year();case MONTH_OF_YEAR:return chrono.monthOfYear();case DAY_OF_MONTH:return chrono.dayOfMonth();case MILLIS_OF_DAY:return chrono.millisOfDay();default:throw new IndexOutOfBoundsException("Invalid index: " + index);}

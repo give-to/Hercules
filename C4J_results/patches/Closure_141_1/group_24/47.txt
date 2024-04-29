@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/PureFunctionIdentifier.java:344:insert-before:0$if (node == null) {throw new IllegalArgumentException("Null 'node' argument.");}
+src/com/google/javascript/jscomp/PureFunctionIdentifier.java:340:insert-before:0$if (node == null) {throw new IllegalArgumentException("Null 'node' argument.");}

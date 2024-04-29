@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/ScopedAliases.java:412:replace:0,1$varNode = value;

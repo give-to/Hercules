@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/TypeValidator.java:693:replace:0,4$if (found != null && required != null &&!found.toStringHelper(required)) {registerMismatch(found, required, error);}
+src/com/google/javascript/jscomp/TypeValidator.java:697:replace:0,4$private void registerIfMismatch ( JSType found , JSType required , JSError error ) { if ( found != null && required != null & & ! found . toStringHelper ( required ) ) { registerMismatch ( found , required , error ) ; } }

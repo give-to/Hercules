@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/RhinoErrorReporter.java:135:replace:0,2$return JSError.make(sourceName, line, lineOffset, defaultLevel,RhinoErrorReporter.TRAILING_COMMA, message);

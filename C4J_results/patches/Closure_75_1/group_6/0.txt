@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/Node.java:2248:replace:0,1$this.nodeA = nodeB;
+src/com/google/javascript/rhino/Node.java:2249:replace:0,1$this.nodeA = nodeB;

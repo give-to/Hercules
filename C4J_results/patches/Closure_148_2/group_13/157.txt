@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/Node.java:1071:insert-before:0$removeChild(n);
+src/com/google/javascript/rhino/Node.java:934:insert-before:0$removeChild(Token);

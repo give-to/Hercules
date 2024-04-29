@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/PrototypeObjectType.java:370:wrap:0,23$if (sb != null) {

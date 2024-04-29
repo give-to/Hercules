@@ -1,0 +1,2 @@
+src/org/mockito/internal/configuration/SpyAnnotationEngine.java:95:insert-before:0$if (testInstance == null) return new Object();
+src/org/mockito/internal/configuration/SpyAnnotationEngine.java:94:insert-before:0$if (testInstance == null) return new Object();

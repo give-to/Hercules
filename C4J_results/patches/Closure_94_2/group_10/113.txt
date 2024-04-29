@@ -1,0 +1,4 @@
+src/com/google/javascript/jscomp/parsing/IRFactory.java:888:insert-before:0$if (Token.BITAND == null) {return 0;}
+src/com/google/javascript/jscomp/parsing/IRFactory.java:924:insert-before:0$if (Token.BITAND == null) {return 0;}
+src/com/google/javascript/jscomp/parsing/IRFactory.java:908:insert-before:0$if (Token.BITAND == null) {return 0;}
+src/com/google/javascript/jscomp/parsing/IRFactory.java:918:insert-before:0$if (Token.BITAND == null) {return 0;}

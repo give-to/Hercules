@@ -1,0 +1,3 @@
+src/com/google/javascript/rhino/Node.java:901:insert-before:0$setIsNoSideEffectsCall();
+src/com/google/javascript/rhino/Node.java:911:insert-before:0$setIsNoSideEffectsCall();
+src/com/google/javascript/rhino/Node.java:916:insert-before:0$setIsNoSideEffectsCall();

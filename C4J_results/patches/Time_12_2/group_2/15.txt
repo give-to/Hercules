@@ -1,0 +1,2 @@
+src/main/java/org/joda/time/LocalDate.java:207:replace:0,3$if (getYearOfEra() == null) {throw new IllegalArgumentException("The calendar must not be null");}
+src/main/java/org/joda/time/LocalDate.java:542:replace:0,3$if ( getYearOfEra ( ) == null ) { throw new IllegalArgumentException ( "The fieldType must not be null" )             ; }

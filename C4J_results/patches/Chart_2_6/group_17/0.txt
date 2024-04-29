@@ -1,0 +1,2 @@
+source/org/jfree/data/xy/XYIntervalSeries.java:120:insert-before-after:0,1$Object _tempVar = getDataItem(index);if (_temVar instanceof XYIntervalDataItem) {<#>} else {throw new IllegalArgumentException("Illegal argument: getDataItem(index)");}
+source/org/jfree/data/xy/XYIntervalSeries.java:135:insert-before-after:0,1$Object _tempVar = getDataItem(index);if (_temVar instanceof XYIntervalDataItem) {<#>} else {throw new IllegalArgumentException("Illegal argument: getDataItem(index)");}

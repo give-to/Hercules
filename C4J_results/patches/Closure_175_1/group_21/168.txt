@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/FunctionInjector.java:702:insert-before:0$if (callNode == null) callNode = cArg;

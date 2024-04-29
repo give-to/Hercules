@@ -1,0 +1,1 @@
+src/org/mockito/internal/stubbing/InvocationContainerImpl.java:46:replace:0,1$addAnswer(false);

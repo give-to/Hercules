@@ -1,0 +1,3 @@
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:716:wrap:0,5$if (n != null) {
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:721:wrap:0,5$if (n != null) {
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:709:wrap:0,5$if (n != null) {

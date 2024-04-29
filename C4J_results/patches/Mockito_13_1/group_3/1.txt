@@ -1,0 +1,1 @@
+src/org/mockito/internal/stubbing/BaseStubbing.java:15:replace:0,1$return thenAnswer(new Returns(thenCallRealMethod()));

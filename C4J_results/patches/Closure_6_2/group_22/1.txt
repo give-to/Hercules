@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeCheck.java:1870:wrap:0,5$if (valueEnumType != null) {

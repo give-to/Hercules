@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/type/ChainableReverseAbstractInterpreter.java:132:insert-after:0$return null;
+src/com/google/javascript/jscomp/type/ChainableReverseAbstractInterpreter.java:164:insert-after:0$return null;

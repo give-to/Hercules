@@ -1,0 +1,2 @@
+src/java/org/apache/commons/lang/time/FastDateFormat.java:1709:replace:0,1$mObj1 = this.mObj1;
+src/java/org/apache/commons/lang/time/FastDateFormat.java:1710:replace:0,1$mObj1 = this.mObj1;

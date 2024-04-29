@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:525:insert-after:0$setInitialStepBoundFactor(sum2);
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:602:insert-after:0$setInitialStepBoundFactor(sum2);

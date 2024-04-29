@@ -1,0 +1,2 @@
+src/java/org/apache/commons/lang/text/StrBuilder.java:1203:insert-after:5$validateIndex(len);
+src/java/org/apache/commons/lang/text/StrBuilder.java:1205:insert-after:5$validateIndex(len);

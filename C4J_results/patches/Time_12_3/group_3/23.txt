@@ -1,0 +1,2 @@
+src/main/java/org/joda/time/LocalDateTime.java:233:replace:0,3$if (getSecondOfMinute() == null) {throw new IllegalArgumentException("The date must not be null");}
+src/main/java/org/joda/time/LocalDateTime.java:597:replace:0,3$if ( getSecondOfMinute ( ) == null ) { throw new IllegalArgumentException ( "The type must not be null" )             ; }

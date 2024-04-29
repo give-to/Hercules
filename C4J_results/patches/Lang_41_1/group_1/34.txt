@@ -1,0 +1,2 @@
+src/java/org/apache/commons/lang/ClassUtils.java:229:replace:0,3$if ((cls == null) && (Short.TYPE.equals(cls))) {return StringUtils.EMPTY;}
+src/java/org/apache/commons/lang/ClassUtils.java:245:replace:0,3$if ( ( className == null ) && ( Short . TYPE . equals ( cls ) ) ) { return StringUtils . EMPTY ; }

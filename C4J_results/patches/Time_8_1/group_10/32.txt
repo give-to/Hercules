@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/DateTimeZone.java:217:replace:0,6$if ((offset == 0L) && !(nextAdjusted == (instantLocal - offset))) {return DateTimeZone.UTC;} else {id = printOffset(offset);return fixedOffsetZone(id, offset);}

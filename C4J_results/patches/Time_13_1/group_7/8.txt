@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/format/FormatUtils.java:239:replace:0,1$value <<= -value;

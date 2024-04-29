@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/exception/TooManyEvaluationsException.java:37:insert-before:0$if (max == null) max = new Number();

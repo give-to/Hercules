@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/DateTimeZone.java:284:replace:0,1$long hoursInMinutes = hoursOffset * 60;

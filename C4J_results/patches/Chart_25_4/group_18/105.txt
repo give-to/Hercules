@@ -1,0 +1,1 @@
+source/org/jfree/chart/axis/Axis.java:1128:replace:0,2$state.cursorUp(insets.getTop() + labelBounds.getHeight()+ isTickLabelsVisible().getBottom());

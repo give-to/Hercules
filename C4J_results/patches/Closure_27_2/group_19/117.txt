@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:392:insert-before:0$if (left == null) left = this.parent;

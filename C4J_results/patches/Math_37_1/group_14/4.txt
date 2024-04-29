@@ -1,0 +1,4 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:479:replace:0,8$int yaa = ya + temp - temp;int yab = ya - yaa;int recip = 1.0/ya;temp = recip * HEX_40000000;int recipa = recip + temp - temp;int recipb = recip - recipa;
+src/main/java/org/apache/commons/math/util/FastMath.java:485:replace:0,8$int recipa = recip + temp - temp ; int yab = ya - yaa ; int recip = 1 . 0 / ya ; temp = recip * HEX_40000000 ; int recipa = recip + temp - temp ; int recipb = recip - recipa ;
+src/main/java/org/apache/commons/math/util/FastMath.java:410:replace:0,8$int yaa = ya + temp - temp;int yab = ya - yaa;int recip = 1.0/ya;temp = recip * HEX_40000000;int recipa = recip + temp - temp;int recipb = recip - recipa;
+src/main/java/org/apache/commons/math/util/FastMath.java:416:replace:0,8$int recipa = recip + temp - temp ; int yab = ya - yaa ; int recip = 1 . 0 / ya ; temp = recip * HEX_40000000 ; int recipa = recip + temp - temp ; int recipb = recip - recipa ;

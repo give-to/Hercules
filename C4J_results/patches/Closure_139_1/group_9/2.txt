@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/SyntacticScopeCreator.java:189:insert-before:0$if (scope == null) {throw new IllegalArgumentException("Null 'scope' argument.");}
+src/com/google/javascript/jscomp/SyntacticScopeCreator.java:216:insert-before:0$if (scope == null) {throw new IllegalArgumentException("Null 'scope' argument.");}

@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/IR.java:233:insert-before:0$if (catchNode == null) catchNode = tryBody;

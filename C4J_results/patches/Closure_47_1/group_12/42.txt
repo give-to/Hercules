@@ -1,0 +1,1 @@
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:391:replace:0,1$maxLine = Math.max(this.lastSourceFileIndex, sourceId);

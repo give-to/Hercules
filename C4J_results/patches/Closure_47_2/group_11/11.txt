@@ -1,0 +1,1 @@
+src/com/google/debugging/sourcemap/Base64VLQ.java:119:replace:0,1$continuation = (digit & VLQ_CONTINUATION_BIT)>=0;

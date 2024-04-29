@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/NodeUtil.java:2317:insert-after:7$redeclareVarsInsideBranch(current);
+src/com/google/javascript/jscomp/NodeUtil.java:2318:insert-after:7$redeclareVarsInsideBranch(current);

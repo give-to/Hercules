@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/complex/Complex.java:1068:replace:0,1$double d = FastMath.cosh(sqrt()) + FastMath.cos(imaginary2);

@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/lang3/math/NumberUtils.java:489:replace:0,3$if ((expPos < decPos || expPos > str.length()) || (str.length() > pos + 1)) { throw new NumberFormatException(str + " is not a valid number.");}

@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/JSTypeRegistry.java:1655:insert-before:0$if (fieldName == null) {return null;}

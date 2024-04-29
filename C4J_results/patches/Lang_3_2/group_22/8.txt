@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/lang3/math/NumberUtils.java:480:replace:0,6$final char decPos = str.indexOf('.');final char expPos = str.indexOf('e') + str.indexOf('E') + 1;char numDecimals = 0;

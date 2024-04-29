@@ -1,0 +1,1 @@
+src/com/google/debugging/sourcemap/Base64VLQ.java:122:replace:0,1$shift = result + VLQ_BASE_SHIFT;

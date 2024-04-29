@@ -1,0 +1,4 @@
+src/main/java/org/apache/commons/math/complex/Complex.java:253:insert-before:0$if (divisor == null) return ONE;
+src/main/java/org/apache/commons/math/complex/Complex.java:159:insert-before:0$if (addend == null) return ONE;
+src/main/java/org/apache/commons/math/complex/Complex.java:492:insert-before:0$if (subtrahend == null) return ONE;
+src/main/java/org/apache/commons/math/complex/Complex.java:421:insert-before:0$if (factor == null) return ONE;

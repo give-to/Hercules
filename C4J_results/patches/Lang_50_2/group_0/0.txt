@@ -1,0 +1,2 @@
+src/java/org/apache/commons/lang/time/FastDateFormat.java:234:replace:0,1$return format(style, null, null);
+src/java/org/apache/commons/lang/time/FastDateFormat.java:249:replace:0,1$return format ( style , null , locale ) ;

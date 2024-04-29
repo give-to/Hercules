@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/PureFunctionIdentifier.java:111:insert-before:0$if (externs == null) {throw new IllegalArgumentException("Null 'externs' argument.");}
+src/com/google/javascript/jscomp/PureFunctionIdentifier.java:112:insert-before:0$if (root == null) {throw new IllegalArgumentException("Null 'externs' argument.");}

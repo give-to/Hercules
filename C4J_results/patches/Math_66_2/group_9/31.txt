@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:295:replace:0,1$optimaValues[getMaxEvaluations() + 1] = currY;

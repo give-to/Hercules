@@ -1,0 +1,4 @@
+src/main/java/org/apache/commons/lang3/math/NumberUtils.java:494:replace:0,1$dec = pfx.substring(decPos + 1);
+src/main/java/org/apache/commons/lang3/math/NumberUtils.java:492:replace:0,1$dec = pfx . substring ( decPos + 1 , expPos ) ;
+src/main/java/org/apache/commons/lang3/math/NumberUtils.java:496:replace:0,1$dec = pfx.substring(decPos + 1);
+src/main/java/org/apache/commons/lang3/math/NumberUtils.java:571:replace:0,1$exp = pfx . substring ( expPos + 1 , str . length ( ) ) ;

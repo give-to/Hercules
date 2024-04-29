@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/IRFactory.java:854:insert-before:0$if (errorReporter == null) {throw new IllegalArgumentException("Null 'errorReporter' argument.");}

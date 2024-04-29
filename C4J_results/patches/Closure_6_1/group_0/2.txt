@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeValidator.java:406:replace:0,1$registerIfMismatch(rightType, leftType, null);

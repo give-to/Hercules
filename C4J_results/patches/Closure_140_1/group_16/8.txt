@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/CrossModuleCodeMotion.java:111:insert-before:0$if (moduleVarParentMap == null) continue;

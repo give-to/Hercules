@@ -1,0 +1,2 @@
+source/org/jfree/chart/plot/CategoryPlot.java:656:replace:0,3$setDomainAxis(axis);
+source/org/jfree/chart/plot/CategoryPlot.java:930:replace:0,3$setDomainAxis(axis);

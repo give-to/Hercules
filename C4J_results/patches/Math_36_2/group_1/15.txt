@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/fraction/BigFraction.java:688:replace:0,1$return reciprocal();

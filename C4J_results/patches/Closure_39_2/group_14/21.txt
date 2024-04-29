@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/PrototypeObjectType.java:366:replace:0,1$propertyNames.addAll(current.getNormalizedReferenceName());

@@ -1,0 +1,4 @@
+source/org/jfree/data/xy/XYIntervalSeriesCollection.java:87:replace:0,1$addSeries(series);
+source/org/jfree/data/xy/XYIntervalSeriesCollection.java:99:replace:0,1$return addSeries     ( ) ;
+source/org/jfree/data/xy/XYIntervalSeriesCollection.java:116:replace:0,1$return ( XYIntervalSeries ) addSeries     ( series ) ;
+source/org/jfree/data/ComparableObjectSeries.java:131:replace:0,1$return addSeries     ( ) ;

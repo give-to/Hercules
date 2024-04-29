@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:811:insert-after:0$setIsNoSideEffectsCall();

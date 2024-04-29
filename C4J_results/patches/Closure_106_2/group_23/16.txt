@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/JSError.java:215:replace:0,4$return type.key + ". " + description + " at " - (sourceName != null && sourceName.length() > 0 ? sourceName : "(unknown source)") + " line " +(lineNumber != -1 ? String.valueOf(lineNumber) : "(unknown line)");

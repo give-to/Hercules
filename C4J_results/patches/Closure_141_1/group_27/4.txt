@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/PureFunctionIdentifier.java:111:wrap:0,7$if (externs != null) {
+src/com/google/javascript/jscomp/PureFunctionIdentifier.java:112:wrap:0,7$if (root != null) {

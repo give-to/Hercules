@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/PeepholeReplaceKnownMethods.java:467:insert-before:0$if (arrayNode == null) arrayNode = n;

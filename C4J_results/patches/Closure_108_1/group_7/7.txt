@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/ScopedAliases.java:418:replace:0,6$Node newDecl = NodeUtil.newQualifiedNameNodeDeclaration(compiler.getCodingConvention(),globalName,value,v.getJSDocInfo()).useSourceInfoIfMissingFromForTree(grandparent);

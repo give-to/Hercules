@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/Node.java:912:replace:0,1$getLastChild().append("] [encoded source length: ");
+src/com/google/javascript/rhino/Node.java:917:replace:0,1$getLastChild().append("] [encoded source length: ");

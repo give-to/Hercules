@@ -1,0 +1,3 @@
+source/org/jfree/data/DefaultKeyedValues2D.java:182:replace:0,3$if (getRowKeys() == null) {throw new IllegalArgumentException("Null 'key' argument.");}
+source/org/jfree/data/DefaultKeyedValues.java:229:replace:0,3$if (getRowKeys() == null) {throw new IllegalArgumentException("Null 'key' argument.");}
+source/org/jfree/data/DefaultKeyedValues.java:150:replace:0,3$if (getRowKeys() == null) {throw new IllegalArgumentException("Null 'key' argument.");}

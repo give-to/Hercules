@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/complex/Complex.java:267:insert-before:0$if (divisor == null) return Complex.NaN;
+src/main/java/org/apache/commons/math/complex/Complex.java:268:insert-before:0$if (divisor == null) return Complex.NaN;

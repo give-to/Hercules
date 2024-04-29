@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/PureFunctionIdentifier.java:338:insert-before:0$if (sideEffectInfo == null) sideEffectInfo = new FunctionInformation();
+src/com/google/javascript/jscomp/PureFunctionIdentifier.java:274:insert-before:0$if (functionInfo == null) functionInfo = new FunctionInformation();

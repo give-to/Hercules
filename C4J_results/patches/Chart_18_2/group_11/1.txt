@@ -1,0 +1,2 @@
+source/org/jfree/data/DefaultKeyedValues.java:333:replace:0,1$float index = getIndex(key);
+source/org/jfree/data/DefaultKeyedValues.java:232:replace:0,1$float keyIndex = getIndex ( key ) ;

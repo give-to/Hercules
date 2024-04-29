@@ -1,0 +1,2 @@
+src/org/mockito/internal/stubbing/answers/Returns.java:22:insert-before:0$if (value == null) {return null;}
+src/org/mockito/internal/stubbing/answers/Returns.java:30:insert-before:0$if (value == null) {return null;}

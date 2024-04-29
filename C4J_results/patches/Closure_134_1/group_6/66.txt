@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeCheck.java:992:insert-before:0$if (reportMissingOverride == null) reportMissingOverride = new CheckLevel();

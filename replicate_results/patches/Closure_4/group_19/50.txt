@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/FunctionType.java:495:insert-after:10$addSubType(constructor);

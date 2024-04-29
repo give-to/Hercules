@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/IRFactory.java:1123:insert-after:0$parseDirectives(n);

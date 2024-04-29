@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/NodeUtil.java:337:replace:0,1$return copyNameAnnotations(val.getFirstChild(), defines);

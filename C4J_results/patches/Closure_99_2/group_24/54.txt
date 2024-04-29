@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/parsing/IRFactory.java:526:insert-before:0$if (functionNode == null) {throw new IllegalArgumentException("Null 'functionNode' argument.");}
+src/com/google/javascript/jscomp/parsing/IRFactory.java:547:insert-before:0$if (functionNode == null) {throw new IllegalArgumentException("Null 'functionNode' argument.");}

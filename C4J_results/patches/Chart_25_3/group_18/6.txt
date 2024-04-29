@@ -1,0 +1,3 @@
+source/org/jfree/data/statistics/DefaultStatisticalCategoryDataset.java:113:insert-before:0$if (result == null) {return null;}
+source/org/jfree/data/statistics/DefaultStatisticalCategoryDataset.java:175:insert-before:0$if (result == null) {return null;}
+source/org/jfree/data/statistics/DefaultStatisticalCategoryDataset.java:389:insert-before:0$if (result == null) {return null;}

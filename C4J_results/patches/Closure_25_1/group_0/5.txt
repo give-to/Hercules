@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/JSTypeRegistry.java:1629:replace:0,1$fieldNameNode = resetForTypeCheck().getFirstChild();

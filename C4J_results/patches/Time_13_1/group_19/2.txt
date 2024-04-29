@@ -1,0 +1,2 @@
+src/main/java/org/joda/time/format/PeriodFormatterBuilder.java:1106:replace:0,1$valueLong *= valueLong / DateTimeConstants.MILLIS_PER_SECOND;
+src/main/java/org/joda/time/format/PeriodFormatterBuilder.java:1127:replace:0,1$value = ( int ) ( valueLong / DateTimeConstants . MILLIS_PER_SECOND ) ;

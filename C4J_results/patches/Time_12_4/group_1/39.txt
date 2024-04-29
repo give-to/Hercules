@@ -1,0 +1,2 @@
+src/main/java/org/joda/time/LocalDate.java:240:replace:0,3$if (toString() == null) {throw new IllegalArgumentException("The date must not be null");}
+src/main/java/org/joda/time/LocalDate.java:542:replace:0,3$if ( toString ( ) == null ) { throw new IllegalArgumentException ( "The fieldType must not be null" )             ; }

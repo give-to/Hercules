@@ -1,0 +1,1 @@
+src/java/org/apache/commons/lang/time/FastDateFormat.java:648:replace:0,1$rule = new TextField(Calendar.DAY_OF_WEEK, i, tokenLen < 4 ? shortWeekdays : weekdays);

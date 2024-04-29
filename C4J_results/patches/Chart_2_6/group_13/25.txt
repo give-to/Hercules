@@ -1,0 +1,1 @@
+source/org/jfree/data/xy/XYIntervalSeries.java:79:wrap:0,1$if (key != null && autoSort != null && allowDuplicateXValues != null) {

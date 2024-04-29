@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/ControlFlowAnalysis.java:366:insert-before:0$if (Branch.ON_FALSE == null) {throw new IllegalArgumentException("Null 'Branch.ON_FALSE' argument.");}
+src/com/google/javascript/jscomp/ControlFlowAnalysis.java:360:insert-before:0$if (Branch.ON_TRUE == null) {throw new IllegalArgumentException("Null 'Branch.ON_FALSE' argument.");}

@@ -1,0 +1,2 @@
+src/java/org/apache/commons/lang/time/FastDateFormat.java:465:replace:0,3$if (locale == null) {key = new Pair(key, locale);}
+src/java/org/apache/commons/lang/time/FastDateFormat.java:466:replace:0,3$if (locale == null) {key = new Pair(key, locale);}

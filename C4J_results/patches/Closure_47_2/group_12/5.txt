@@ -1,0 +1,1 @@
+src/com/google/debugging/sourcemap/Base64VLQ.java:120:replace:0,1$digit &= shift;

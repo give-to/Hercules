@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:915:replace:0,1$isQuotedString().append(sof.getEndLineno());

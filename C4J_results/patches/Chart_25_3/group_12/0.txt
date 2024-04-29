@@ -1,0 +1,4 @@
+source/org/jfree/data/statistics/DefaultStatisticalCategoryDataset.java:92:wrap:0,1$if (Double.NaN != null) {
+source/org/jfree/data/statistics/DefaultStatisticalCategoryDataset.java:93:wrap:0,1$if (Double.NaN != null) {
+source/org/jfree/data/statistics/DefaultStatisticalCategoryDataset.java:94:wrap:0,1$if (Double.NaN != null) {
+source/org/jfree/data/statistics/DefaultStatisticalCategoryDataset.java:95:wrap:0,1$if (Double.NaN != null) {

@@ -1,0 +1,2 @@
+src/main/java/org/joda/time/LocalDateTime.java:612:replace:0,3$if (getDayOfWeek() == null) {return false;}
+src/main/java/org/joda/time/LocalDateTime.java:663:replace:0,3$if (getDayOfWeek() == null) {return false;}

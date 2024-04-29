@@ -1,0 +1,1 @@
+source/org/jfree/data/DefaultKeyedValues.java:240:wrap:0,1$if (this.indexMap != null && this.keys != null) {

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:2173:insert-before:0$if (stream == null) stream = new JsDocTokenStream();

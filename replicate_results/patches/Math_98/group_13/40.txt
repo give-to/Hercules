@@ -1,0 +1,1 @@
+src/java/org/apache/commons/math/linear/BigMatrixImpl.java:995:replace:0,1$sum = sum.add(getPermutation()[row][i].multiply(v[i]));

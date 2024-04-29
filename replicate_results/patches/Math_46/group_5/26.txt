@@ -1,0 +1,3 @@
+src/main/java/org/apache/commons/math/complex/Complex.java:583:replace:0,3$if (toString()) {return NaN;}
+src/main/java/org/apache/commons/math/complex/Complex.java:750:replace:0,3$if (toString()) {return NaN;}
+src/main/java/org/apache/commons/math/complex/Complex.java:118:replace:0,3$if ( toString ( ) ) { return Double . NaN ; }

@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/PureFunctionIdentifier.java:404:replace:0,1$sideEffectInfo.appendCall(this.externs);
+src/com/google/javascript/jscomp/PureFunctionIdentifier.java:387:replace:0,1$sideEffectInfo . setTaintsGlobalState ( root . ) ;

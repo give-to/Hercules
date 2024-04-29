@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypedScopeCreator.java:1406:wrap:0,19$if (scope != null) {

@@ -1,0 +1,1 @@
+source/org/jfree/chart/axis/Axis.java:1121:replace:0,1$float labelx = (float) getLabelFont().getCenterX();

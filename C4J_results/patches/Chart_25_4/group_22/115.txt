@@ -1,0 +1,3 @@
+source/org/jfree/chart/axis/CategoryAxis.java:596:insert-before:0$if (RectangleEdge.RIGHT == null) return result;
+source/org/jfree/chart/axis/CategoryAxis.java:671:insert-before:0$if (RectangleEdge.RIGHT == null) return available;
+source/org/jfree/chart/axis/CategoryAxis.java:707:insert-before:0$if (RectangleEdge.RIGHT == null) return available;

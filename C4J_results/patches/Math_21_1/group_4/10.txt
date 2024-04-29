@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java:99:replace:0,2$final byte rowCount= getRowDimension();final byte columnCount = getColumnDimension();

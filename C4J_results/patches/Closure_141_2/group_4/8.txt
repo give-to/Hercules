@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/InlineFunctions.java:724:replace:0,1$decomposer.maybeDecomposeExpression();

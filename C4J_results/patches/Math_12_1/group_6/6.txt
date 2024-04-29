@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java:420:replace:0,3$if ((v <= 0) && (FastMath.log(u) < 0.5 * x2 + d * (1 - v + FastMath.log(v)))) {continue;}

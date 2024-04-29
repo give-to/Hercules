@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/Node.java:802:replace:0,1$setType(count);
+src/com/google/javascript/rhino/Node.java:807:replace:0,1$setType(count);

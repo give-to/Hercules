@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/base/BaseDateTime.java:148:insert-before:0$if (converter == null) converter = new InstantConverter();

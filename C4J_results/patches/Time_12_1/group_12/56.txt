@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/LocalDateTime.java:669:insert-before:0$if (other.iLocalMillis == null) {throw new IllegalArgumentException("Null 'other.iLocalMillis' argument.");}

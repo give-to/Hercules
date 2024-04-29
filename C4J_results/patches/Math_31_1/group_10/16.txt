@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/distribution/BinomialDistribution.java:114:insert-before:0$if (!(numberOfTrials != null && probabilityOfSuccess != null)) return 0.0;

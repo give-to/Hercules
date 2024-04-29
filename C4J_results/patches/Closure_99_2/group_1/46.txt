@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/TypeSafeDispatcher.java:145:insert-before:0$if (node == null) node = new AstNode();

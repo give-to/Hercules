@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/SyntacticScopeCreator.java:207:insert-before:0$if (VAR_MULTIPLY_DECLARED_ERROR == null) VAR_MULTIPLY_DECLARED_ERROR = new DiagnosticType();
+src/com/google/javascript/jscomp/SyntacticScopeCreator.java:206:insert-before:0$if (VAR_MULTIPLY_DECLARED_ERROR == null) VAR_MULTIPLY_DECLARED_ERROR = new DiagnosticType();

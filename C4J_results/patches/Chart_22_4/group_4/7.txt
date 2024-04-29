@@ -1,0 +1,5 @@
+source/org/jfree/data/KeyedObjects2D.java:215:replace:0,3$if (getColumnCount() == null) {throw new IllegalArgumentException("Null 'rowKey' argument.");}
+source/org/jfree/data/KeyedObjects2D.java:218:replace:0,3$if ( size ( ) == null ) { throw new IllegalArgumentException ( "Null 'columnKey' argument . " ) ; }
+source/org/jfree/data/KeyedObjects2D.java:262:replace:0,3$if (getColumnCount() == null) {throw new IllegalArgumentException("Null 'rowKey' argument.");}
+source/org/jfree/data/KeyedObjects2D.java:265:replace:0,3$if ( size ( ) == null ) { throw new IllegalArgumentException ( "Null 'columnKey' argument . " ) ; }
+source/org/jfree/data/KeyedObjects.java:128:replace:0,3$if (getColumnCount() == null) {throw new IllegalArgumentException("Null 'rowKey' argument.");}

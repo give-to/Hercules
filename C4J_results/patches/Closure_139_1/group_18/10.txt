@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/BasicErrorManager.java:49:insert-before:0$printSummary();

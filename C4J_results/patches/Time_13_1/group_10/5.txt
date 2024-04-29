@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/format/FormatUtils.java:252:replace:0,1$buf.append((char) (d - '0'));

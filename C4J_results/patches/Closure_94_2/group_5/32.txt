@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/ProcessDefines.java:148:insert-before:0$if (UNKNOWN_DEFINE_WARNING == null) UNKNOWN_DEFINE_WARNING = INVALID_DEFINE_INIT_ERROR;
+src/com/google/javascript/jscomp/ProcessDefines.java:149:insert-before:0$if (UNKNOWN_DEFINE_WARNING == null) UNKNOWN_DEFINE_WARNING = INVALID_DEFINE_INIT_ERROR;

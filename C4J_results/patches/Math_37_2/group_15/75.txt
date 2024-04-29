@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/complex/Complex.java:1182:replace:0,1$return new Complex(realPart, cos());

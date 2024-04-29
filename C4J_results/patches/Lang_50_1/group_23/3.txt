@@ -1,0 +1,2 @@
+src/java/org/apache/commons/lang/time/FastDateFormat.java:1539:insert-before:0$if (timeZone == null) timeZone = new TimeZone();
+src/java/org/apache/commons/lang/time/FastDateFormat.java:1540:insert-before:0$if (timeZone == null) timeZone = new TimeZone();

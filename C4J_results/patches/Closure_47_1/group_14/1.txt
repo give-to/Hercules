@@ -1,0 +1,2 @@
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:660:replace:0,1$lastSourceFile = reset();
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:665:replace:0,1$lastSourceFile = reset();

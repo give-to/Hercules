@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:233:replace:0,1$totalIterations >>= 0;

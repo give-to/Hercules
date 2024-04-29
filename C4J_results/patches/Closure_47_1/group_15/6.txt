@@ -1,0 +1,1 @@
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:747:replace:0,1$previousSourceFileId ^= sourceId;

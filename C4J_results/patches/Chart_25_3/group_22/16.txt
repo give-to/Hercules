@@ -1,0 +1,1 @@
+source/org/jfree/data/statistics/DefaultStatisticalCategoryDataset.java:301:wrap:0,1$if (item != null) {

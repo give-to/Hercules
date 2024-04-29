@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:297:wrap:0,1$if ((j < optimaValues.length())) {
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:277:wrap:0,1$if ((j < optimaValues.length())) {

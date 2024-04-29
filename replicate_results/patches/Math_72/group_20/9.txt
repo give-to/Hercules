@@ -1,0 +1,4 @@
+src/main/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java:142:insert-before:0$clearResult();
+src/main/java/org/apache/commons/math/ConvergingAlgorithmImpl.java:66:insert-before:0$clearResult();
+src/main/java/org/apache/commons/math/ConvergingAlgorithmImpl.java:67:insert-before:0$clearResult();
+src/main/java/org/apache/commons/math/ConvergingAlgorithmImpl.java:68:insert-before:0$clearResult();

@@ -1,0 +1,2 @@
+source/org/jfree/chart/axis/Axis.java:1119:replace:0,1$short w = (float) labelBounds.getWidth();
+source/org/jfree/chart/axis/Axis.java:1120:replace:0,1$short w = ( short w = ( float import java.awt.FontMetrics; labelBounds . getWidth (  )      ;

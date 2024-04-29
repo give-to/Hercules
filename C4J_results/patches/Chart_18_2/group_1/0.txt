@@ -1,0 +1,2 @@
+source/org/jfree/data/DefaultKeyedValues2D.java:456:wrap:0,4$if (iterator != null) {
+source/org/jfree/data/DefaultKeyedValues2D.java:459:wrap:0,4$if (iterator != null) {

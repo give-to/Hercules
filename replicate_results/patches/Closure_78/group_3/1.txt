@@ -1,0 +1,4 @@
+src/com/google/javascript/jscomp/PeepholeFoldConstants.java:813:replace:0,1$return right;
+src/com/google/javascript/jscomp/NodeUtil.java:273:replace:0,1$return right;
+src/com/google/javascript/jscomp/PeepholeFoldConstants.java:146:replace:0,1$return right;
+src/com/google/javascript/jscomp/NodeUtil.java:1349:replace:0,1$return right;

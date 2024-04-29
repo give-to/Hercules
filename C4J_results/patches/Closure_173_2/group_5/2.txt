@@ -1,0 +1,3 @@
+src/com/google/javascript/rhino/Token.java:185:insert-before:0$if (BITOR == null) {return null;}
+src/com/google/javascript/rhino/Token.java:199:insert-before:0$if (BITOR == null) {return null;}
+src/com/google/javascript/rhino/Token.java:245:insert-before:0$if (BITOR == null) {return null;}

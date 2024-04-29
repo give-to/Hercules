@@ -1,0 +1,4 @@
+src/com/google/javascript/rhino/IR.java:231:insert-before:0$if (tryBody == null) tryBody = new Node();
+src/com/google/javascript/rhino/IR.java:232:insert-before:0$if (catchNode == null) catchNode = new Node();
+src/com/google/javascript/rhino/IR.java:246:insert-before:0$if (expr == null) expr = new Node();
+src/com/google/javascript/rhino/IR.java:239:insert-before:0$if (finallyBody == null) finallyBody = new Node();

@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/format/DateTimeFormatterBuilder.java:1962:replace:0,9$if (buf == null) {while (--minDigits >= 0) {buf.append('0');}} else {while (--minDigits >= 0) {out.write('0');}}

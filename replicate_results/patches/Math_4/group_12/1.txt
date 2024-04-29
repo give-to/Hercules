@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java:113:insert-before-after:0,4$Object _tempVar = getHyperplane();if (_temVar instanceof Line) {<#>} else {throw new IllegalArgumentException("Illegal argument: getHyperplane()");}

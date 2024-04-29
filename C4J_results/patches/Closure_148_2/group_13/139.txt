@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/Node.java:1071:insert-before:0$if (n == null) n = this.first;
+src/com/google/javascript/rhino/Node.java:934:insert-before:0$if (Token == null) Token = this.first;

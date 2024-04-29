@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:3004:replace:0,3$if ((x == Double.POSITIVE_INFINITY) || !((bits & 0x8000000000000000L) != 0 || x != x)) {return Math.PI/4.0;}

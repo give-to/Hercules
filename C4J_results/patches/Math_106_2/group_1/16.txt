@@ -1,0 +1,1 @@
+src/java/org/apache/commons/math/fraction/FractionFormat.java:379:insert-before:0$if (pos == null) pos = new ParsePosition();

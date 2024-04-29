@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeCheck.java:1872:replace:0,3$validator.expectCanAssignTo(t, getTypedPercent(), valueEnumPrimitiveType,declInfo.getEnumParameterType().evaluate(t.getScope(), typeRegistry),"incompatible enum element types");

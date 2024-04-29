@@ -1,0 +1,2 @@
+src/java/org/apache/commons/lang/time/DateUtils.java:652:replace:0,3$if ((field == Calendar.MINUTE) || (fields[i][0] == Calendar.DATE)) {done = true;}
+src/java/org/apache/commons/lang/time/DateUtils.java:643:replace:0,3$if ( ( field == Calendar . SECOND ) || ( fields [ i ] [ 0 ] == Calendar . DATE ) ) { done = true ; }

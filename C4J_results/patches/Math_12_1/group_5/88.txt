@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java:418:replace:0,1$final double v = (1 + c * getScale()) * (1 + c * x) * (1 + c * x);

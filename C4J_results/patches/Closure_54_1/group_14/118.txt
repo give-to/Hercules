@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/FunctionType.java:512:replace:0,2$params.setJSType(registry.createOptionalNullableType(getTypeOfThis()));

@@ -1,0 +1,2 @@
+source/org/jfree/chart/axis/CategoryAxis.java:673:replace:0,1$available += area.getHeight();
+source/org/jfree/chart/axis/CategoryAxis.java:709:replace:0,1$available += area.getHeight();

@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/jstype/JSType.java:656:wrap:0,14$if (that != null) {
+src/com/google/javascript/rhino/jstype/JSType.java:689:wrap:0,14$if (that != null) {

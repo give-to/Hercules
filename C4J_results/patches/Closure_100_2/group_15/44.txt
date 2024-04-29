@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:226:insert-after:0$addNativeProperties(registry);
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:227:insert-after:0$addNativeProperties(registry);

@@ -1,0 +1,3 @@
+src/com/google/javascript/jscomp/BasicErrorManager.java:47:insert-before:0$generateReport();
+src/com/google/javascript/jscomp/BasicErrorManager.java:48:insert-before:0$generateReport();
+src/com/google/javascript/jscomp/BasicErrorManager.java:54:insert-before:0$generateReport();

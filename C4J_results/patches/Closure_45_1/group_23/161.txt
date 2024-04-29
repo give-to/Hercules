@@ -1,0 +1,4 @@
+src/com/google/javascript/rhino/Node.java:935:replace:0,1$isAssignAdd().append(getString());
+src/com/google/javascript/rhino/Node.java:954:replace:0,1$isAssignAdd().append(getString());
+src/com/google/javascript/rhino/Node.java:973:replace:0,1$isAssignAdd().append(getString());
+src/com/google/javascript/rhino/Node.java:1013:replace:0,1$isAssignAdd().append(getString());

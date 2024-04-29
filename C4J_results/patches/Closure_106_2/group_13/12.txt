@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:1326:insert-before:0$if (s == null) s = this.sourceName;
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:1333:insert-before:0$if (s == null) s = this.sourceName;

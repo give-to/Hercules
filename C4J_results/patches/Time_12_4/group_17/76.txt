@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/LocalDate.java:447:replace:0,1$long instant = chronology.getDateTimeMillis(dayOfYear(), monthOfYear, dayOfMonth, 0);

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/ProcessDefines.java:242:replace:0,4$if ((name.declaration != null) || !(valParent.getType() == Token.ASSIGN && name.isSimpleName() &&name.declaration == ref)) {allRefInfo.put(name.declaration.node, new RefInfo(name.declaration, name));}

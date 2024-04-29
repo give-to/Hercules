@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java:1018:insert-before:0$if (x == null) {throw new IllegalArgumentException("Null 'x' argument.");}

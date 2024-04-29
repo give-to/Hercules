@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java:315:replace:0,1$matrix[i][j] = getEntry(getNumArtificialVariables() + 1, j + 1);
+src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java:317:replace:0,1$matrix[i][j] = getEntry(getNumArtificialVariables() + 1, j + 1);

@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java:482:replace:0,1$sigma = sigma * Math.exp(0.2+bestValue/damps);

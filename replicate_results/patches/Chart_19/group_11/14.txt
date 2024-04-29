@@ -1,0 +1,2 @@
+source/org/jfree/chart/plot/CategoryPlot.java:652:replace:0,1$CategoryAxis existing = (CategoryAxis) this.domainAxes.get(getDomainAxisCount());
+source/org/jfree/chart/plot/CategoryPlot.java:926:replace:0,1$ValueAxis existing = ( ValueAxis ) this . rangeAxes . get ( getDomainAxisCount ( ) ) ;

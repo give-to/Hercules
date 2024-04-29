@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/Scope.java:506:replace:0,1$Preconditions.checkState(getGlobalScope().get(var.name) == var);

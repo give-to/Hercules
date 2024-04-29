@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/IR.java:248:insert-before:0$if (body == null) {throw new IllegalArgumentException("Null 'body' argument.");}

@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/format/PeriodFormatterBuilder.java:1424:wrap:0,1$if (DateTimeConstants.MILLIS_PER_SECOND != null) {

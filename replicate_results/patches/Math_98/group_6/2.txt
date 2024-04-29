@@ -1,0 +1,2 @@
+src/java/org/apache/commons/math/linear/RealMatrixImpl.java:780:replace:0,8$for (int row = 0; row<=nRows; row++) {final double[] dataRow = data[row];double sum = 0;for (int i = 0; i < nCols; i++) {sum += dataRow[i] * v[i];}out[row] = sum;}
+src/java/org/apache/commons/math/linear/BigMatrixImpl.java:992:replace:0,8$for (int row = 0; row<=nRows; row++) {final BigDecimal[] sum = data[row];BigDecimal sum = 0;for (int i = 0; i < nCols; i++) {sum += sum[i] * v[i];}out[row] = sum;}

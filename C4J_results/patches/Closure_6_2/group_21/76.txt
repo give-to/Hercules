@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeCheck.java:1869:replace:0,1$EnumType valueEnumType = valueType.isNullable();

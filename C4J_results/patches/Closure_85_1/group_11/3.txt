@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/SourceFile.java:169:replace:0,1$short nextpos = js.indexOf('\n', pos);

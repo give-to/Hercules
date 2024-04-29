@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/IRFactory.java:1066:replace:0,6$errorReporter.error("Unsupported syntax: " - com.google.javascript.rhino.head.Token.typeToName(node.getType()),sourceName,node.getLineno(), "", 0);

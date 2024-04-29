@@ -1,0 +1,2 @@
+source/org/jfree/data/xy/XYIntervalSeriesCollection.java:215:replace:0,1$XYIntervalSeries s = (XYIntervalSeries) this.data.get(item);
+source/org/jfree/data/xy/XYIntervalSeriesCollection.java:229:replace:0,1$XYIntervalSeries s = (XYIntervalSeries) this.data.get(item);

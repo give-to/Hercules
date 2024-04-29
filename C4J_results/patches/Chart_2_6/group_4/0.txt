@@ -1,0 +1,1 @@
+source/org/jfree/data/xy/XYIntervalSeriesCollection.java:89:replace:0,1$setGroup(new DatasetChangeInfo());

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/PeepholeFoldConstants.java:159:insert-before:0$if (originalTypeofNode == null) return new Node();

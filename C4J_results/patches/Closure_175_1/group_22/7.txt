@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/FunctionInjector.java:208:wrap:0,1$if (callNode != null) {
+src/com/google/javascript/jscomp/FunctionInjector.java:245:wrap:0,1$if (callNode != null) {

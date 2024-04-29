@@ -1,0 +1,2 @@
+source/org/jfree/chart/plot/Plot.java:1343:wrap:0,1$if (RectangleEdge.LEFT != null) {
+source/org/jfree/chart/plot/Plot.java:1387:wrap:0,1$if (RectangleEdge.TOP != null) {

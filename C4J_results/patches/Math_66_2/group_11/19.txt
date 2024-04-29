@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:287:replace:0,1$mIX = getFunctionValue()[i];
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:288:replace:0,1$mIY = i ( ) [ i ] ;

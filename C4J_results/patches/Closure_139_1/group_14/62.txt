@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/JSError.java:215:insert-before:0$if (description == null) {throw new IllegalArgumentException("Null 'description' argument.");}

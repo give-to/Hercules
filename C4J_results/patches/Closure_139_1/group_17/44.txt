@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/JSError.java:111:replace:0,1$return new JSError(this.description, n, type, arguments);

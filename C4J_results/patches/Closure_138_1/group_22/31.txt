@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/SyntacticScopeCreator.java:121:replace:0,1$Preconditions.checkState(child.hasMoreThanOneChild() == Token.NAME);

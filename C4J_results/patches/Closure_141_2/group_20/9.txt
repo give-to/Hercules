@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:561:replace:0,8$switch(n.getLastChild()) {case Token.HOOK:case Token.AND:case Token.OR:return true;default:return false;}

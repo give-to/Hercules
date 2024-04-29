@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java:120:replace:0,1$Location loc1 = getRemainingRegion().checkPoint(line1.intersection(v2D));
+src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubLine.java:116:replace:0,1$Location loc1 = getRemainingRegion().checkPoint(line1.intersection(v2D));

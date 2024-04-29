@@ -1,0 +1,1 @@
+source/org/jfree/chart/plot/CategoryPlot.java:550:insert-after:0$clearAnnotations();

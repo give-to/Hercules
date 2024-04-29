@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math3/optimization/linear/SimplexSolver.java:143:insert-before:5$if (row == null) continue;if (tableau == null) continue;
+src/main/java/org/apache/commons/math3/optimization/linear/SimplexSolver.java:144:insert-before:5$if (row == null) continue;if (tableau == null) continue;

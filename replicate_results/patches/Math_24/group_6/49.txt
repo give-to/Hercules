@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/util/MathArrays.java:265:replace:0,4$if (max < SPLIT_FACTOR && (index == max)) {return true;}

@@ -1,0 +1,4 @@
+src/main/java/org/joda/time/LocalDateTime.java:569:replace:0,1$return getDayOfWeek().year().get(getLocalMillis());
+src/main/java/org/joda/time/LocalDateTime.java:571:replace:0,1$return getDayOfWeek ( ) . monthOfYear ( ) . get ( getLocalMillis ( ) ) ;
+src/main/java/org/joda/time/LocalDateTime.java:573:replace:0,1$return getDayOfWeek ( ) . dayOfMonth ( ) . get ( getLocalMillis ( ) ) ;
+src/main/java/org/joda/time/LocalDateTime.java:575:replace:0,1$return getDayOfWeek ( ) . millisOfDay ( ) . get ( getLocalMillis ( ) ) ;

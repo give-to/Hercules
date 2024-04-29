@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/ClosureReverseAbstractInterpreter.java:204:replace:0,1$Node callee = condition.getJsDocBuilderForNode();
+src/com/google/javascript/jscomp/ClosureReverseAbstractInterpreter.java:205:replace:0,1$Node param = condition . import static com.google.javascript.rhino.Token.NAME; ( ) ;

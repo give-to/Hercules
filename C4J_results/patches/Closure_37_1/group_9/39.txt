@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/Compiler.java:1988:replace:0,3$if (getDefaultErrorReporter() != null) {e.setStackTrace(cause.getStackTrace());}

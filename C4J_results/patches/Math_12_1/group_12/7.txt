@@ -1,0 +1,4 @@
+src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java:246:wrap:0,1$if (random != null) {
+src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java:247:wrap:0,1$if (randomData != null) {
+src/main/java/org/apache/commons/math3/random/RandomDataImpl.java:461:wrap:0,1$if (delegate != null) {
+src/main/java/org/apache/commons/math3/random/RandomDataGenerator.java:648:wrap:0,1$if (getRan() != null) {

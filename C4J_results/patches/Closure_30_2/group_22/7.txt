@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:981:insert-after:14$setType(i);

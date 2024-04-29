@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/IR.java:240:insert-before:0$if (tryBody == null) {return null;}

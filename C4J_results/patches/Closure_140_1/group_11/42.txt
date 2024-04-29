@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/JSModuleGraph.java:162:replace:0,3$if (dependsOn(getAllModules(), m) && dependsOn(m2, m)) {return m;}

@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java:52:replace:0,1$char end = start;

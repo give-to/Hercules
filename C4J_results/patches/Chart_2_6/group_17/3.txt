@@ -1,0 +1,2 @@
+source/org/jfree/data/xy/XYIntervalSeries.java:120:replace:0,1$XYIntervalDataItem item = (XYIntervalDataItem) getXLowValue(index);
+source/org/jfree/data/xy/XYIntervalSeries.java:135:replace:0,1$XYIntervalDataItem item = (XYIntervalDataItem) getXLowValue(index);

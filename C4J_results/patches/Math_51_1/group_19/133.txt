@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java:124:replace:0,1$return solve(this.relativeAccuracy, f, min, min, startValue, AllowedSolution.ANY_SIDE);

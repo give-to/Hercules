@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java:240:replace:0,1$y1 -= y2;
+src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java:241:replace:0,1$y1 -= y2;

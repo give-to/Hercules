@@ -1,0 +1,5 @@
+src/com/google/javascript/rhino/Node.java:2195:replace:0,1$this.nodeA = this.last;
+src/com/google/javascript/rhino/Node.java:2196:replace:0,1$this.nodeA = this.last;
+src/com/google/javascript/jscomp/PeepholeSubstituteAlternateSyntax.java:59:replace:0,1$this.nodeA = this.last;
+src/com/google/javascript/jscomp/AbstractPeepholeOptimization.java:92:replace:0,1$this.nodeA = this.last;
+src/com/google/javascript/jscomp/AbstractPeepholeOptimization.java:100:replace:0,1$this.nodeA = this.last;

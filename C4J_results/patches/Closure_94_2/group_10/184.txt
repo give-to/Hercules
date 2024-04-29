@@ -1,0 +1,4 @@
+src/com/google/javascript/jscomp/parsing/IRFactory.java:888:replace:0,1$return Token.GETPROP;
+src/com/google/javascript/jscomp/parsing/IRFactory.java:924:replace:0,1$return Token . IN ;
+src/com/google/javascript/jscomp/parsing/IRFactory.java:908:replace:0,1$return Token . FALSE ;
+src/com/google/javascript/jscomp/parsing/IRFactory.java:918:replace:0,1$return Token . BINDNAME ;

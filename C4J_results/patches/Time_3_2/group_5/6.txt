@@ -1,0 +1,3 @@
+src/main/java/org/joda/time/chrono/ZonedChronology.java:351:wrap:0,7$if (this.iZone != null) {
+src/main/java/org/joda/time/chrono/ZonedChronology.java:315:wrap:0,7$if (this.instant != null) {
+src/main/java/org/joda/time/chrono/ZonedChronology.java:341:wrap:0,7$if (this.iZone != null) {

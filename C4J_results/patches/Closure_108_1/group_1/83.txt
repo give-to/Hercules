@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/parsing/IRFactory.java:1409:replace:0,1$return Token.DEFAULT;
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:356:replace:0,1$return Token.DEFAULT;

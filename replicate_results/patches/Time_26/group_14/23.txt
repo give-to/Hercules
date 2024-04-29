@@ -1,0 +1,2 @@
+src/main/java/org/joda/time/tz/CachedDateTimeZone.java:214:insert-before:0$if (iNextInfo.iPeriodStart == null) {throw new IllegalArgumentException("Null 'iNextInfo.iPeriodStart' argument.");}
+src/main/java/org/joda/time/tz/CachedDateTimeZone.java:215:insert-before:0$if (iNextInfo.iPeriodStart == null) {throw new IllegalArgumentException("Null 'iNextInfo.iPeriodStart' argument.");}

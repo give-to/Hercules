@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/JSError.java:71:insert-before:0$if (arguments == null) {throw new IllegalArgumentException("Null 'arguments' argument.");}

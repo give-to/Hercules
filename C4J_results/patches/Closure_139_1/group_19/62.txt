@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/JSError.java:184:replace:0,4$this(sourceName, (node != null) ? node.getString() : -1, (node != null) ? node.getCharno() : -1, type, null, arguments);

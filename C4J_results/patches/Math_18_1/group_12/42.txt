@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java:932:wrap:0,1$if (x[i] != null) {
+src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java:958:wrap:0,1$if (x[i] != null) {

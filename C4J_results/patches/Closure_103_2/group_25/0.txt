@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:903:insert-before-after:0,0$<#>} else {throw new IllegalArgumentException("Illegal argument: this");}

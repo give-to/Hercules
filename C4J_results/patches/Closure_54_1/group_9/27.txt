@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/TypeInference.java:572:insert-before:0$if (getprop == null) {throw new IllegalArgumentException("Null 'getprop' argument.");}
+src/com/google/javascript/jscomp/TypeInference.java:715:insert-before:0$if (name == null) {throw new IllegalArgumentException("Null 'getprop' argument.");}

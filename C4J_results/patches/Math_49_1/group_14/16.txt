@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java:354:replace:0,1$final int hash= hashOf(iterator());
+src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java:210:replace:0,1$final int hash= hashOf(iterator());

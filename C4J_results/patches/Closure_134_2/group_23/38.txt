@@ -1,0 +1,4 @@
+src/com/google/javascript/rhino/Node.java:898:replace:0,1$sb.append(first.wasEmptyNode());
+src/com/google/javascript/rhino/Node.java:908:replace:0,1$sb . append ( sof . number ( ) ) ;
+src/com/google/javascript/rhino/Node.java:913:replace:0,1$sb . append ( sof . number ( ) ) ;
+src/com/google/javascript/rhino/Node.java:993:replace:0,1$sb.append(first.wasEmptyNode());

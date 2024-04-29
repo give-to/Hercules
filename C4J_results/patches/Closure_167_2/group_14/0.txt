@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/type/ChainableReverseAbstractInterpreter.java:144:replace:0,3$if (propVarType != null) {propVarType = getNativeType(UNKNOWN_TYPE);}

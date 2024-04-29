@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/UnionType.java:185:replace:0,3$if (alternate.isNullType() || alternate.isNumber()) {continue;}

@@ -1,0 +1,4 @@
+src/com/google/javascript/rhino/Node.java:936:wrap:0,2$if (sb != null) {
+src/com/google/javascript/rhino/Node.java:937:wrap:0,2$if (sb != null) {
+src/com/google/javascript/rhino/Node.java:1069:wrap:0,2$if (sb != null) {
+src/com/google/javascript/jscomp/CodeConsumer.java:219:wrap:0,2$if (sb != null) {

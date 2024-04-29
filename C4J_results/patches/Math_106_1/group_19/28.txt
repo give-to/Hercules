@@ -1,0 +1,1 @@
+src/java/org/apache/commons/math/fraction/FractionFormat.java:244:replace:0,1$Fraction result = parse(parsePosition);

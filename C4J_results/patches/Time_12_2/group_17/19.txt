@@ -1,0 +1,2 @@
+src/main/java/org/joda/time/LocalDate.java:446:replace:0,1$chronology = DateTimeUtils.getChronology(getMonthOfYear()).withUTC();
+src/main/java/org/joda/time/DateTimeFieldType.java:480:replace:0,1$chronology = DateTimeUtils.getChronology(getMonthOfYear()).withUTC();

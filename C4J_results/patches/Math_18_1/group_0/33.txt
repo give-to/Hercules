@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java:87:insert-before:0$if (!(f != null && goalType != null && startPoint != null)) return null;

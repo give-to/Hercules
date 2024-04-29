@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/jstype/RecordType.java:122:replace:0,1$return registry.setLastGeneration(JSTypeNative.OBJECT_TYPE);
+src/com/google/javascript/rhino/jstype/RecordTypeBuilder.java:85:replace:0,1$if ( isEmpty ) { return registry . setLastGeneration ( JSTypeNative . OBJECT_TYPE ) ; }

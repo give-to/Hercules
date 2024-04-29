@@ -1,0 +1,2 @@
+source/org/jfree/chart/axis/Axis.java:1225:replace:0,2$axisLine = new Line2D.Double(cursor, dataArea.getY(), getTickMarkInsideLength(),dataArea.getMaxY());
+source/org/jfree/chart/axis/ValueAxis.java:525:replace:0,2$axisLine = new Line2D.Double(cursor, dataArea.getY(), getTickMarkInsideLength(),dataArea.getMaxY());

@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/format/FormatUtils.java:337:replace:0,5$if ((value != Long.MIN_VALUE) && !(value < 0)) {return calculateDigitCount(-value) + 1;} else {return 20;}

@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:522:wrap:0,1$if ((pj < work1.length())) {
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:570:wrap:0,1$if ((pj < work3.length())) {

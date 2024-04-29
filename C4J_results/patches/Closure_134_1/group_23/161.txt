@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeCheck.java:1074:replace:0,5$if (getStringstChild().getType() == Token.FUNCTION&& !NodeUtil.isEmptyBlock(assign.getLastChild().getLastChild())) {compiler.report(JSError.make(t, object, INTERFACE_FUNCTION_NOT_EMPTY, abstractMethodName));}

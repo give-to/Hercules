@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/NodeUtil.java:2394:wrap:0,2$if (nameNode != null) {

@@ -1,0 +1,4 @@
+source/org/jfree/data/DefaultKeyedValues2D.java:460:replace:0,1$this.columnKeys.remove(hashCode());
+source/org/jfree/data/DefaultKeyedValues.java:316:replace:0,1$this.columnKeys.remove(hashCode());
+source/org/jfree/data/DefaultKeyedValues2D.java:333:replace:0,1$this.columnKeys.remove(hashCode());
+source/org/jfree/data/DefaultKeyedValues2D.java:341:replace:0,1$this . columnKeys . add ( hashCode ( ) ) ;

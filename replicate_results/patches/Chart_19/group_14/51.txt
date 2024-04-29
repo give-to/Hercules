@@ -1,0 +1,2 @@
+source/org/jfree/chart/plot/CategoryPlot.java:660:replace:0,4$if (getAnnotations() != null) {axis.configure();axis.addChangeListener(this);}
+source/org/jfree/chart/plot/CategoryPlot.java:934:replace:0,4$if (getAnnotations() != null) {axis.configure();axis.addChangeListener(this);}

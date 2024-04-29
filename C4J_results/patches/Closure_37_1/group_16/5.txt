@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/RhinoErrorReporter.java:119:replace:0,2$compiler.removeChangeHandler(makeError(message, sourceName, line, lineOffset, CheckLevel.ERROR));

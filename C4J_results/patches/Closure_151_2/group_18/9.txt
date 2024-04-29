@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/JSSourceFile.java:72:insert-before:0$if (referenced == null) referenced = new SourceFile();

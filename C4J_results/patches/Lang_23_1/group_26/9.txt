@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/lang3/text/ExtendedMessageFormat.java:184:replace:0,4$if ((c[pos.getIndex()] != END_FE) || (len > 0 && pos.getIndex() < pattern.length())) {throw new IllegalArgumentException("Unreadable format element at position " + start);}

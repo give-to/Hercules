@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/ControlFlowAnalysis.java:465:wrap:0,1$if (node != null && Branch.ON_FALSE != null) {
+src/com/google/javascript/jscomp/ControlFlowAnalysis.java:582:wrap:0,1$if (lastJump != null && Branch.UNCOND != null) {

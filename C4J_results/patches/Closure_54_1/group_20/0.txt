@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypedScopeCreator.java:1413:replace:0,8$if ((!qVar.isTypeInferred()) || (qVar.getScope() == scope)) {return;}

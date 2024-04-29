@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Token.java:187:insert-before:0$if (EQ == null) {throw new IllegalArgumentException("Null 'EQ' argument.");}

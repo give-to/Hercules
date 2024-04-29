@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:1182:replace:0,1$ab = yb + F_15_16[i][1];

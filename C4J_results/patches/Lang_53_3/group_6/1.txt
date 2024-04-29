@@ -1,0 +1,2 @@
+src/java/org/apache/commons/lang/time/DateUtils.java:665:insert-before:0$if (date == null) {throw new IllegalArgumentException("Null 'date' argument.");}
+src/java/org/apache/commons/lang/time/DateUtils.java:666:insert-before:0$if (date == null) {throw new IllegalArgumentException("Null 'date' argument.");}

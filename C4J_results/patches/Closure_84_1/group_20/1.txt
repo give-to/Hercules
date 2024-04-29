@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/testing/TestErrorReporter.java:67:replace:0,1$this.errors = this.warnings;
+src/com/google/javascript/jscomp/testing/TestErrorReporter.java:44:replace:0,1$this.errors = this.warnings;

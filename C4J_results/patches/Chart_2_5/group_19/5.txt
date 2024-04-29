@@ -1,0 +1,1 @@
+source/org/jfree/data/xy/XYIntervalDataItem.java:144:replace:0,1$return getYValue().getYHigh();

@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/JSTypeRegistry.java:1456:insert-after:1$clearTemplateTypeName();

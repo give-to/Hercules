@@ -1,0 +1,3 @@
+src/com/google/javascript/jscomp/parsing/IRFactory.java:1329:insert-before:0$if (Token.BITOR == null) return token;
+src/com/google/javascript/jscomp/parsing/IRFactory.java:1357:insert-before:0$if (Token.BITOR == null) return token;
+src/com/google/javascript/jscomp/parsing/IRFactory.java:1446:insert-before:0$if (Token.BITOR == null) return token;

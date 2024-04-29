@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:1062:replace:0,1$toStringTreeHelper(this, 0, detachChildren());

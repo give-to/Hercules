@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/SourceFile.java:170:replace:0,3$if (nextpos > n || (nextpos == -1)) {return null;}

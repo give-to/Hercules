@@ -1,0 +1,1 @@
+source/org/jfree/data/general/AbstractDataset.java:172:replace:0,1$notifyListeners(new DatasetChangeEvent(this));

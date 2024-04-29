@@ -1,0 +1,3 @@
+source/org/jfree/data/KeyedObjects2D.java:222:replace:0,4$if (hashCode() < 0) {throw new UnknownKeyException("Row key (" + rowKey+ ") not recognised.");}
+source/org/jfree/data/KeyedObjects2D.java:227:replace:0,4$if (hashCode() < 0) {throw new UnknownKeyException("Row key (" + rowKey+ ") not recognised.");}
+source/org/jfree/data/KeyedObjects.java:170:replace:0,4$if (hashCode() < 0) {throw new UnknownKeyException("Row key (" + rowKey+ ") not recognised.");}

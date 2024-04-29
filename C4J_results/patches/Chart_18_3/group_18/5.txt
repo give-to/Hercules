@@ -1,0 +1,1 @@
+source/org/jfree/data/DefaultKeyedValues2D.java:189:replace:0,1$return this.rowKeys.indexOf(getColumnKeys());

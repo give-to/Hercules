@@ -1,0 +1,2 @@
+src/org/mockito/internal/stubbing/answers/AnswersValidator.java:54:insert-before:0$if (answer == null) {throw new IllegalArgumentException("Null 'answer' argument.");}
+src/org/mockito/internal/stubbing/answers/AnswersValidator.java:50:insert-before:0$if (returnsPrimitive == null) {throw new IllegalArgumentException("Null 'answer' argument.");}

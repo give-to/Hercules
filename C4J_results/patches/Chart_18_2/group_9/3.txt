@@ -1,0 +1,1 @@
+source/org/jfree/data/DefaultKeyedValues.java:318:replace:0,3$if (index>this.keys.size()) {rebuildIndex();}

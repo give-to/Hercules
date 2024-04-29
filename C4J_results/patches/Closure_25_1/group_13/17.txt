@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:2130:insert-before:0$if (fieldTypeList == null) {throw new IllegalArgumentException("Null 'fieldTypeList' argument.");}

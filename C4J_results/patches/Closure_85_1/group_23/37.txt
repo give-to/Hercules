@@ -1,0 +1,3 @@
+src/com/google/javascript/jscomp/NodeTraversal.java:234:insert-after:2$pushScope(n);
+src/com/google/javascript/jscomp/NodeTraversal.java:235:insert-after:2$pushScope(n);
+src/com/google/javascript/jscomp/NodeTraversal.java:287:insert-after:2$pushScope(n);

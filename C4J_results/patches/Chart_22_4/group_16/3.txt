@@ -1,0 +1,2 @@
+source/org/jfree/data/KeyedObjects.java:95:replace:0,1$return hashCode();
+source/org/jfree/data/KeyedObjects.java:136:replace:0,1$return hashCode();

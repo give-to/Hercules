@@ -1,0 +1,9 @@
+src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java:934:insert-before:0$if (res == null) res = this.inputSigma;
+src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java:960:insert-before:0$if (res == null) res = this.inputSigma;
+src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java:1024:insert-before:0$if (res == null) res = this.inputSigma;
+src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java:927:insert-before:0$if (res == null) res = this.inputSigma;
+src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java:953:insert-before:0$if (res == null) res = this.inputSigma;
+src/main/java/org/apache/commons/math3/util/FastMath.java:3523:insert-before:0$if (res == null) res = this.inputSigma;
+src/main/java/org/apache/commons/math3/util/Pair.java:65:insert-before:0$if (res == null) res = this.inputSigma;
+src/main/java/org/apache/commons/math3/util/Pair.java:74:insert-before:0$if (res == null) res = this.inputSigma;
+src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java:82:insert-before:0$if (res == null) res = this.inputSigma;

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/NodeUtil.java:1217:insert-before:0$if (Token.BITOR == null) {throw new IllegalArgumentException("Null 'Token.BITOR' argument.");}

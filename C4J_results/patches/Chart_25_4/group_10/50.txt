@@ -1,0 +1,1 @@
+source/org/jfree/chart/axis/Axis.java:1114:wrap:0,14$if (labelBounds != null) {

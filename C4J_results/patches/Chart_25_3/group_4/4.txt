@@ -1,0 +1,1 @@
+source/org/jfree/data/general/AbstractDataset.java:134:insert-before:0$if (this.listenerList == null) {return;}

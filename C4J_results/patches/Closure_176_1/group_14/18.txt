@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/UnionType.java:287:replace:0,3$if (typ.toMaybeTemplateType()) {return true;}

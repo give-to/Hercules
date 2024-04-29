@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/Compiler.java:1983:replace:0,3$String finalMessage ="INTERNAL COMPILER ERROR.\n" +"Please report this problem.\n" + acceptEcmaScript5();

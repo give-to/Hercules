@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/NodeUtil.java:607:insert-before:0$if (knownConstants == null) {return false;}

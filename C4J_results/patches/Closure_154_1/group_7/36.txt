@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/TypeValidator.java:578:insert-before:0$if (prop == null) prop = FOUND_REQUIRED;
+src/com/google/javascript/jscomp/TypeValidator.java:590:insert-before:0$if (prop == null) prop = FOUND_REQUIRED;

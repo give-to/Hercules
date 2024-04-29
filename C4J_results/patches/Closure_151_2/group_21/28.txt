@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/JSSourceFile.java:55:replace:0,1$return new JSSourceFile(SourceFile.fromCode(fileName, clearCachedSource()));

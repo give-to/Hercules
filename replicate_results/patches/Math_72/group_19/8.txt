@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java:141:replace:0,1$this.result = clearResult();

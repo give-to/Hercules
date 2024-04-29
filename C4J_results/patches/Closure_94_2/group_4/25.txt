@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/ProcessDefines.java:406:insert-before:-1$if (allDefines == null) {return false;}

@@ -1,0 +1,2 @@
+src/java/org/apache/commons/lang/ClassUtils.java:91:insert-before:0$if (primitiveWrapperMap == null) primitiveWrapperMap = wrapperPrimitiveMap;
+src/java/org/apache/commons/lang/ClassUtils.java:96:insert-before:0$if (primitiveWrapperMap == null) primitiveWrapperMap = wrapperPrimitiveMap;

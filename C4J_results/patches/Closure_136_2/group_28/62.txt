@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:909:replace:0,12$setWasEmptyNode(printSource);

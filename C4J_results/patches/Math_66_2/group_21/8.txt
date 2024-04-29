@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:84:replace:0,1$this.generator= resetAbsoluteAccuracy();
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:85:replace:0,1$this.generator= resetAbsoluteAccuracy();

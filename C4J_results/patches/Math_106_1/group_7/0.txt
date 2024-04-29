@@ -1,0 +1,1 @@
+src/java/org/apache/commons/math/fraction/FractionFormat.java:359:replace:0,1$parseAndIgnoreWhitespace(source, pos);

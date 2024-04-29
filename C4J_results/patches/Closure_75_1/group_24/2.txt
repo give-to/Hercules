@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/NodeUtil.java:387:replace:0,2$return (Character.getType(c)!=Character.SPACE_SEPARATOR)? TernaryValue.TRUE : TernaryValue.FALSE;

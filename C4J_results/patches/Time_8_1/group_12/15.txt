@@ -1,0 +1,2 @@
+src/main/java/org/joda/time/DateTimeZone.java:221:replace:0,1$return fixedOffsetZone(offsetFormatter(), offset);
+src/main/java/org/joda/time/DateTimeZone.java:308:replace:0,1$return fixedOffsetZone ( offsetFormatter ( ) , millisOffset ) ;

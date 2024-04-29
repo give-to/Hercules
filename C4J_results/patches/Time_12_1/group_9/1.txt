@@ -1,0 +1,13 @@
+src/main/java/org/joda/time/DateTimeFieldType.java:526:replace:0,1$return chronology.millisOfSecond();
+src/main/java/org/joda/time/LocalDateTime.java:546:replace:0,1$return chronology.millisOfSecond();
+src/main/java/org/joda/time/LocalDateTime.java:548:replace:0,1$return chronology.millisOfSecond();
+src/main/java/org/joda/time/LocalDateTime.java:550:replace:0,1$return chrono . millisOfSecond ( ) ;
+src/main/java/org/joda/time/LocalDateTime.java:544:replace:0,1$return chronology.millisOfSecond();
+src/main/java/org/joda/time/DateTimeFieldType.java:522:replace:0,1$return chronology . secondOfMinute ( ) ;
+src/main/java/org/joda/time/DateTimeFieldType.java:524:replace:0,1$return chronology . millisOfDay ( ) ;
+src/main/java/org/joda/time/DateTimeFieldType.java:520:replace:0,1$return chronology . secondOfDay ( ) ;
+src/main/java/org/joda/time/DateTimeFieldType.java:516:replace:0,1$return chronology . minuteOfDay ( ) ;
+src/main/java/org/joda/time/DateTimeFieldType.java:498:replace:0,1$return chronology . dayOfWeek ( ) ;
+src/main/java/org/joda/time/DateTimeFieldType.java:492:replace:0,1$return chronology . monthOfYear ( ) ;
+src/main/java/org/joda/time/DateTimeFieldType.java:496:replace:0,1$return chronology . weekyearOfCentury ( ) ;
+src/main/java/org/joda/time/chrono/BasicWeekyearDateTimeField.java:228:replace:0,1$return chronology.millisOfSecond();

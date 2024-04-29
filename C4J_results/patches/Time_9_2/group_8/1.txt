@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/format/DateTimeFormatterBuilder.java:2445:replace:0,1$return this.iMinFields;

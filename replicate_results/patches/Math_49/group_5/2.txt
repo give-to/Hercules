@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java:369:replace:0,1$OpenMapRealVector res = new OpenMapRealVector(this.entries, this);

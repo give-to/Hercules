@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/optimization/linear/LinearObjectiveFunction.java:92:replace:0,1$return coefficients.dotProduct(getConstantTerm()) + constantTerm;

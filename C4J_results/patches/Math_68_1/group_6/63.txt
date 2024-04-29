@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:512:wrap:0,1$if (work1 != null && diag != null && diag[pj] != null) {
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:587:wrap:0,1$if (work1 != null && diag != null && diag[pj] != null) {

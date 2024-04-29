@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:2272:replace:0,1$long b = remA;
+src/main/java/org/apache/commons/math/util/FastMath.java:2186:replace:0,1$long b = remA;

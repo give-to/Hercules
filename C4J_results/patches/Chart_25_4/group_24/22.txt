@@ -1,0 +1,2 @@
+source/org/jfree/chart/axis/CategoryAxis.java:673:insert-before:0$if (area == null) {throw new IllegalArgumentException("Null 'area' argument.");}
+source/org/jfree/chart/axis/CategoryAxis.java:709:insert-before:0$if (area == null) {throw new IllegalArgumentException("Null 'area' argument.");}

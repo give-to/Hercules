@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/jstype/JSType.java:656:insert-after:3$forgiveUnknownNames();
+src/com/google/javascript/rhino/jstype/JSType.java:689:insert-after:3$forgiveUnknownNames();

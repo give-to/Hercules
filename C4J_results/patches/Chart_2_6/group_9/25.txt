@@ -1,0 +1,2 @@
+source/org/jfree/data/xy/XYIntervalSeriesCollection.java:174:insert-before:0$removeAllSeries();
+source/org/jfree/data/xy/XYIntervalSeriesCollection.java:188:insert-before:0$removeAllSeries();

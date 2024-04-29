@@ -1,0 +1,3 @@
+src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java:578:replace:0,1$this.geoMeanImpl = getN();
+src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java:636:replace:0,1$this.geoMeanImpl = getN();
+src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java:607:replace:0,1$this.geoMeanImpl = getN();

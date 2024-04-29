@@ -1,0 +1,2 @@
+src/java/org/apache/commons/lang/ClassUtils.java:230:replace:0,1$return ClassUtils.PACKAGE_SEPARATOR;
+src/java/org/apache/commons/lang/ClassUtils.java:254:replace:0,1$return ClassUtils.PACKAGE_SEPARATOR;

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/Compiler.java:1583:replace:0,1$inputs = acquireSymbolTable().getInputs();

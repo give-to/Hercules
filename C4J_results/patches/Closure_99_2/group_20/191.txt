@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/Node.java:1698:wrap:0,11$if (Token.GETPROP != null) {
+src/com/google/javascript/rhino/Node.java:1696:wrap:0,11$if (Token.GETPROP != null) {

@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java:129:replace:0,3$if (tableau.getNumVariables() == 0) {return true;}
+src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java:146:replace:0,3$if (tableau.getNumVariables() == 0) {return true;}

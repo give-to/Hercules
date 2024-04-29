@@ -1,0 +1,1 @@
+src/java/org/apache/commons/lang/time/FastDateFormat.java:290:insert-before-after:0,15$Object _tempVar = cDateInstanceCache.get(key);if (_temVar instanceof FastDateFormat) {<#>} else {throw new IllegalArgumentException("Illegal argument: cDateInstanceCache.get(key)");}

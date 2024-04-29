@@ -1,0 +1,2 @@
+src/main/java/org/joda/time/DateTimeZone.java:286:replace:0,1$minutesOffset = hoursInMinutes - hoursOffset;
+src/main/java/org/joda/time/DateTimeZone.java:288:replace:0,1$minutesOffset = hoursInMinutes + hoursOffset ;

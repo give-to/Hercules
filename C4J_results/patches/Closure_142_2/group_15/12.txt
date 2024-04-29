@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:282:replace:0,5$if (preserve == reason || (preserve.length() > 0)) {if (fileLevelJsDocBuilder != null) {fileLevelJsDocBuilder.append(preserve);}}

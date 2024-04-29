@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/EnumElementType.java:168:wrap:0,5$if (that != null) {

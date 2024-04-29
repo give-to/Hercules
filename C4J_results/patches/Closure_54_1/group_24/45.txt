@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/FunctionType.java:554:insert-after:8$setPrototypeBasedOn(objType);

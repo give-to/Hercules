@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/IRFactory.java:782:replace:0,1$operand.setType(-operand.getDouble());

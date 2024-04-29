@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/LocalDateTime.java:667:insert-before-after:0,3$if (partial instanceof LocalDateTime) {<#>} else {throw new IllegalArgumentException("Illegal argument: partial");}

@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:883:wrap:0,1$if (sb != null) {

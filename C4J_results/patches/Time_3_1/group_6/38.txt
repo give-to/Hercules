@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/DurationFieldType.java:292:insert-before:0$if (chronology == null) {throw new IllegalArgumentException("Null 'chronology' argument.");}

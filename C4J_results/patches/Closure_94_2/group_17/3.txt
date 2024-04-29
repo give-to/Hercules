@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/ProcessDefines.java:180:insert-before:0$if (allDefines == null) allDefines = new List();

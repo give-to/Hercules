@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/CheckSideEffects.java:178:wrap:0,7$if (PROTECTOR_FN != null) {

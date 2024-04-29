@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:591:insert-before:0$if (work2 == null) work2 = diag;

@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:1169:wrap:0,29$if ((1 < LN_QUICK_COEF[LN_QUICK_COEF.length-1].length())) {

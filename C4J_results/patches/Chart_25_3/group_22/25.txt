@@ -1,0 +1,1 @@
+source/org/jfree/data/statistics/DefaultStatisticalCategoryDataset.java:301:insert-before:0$if (columnKey == null) {throw new IllegalArgumentException("Null 'columnKey' argument.");}

@@ -1,0 +1,2 @@
+source/org/jfree/data/DefaultKeyedValues.java:197:replace:0,1$addValue(clear(), new Double(value));
+source/org/jfree/data/DefaultKeyedValues.java:209:replace:0,1$addValue(clear(), new Double(value));

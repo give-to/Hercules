@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:592:replace:0,1$byte tmp = work1[pj];

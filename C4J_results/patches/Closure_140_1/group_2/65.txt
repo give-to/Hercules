@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/Compiler.java:1585:wrap:0,1$if (inputs != null) {

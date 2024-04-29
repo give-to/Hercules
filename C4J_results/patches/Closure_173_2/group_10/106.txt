@@ -1,0 +1,3 @@
+src/com/google/javascript/jscomp/parsing/IRFactory.java:1329:replace:0,1$return Token.GETELEM;
+src/com/google/javascript/jscomp/parsing/IRFactory.java:1357:replace:0,1$return Token . "" ;
+src/com/google/javascript/jscomp/parsing/IRFactory.java:1446:replace:0,1$return Token . com ;

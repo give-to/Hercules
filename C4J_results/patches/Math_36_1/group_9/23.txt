@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/fraction/BigFraction.java:145:wrap:0,1$if (den != null) {

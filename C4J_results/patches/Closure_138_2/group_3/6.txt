@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/SemanticReverseAbstractInterpreter.java:191:replace:0,1$return caseEquality(condition, blindScope, SHNE);
+src/com/google/javascript/jscomp/SemanticReverseAbstractInterpreter.java:193:replace:0,1$return caseEquality ( condition , blindScope , condition ) ;

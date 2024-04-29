@@ -1,0 +1,1 @@
+src/java/org/apache/commons/lang/text/StrBuilder.java:1780:replace:0,3$if ((str.charAt(j) != thisBuf[i + j]) || !(startIndex > str.length())) {continue outer;}

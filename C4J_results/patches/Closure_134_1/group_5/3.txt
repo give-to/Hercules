@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeCheck.java:991:replace:0,1$foundInterfaceProperty = this.reportMissingProperties || interfaceHasProperty;

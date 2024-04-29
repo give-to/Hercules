@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/PureFunctionIdentifier.java:688:insert-before:0$if (status == null) {throw new IllegalArgumentException("Null 'status' argument.");}

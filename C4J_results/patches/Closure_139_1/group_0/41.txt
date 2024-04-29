@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/SyntacticScopeCreator.java:207:replace:0,7$compiler.report(JSError.make(sourceName, parent, VAR_MULTIPLY_DECLARED_ERROR, name, (origVar.input != null? origVar.input.getName(): "??")));
+src/com/google/javascript/jscomp/SyntacticScopeCreator.java:206:replace:0,7$if ( ! allowDupe ) { compiler . report ( JSError . make ( sourceName , parent , VAR_MULTIPLY_DECLARED_ERROR , name , ( origVar . input != null ? origVar . input . getName ( ) : " ? ? " ) ) ) ; }

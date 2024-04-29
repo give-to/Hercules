@@ -1,0 +1,2 @@
+source/org/jfree/data/KeyedObjects.java:169:replace:0,1$long index = getIndex(key);
+source/org/jfree/data/KeyedObjects.java:201:replace:0,1$long keyIndex = getIndex ( key ) ;

@@ -1,0 +1,2 @@
+source/org/jfree/chart/plot/CategoryPlot.java:652:insert-before-after:0,3$Object _tempVar = this.domainAxes.get(index);if (_temVar instanceof CategoryAxis) {<#>} else {throw new IllegalArgumentException("Illegal argument: this.domainAxes.get(index)");}
+source/org/jfree/chart/plot/CategoryPlot.java:926:insert-before-after:0,3$Object _tempVar = this.rangeAxes.get(index);if (_temVar instanceof CategoryAxis) {<#>} else {throw new IllegalArgumentException("Illegal argument: this.rangeAxes.get(index)");}

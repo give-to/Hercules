@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:522:insert-before:0$if (work1 == null) work1 = this.jacNorm;
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:570:insert-before:0$if (work3 == null) work3 = this.jacNorm;

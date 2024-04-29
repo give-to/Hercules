@@ -1,0 +1,2 @@
+source/org/jfree/chart/axis/CategoryAxis.java:673:insert-before:0$configure();
+source/org/jfree/chart/axis/CategoryAxis.java:709:insert-before:0$configure();

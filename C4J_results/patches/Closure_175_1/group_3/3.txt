@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/FunctionArgumentInjector.java:74:wrap:0,1$if (replacement != null) {

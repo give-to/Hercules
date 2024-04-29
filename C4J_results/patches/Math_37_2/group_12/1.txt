@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:864:replace:0,1$intVal -= (int) x;

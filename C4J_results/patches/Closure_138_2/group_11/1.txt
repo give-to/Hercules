@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/SemanticReverseAbstractInterpreter.java:304:insert-before:0$if (blindScope == null) {throw new IllegalArgumentException("Null 'blindScope' argument.");}

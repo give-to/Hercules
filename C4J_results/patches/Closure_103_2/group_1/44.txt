@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:177:replace:0,63$setType(propType);

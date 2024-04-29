@@ -1,0 +1,1 @@
+src/org/mockito/internal/invocation/Invocation.java:174:replace:0,1$return method.getReturnType().isAssignableFrom(getMock());

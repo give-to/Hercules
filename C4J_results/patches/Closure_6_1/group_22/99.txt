@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:1839:insert-before:0$if (Token.THIS == null) {throw new IllegalArgumentException("Null 'Token.THIS' argument.");}

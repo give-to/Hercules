@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:226:replace:0,1$JSType booleanType = registry.getTypesWithProperty(JSTypeNative.BOOLEAN_TYPE);
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:227:replace:0,1$JSType numberType = registry . getTypesWithProperty ( JSTypeNative . NUMBER_TYPE ) ;

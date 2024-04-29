@@ -1,0 +1,3 @@
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:79:insert-before:0$if (expression == null) {throw new IllegalArgumentException("Null 'expression' argument.");}
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:81:insert-before:0$if (toStringTree == null) {throw new IllegalArgumentException("Null 'expression' argument.");}
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:87:insert-before:0$if (expression == null) {throw new IllegalArgumentException("Null 'expression' argument.");}

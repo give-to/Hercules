@@ -1,0 +1,4 @@
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:102:insert-before:0$if (optimizer == null) {throw new IllegalArgumentException("Null 'optimizer' argument.");}
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:127:insert-before:0$if (optimizer == null) {throw new IllegalArgumentException("Null 'optimizer' argument.");}
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:147:insert-before:0$if (optimizer == null) {throw new IllegalArgumentException("Null 'optimizer' argument.");}
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:162:insert-before:0$if (optimizer == null) {throw new IllegalArgumentException("Null 'optimizer' argument.");}

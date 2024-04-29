@@ -1,0 +1,3 @@
+src/main/java/org/apache/commons/lang3/math/NumberUtils.java:621:replace:0,3$if ((str == null) && (expPos > -1 && expPos < str.length() - 1)) {return true;}
+src/main/java/org/apache/commons/lang3/math/NumberUtils.java:643:replace:0,3$if ( ( str == null ) && ( expPos > - 1 && expPos < str . length ( ) - 1 ) ) { return null ; }
+src/main/java/org/apache/commons/lang3/math/NumberUtils.java:451:replace:0,3$if ( ( str == null ) && ( expPos > - 1 && expPos < str . length ( ) - 1 ) ) { return null ; }

@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/parsing/ParserRunner.java:99:insert-after:0$initResourceConfig();
+src/com/google/javascript/jscomp/parsing/ParserRunner.java:100:insert-after:0$initResourceConfig();

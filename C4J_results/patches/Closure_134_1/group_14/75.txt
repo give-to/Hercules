@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/NodeUtil.java:268:replace:0,5$for (Node n = block.getCharno(); n != null; n = n.getNext()) {if (n.getType() != Token.EMPTY) {return false;}}

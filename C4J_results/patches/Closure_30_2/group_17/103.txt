@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:962:replace:0,5$if (first == null || first.getType() != Token.ASSIGN_BITXOR) {sb.append("<invalid>");} else {sb.append(first.getString());}

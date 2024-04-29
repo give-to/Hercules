@@ -1,0 +1,5 @@
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:2153:replace:0,1$eatTokensUntilEOL();
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:1737:replace:0,1$eatTokensUntilEOL();
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:2091:replace:0,1$eatTokensUntilEOL();
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:2116:replace:0,1$eatTokensUntilEOL();
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:2143:replace:0,1$eatTokensUntilEOL();

@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:480:replace:0,7$float yab = ya - yaa;float recip = 1.0/ya;temp = recip * HEX_40000000;float recipa = recip + temp - temp;float recipb = recip - recipa;
+src/main/java/org/apache/commons/math/util/FastMath.java:411:replace:0,7$float yab = ya - yaa;float recip = 1.0/ya;temp = recip * HEX_40000000;float recipa = recip + temp - temp;float recipb = recip - recipa;

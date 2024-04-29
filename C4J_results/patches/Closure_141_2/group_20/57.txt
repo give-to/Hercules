@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:561:insert-after:7$moveExpression(n);

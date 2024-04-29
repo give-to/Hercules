@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/PeepholeFoldConstants.java:357:replace:0,1$tryConvertToNumber(n);

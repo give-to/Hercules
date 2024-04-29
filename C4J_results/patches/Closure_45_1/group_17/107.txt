@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:997:insert-before:0$if (s == null) {throw new IllegalArgumentException("Null 's' argument.");}

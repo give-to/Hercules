@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/PeepholeFoldConstants.java:355:replace:0,6$if ((NodeUtil.isNumericResult(left)) && (!mayHaveSideEffects(left))) {parent.replaceChild(n, left.detachFromParent());reportCodeChange();return left;}

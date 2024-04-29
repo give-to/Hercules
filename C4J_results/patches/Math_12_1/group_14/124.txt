@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/random/Well19937c.java:79:replace:0,1$super(K, M1, seed, this.nextGaussian, this.index);

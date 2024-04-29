@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/ProcessDefines.java:243:replace:0,2$allRefInfo.put(name.declaration.node, new RefInfo(name.declaration, name, compiler));

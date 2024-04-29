@@ -1,0 +1,3 @@
+source/org/jfree/data/DefaultKeyedValues2D.java:322:insert-before:0$removeColumn(rowIndex);
+source/org/jfree/data/DefaultKeyedValues2D.java:327:insert-before:0$removeColumn(rowIndex);
+source/org/jfree/data/DefaultKeyedValues2D.java:343:insert-before:0$removeColumn(rowIndex);

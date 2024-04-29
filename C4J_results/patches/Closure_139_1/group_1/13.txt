@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/SyntacticScopeCreator.java:190:wrap:0,7$if (scope != null && name != null) {

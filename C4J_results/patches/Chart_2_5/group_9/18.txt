@@ -1,0 +1,2 @@
+source/org/jfree/data/xy/XYIntervalSeriesCollection.java:216:insert-after:0$addSeries(s);
+source/org/jfree/data/xy/XYIntervalSeriesCollection.java:230:insert-after:0$addSeries(s);

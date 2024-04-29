@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java:133:replace:0,3$solvePhase1(tableau);
+src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java:150:replace:0,3$solvePhase1(tableau);

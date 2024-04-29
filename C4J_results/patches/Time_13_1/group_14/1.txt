@@ -1,0 +1,3 @@
+src/main/java/org/joda/time/Period.java:226:replace:0,1$return Period.ZERO;
+src/main/java/org/joda/time/Period.java:212:replace:0,1$return  Period                   seconds ,  }   . ZERO    ;
+src/main/java/org/joda/time/Period.java:110:replace:0,1$return  Period       years ,                   . ZERO    ;

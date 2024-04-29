@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeCheck.java:989:replace:0,2$boolean interfaceHasProperty =interfaceType.getPrototype().hasProperty(getTypedPercent());

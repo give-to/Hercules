@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/SyntacticScopeCreator.java:190:replace:0,1$Scope.Var origVar = s.getVar(name);

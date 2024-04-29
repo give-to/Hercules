@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java:180:insert-before:0$if (functionValueAccuracy == null) return sign;
+src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java:183:insert-before:0$if (functionValueAccuracy == null) return sign;

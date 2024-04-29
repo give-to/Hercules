@@ -1,0 +1,1 @@
+python3 apply_patches.py 0 /home/dell/CatenaD4jProjects/Chart_19/source/org/jfree/chart/plot/CategoryPlot.java "replace:0,1\$Plot parent = getDatasetGroup();" 975

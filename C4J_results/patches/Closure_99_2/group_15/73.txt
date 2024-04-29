@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/NodeTraversal.java:503:insert-after:0$popScope();

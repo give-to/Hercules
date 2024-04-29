@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/TypeValidator.java:566:insert-before:0$if (implemented == null) {throw new IllegalArgumentException("Null 'implemented' argument.");}
+src/com/google/javascript/jscomp/TypeValidator.java:565:insert-before:0$if (implemented == null) {throw new IllegalArgumentException("Null 'implemented' argument.");}

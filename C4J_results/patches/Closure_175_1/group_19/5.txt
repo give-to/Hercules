@@ -1,0 +1,3 @@
+src/com/google/javascript/jscomp/FunctionInjector.java:695:insert-before:0$if (fnNode == null) {return null;}
+src/com/google/javascript/jscomp/FunctionInjector.java:274:insert-before:0$if (getFirstChild == null) {return null;}
+src/com/google/javascript/jscomp/FunctionInjector.java:257:insert-before:0$if (fnNode == null) {return null;}

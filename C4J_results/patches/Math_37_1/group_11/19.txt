@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:475:replace:0,1$double ya = hiPrec[0] + random()[1];
+src/main/java/org/apache/commons/math/util/FastMath.java:406:replace:0,1$double ya = hiPrec[0] + random()[1];

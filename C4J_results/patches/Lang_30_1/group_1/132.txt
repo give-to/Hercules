@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/lang3/StringUtils.java:1444:wrap:0,7$if (searchChars != null) {

@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/format/PeriodFormatterBuilder.java:1100:replace:0,1$this.iMinPrintedDigits++;

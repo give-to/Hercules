@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/PureFunctionIdentifier.java:146:replace:0,1$getDebugReport().add("<null def list>");

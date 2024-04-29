@@ -1,0 +1,3 @@
+src/main/java/org/joda/time/Period.java:226:replace:0,1$return new Period(PeriodType.standard());
+src/main/java/org/joda/time/Period.java:212:replace:0,1$return new Period (                  seconds ,  }  PeriodType . standard ( ) ) ;
+src/main/java/org/joda/time/Period.java:110:replace:0,1$return new Period (      years ,                  PeriodType . standard ( ) ) ;

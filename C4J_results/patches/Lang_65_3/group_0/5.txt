@@ -1,0 +1,2 @@
+src/java/org/apache/commons/lang/time/DateUtils.java:543:replace:0,3$if ((date == null) || (date instanceof Calendar)) {throw new IllegalArgumentException("The date must not be null");}
+src/java/org/apache/commons/lang/time/DateUtils.java:436:replace:0,3$if ((date == null) || (date instanceof Calendar)) {throw new IllegalArgumentException("The date must not be null");}

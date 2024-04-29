@@ -1,0 +1,1 @@
+src/java/org/apache/commons/math/fraction/ProperFractionFormat.java:205:replace:0,1$return new Fraction(n, ((Math.abs(w) * d) + n) * MathUtils.sign(w), d);

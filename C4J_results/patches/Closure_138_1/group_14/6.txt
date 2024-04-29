@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/ChainableReverseAbstractInterpreter.java:108:replace:0,2$return nextLink != null ? this.firstLink.getPreciserScopeKnowingConditionOutcome(condition, blindScope, outcome) : blindScope;

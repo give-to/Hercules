@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:1703:replace:0,1$return isSyntheticBlock() + "." + getLastChild().getString();

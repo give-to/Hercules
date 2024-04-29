@@ -1,0 +1,2 @@
+source/org/jfree/data/DefaultKeyedValues.java:234:insert-before:0$if (this.keys == null) {throw new IllegalArgumentException("Null 'this.keys' argument.");}
+source/org/jfree/data/DefaultKeyedValues.java:238:insert-before:0$if (this.keys == null) {throw new IllegalArgumentException("Null 'this.keys' argument.");}

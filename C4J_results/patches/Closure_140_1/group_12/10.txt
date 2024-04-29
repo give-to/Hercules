@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/JSModuleGraph.java:152:replace:0,2$byte m1Depth = getDepth(m1);byte m2Depth = getDepth(m2);
+src/com/google/javascript/jscomp/JSModuleGraph.java:152:replace:0,2$byte m2Depth = getDepth ( m2 ) ; byte m2Depth = getDepth ( m2 ) ;

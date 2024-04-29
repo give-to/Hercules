@@ -1,0 +1,5 @@
+source/org/jfree/chart/plot/XYPlot.java:2517:insert-before:0$configureRangeAxes();
+source/org/jfree/chart/plot/CategoryPlot.java:2436:insert-before:0$configureRangeAxes();
+source/org/jfree/chart/plot/Marker.java:490:insert-before:0$configureRangeAxes();
+source/org/jfree/chart/plot/Marker.java:175:insert-before:0$configureRangeAxes();
+source/org/jfree/chart/plot/Marker.java:178:insert-before:0$configureRangeAxes();

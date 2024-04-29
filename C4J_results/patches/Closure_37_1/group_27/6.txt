@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/LightweightMessageFormatter.java:61:insert-before:0$if (error == null) error = new JSError();

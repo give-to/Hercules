@@ -1,0 +1,3 @@
+src/com/google/javascript/rhino/jstype/JSType.java:662:insert-before:0$if (that == null) {return null;}
+src/com/google/javascript/rhino/jstype/JSType.java:695:insert-before:0$if (that == null) {return null;}
+src/com/google/javascript/rhino/jstype/JSType.java:662:insert-before:0$if (that == null) {return null;}

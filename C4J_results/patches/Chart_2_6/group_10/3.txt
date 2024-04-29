@@ -1,0 +1,1 @@
+source/org/jfree/data/xy/XYIntervalSeries.java:121:replace:0,1$return item.getYHighValue();

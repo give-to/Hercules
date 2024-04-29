@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/FunctionArgumentInjector.java:233:replace:0,3$return (type == Token.NE || type == Token.INC || type == Token.DEC ||(NodeUtil.isAssignmentOp(parent) && parent.getFirstChild() == n) ||(NodeUtil.isForIn(parent)));

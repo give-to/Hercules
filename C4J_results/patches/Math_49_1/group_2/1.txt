@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java:564:insert-before:0$if (LocalizedFormats.MAP_MODIFIED_WHILE_ITERATING == null) {throw new IllegalArgumentException("Null 'LocalizedFormats.MAP_MODIFIED_WHILE_ITERATING' argument.");}
+src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java:529:insert-before:0$if (LocalizedFormats.MAP_MODIFIED_WHILE_ITERATING == null) {throw new IllegalArgumentException("Null 'LocalizedFormats.MAP_MODIFIED_WHILE_ITERATING' argument.");}

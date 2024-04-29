@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/ScopedAliases.java:424:wrap:0,2$if (newDecl != null) {

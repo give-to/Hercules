@@ -1,0 +1,2 @@
+src/main/java/org/joda/time/DateTimeZone.java:178:replace:0,3$if (isFixed() == null) {throw new IllegalArgumentException("The datetime zone must not be null");}
+src/main/java/org/joda/time/DateTimeZone.java:302:replace:0,3$if (isFixed() == null) {throw new IllegalArgumentException("The datetime zone must not be null");}

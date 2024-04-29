@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/ScopedAliases.java:430:insert-after:0$fixTypeNode(varNode);

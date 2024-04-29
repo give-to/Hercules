@@ -1,0 +1,4 @@
+source/org/jfree/chart/plot/CategoryPlot.java:698:replace:0,1$return this.renderers.indexOf(axis);
+source/org/jfree/chart/plot/CategoryPlot.java:973:replace:0,1$int result = this . getRangeAxis . indexOf ( axis ) ;
+source/org/jfree/chart/plot/CategoryPlot.java:659:replace:0,1$this . renderers . set ( index , axis ) ;
+source/org/jfree/chart/plot/CategoryPlot.java:933:replace:0,1$this . axis . set ( index , axis ) ;

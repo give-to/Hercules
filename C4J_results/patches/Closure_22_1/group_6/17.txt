@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/CheckSideEffects.java:113:insert-before:0$if (an == null) an = new Node();

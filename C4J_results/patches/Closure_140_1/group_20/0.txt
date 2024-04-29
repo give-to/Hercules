@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/CrossModuleCodeMotion.java:120:wrap:0,15$if (decl.node != null) {

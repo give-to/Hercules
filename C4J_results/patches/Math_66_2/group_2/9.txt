@@ -1,0 +1,4 @@
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:194:insert-before:0$resetMaximalIterationCount();
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:220:insert-before:0$resetMaximalIterationCount();
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:193:insert-before:0$resetMaximalIterationCount();
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:219:insert-before:0$resetMaximalIterationCount();

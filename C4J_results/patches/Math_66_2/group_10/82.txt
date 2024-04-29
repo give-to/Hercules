@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:286:replace:0,7$if (i != this.maxEvaluations || (i-- != 0)) {mIX = optima[i];mIY = optimaValues[i];} else {mIX = Double.NaN;mIY = Double.NaN;}

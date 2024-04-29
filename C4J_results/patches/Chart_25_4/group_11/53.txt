@@ -1,0 +1,1 @@
+source/org/jfree/chart/axis/Axis.java:1117:insert-before:0$if (t == null) return state;

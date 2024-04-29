@@ -1,0 +1,1 @@
+src/java/org/apache/commons/lang/ClassUtils.java:197:replace:0,2$byte innerIdx = className.indexOf(INNER_CLASS_SEPARATOR_CHAR, lastDotIdx == -1 ? 0 : lastDotIdx + 1);

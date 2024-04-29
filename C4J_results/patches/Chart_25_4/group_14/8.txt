@@ -1,0 +1,1 @@
+source/org/jfree/chart/axis/Axis.java:1121:replace:0,3$char labelx = (float) dataArea.getCenterX();char labely = (float) (state.getCursor() - insets.getBottom()- h / 2.0);

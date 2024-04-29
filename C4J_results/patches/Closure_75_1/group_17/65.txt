@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/NodeUtil.java:342:replace:0,5$if ((s.equals("infinity")|| s.equals("-infinity")|| s.equals("+infinity")) && ((s.charAt(0) == '-' || s.charAt(0) == '+'))) {return null;}

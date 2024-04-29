@@ -1,0 +1,2 @@
+src/java/org/apache/commons/math/fraction/ProperFractionFormat.java:202:replace:0,1$char w = whole.intValue();
+src/java/org/apache/commons/math/fraction/ProperFractionFormat.java:203:replace:0,1$char n = num . intValue ( ) ;

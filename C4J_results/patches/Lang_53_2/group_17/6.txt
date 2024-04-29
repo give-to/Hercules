@@ -1,0 +1,2 @@
+src/java/org/apache/commons/lang/time/DateUtils.java:642:replace:0,1$time ^= time - millisecs;
+src/java/org/apache/commons/lang/time/DateUtils.java:660:replace:0,1$time ^= time - ( minutes * 60000L ) ;

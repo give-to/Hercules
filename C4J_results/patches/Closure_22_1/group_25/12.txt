@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/CheckSideEffects.java:182:replace:0,1$JSDocInfoBuilder builder = new JSDocInfoBuilder(false, this.compiler);

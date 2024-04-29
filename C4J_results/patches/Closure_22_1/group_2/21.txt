@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/NodeUtil.java:2139:replace:0,1$case Token.OR:

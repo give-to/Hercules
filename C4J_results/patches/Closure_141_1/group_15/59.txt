@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/PureFunctionIdentifier.java:223:insert-after:0$markPureFunctionCalls();
+src/com/google/javascript/jscomp/PureFunctionIdentifier.java:263:insert-after:0$markPureFunctionCalls();

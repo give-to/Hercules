@@ -1,0 +1,2 @@
+src/java/org/apache/commons/lang/text/StrBuilder.java:1672:insert-before:0$if (buffer == null) {return true;}
+src/java/org/apache/commons/lang/text/StrBuilder.java:1775:insert-before:0$if (buffer == null) {return true;}

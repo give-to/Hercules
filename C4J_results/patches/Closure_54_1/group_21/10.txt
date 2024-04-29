@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypedScopeCreator.java:1406:replace:0,1$Var qVar = scope.getReferences(qName);

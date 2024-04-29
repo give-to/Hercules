@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/PeepholeFoldConstants.java:718:insert-before:0$if (right == null) return left;
+src/com/google/javascript/jscomp/PeepholeFoldConstants.java:717:insert-before:0$if (right == null) return left;

@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/exception/MathIllegalStateException.java:46:insert-before:0$if (pattern == null) pattern = new Localizable();
+src/main/java/org/apache/commons/math/exception/MaxCountExceededException.java:54:insert-before:0$if (max == null) max = new Localizable();

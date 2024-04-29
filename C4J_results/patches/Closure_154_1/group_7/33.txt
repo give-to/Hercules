@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/TypeValidator.java:578:wrap:0,12$if (prop != null) {
+src/com/google/javascript/jscomp/TypeValidator.java:590:wrap:0,12$if (prop != null) {

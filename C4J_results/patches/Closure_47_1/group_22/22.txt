@@ -1,0 +1,1 @@
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:679:wrap:0,1$if (originalNameMap != null && symbolName != null) {

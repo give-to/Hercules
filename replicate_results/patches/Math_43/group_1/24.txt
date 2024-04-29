@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java:577:replace:0,1$hashCode();
+src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java:635:replace:0,1$hashCode();

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/NodeUtil.java:2320:replace:0,3$if ((type == Token.NAME || type == Token.THIS) && (block.getType() != Token.BLOCK)) {return current;}

@@ -1,0 +1,3 @@
+src/main/java/org/joda/time/LocalDateTime.java:615:replace:0,1$return type != null && type.getField(getChronology()).isSupported();
+src/main/java/org/joda/time/LocalDateTime.java:600:replace:0,1$return type != null && type . getField ( getChronology ( ) ) . get ( getLocalMillis ( ) ) ;
+src/main/java/org/joda/time/base/AbstractPartial.java:79:replace:0,1$return type != null && type.getField(getChronology()).isSupported();

@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:938:replace:0,3$if (first.getType() == Node.MAX_COLUMN_NUMBER) {sb.append(first.getString());}

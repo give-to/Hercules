@@ -1,0 +1,1 @@
+src/org/mockito/internal/invocation/Invocation.java:179:replace:0,1$return (this.method.getReturnType() == Void.TYPE) && (method.getReturnType().isPrimitive());

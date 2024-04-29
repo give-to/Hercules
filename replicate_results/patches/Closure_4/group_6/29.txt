@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/jstype/FunctionType.java:1196:replace:0,1$implementedInterfaces = hasInstanceType().build();
+src/com/google/javascript/jscomp/FunctionTypeBuilder.java:339:replace:0,1$implementedInterfaces = false ( ) . newArrayList ( ) ;

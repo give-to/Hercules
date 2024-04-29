@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:522:insert-after:0$setCostRelativeTolerance(s);
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:570:insert-after:0$setCostRelativeTolerance(s);

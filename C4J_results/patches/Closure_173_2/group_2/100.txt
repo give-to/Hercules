@@ -1,0 +1,5 @@
+src/com/google/javascript/rhino/Node.java:1459:replace:0,1$return isString();
+src/com/google/javascript/jscomp/NodeUtil.java:1490:replace:0,1$return isString();
+src/com/google/javascript/jscomp/PeepholeSubstituteAlternateSyntax.java:214:replace:0,1$return isString();
+src/com/google/javascript/jscomp/PeepholeSubstituteAlternateSyntax.java:104:replace:0,1$return isString();
+src/com/google/javascript/jscomp/Compiler.java:2016:replace:0,1$return isString();

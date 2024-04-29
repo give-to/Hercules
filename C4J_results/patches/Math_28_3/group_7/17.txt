@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/exception/MathIllegalStateException.java:47:insert-before:0$if (pattern == null) pattern = new Localizable();

@@ -1,0 +1,2 @@
+source/org/jfree/data/DefaultKeyedValues.java:234:insert-after:0$removeValue(keyIndex);
+source/org/jfree/data/DefaultKeyedValues.java:238:insert-after:0$removeValue(keyIndex);

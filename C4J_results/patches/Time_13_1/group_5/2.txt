@@ -1,0 +1,5 @@
+src/main/java/org/joda/time/format/FormatUtils.java:237:insert-before:0$if (buf == null) {return;}
+src/main/java/org/joda/time/format/PeriodFormatterBuilder.java:1142:insert-before:0$if (buf == null) {return;}
+src/main/java/org/joda/time/format/PeriodFormatterBuilder.java:1674:insert-before:0$if (buf == null) {return;}
+src/main/java/org/joda/time/format/PeriodFormatterBuilder.java:868:insert-before:0$if (buf == null) {return;}
+src/main/java/org/joda/time/format/PeriodFormatterBuilder.java:1557:insert-before:0$if (buf == null) {return;}

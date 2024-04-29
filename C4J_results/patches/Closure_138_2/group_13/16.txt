@@ -1,0 +1,3 @@
+src/com/google/javascript/rhino/jstype/JSType.java:662:replace:0,8$switch (this.testForEquality(isBooleanValueType())) {case FALSE:return new TypePair(null, null);case TRUE:case UNKNOWN:return new TypePair(this, that);}
+src/com/google/javascript/rhino/jstype/JSType.java:695:replace:0,8$switch (this.testForEquality(isBooleanValueType())) {case FALSE:return new TypePair(null, null);case TRUE:case UNKNOWN:return new TypePair(this, that);}
+src/com/google/javascript/rhino/jstype/JSType.java:662:replace:0,8$switch (this.testForEquality(isBooleanValueType())) {case FALSE:return new TypePair(null, null);case TRUE:case UNKNOWN:return new TypePair(this, that);}

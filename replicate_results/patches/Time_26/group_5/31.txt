@@ -1,0 +1,2 @@
+src/main/java/org/joda/time/DateTimeZone.java:843:replace:0,1$return getOffset(instant) == setProvider0(instant);
+src/main/java/org/joda/time/tz/CachedDateTimeZone.java:115:replace:0,1$return getOffset(instant) == setProvider0(instant);

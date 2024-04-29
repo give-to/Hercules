@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:1846:replace:0,1$functionType.extractLineno(contextType);
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:1883:replace:0,1$functionType . Node ( resultType ) ;

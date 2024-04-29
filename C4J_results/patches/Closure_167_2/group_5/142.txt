@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/ControlFlowAnalysis.java:366:insert-after:0$handleBreak(elseBlock);
+src/com/google/javascript/jscomp/ControlFlowAnalysis.java:360:insert-after:0$handleBreak(elseBlock);

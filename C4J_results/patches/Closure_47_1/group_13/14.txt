@@ -1,0 +1,2 @@
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:659:insert-before:0$if (sourceName == null) {return 0;}
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:662:insert-before:0$if (sourceName == null) {return 0;}

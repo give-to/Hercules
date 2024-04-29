@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/lang3/math/NumberUtils.java:460:wrap:0,6$if (hex_prefixes != null) {
+src/main/java/org/apache/commons/lang3/math/NumberUtils.java:461:wrap:0,6$if (pfxLen != null) {

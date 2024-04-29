@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/NodeUtil.java:301:insert-after:0$redeclareVarsInsideBranch(n);

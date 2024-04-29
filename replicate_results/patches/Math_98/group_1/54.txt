@@ -1,0 +1,1 @@
+src/java/org/apache/commons/math/linear/RealMatrixImpl.java:776:replace:0,3$if ((v.length != nCols) && (startRow < 0 || startRow > endRow || endRow > data.length || startColumn < 0 || startColumn > endColumn)) {throw new IllegalArgumentException("vector has wrong length");}

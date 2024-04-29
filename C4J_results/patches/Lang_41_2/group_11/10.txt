@@ -1,0 +1,2 @@
+src/java/org/apache/commons/lang/ClassUtils.java:75:wrap:0,9$if (primitiveWrapperMap != null && Boolean.TYPE != null) {
+src/java/org/apache/commons/lang/ClassUtils.java:76:wrap:0,9$if (primitiveWrapperMap != null && Byte.TYPE != null) {

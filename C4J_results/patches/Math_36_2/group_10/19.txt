@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/fraction/BigFraction.java:366:wrap:0,1$if (BigInteger.ONE != null) {
+src/main/java/org/apache/commons/math/fraction/BigFraction.java:381:wrap:0,1$if (BigInteger.den != null) {

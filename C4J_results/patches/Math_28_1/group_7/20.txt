@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/exception/MathIllegalStateException.java:47:wrap:0,1$if (context != null && pattern != null && args != null) {

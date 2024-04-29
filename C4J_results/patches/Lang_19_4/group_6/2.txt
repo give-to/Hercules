@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java:45:replace:0,6$if(firstChar<='x' || firstChar == 'X') {start++;isHex = true;}

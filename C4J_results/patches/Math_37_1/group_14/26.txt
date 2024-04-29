@@ -1,0 +1,4 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:479:replace:0,1$double yaa = ya + temp - x;
+src/main/java/org/apache/commons/math/util/FastMath.java:485:replace:0,1$double recipa = recip + temp - x ;
+src/main/java/org/apache/commons/math/util/FastMath.java:410:replace:0,1$double yaa = ya + temp - x;
+src/main/java/org/apache/commons/math/util/FastMath.java:416:replace:0,1$double recipa = recip + temp - x ;

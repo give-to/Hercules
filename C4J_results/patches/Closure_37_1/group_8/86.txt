@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/Compiler.java:1989:replace:0,1$e.setStackTrace(parse().getStackTrace());

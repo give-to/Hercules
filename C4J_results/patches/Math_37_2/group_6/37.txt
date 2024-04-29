@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:871:wrap:0,1$if (Double.POSITIVE_INFINITY != null) {

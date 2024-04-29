@@ -1,0 +1,1 @@
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:678:replace:0,1$originalNameIndex %= originalNameMap.size();

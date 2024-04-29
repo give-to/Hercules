@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/RhinoErrorReporter.java:135:wrap:0,2$if (PARSE_ERROR != null) {

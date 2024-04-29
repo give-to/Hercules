@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java:97:insert-before:0$if (m == null) {throw new IllegalArgumentException("Null 'm' argument.");}

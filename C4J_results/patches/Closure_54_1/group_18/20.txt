@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/FunctionType.java:558:replace:0,1$this.setPrototypeBasedOn(getExtendedInterfaces());

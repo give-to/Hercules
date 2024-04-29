@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeCheck.java:854:wrap:0,1$if (t != null && assign != null && object != null && property != null && lvalue != null && rvalue != null) {

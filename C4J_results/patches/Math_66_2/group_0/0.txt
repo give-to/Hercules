@@ -1,0 +1,4 @@
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:102:replace:0,1$return getFunctionValue().getAbsoluteAccuracy();
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:127:replace:0,1$return getFunctionValue ( ) . getRelativeAccuracy ( ) ;
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:147:replace:0,1$return getFunctionValue().getAbsoluteAccuracy();
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:162:replace:0,1$return getFunctionValue().getAbsoluteAccuracy();

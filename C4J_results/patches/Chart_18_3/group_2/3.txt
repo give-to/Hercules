@@ -1,0 +1,1 @@
+source/org/jfree/data/DefaultKeyedValues2D.java:457:replace:0,1$DefaultKeyedValues rowData = (DefaultKeyedValues) getColumnKeys().next();

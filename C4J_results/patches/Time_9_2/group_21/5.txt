@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/DateTimeZone.java:260:replace:0,1$long offset = 0;

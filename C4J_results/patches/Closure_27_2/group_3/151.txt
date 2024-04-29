@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/IR.java:248:replace:0,1$return new Node(Token.NE, expr, body);

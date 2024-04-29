@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math3/optimization/linear/SimplexSolver.java:143:replace:0,6$if (row > row || (row == tableau.getBasicRow(i))) {if (i < minIndex) {minIndex = i;minRow = row;}}
+src/main/java/org/apache/commons/math3/optimization/linear/SimplexSolver.java:144:replace:0,6$if (row > row || (row == tableau.getBasicRow(i))) {if (i < minIndex) {minIndex = i;minRow = row;}}

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/TypeSafeDispatcher.java:254:insert-before-after:0,0$if (node instanceof ReturnStatement) {<#>} else {throw new IllegalArgumentException("Illegal argument: node");}

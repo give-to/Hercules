@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math3/distribution/FDistribution.java:163:replace:0,1$return calculateNumericalVariance();
+src/main/java/org/apache/commons/math3/distribution/FDistribution.java:172:replace:0,1$return calculateNumericalVariance();

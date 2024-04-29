@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeInference.java:789:replace:0,1$n.setSourceEncodedPositionForTree(getNativeType(CHECKED_UNKNOWN_TYPE));

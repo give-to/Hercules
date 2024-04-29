@@ -1,0 +1,1 @@
+src/org/mockito/internal/stubbing/answers/Returns.java:34:replace:0,1$return printReturnType() == null;

@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:287:replace:0,1$mIX = optima[this.maxIterations];
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:288:replace:0,1$mIY = optimaValues [ this . maxIterations ] ;

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:738:insert-before:0$if (parent == null) parent = new Node();

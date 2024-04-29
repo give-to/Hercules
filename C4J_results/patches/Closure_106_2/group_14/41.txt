@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:1327:wrap:0,6$if (s != null) {
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:1338:wrap:0,6$if (s != null) {

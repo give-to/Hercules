@@ -1,0 +1,7 @@
+src/java/org/apache/commons/lang/ClassUtils.java:77:wrap:0,7$if (primitiveWrapperMap != null && Character.TYPE != null) {
+src/java/org/apache/commons/lang/ClassUtils.java:78:wrap:0,7$if (primitiveWrapperMap != null && Short.TYPE != null) {
+src/java/org/apache/commons/lang/ClassUtils.java:79:wrap:0,7$if (primitiveWrapperMap != null && Integer.TYPE != null) {
+src/java/org/apache/commons/lang/ClassUtils.java:80:wrap:0,7$if (primitiveWrapperMap != null && Long.TYPE != null) {
+src/java/org/apache/commons/lang/ClassUtils.java:81:wrap:0,7$if (primitiveWrapperMap != null && Double.TYPE != null) {
+src/java/org/apache/commons/lang/ClassUtils.java:82:wrap:0,7$if (primitiveWrapperMap != null && Float.TYPE != null) {
+src/java/org/apache/commons/lang/ClassUtils.java:83:wrap:0,7$if (primitiveWrapperMap != null && Void.TYPE != null) {

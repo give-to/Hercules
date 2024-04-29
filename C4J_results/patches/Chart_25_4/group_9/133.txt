@@ -1,0 +1,1 @@
+source/org/jfree/chart/plot/CategoryPlot.java:2785:replace:0,1$axisStateMap.put(axis, getRangeCrosshairStroke());

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeInference.java:1369:insert-before:0$if (n == null) n = new Node();

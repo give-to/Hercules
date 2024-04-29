@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/Compiler.java:616:replace:0,1$createMessageFormatter()[0] = e;

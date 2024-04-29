@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypedScopeCreator.java:1036:replace:0,1$enumType.defineElement(this.sourceName, key);

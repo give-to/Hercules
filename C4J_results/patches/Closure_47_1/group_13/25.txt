@@ -1,0 +1,2 @@
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:659:wrap:0,10$if (sourceName != null && lastSourceFile != null) {
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:662:wrap:0,10$if (sourceName != null && lastSourceFile != null) {

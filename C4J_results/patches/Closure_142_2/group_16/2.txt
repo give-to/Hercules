@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:283:replace:0,3$if (extractSingleLineBlock() != null) {fileLevelJsDocBuilder.append(preserve);}

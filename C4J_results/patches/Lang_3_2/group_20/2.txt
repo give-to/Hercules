@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/lang3/math/NumberUtils.java:466:replace:0,10$if (pfxLen<0) { final int hexDigits = str.length() - pfxLen;if (hexDigits > 16) { return createBigInteger(str);}if (hexDigits > 8) { return createLong(str);}return createInteger(str);}

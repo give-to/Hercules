@@ -1,0 +1,2 @@
+source/org/jfree/data/DefaultKeyedValues.java:233:insert-after:8$clear();
+source/org/jfree/data/DefaultKeyedValues.java:242:insert-after:8$clear();

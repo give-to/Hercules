@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeValidator.java:686:replace:0,2$expectAllInterfaceProperties(fnTypeA.getReturnType(), fnTypeB.getReturnType(), error);

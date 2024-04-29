@@ -1,0 +1,5 @@
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:213:insert-before:0$if (lastMapping.startPosition == null) {return;}
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:214:insert-before:0$if (lastMapping.startPosition == null) {return;}
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:215:insert-before:0$if (lastMapping.startPosition == null) {return;}
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:216:insert-before:0$if (lastMapping.startPosition == null) {return;}
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:542:insert-before:0$if (lastMapping.startPosition == null) {return;}

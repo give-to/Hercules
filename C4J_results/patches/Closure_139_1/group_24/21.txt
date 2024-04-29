@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/BasicErrorManager.java:142:replace:0,3$if (sourceCompare < P1_GT_P2 && (sourceCompare != 0)) {return sourceCompare;}

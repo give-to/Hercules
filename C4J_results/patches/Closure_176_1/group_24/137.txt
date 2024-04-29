@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeInference.java:945:insert-after:3$updateBind(node);

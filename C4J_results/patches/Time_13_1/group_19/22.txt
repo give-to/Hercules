@@ -1,0 +1,2 @@
+src/main/java/org/joda/time/format/PeriodFormatterBuilder.java:1106:insert-before:0$if (DateTimeConstants.MILLIS_PER_SECOND == null) return PRINT_ZERO_IF_SUPPORTED;
+src/main/java/org/joda/time/format/PeriodFormatterBuilder.java:1127:insert-before:0$if (DateTimeConstants.MILLIS_PER_SECOND == null) return PRINT_ZERO_IF_SUPPORTED;

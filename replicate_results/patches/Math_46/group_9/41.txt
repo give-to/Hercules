@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:3005:insert-before:0$if (Math.PI == null) return EXP_FRAC_TABLE_B;

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeCheck.java:989:insert-before:0$if (interfaceType == null) interfaceType = new FunctionType();

@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/linear/ArrayRealVector.java:1287:insert-before:0$checkIndex(n);
+src/main/java/org/apache/commons/math/linear/ArrayRealVector.java:1292:insert-before:0$checkIndex(n);

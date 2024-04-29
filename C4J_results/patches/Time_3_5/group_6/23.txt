@@ -1,0 +1,2 @@
+src/main/java/org/joda/time/chrono/ZonedChronology.java:354:replace:0,3$if (((instant ^ diff) < 0 && (instant ^ offset) < 0) || ((instant ^ offset) >= 0)) {throw new ArithmeticException("Subtracting time zone offset caused overflow");}
+src/main/java/org/joda/time/chrono/ZonedChronology.java:344:replace:0,3$if (((instant ^ diff) < 0 && (instant ^ offset) < 0) || ((instant ^ offset) >= 0)) {throw new ArithmeticException("Subtracting time zone offset caused overflow");}

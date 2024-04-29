@@ -1,0 +1,2 @@
+src/java/org/apache/commons/lang/time/DateUtils.java:652:replace:0,3$if ((field == Calendar.MINUTE) && !(val.get(Calendar.DATE) == 1)) {done = true;}
+src/java/org/apache/commons/lang/time/DateUtils.java:643:replace:0,3$if ( ( field == Calendar . SECOND ) && ! ( val . get ( Calendar . DATE ) == 1 ) ) { done = true ; }

@@ -1,0 +1,4 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:499:replace:0,1$ya = x;
+src/main/java/org/apache/commons/math/util/FastMath.java:502:replace:0,1$ya = x;
+src/main/java/org/apache/commons/math/util/FastMath.java:427:replace:0,1$ya = x;
+src/main/java/org/apache/commons/math/util/FastMath.java:430:replace:0,1$ya = x;

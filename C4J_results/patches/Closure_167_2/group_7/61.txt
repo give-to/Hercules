@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/type/ChainableReverseAbstractInterpreter.java:132:replace:0,1$String qualifiedName = node.isCase();
+src/com/google/javascript/jscomp/type/ChainableReverseAbstractInterpreter.java:164:replace:0,1$String qualifiedName = node.isCase();

@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/CheckGlobalThis.java:102:wrap:0,7$if (parent != null) {
+src/com/google/javascript/jscomp/CheckGlobalThis.java:171:wrap:0,7$if (parent != null) {

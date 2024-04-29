@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:519:wrap:0,1$if (jacobian != null && jacobian[i] != null && jacobian[i][pj] != null && work1 != null && work1[permutation[i]] != null && permutation != null && permutation[i] != null) {

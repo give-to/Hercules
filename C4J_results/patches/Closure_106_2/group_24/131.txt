@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/CheckSideEffects.java:88:replace:0,8$if (n.isQualifiedName() && n.getLineno() != null) {return;} else if (NodeUtil.isExpressionNode(n)) {return;}

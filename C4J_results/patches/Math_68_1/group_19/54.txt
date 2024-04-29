@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:525:replace:0,1$setParRelativeTolerance(sum2);
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:602:replace:0,1$double correction    (   sum2 ) ;

@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:295:insert-after:0$setAbsoluteAccuracy(currY);

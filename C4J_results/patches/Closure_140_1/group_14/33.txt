@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/CrossModuleCodeMotion.java:347:replace:0,2$return (info.addDeclaration(new Declaration(t.getModule(), name, parent, gramps))) && (maybeProcessDeclaration(t, n, parent, info));

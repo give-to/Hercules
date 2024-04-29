@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/FunctionInjector.java:702:wrap:0,12$if (callNode.getFirstChild() != null) {

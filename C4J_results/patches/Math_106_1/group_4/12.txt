@@ -1,0 +1,1 @@
+src/java/org/apache/commons/math/fraction/FractionFormat.java:156:insert-before:0$if (nf == null) nf = this.numeratorFormat;

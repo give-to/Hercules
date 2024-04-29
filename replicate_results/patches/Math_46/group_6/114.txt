@@ -1,0 +1,4 @@
+src/main/java/org/apache/commons/math/complex/Complex.java:254:wrap:0,3$if (isNaN != null && divisor.isNaN != null) {
+src/main/java/org/apache/commons/math/complex/Complex.java:160:wrap:0,3$if (isNaN != null && addend.isNaN != null) {
+src/main/java/org/apache/commons/math/complex/Complex.java:493:wrap:0,3$if (isNaN != null && subtrahend.isNaN != null) {
+src/main/java/org/apache/commons/math/complex/Complex.java:422:wrap:0,3$if (isNaN != null && factor.isNaN != null) {

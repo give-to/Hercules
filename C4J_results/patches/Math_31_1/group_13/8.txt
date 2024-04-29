@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math3/distribution/BinomialDistribution.java:137:replace:0,1$return numberOfTrials;
+src/main/java/org/apache/commons/math3/distribution/BinomialDistribution.java:149:replace:0,1$return numberOfTrials;

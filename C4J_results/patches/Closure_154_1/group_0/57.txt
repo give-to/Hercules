@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/PrototypeObjectType.java:448:replace:0,3$if (isNative().isSubtype(that)) {return true;}

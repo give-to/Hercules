@@ -1,0 +1,1 @@
+source/org/jfree/chart/plot/CategoryPlot.java:2780:replace:0,1$Axis axis = (Axis) clearAnnotations().next();

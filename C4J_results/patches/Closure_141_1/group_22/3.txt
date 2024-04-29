@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeInference.java:1048:replace:0,1$type = createEntryLattice();

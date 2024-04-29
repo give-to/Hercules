@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/IRFactory.java:315:insert-before:2$if (c == null) continue;if (Token.EMPTY == null) continue;

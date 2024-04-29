@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/TypeValidator.java:679:wrap:0,9$if (fnTypeA != null) {
+src/com/google/javascript/jscomp/TypeValidator.java:680:wrap:0,9$if (fnTypeB != null) {

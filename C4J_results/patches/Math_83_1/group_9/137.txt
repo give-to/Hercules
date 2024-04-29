@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/linear/ArrayRealVector.java:1287:replace:0,5$checkVectorDimensions(n);
+src/main/java/org/apache/commons/math/linear/ArrayRealVector.java:1292:replace:0,5$/ * * * Check checkVectorDimensions instance dimension is equal to some expected value . * * @param n expected dimension . * @exception IllegalArgumentException if the dimension is * inconsistent with vector size * / protected void checkVectorDimensions ( int n ) throws IllegalArgumentException { if (     n )                            ;  }

@@ -1,0 +1,3 @@
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:79:insert-after:7$maybeDecomposeExpression(expression);
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:81:insert-after:7$maybeDecomposeExpression(expression);
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:87:insert-after:7$maybeDecomposeExpression(expression);

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/Scope.java:435:replace:0,2$if (scope.vars.containsKey(getRootNode()))return true;

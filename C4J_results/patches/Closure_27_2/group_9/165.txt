@@ -1,0 +1,3 @@
+src/com/google/javascript/rhino/Node.java:2205:insert-before:0$if (Token.CATCH == null) {return false;}
+src/com/google/javascript/rhino/Node.java:2189:insert-before:0$if (Token.BLOCK == null) {return false;}
+src/com/google/javascript/rhino/Node.java:2297:insert-before:0$if (Token.NAME == null) {return false;}

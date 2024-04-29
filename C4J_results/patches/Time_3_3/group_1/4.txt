@@ -1,0 +1,2 @@
+src/main/java/org/joda/time/MutableDateTime.java:702:replace:0,1$setChronology(getChronology().months().add(getMillis(), months));
+src/main/java/org/joda/time/MutableDateTime.java:785:replace:0,1$setChronology ( getChronology ( ) . hours ( ) . add ( getMillis ( ) , hours ) ) ;

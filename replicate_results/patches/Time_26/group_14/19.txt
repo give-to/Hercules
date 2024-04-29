@@ -1,0 +1,2 @@
+src/main/java/org/joda/time/tz/CachedDateTimeZone.java:214:replace:0,6$if (millis < iNextInfo.iPeriodStart) {if (iStandardOffset == Integer.MIN_VALUE) {iStandardOffset = iZoneRef.getStandardOffset(iPeriodStart);}return iStandardOffset;}
+src/main/java/org/joda/time/tz/CachedDateTimeZone.java:215:replace:0,6$if (millis < iNextInfo.iPeriodStart) {if (iStandardOffset == Integer.MIN_VALUE) {iStandardOffset = iZoneRef.getStandardOffset(iPeriodStart);}return iStandardOffset;}

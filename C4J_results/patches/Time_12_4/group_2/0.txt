@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/LocalDate.java:1805:insert-before:0$if (ISODateTimeFormat.date() == null) return null;

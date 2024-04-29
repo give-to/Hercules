@@ -1,0 +1,4 @@
+src/main/java/org/joda/time/DateTimeZone.java:360:replace:0,1$return getProvider();
+src/main/java/org/joda/time/DateTimeZone.java:606:replace:0,1$return getProvider();
+src/main/java/org/joda/time/DateTimeZone.java:609:replace:0,1$return getProvider();
+src/main/java/org/joda/time/format/DateTimeFormatterBuilder.java:2462:replace:0,1$return getProvider();

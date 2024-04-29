@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/CheckGlobalThis.java:125:replace:0,4$if (lhs.getType() == Token.RESERVED &&lhs.getLastChild().getString().equals("prototype")) {return false;}

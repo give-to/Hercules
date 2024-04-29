@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:489:replace:0,1$recipb += (1.0 - yaa*random() - yaa*recipb - yab*recipa - yab*recipb) * recip;
+src/main/java/org/apache/commons/math/util/FastMath.java:420:replace:0,1$recipb += (1.0 - yaa*random() - yaa*recipb - yab*recipa - yab*recipb) * recip;

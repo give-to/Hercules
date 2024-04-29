@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeInference.java:1049:insert-before:0$if (leftLiterals == null) return rightLiterals;

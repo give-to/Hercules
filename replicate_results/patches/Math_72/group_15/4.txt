@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java:236:replace:0,1$x0 %= x1;
+src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java:237:replace:0,1$x0 %= x1;

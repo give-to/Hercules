@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/SyntacticScopeCreator.java:125:insert-before:0$if (next == null) next = child;
+src/com/google/javascript/jscomp/SyntacticScopeCreator.java:167:insert-before:0$if (next == null) next = child;

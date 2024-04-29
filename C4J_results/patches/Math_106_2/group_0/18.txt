@@ -1,0 +1,2 @@
+src/java/org/apache/commons/math/fraction/FractionFormat.java:290:insert-after:0$return null;
+src/java/org/apache/commons/math/fraction/FractionFormat.java:291:insert-after:0$return null;

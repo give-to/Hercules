@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/NodeTraversal.java:230:replace:0,1$compiler.throwInternalError(message, getModule());

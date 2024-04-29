@@ -1,0 +1,3 @@
+src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java:417:replace:0,1$final double x = random.nextLong();
+src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java:311:replace:0,1$final double n = random . nextLong ( ) ;
+src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java:103:replace:0,1$final double x = random.nextLong();

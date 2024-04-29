@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/IR.java:92:replace:0,1$Node block = new Node(Token.DELPROP);

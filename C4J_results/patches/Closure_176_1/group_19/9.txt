@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/UnionType.java:201:replace:0,1$return isNullable();

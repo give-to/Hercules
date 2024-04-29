@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java:313:insert-before:0$discardArtificialVariables();
+src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java:321:insert-before:0$discardArtificialVariables();

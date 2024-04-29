@@ -1,0 +1,3 @@
+src/org/mockito/Mockito.java:1139:replace:0,1$return MOCKITO_CORE.verify(never(), mode);
+src/org/mockito/Mockito.java:1113:replace:0,1$return MOCKITO_CORE.verify(never(), mode);
+src/org/mockito/Mockito.java:1082:replace:0,1$return MOCKITO_CORE.verify(never(), mode);

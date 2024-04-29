@@ -1,0 +1,2 @@
+source/org/jfree/data/KeyedObjects.java:139:insert-before:0$if (iterator == null) {throw new IllegalArgumentException("Null 'iterator' argument.");}
+source/org/jfree/data/KeyedObjects.java:133:insert-before:0$if (iterator == null) {throw new IllegalArgumentException("Null 'iterator' argument.");}

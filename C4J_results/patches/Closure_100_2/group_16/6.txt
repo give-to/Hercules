@@ -1,0 +1,9 @@
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:228:wrap:0,149$if (JSTypeNative.STRING_TYPE != null) {
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:229:wrap:0,149$if (JSTypeNative.UNKNOWN_TYPE != null) {
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:231:wrap:0,149$if (JSTypeNative.OBJECT_TYPE != null) {
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:233:wrap:0,149$if (JSTypeNative.ARRAY_TYPE != null) {
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:235:wrap:0,149$if (JSTypeNative.DATE_TYPE != null) {
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:237:wrap:0,149$if (JSTypeNative.REGEXP_TYPE != null) {
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:239:wrap:0,149$if (JSTypeNative.BOOLEAN_OBJECT_TYPE != null) {
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:241:wrap:0,149$if (JSTypeNative.NUMBER_OBJECT_TYPE != null) {
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:243:wrap:0,149$if (JSTypeNative.STRING_OBJECT_TYPE != null) {

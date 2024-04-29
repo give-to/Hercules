@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/TypeCheck.java:882:insert-before:0$if (rvalue == null) {throw new IllegalArgumentException("Null 'rvalue' argument.");}
+src/com/google/javascript/jscomp/TypeInference.java:709:insert-before:0$if (name.getFirstChild() == null) {throw new IllegalArgumentException("Null 'rvalue' argument.");}

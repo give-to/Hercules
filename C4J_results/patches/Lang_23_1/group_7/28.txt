@@ -1,0 +1,3 @@
+src/main/java/org/apache/commons/lang3/text/ExtendedMessageFormat.java:158:insert-before:0$if (pos == null) pos = new ParsePosition();
+src/main/java/org/apache/commons/lang3/text/ExtendedMessageFormat.java:159:insert-before:0$if (pos == null) pos = new ParsePosition();
+src/main/java/org/apache/commons/lang3/text/ExtendedMessageFormat.java:209:insert-before:0$if (pos == null) pos = new ParsePosition();

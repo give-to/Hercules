@@ -1,0 +1,1 @@
+source/org/jfree/chart/axis/Axis.java:1122:insert-before:0$setTickLabelInsets(insets);

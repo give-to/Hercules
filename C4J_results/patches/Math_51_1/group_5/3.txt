@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/exception/MathIllegalStateException.java:46:replace:0,1$context.addMessage(args);
+src/main/java/org/apache/commons/math/exception/MaxCountExceededException.java:54:replace:0,1$getContext ( ) . addMessage (   max , args ) ;

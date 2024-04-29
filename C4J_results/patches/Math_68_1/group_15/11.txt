@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:591:replace:0,1$work1[this.solvedCols] /= work2[j];

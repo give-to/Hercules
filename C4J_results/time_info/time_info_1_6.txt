@@ -1,0 +1,8 @@
+Closure_138_1:
+Generation Time: 17.25min
+Validation Time: 283.17min
+Total Time: 300.42min
+Time_8_2:
+Generation Time: 15.02min
+Validation Time: 177.7min
+Total Time: 192.71min

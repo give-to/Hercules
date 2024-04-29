@@ -1,0 +1,1 @@
+src/java/org/apache/commons/lang/time/FastDateFormat.java:1717:insert-before:0$if (obj == null) {return true;}

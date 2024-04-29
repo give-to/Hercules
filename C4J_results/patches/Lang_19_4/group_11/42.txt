@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java:40:insert-before:0$if (input == null) input = new CharSequence();
+src/main/java/org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java:31:insert-before:0$if (input == null) input = new CharSequence();

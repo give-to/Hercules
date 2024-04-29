@@ -1,0 +1,165 @@
+group_20/3.txt:Fail
+group_20/2.txt:Fail
+group_20/1.txt:Fail
+group_20/0.txt:Build Error
+group_20/4.txt:Fail
+group_14/2.txt:Fail
+group_20/10.txt:Build Error
+group_20/12.txt:Fail
+group_20/15.txt:Fail
+group_20/13.txt:Build Error
+group_20/11.txt:Fail
+group_20/14.txt:Fail
+group_25/8.txt:Fail
+group_25/3.txt:Fail
+group_25/2.txt:Fail
+group_25/1.txt:Fail
+group_25/10.txt:Fail
+group_25/12.txt:Fail
+group_25/4.txt:Build Error
+group_25/9.txt:Fail
+group_25/15.txt:Fail
+group_25/13.txt:Fail
+group_25/5.txt:Fail
+group_25/11.txt:Fail
+group_25/14.txt:Fail
+group_25/7.txt:Fail
+group_25/6.txt:Fail
+group_16/5.txt:Build Error
+group_1/0.txt:Fail
+group_5/17.txt:Build Error
+group_5/19.txt:Build Error
+group_5/18.txt:Fail
+group_5/16.txt:Fail
+group_5/20.txt:Fail
+group_5/14.txt:Fail
+group_5/2.txt:Build Error
+group_5/1.txt:Build Error
+group_5/0.txt:Build Error
+group_12/2.txt:Build Error
+group_5/5.txt:Build Error
+group_5/7.txt:Build Error
+group_5/6.txt:Build Error
+group_11/1.txt:Build Error
+group_14/1.txt:Build Error
+group_14/0.txt:Build Error
+group_16/7.txt:Fail
+group_19/5.txt:Fail
+group_22/3.txt:Fail
+group_22/177.txt:Fail
+group_22/38.txt:Fail
+group_22/96.txt:Fail
+group_22/76.txt:Fail
+group_22/199.txt:Fail
+group_22/184.txt:Fail
+group_22/147.txt:Fail
+group_22/135.txt:Fail
+group_22/175.txt:Fail
+group_22/165.txt:Fail
+group_22/105.txt:Fail
+group_22/174.txt:Fail
+group_22/121.txt:Fail
+group_22/74.txt:Fail
+group_22/114.txt:Fail
+group_22/193.txt:Fail
+group_22/151.txt:Fail
+group_22/119.txt:Fail
+group_22/81.txt:Fail
+group_22/158.txt:Fail
+group_22/128.txt:Fail
+group_22/71.txt:Fail
+group_22/156.txt:Fail
+group_22/118.txt:Fail
+group_22/23.txt:Fail
+group_22/78.txt:Fail
+group_22/179.txt:Fail
+group_22/102.txt:Fail
+group_22/62.txt:Fail
+group_22/92.txt:Fail
+group_22/77.txt:Fail
+group_22/159.txt:Fail
+group_22/8.txt:Fail
+group_22/73.txt:Fail
+group_22/150.txt:Fail
+group_22/48.txt:Fail
+group_22/171.txt:Fail
+group_22/55.txt:Fail
+group_22/34.txt:Fail
+group_22/188.txt:Fail
+group_22/43.txt:Fail
+group_22/182.txt:Fail
+group_22/31.txt:Fail
+group_22/37.txt:Fail
+group_22/22.txt:Fail
+group_22/189.txt:Fail
+group_22/123.txt:Fail
+group_22/40.txt:Fail
+group_22/144.txt:Fail
+group_22/83.txt:Fail
+group_22/140.txt:Fail
+group_22/160.txt:Fail
+group_22/169.txt:Fail
+group_22/88.txt:Fail
+group_22/142.txt:Fail
+group_22/56.txt:Fail
+group_22/18.txt:Fail
+group_22/25.txt:Fail
+group_22/47.txt:Fail
+group_22/131.txt:Fail
+group_22/163.txt:Fail
+group_22/32.txt:Fail
+group_22/54.txt:Fail
+group_22/36.txt:Fail
+group_22/127.txt:Fail
+group_22/39.txt:Fail
+group_22/148.txt:Fail
+group_22/162.txt:Fail
+group_22/69.txt:Fail
+group_22/51.txt:Fail
+group_22/27.txt:Fail
+group_22/181.txt:Fail
+group_22/84.txt:Fail
+group_22/191.txt:Fail
+group_22/145.txt:Fail
+group_22/16.txt:Fail
+group_22/198.txt:Fail
+group_22/99.txt:Fail
+group_22/139.txt:Fail
+group_22/136.txt:Fail
+group_22/126.txt:Fail
+group_22/104.txt:Fail
+group_22/52.txt:Fail
+group_22/124.txt:Fail
+group_22/97.txt:Fail
+group_22/17.txt:Fail
+group_22/65.txt:Fail
+group_22/120.txt:Fail
+group_22/20.txt:Fail
+group_22/196.txt:Fail
+group_22/101.txt:Fail
+group_22/138.txt:Fail
+group_22/108.txt:Fail
+group_22/10.txt:Fail
+group_22/12.txt:Fail
+group_22/45.txt:Fail
+group_22/153.txt:Fail
+group_22/106.txt:Fail
+group_22/110.txt:Fail
+group_22/137.txt:Fail
+group_22/63.txt:Fail
+group_22/197.txt:Fail
+group_22/111.txt:Fail
+group_22/94.txt:Fail
+group_22/58.txt:Fail
+group_22/28.txt:Fail
+group_22/75.txt:Fail
+group_22/59.txt:Fail
+group_22/9.txt:Fail
+group_22/132.txt:Fail
+group_22/53.txt:Fail
+group_22/70.txt:Fail
+group_22/33.txt:Fail
+group_22/19.txt:Fail
+group_22/72.txt:Fail
+group_22/103.txt:Fail
+group_22/116.txt:Fail

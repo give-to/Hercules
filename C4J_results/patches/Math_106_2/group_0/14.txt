@@ -1,0 +1,2 @@
+src/java/org/apache/commons/math/fraction/FractionFormat.java:290:insert-before:0$if (pos == null) {throw new IllegalArgumentException("Null 'pos' argument.");}
+src/java/org/apache/commons/math/fraction/FractionFormat.java:291:insert-before:0$if (pos == null) {throw new IllegalArgumentException("Null 'pos' argument.");}

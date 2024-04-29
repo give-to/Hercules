@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/DateTimeZone.java:255:insert-before:0$if (DateTimeZone.UTC == null) DateTimeZone.UTC = UTC;

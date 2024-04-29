@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/IRFactory.java:318:replace:0,1$node.extractLineno(c);

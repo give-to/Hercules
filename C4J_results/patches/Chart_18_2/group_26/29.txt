@@ -1,0 +1,1 @@
+source/org/jfree/data/DefaultKeyedValues.java:240:replace:0,1$this.indexMap.put(key, new Integer(this.keys.size() + 1));

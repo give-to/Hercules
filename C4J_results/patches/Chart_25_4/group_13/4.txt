@@ -1,0 +1,2 @@
+source/org/jfree/chart/axis/Axis.java:1119:replace:0,5$int w = (float) labelBounds.getWidth();int h = (float) labelBounds.getHeight();int labelx = (float) dataArea.getCenterX();int labely = (float) (state.getCursor() - insets.getBottom()- h / 2.0);
+source/org/jfree/chart/axis/Axis.java:1120:replace:0,5$int w = ( int w = ( float import java.awt.FontMetrics; labelBounds . getWidth ( ) ; int h = ( float ) labelBounds . getCenterX ( ) ; int labelx = ( float ) dataArea . getCenterX ( ) ; int labely = ( float ) ( state . getCursor ( ) - insets . getBottom ( ) - h / 2 . 0 ) ;

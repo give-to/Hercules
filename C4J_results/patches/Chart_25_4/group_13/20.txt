@@ -1,0 +1,2 @@
+source/org/jfree/chart/axis/Axis.java:1119:replace:0,1$float w = (float) getLabelToolTip().getWidth();
+source/org/jfree/chart/axis/Axis.java:1120:replace:0,1$float h = ( float ) getLabelToolTip ( ) . getHeight ( ) ;

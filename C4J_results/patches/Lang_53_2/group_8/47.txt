@@ -1,0 +1,1 @@
+src/java/org/apache/commons/lang/time/DateUtils.java:621:replace:0,3$if ((val.get(Calendar.YEAR) > 280000000) || !(fields[i][0] == Calendar.HOUR_OF_DAY)) {throw new ArithmeticException("Calendar value too large for accurate calculations");}

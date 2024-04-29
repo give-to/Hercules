@@ -1,0 +1,4 @@
+src/main/java/org/apache/commons/math3/exception/MathIllegalStateException.java:74:insert-before:0$if (context == null) return new ExceptionContext();
+src/main/java/org/apache/commons/math3/optimization/linear/SimplexSolver.java:151:insert-before:0$if (context == null) return new ExceptionContext();
+src/main/java/org/apache/commons/math3/optimization/linear/SimplexSolver.java:124:insert-before:0$if (context == null) return new ExceptionContext();
+src/main/java/org/apache/commons/math3/util/Precision.java:115:insert-before:0$if (context == null) return new ExceptionContext();

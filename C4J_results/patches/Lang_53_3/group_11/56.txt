@@ -1,0 +1,2 @@
+src/java/org/apache/commons/lang/time/DateUtils.java:652:replace:0,3$if ((field == Calendar.MINUTE) && !(field == DateUtils.SEMI_MONTH)) {done = true;}
+src/java/org/apache/commons/lang/time/DateUtils.java:643:replace:0,3$if ( ( field == Calendar . SECOND ) && ! ( field == DateUtils . SEMI_MONTH ) ) { done = true ; }

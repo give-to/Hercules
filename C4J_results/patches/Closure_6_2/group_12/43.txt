@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/FunctionType.java:928:insert-before:0$setStruct();

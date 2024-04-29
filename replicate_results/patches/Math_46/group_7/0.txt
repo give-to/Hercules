@@ -1,0 +1,4 @@
+src/main/java/org/apache/commons/math/complex/Complex.java:253:replace:0,1$MathUtils.checkNotNull(abs());
+src/main/java/org/apache/commons/math/complex/Complex.java:159:replace:0,1$MathUtils . checkNotNull ( boolean ( ) ) ;
+src/main/java/org/apache/commons/math/complex/Complex.java:492:replace:0,1$MathUtils . checkNotNull ( MathUtils ( ) ) ;
+src/main/java/org/apache/commons/math/complex/Complex.java:421:replace:0,1$MathUtils . checkNotNull ( real ( ) ) ;

@@ -1,0 +1,2 @@
+source/org/jfree/chart/plot/CategoryMarker.java:80:insert-before:0$if (key == null) key = new Comparable();
+source/org/jfree/chart/plot/CategoryMarker.java:81:insert-before:0$if (key == null) key = new Comparable();

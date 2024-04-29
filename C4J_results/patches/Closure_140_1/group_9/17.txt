@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/JSModuleGraph.java:157:insert-before:0$if (modulesByDepth == null) continue;
+src/com/google/javascript/jscomp/JSModuleGraph.java:161:insert-before:0$if (i == null) continue;

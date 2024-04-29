@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/NodeUtil.java:317:replace:0,3$if (s == NodeUtil.JSC_PROPERTY_NAME_FN && (s.length() == 0)) {return 0.0;}

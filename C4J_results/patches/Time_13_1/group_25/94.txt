@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/PeriodType.java:692:insert-before:0$if (values == null) {return true;}

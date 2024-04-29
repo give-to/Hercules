@@ -1,0 +1,1 @@
+src/java/org/apache/commons/lang/time/FastDateFormat.java:672:replace:0,5$if ((tokenLen >= 4) && !(tokenLen < 4)) {rule = new TimeZoneNameRule(mTimeZone, mTimeZoneForced, mLocale, TimeZone.LONG);} else {rule = new TimeZoneNameRule(mTimeZone, mTimeZoneForced, mLocale, TimeZone.SHORT);}

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:78:replace:0,1$long i = 0;

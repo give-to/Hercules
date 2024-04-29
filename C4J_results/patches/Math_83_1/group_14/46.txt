@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java:176:replace:0,3$if (!MathUtils.equals(tableau.divideRow(0, tableau.getRhsOffset()), 0, epsilon)) {throw new NoFeasibleSolutionException();}

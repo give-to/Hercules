@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/SemanticReverseAbstractInterpreter.java:50:wrap:0,3$if (p.typeA != null && p.typeB != null) {
+src/com/google/javascript/jscomp/SemanticReverseAbstractInterpreter.java:63:wrap:0,3$if (p.typeA != null && p.typeB != null) {

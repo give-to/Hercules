@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/random/RandomDataGenerator.java:725:replace:0,1$rand = new Well19937c(System.currentTimeMillis() + System.identityHashCode(this), this.rand);

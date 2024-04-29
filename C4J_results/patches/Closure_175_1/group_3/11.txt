@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/FunctionArgumentInjector.java:74:insert-before:0$if (replacement == null) return replacementTemplate;

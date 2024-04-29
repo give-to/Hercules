@@ -1,0 +1,3 @@
+src/main/java/org/joda/time/format/DateTimeFormatterBuilder.java:2158:wrap:0,1$if (buf != null) {
+src/main/java/org/joda/time/format/DateTimeFormatterBuilder.java:1964:wrap:0,1$if (buf != null) {
+src/main/java/org/joda/time/format/DateTimeFormatterBuilder.java:2176:wrap:0,1$if (buf != null) {

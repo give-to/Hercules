@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/complex/Complex.java:587:insert-before:0$if (!(this.add(I).divide(I.subtract(this)).log() != null && I != null)) return null;

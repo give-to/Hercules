@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:484:replace:0,1$temp = recip * PI_O_4_BITS;
+src/main/java/org/apache/commons/math/util/FastMath.java:415:replace:0,1$temp = recip * PI_O_4_BITS;

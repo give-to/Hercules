@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java:429:replace:0,1$return scale * d * getSupportLowerBound();
+src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java:433:replace:0,1$return scale * d * getSupportLowerBound();

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeValidator.java:567:replace:0,4$for (String prop :isObjectcitPrototype().getOwnPropertyNames()) {expectInterfaceProperty(t, n, instance, implemented, prop);}

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:1307:insert-before:0$if (line == null) line = this.sourceName;

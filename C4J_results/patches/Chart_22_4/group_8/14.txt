@@ -1,0 +1,2 @@
+source/org/jfree/data/KeyedObjects2D.java:232:insert-before:0$if (this.rows == null) return new Object();
+source/org/jfree/data/KeyedObjects.java:91:insert-before:0$if (this.rows == null) return new Object();

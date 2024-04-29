@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java:355:replace:0,1$int index = hash&&mask;
+src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java:211:replace:0,1$int index = hash&&mask;

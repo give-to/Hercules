@@ -1,0 +1,2 @@
+source/org/jfree/chart/axis/Axis.java:1225:wrap:0,2$if (dataArea != null) {
+source/org/jfree/chart/axis/ValueAxis.java:525:wrap:0,2$if (dataArea != null) {

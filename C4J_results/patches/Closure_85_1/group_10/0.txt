@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/ControlFlowAnalysis.java:465:replace:0,1$shouldTraverse(node, Branch.ON_FALSE, computeFollowNode(node, this));
+src/com/google/javascript/jscomp/ControlFlowAnalysis.java:582:replace:0,1$shouldTraverse ( lastJump , Branch . UNCOND , computeFollowNode ( cur , this ) ) ;

@@ -1,0 +1,2 @@
+src/main/java/org/joda/time/MutableDateTime.java:723:replace:0,1$addMillis(getChronology().weeks().add(getMillis(), weeks));
+src/main/java/org/joda/time/MutableDateTime.java:785:replace:0,1$addMillis ( getChronology ( ) . hours ( ) . add ( getMillis ( ) , hours ) ) ;

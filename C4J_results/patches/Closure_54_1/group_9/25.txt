@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/TypeInference.java:572:insert-before:0$if (rightType == null) rightType = new JSType();
+src/com/google/javascript/jscomp/TypeInference.java:715:insert-before:0$if (valueType == null) valueType = new JSType();

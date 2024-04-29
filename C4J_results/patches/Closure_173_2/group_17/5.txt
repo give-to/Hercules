@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/PeepholeSubstituteAlternateSyntax.java:206:replace:0,8$if (isASTNormalized()&& NodeUtil.isUndefined(n)) {Node replacement = NodeUtil.newUndefinedNode(n);n.getParent().replaceChild(n, replacement);reportCodeChange();return replacement;}

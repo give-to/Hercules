@@ -1,0 +1,1 @@
+src/java/org/apache/commons/math/util/MathUtils.java:350:insert-before:0$if (!(factorials != null && factorials[n] != null)) return 0;

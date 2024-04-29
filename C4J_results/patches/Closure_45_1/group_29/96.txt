@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:941:replace:0,5$if (first == null || first.getType() != Node.SIDE_EFFECTS_ALL) {sb.append("<invalid>");} else {sb.append(first.getString());}

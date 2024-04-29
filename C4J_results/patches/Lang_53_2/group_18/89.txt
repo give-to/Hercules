@@ -1,0 +1,1 @@
+src/java/org/apache/commons/lang/time/DateUtils.java:659:replace:0,3$if (minutes == RANGE_WEEK_SUNDAY || (!done && (!round || minutes < 30))) {time = time - (minutes * 60000L);}

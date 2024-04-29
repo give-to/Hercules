@@ -1,0 +1,1 @@
+src/java/org/apache/commons/math/fraction/FractionFormat.java:244:insert-before:0$if (source == null) source = new String();

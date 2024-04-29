@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/PeepholeFoldConstants.java:157:replace:0,1$Preconditions.checkArgument(originalTypeofNode.getType() == Token.DELPROP);

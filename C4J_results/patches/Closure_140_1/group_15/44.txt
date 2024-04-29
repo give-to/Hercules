@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/CrossModuleCodeMotion.java:130:wrap:0,4$if (declParent != null) {
+src/com/google/javascript/jscomp/CrossModuleCodeMotion.java:133:wrap:0,4$if (declParent != null) {

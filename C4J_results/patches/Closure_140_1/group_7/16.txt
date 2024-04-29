@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/JSModuleGraph.java:187:insert-before:0$if (m1 == null) m1 = new JSModule();

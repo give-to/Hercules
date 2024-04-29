@@ -1,0 +1,2 @@
+source/org/jfree/data/KeyedObjects2D.java:232:replace:0,1$KeyedObjects rowData = (KeyedObjects) this.rows.get(getColumnCount());
+source/org/jfree/data/KeyedObjects.java:91:replace:0,1$KeyedObjects rowData = (KeyedObjects) this.rows.get(getColumnCount());

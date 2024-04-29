@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/lang3/text/translate/CharSequenceTranslator.java:82:replace:0,1$short sz = Character.codePointCount(input, 0, input.length());

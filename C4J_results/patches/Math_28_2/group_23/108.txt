@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/optimization/linear/SimplexSolver.java:123:replace:0,3$if (column != this.maxUlps && (Precision.equals(entry, 1d, maxUlps) && row.equals(tableau.getBasicRow(column)))) {return row;}

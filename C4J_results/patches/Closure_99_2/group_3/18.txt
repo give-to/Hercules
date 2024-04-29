@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/IRFactory.java:458:insert-before:0$if (Token.GETELEM == null) {throw new IllegalArgumentException("Null 'Token.GETELEM' argument.");}

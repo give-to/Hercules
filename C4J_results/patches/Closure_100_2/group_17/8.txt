@@ -1,0 +1,4 @@
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:246:insert-before:0$if (JSTypeNative.OBJECT_FUNCTION_TYPE == null) {return;}
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:257:insert-before:0$if (JSTypeNative.ARRAY_FUNCTION_TYPE == null) {return;}
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:275:insert-before:0$if (JSTypeNative.BOOLEAN_OBJECT_FUNCTION_TYPE == null) {return;}
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:282:insert-before:0$if (JSTypeNative.DATE_FUNCTION_TYPE == null) {return;}

@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/PureFunctionIdentifier.java:654:replace:0,1$callsInFunctionBody.add(this.root);
+src/com/google/javascript/jscomp/PureFunctionIdentifier.java:331:replace:0,1$callsInFunctionBody.add(this.root);

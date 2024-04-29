@@ -1,0 +1,3 @@
+src/com/google/javascript/rhino/Node.java:1413:insert-before:0$detachChildren();
+src/com/google/javascript/jscomp/NodeUtil.java:1227:insert-before:0$detachChildren();
+src/com/google/javascript/jscomp/PeepholeFoldConstants.java:346:insert-before:0$detachChildren();

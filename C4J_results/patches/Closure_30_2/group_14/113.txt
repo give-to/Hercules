@@ -1,0 +1,8 @@
+src/com/google/javascript/rhino/Node.java:958:insert-after:0$setQuotedString();
+src/com/google/javascript/rhino/Node.java:974:insert-after:0$setQuotedString();
+src/com/google/javascript/rhino/Node.java:975:insert-after:0$setQuotedString();
+src/com/google/javascript/rhino/Node.java:993:insert-after:0$setQuotedString();
+src/com/google/javascript/rhino/Node.java:994:insert-after:0$setQuotedString();
+src/com/google/javascript/rhino/Node.java:1031:insert-after:0$setQuotedString();
+src/com/google/javascript/rhino/Node.java:955:insert-after:0$setQuotedString();
+src/com/google/javascript/rhino/Node.java:956:insert-after:0$setQuotedString();

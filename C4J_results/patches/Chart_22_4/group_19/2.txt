@@ -1,0 +1,2 @@
+source/org/jfree/data/KeyedObject.java:94:insert-before:0$if (this.object == null) {throw new IllegalArgumentException("Null 'this.object' argument.");}
+source/org/jfree/data/KeyedObject.java:85:insert-before:0$if (this.object == null) {throw new IllegalArgumentException("Null 'this.object' argument.");}

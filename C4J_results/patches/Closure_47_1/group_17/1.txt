@@ -1,0 +1,1 @@
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:674:replace:0,1$Integer index = originalNameMap.get(this.lastSourceFile);

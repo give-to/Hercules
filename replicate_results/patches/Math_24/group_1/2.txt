@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/util/MathArrays.java:229:replace:0,3$final float max = val.length;float index;

@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:1371:insert-before:0$if (node2 == null) node2 = this.next;

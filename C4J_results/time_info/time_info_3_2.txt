@@ -1,0 +1,8 @@
+Lang_23_1:
+Generation Time: 3.85min
+Validation Time: 144.46min
+Total Time: 148.31min
+Closure_85_1:
+Generation Time: 31.2min
+Validation Time: 269.38min
+Total Time: 300.58min

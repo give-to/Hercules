@@ -1,0 +1,1 @@
+src/org/mockito/internal/MockitoCore.java:66:insert-before-after:0,0$Object _tempVar = stub();if (_temVar instanceof OngoingStubbing) {<#>} else {throw new IllegalArgumentException("Illegal argument: stub()");}

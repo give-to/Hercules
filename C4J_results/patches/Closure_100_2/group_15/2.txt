@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:226:wrap:0,152$if (registry != null) {
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:227:wrap:0,152$if (registry != null) {

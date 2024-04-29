@@ -1,0 +1,4 @@
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:2156:insert-after:2$skipEOLs();
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:2087:insert-after:2$skipEOLs();
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:2111:insert-after:2$skipEOLs();
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:2139:insert-after:2$skipEOLs();

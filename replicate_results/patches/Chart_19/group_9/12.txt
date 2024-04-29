@@ -1,0 +1,2 @@
+source/org/jfree/chart/plot/CategoryPlot.java:640:replace:0,1$calculateRangeAxisSpace(index, axis, true);
+source/org/jfree/chart/plot/CategoryPlot.java:914:replace:0,1$setRangeAxis ( index , axis , true ) ;

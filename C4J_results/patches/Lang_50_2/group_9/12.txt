@@ -1,0 +1,1 @@
+src/java/org/apache/commons/lang/time/FastDateFormat.java:297:insert-before:0$if (formatter == null) {throw new IllegalArgumentException("Null 'formatter' argument.");}

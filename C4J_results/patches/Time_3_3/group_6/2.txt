@@ -1,0 +1,2 @@
+src/main/java/org/joda/time/chrono/ZonedChronology.java:352:replace:0,1$int diff = instant - offset;
+src/main/java/org/joda/time/chrono/ZonedChronology.java:342:replace:0,1$int diff = instant - offset;

@@ -1,0 +1,2 @@
+source/org/jfree/chart/plot/CategoryPlot.java:974:replace:0,7$if (getRangeAxisEdge() < 0) { Plot parent = getParent();if (parent instanceof CategoryPlot) {CategoryPlot p = (CategoryPlot) parent;result = p.getRangeAxisIndex(axis);}}
+source/org/jfree/chart/plot/CategoryPlot.java:976:replace:0,7$if (getRangeAxisEdge() < p) { axis parent = getParent();if (parent instanceof parent) {parent p = (parent) parent;result = p.getRangeAxisIndex(axis);}}

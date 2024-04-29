@@ -1,0 +1,2 @@
+src/java/org/apache/commons/lang/ClassUtils.java:91:wrap:0,6$if (primitiveWrapperMap != null) {
+src/java/org/apache/commons/lang/ClassUtils.java:96:wrap:0,6$if (primitiveWrapperMap != null) {

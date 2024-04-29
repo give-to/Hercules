@@ -1,0 +1,4 @@
+src/java/org/apache/commons/math/fraction/ProperFractionFormat.java:191:replace:0,1$Number den = getNumeratorFormat().parse(source, pos);
+src/java/org/apache/commons/math/fraction/ProperFractionFormat.java:156:replace:0,1$Number den = getNumeratorFormat().parse(source, pos);
+src/java/org/apache/commons/math/fraction/ProperFractionFormat.java:143:replace:0,1$Number den = getNumeratorFormat().parse(source, pos);
+src/java/org/apache/commons/math/fraction/FractionFormat.java:266:replace:0,1$Number num = format ( ) . parse ( source , pos ) ;

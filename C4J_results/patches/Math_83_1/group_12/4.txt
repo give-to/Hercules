@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java:133:replace:0,3$if (MathUtils.compareTo(tableau.getEntry(0, i), 0, epsilon)>=0) {return false;}
+src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java:150:replace:0,3$if (MathUtils.compareTo(tableau.getEntry(0, i), 0, epsilon)>=0) {return false;}

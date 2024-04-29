@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/FunctionInjector.java:208:replace:0,1$return canInlineReferenceDirectly(callNode);
+src/com/google/javascript/jscomp/FunctionInjector.java:245:replace:0,1$return inlineReturnValue ( callNode   ) ;

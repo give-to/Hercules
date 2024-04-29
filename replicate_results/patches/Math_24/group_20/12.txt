@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/analysis/function/StepFunction.java:84:replace:0,1$int index = Arrays.binarySearch(this.ordinate, index);

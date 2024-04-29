@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeValidator.java:681:replace:0,4$while (paramItB.hasNext()) {registerIfMismatch(paramItA.next().getJSType(),paramItB.next().getJSType(), error);}

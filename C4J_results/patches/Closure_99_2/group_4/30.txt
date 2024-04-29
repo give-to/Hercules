@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/PrepareAst.java:173:replace:0,1$fnInfo = parent.getLastSibling();
+src/com/google/javascript/jscomp/CheckGlobalThis.java:173:replace:0,1$jsDoc = parent . getLastSibling ( ) ;

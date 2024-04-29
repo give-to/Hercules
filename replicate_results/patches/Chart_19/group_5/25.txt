@@ -1,0 +1,2 @@
+source/org/jfree/chart/plot/CategoryPlot.java:661:replace:0,1$configureRangeAxes().configure();
+source/org/jfree/chart/plot/CategoryPlot.java:935:replace:0,1$configureRangeAxes().configure();

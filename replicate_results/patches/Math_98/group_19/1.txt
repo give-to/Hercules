@@ -1,0 +1,1 @@
+src/java/org/apache/commons/math/linear/BigMatrixImpl.java:70:insert-before:0$if (BigDecimal.ROUND_HALF_UP == null) BigDecimal.ROUND_HALF_UP = new null();

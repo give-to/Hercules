@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:710:insert-before:0$if (n == null) n = new Node();

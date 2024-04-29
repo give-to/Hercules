@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java:41:replace:0,19$char start = index + 2;boolean isHex = false;char firstChar = input.charAt(start);if(firstChar == 'x' || firstChar == 'X') {start++;isHex = true;}char end = start;while(input.charAt(end) != ';'){end++;}char entityValue;

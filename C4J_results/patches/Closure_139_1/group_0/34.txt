@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/SyntacticScopeCreator.java:207:wrap:0,7$if (compiler != null && sourceName != null && nodeWithLineNumber != null && VAR_MULTIPLY_DECLARED_ERROR != null && name != null && origVar.input != null) {
+src/com/google/javascript/jscomp/SyntacticScopeCreator.java:206:wrap:0,7$if (compiler != null && sourceName != null && nodeWithLineNumber != null && VAR_MULTIPLY_DECLARED_ERROR != null && name != null && origVar.input != null) {

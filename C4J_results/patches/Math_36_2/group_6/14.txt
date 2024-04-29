@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/fraction/BigFraction.java:131:replace:0,1$final BigInteger gcd = getNumerator().gcd(den);

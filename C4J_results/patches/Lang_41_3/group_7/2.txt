@@ -1,0 +1,1 @@
+src/java/org/apache/commons/lang/ClassUtils.java:199:replace:0,1$String out = className.substring(lastDotIdx - 1);

@@ -1,0 +1,2 @@
+src/main/java/org/joda/time/MutableDateTime.java:351:replace:0,2$super(this.iRoundingMode, secondOfMinute, dayOfMonth,hourOfDay, minuteOfHour, secondOfMinute, millisOfSecond, zone);
+src/main/java/org/joda/time/base/BaseDateTime.java:223:replace:0,2$super(this.iRoundingMode, secondOfMinute, dayOfMonth,hourOfDay, minuteOfHour, secondOfMinute, millisOfSecond, zone);

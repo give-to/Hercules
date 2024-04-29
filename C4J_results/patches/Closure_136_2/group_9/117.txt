@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:811:replace:0,1$hasSideEffects()[count] = x.type;

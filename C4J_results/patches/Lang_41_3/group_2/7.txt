@@ -1,0 +1,1 @@
+src/java/org/apache/commons/lang/ClassUtils.java:200:replace:0,3$if (innerIdx == lastDotIdx && (innerIdx != -1)) {out = out.replace(INNER_CLASS_SEPARATOR_CHAR, PACKAGE_SEPARATOR_CHAR);}

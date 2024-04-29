@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/jstype/PrototypeObjectType.java:387:insert-after:14$collectPropertyNames(propertyNames);
+src/com/google/javascript/rhino/jstype/PrototypeObjectType.java:373:insert-after:14$collectPropertyNames(propertyNames);

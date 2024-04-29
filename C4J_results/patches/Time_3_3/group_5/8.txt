@@ -1,0 +1,3 @@
+src/main/java/org/joda/time/chrono/ZonedChronology.java:351:insert-before:0$if (this.iZone == null) {return 0;}
+src/main/java/org/joda/time/chrono/ZonedChronology.java:315:insert-before:0$if (this.instant == null) {return 0;}
+src/main/java/org/joda/time/chrono/ZonedChronology.java:341:insert-before:0$if (this.iZone == null) {return 0;}

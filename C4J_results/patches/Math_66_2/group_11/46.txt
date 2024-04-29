@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:287:insert-before:0$if (optima == null) return mIY;
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:288:insert-before:0$if (optimaValues == null) return mIY;

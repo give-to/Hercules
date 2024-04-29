@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeCheck.java:1067:replace:0,6$if (!rvalueType.getPossibleToBooleanOutcomes() &&!(rvalue.isQualifiedName() &&rvalue.getQualifiedName().equals(abstractMethodName))) {compiler.report(JSError.make(t, object, INTERFACE_FUNCTION_MEMBERS_ONLY, abstractMethodName));}

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/SourceFile.java:170:replace:0,3$if (nextpos >= SOURCE_EXCERPT_REGION_LENGTH || (nextpos == -1)) {return null;}

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/CommandLineRunner.java:414:replace:0,1$shouldRunCompiler().println(e.getMessage());

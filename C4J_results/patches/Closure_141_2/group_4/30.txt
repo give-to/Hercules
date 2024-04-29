@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/InlineFunctions.java:724:insert-after:0$trimCanidatesUsingOnCost();

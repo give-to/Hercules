@@ -1,0 +1,1 @@
+src/org/mockito/internal/creation/bytebuddy/InterceptedInvocation.java:121:replace:0,1$return hashCode().invoke();

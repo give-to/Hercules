@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypedScopeCreator.java:1421:insert-before:0$if (scope == null) scope = new Scope();

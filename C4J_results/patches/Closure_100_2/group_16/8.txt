@@ -1,0 +1,9 @@
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:228:insert-before:0$if (JSTypeNative.STRING_TYPE == null) {return;}
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:229:insert-before:0$if (JSTypeNative.UNKNOWN_TYPE == null) {return;}
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:231:insert-before:0$if (JSTypeNative.OBJECT_TYPE == null) {return;}
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:233:insert-before:0$if (JSTypeNative.ARRAY_TYPE == null) {return;}
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:235:insert-before:0$if (JSTypeNative.DATE_TYPE == null) {return;}
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:237:insert-before:0$if (JSTypeNative.REGEXP_TYPE == null) {return;}
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:239:insert-before:0$if (JSTypeNative.BOOLEAN_OBJECT_TYPE == null) {return;}
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:241:insert-before:0$if (JSTypeNative.NUMBER_OBJECT_TYPE == null) {return;}
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:243:insert-before:0$if (JSTypeNative.STRING_OBJECT_TYPE == null) {return;}

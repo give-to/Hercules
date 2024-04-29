@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/format/FormatUtils.java:338:replace:0,1$return calculateDigitCount(-value) - 1;

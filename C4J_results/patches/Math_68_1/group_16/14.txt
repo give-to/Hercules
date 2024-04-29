@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:523:replace:0,1$sum2 += s * this.costRelativeTolerance;
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:571:replace:0,1$dxNorm += s * this . costRelativeTolerance ;

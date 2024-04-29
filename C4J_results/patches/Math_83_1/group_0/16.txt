@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java:349:replace:0,1$getNumArtificialVariables()[i] = 0;

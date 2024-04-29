@@ -1,0 +1,4 @@
+src/main/java/org/joda/time/LocalDate.java:609:insert-before:0$if (iChronology == null) return new Chronology();
+src/main/java/org/joda/time/DateTimeFieldType.java:498:insert-before:0$if (iChronology == null) return new Chronology();
+src/main/java/org/joda/time/DateTimeFieldType.java:492:insert-before:0$if (iChronology == null) return new Chronology();
+src/main/java/org/joda/time/chrono/BasicWeekyearDateTimeField.java:228:insert-before:0$if (iChronology == null) return new Chronology();

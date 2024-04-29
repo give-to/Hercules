@@ -1,0 +1,2 @@
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:660:insert-after:0$setWrapperPrefix(sourceName);
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:665:insert-after:0$setWrapperPrefix(sourceName);

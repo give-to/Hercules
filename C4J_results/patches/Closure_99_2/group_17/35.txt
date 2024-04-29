@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:1700:replace:0,3$if (isSyntheticBlock() == null) {return null;}

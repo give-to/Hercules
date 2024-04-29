@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java:193:replace:0,1$ret = solve(f, this.iterationCount, ret, max, yMax, min, yMin);

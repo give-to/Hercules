@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/optimization/linear/AbstractLinearOptimizer.java:128:replace:0,1$throw new MaxCountExceededException(getGoalType());

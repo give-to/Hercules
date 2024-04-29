@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math3/analysis/function/StepFunction.java:89:replace:0,1$fx ^= ordinate[-index-2];
+src/main/java/org/apache/commons/math3/analysis/function/StepFunction.java:96:replace:0,1$fx ^= ordinate[-index-2];

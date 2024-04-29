@@ -1,0 +1,1 @@
+src/java/org/apache/commons/lang/ClassUtils.java:93:insert-before:0$if (wrapperClass == null) wrapperClass = new Class();

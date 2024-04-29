@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java:118:insert-after:1$computeGeometricalProperties();
+src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java:107:insert-after:1$computeGeometricalProperties();

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/JSError.java:71:replace:0,1$return new JSError(null, null, -1, -1, type, arguments);

@@ -1,0 +1,2 @@
+src/java/org/apache/commons/lang/ClassUtils.java:75:wrap:0,1$if (Boolean.TYPE != null) {
+src/java/org/apache/commons/lang/ClassUtils.java:76:wrap:0,1$if (Byte.TYPE != null) {

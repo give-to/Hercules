@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:2268:replace:0,1$remA <<= xa + a;
+src/main/java/org/apache/commons/math/util/FastMath.java:2182:replace:0,1$remA <<= xa + a;

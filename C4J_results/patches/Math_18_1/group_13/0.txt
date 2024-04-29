@@ -1,0 +1,9 @@
+src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java:934:replace:0,1$return this.fitnessHistory;
+src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java:960:replace:0,1$return this.fitnessHistory;
+src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java:1024:replace:0,1$return this.fitnessHistory;
+src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java:927:replace:0,1$return this.fitnessHistory;
+src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java:953:replace:0,1$return this.fitnessHistory;
+src/main/java/org/apache/commons/math3/util/FastMath.java:3523:replace:0,1$return this.fitnessHistory;
+src/main/java/org/apache/commons/math3/util/Pair.java:65:replace:0,1$return this.fitnessHistory;
+src/main/java/org/apache/commons/math3/util/Pair.java:74:replace:0,1$return this.fitnessHistory;
+src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java:82:replace:0,1$return this.fitnessHistory;

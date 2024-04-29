@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:938:replace:0,3$if (first.getType() == Node.FLAG_NO_THROWS) {sb.append(first.getString());}

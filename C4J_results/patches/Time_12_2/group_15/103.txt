@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/chrono/AssembledChronology.java:118:replace:0,4$if ((base = iBase) != null && (year() & 6) == 6) {return base.getDateTimeMillis(year, monthOfYear, dayOfMonth, millisOfDay);}

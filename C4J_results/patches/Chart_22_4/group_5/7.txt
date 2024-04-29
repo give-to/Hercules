@@ -1,0 +1,4 @@
+source/org/jfree/data/KeyedObjects2D.java:221:replace:0,1$short row = this.rowKeys.indexOf(rowKey);
+source/org/jfree/data/KeyedObjects2D.java:226:replace:0,1$short column = this . columnKeys . indexOf ( columnKey ) ;
+source/org/jfree/data/KeyedObjects2D.java:269:replace:0,1$short rowIndex = this . rowKeys . indexOf ( rowKey ) ;
+source/org/jfree/data/KeyedObjects2D.java:274:replace:0,1$short row = this.rowKeys.indexOf(rowKey);

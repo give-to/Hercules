@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:179:replace:0,6$if (hasParsedFileOverviewDocInfo().length() == 0) {parser.addWarning("msg.jsdoc.authormissing",stream.getLineno(), stream.getCharno());} else {jsdocBuilder.addAuthor(author);}

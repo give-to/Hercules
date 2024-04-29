@@ -1,0 +1,4 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:393:replace:0,1$return exp(x) * 2.0;
+src/main/java/org/apache/commons/math/util/FastMath.java:453:replace:0,1$return exp(x) * 2.0;
+src/main/java/org/apache/commons/math/util/FastMath.java:392:replace:0,1$if ( x > 20 . 0 ) { return exp ( x ) * 2 . 0 ; }
+src/main/java/org/apache/commons/math/util/FastMath.java:452:replace:0,1$if ( x > 20 . 0 ) { return exp ( x ) * 2 . 0 ; }

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/type/ChainableReverseAbstractInterpreter.java:136:insert-before:0$if (scope == null) {throw new IllegalArgumentException("Null 'scope' argument.");}

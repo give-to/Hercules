@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/format/FormatUtils.java:251:replace:0,1$double d = ((value + 1) * 13421772) >> 27;

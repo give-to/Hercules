@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:401:replace:0,3$if ((x < 0.0) || (x <= -1.0 || x >= 1.0)) {x = -x;}

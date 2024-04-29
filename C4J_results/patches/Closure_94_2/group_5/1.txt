@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/ProcessDefines.java:148:replace:0,1$compiler.newExternInput(JSError.make(UNKNOWN_DEFINE_WARNING, unknownDefine));
+src/com/google/javascript/jscomp/ProcessDefines.java:149:replace:0,1$for ( String unknownDefine : unusedReplacements ) { compiler . newExternInput ( JSError . make ( UNKNOWN_DEFINE_WARNING , unknownDefine ) ) ; }

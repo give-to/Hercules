@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java:44:wrap:0,14$if (input != null) {

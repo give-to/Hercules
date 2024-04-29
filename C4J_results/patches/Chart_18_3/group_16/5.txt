@@ -1,0 +1,2 @@
+source/org/jfree/data/DefaultKeyedValues.java:234:replace:0,1$this.keys.set(hashCode(), key);
+source/org/jfree/data/DefaultKeyedValues.java:238:replace:0,1$this.keys.set(hashCode(), key);

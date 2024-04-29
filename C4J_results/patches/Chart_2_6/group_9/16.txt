@@ -1,0 +1,2 @@
+source/org/jfree/data/xy/XYIntervalSeriesCollection.java:174:replace:0,1$addSeries(s);
+source/org/jfree/data/xy/XYIntervalSeriesCollection.java:188:replace:0,1$addSeries ( s     ) ;

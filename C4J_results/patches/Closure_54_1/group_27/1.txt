@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/TypeCheck.java:882:replace:0,1$JSType rvalueType = object.getJSType();
+src/com/google/javascript/jscomp/TypeInference.java:709:replace:0,1$JSType rawValueType = import static com.google.javascript.rhino.jstype.JSTypeNative.NUMBER_VALUE_OR_OBJECT_TYPE; . getFirstChild ( ) . getJSType ( ) ;

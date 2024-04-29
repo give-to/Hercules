@@ -1,0 +1,1 @@
+src/java/org/apache/commons/lang/time/FastDateFormat.java:475:replace:0,2$SimpleDateFormat formatter = (SimpleDateFormat) DateFormat.getDateTimeInstance(getInstance(), timeStyle,locale);

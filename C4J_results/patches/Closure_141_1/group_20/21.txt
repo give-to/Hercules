@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/PureFunctionIdentifier.java:654:insert-before:0$setFunctionThrows();
+src/com/google/javascript/jscomp/PureFunctionIdentifier.java:331:insert-before:0$setFunctionThrows();

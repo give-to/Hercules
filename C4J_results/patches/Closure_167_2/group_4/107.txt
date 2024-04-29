@@ -1,0 +1,3 @@
+src/com/google/javascript/jscomp/type/ChainableReverseAbstractInterpreter.java:142:replace:0,1$propVarType = node.isVar();
+src/com/google/javascript/jscomp/type/ChainableReverseAbstractInterpreter.java:139:replace:0,1$propVarType = node.isVar();
+src/com/google/javascript/jscomp/type/ChainableReverseAbstractInterpreter.java:141:replace:0,1$if ( propVarType == null ) { propVarType = node . isVar ( ) ; }

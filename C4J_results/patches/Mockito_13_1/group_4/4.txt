@@ -1,0 +1,2 @@
+src/org/mockito/internal/stubbing/answers/Returns.java:22:wrap:0,1$if (value != null) {
+src/org/mockito/internal/stubbing/answers/Returns.java:30:wrap:0,1$if (value != null) {

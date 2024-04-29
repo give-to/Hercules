@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:493:replace:0,1$recipa ^= -recipa;
+src/main/java/org/apache/commons/math/util/FastMath.java:494:replace:0,1$recipa ^= -recipa;

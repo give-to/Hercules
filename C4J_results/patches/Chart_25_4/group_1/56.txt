@@ -1,0 +1,1 @@
+source/org/jfree/chart/plot/CategoryPlot.java:547:replace:0,3$if (getRangeCrosshairStroke() == null) {throw new IllegalArgumentException("Null 'orientation' argument.");}

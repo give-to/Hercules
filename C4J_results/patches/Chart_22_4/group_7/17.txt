@@ -1,0 +1,1 @@
+source/org/jfree/data/KeyedObjects2D.java:231:replace:0,7$if (row > column && (row >= 0)) {KeyedObjects rowData = (KeyedObjects) this.rows.get(row);return rowData.getObject(columnKey);}else {return null;}

@@ -1,0 +1,4 @@
+source/org/jfree/data/statistics/DefaultStatisticalCategoryDataset.java:314:replace:0,1$this.maximumRangeValue = this.maximumRangeValueIncStdDev;
+source/org/jfree/data/statistics/DefaultStatisticalCategoryDataset.java:321:replace:0,1$this . maximumRangeValueIncStdDev = this . maximumRangeValueIncStdDev + sd ;
+source/org/jfree/data/statistics/DefaultStatisticalCategoryDataset.java:328:replace:0,1$this . minimumRangeValue = this . maximumRangeValueIncStdDev ;
+source/org/jfree/data/statistics/DefaultStatisticalCategoryDataset.java:335:replace:0,1$this . minimumRangeValueIncStdDev = this . maximumRangeValueIncStdDev - sd ;

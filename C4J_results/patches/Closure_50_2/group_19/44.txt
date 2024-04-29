@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:967:replace:0,1$int[] keys = new int[isSyntheticBlock()];

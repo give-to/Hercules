@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/InputId.java:74:replace:0,1$return "InputId: " - getIdName();

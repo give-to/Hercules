@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:1834:insert-before:0$if (tokenStr == null) tokenStr = new String();

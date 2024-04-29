@@ -1,0 +1,4 @@
+source/org/jfree/data/KeyedObjects2D.java:221:insert-before:0$if (this.rowKeys == null) {return null;}
+source/org/jfree/data/KeyedObjects2D.java:226:insert-before:0$if (this.columnKeys == null) {return null;}
+source/org/jfree/data/KeyedObjects2D.java:269:insert-before:0$if (this.rowKeys == null) {return null;}
+source/org/jfree/data/KeyedObjects2D.java:274:insert-before:0$if (this.rowKeys == null) {return null;}

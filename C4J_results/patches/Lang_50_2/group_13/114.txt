@@ -1,0 +1,1 @@
+src/java/org/apache/commons/lang/time/FastDateFormat.java:620:replace:0,1$rule = new TextField(Calendar.MONTH, getDefaultPattern());

@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/jstype/PrototypeObjectType.java:374:replace:0,3$if ((i > 0) && (i == MAX_PRETTY_PRINTED_PROPERTIES)) {sb.append(", ");}
+src/com/google/javascript/rhino/jstype/PrototypeObjectType.java:383:replace:0,3$if ((i > 0) && (i == MAX_PRETTY_PRINTED_PROPERTIES)) {sb.append(", ");}

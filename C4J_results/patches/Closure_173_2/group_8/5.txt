@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/PeepholeOptimizationsPass.java:52:insert-before:0$setRetraverseOnChange(retraverse);

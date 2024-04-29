@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/JSTypeRegistry.java:1655:insert-before:6$if (builder == null) continue;if (fieldName == null) continue;if (fieldType == null) continue;if (fieldNameNode == null) continue;

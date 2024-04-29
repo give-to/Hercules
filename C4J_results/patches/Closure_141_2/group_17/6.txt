@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:751:insert-before:0$if (parent == null) parent = expressionRoot;
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:600:insert-before:0$if (parent == null) parent = expressionRoot;

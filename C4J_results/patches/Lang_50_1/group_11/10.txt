@@ -1,0 +1,4 @@
+src/java/org/apache/commons/lang/time/FastDateFormat.java:485:replace:0,1$return toString();
+src/java/org/apache/commons/lang/time/FastDateFormat.java:1560:replace:0,1$return toString();
+src/java/org/apache/commons/lang/time/FastDateFormat.java:954:replace:0,1$return toString();
+src/java/org/apache/commons/lang/time/FastDateFormat.java:1193:replace:0,1$return toString();

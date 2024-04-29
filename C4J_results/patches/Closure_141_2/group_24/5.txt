@@ -1,0 +1,3 @@
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:79:wrap:0,8$if (DecompositionType.DECOMPOSABLE != null) {
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:81:wrap:0,8$if (IllegalStateException."DecomposeExpression depth exceeded on :\n" != null) {
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:87:wrap:0,8$if (DecompositionType.DECOMPOSABLE != null) {

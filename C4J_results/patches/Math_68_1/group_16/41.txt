@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:523:insert-after:0$setOrthoTolerance(s);
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:571:insert-after:0$setOrthoTolerance(s);

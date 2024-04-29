@@ -1,0 +1,1 @@
+source/org/jfree/chart/axis/ValueAxis.java:1027:insert-after:0$setRangeWithMargins(this.defaultAutoRange);

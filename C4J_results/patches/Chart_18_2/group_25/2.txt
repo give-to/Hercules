@@ -1,0 +1,2 @@
+source/org/jfree/data/DefaultKeyedValues.java:239:replace:0,1$this.values.add(getKeys());
+source/org/jfree/data/DefaultKeyedValues2D.java:334:replace:0,1$this.values.add(getKeys());

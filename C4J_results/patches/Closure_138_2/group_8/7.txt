@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/jstype/NullType.java:93:replace:0,3$if ((that.isNullType() || that.isVoidType()) && !(UNKNOWN.equals(super.testForEquality(that)))) {return TRUE;}
+src/com/google/javascript/rhino/jstype/JSType.java:480:replace:0,3$if ( ( that . isAllType ( ) || that . isNoType ( ) || that . isUnknownType ( ) && ! ( UNKNOWN . equals ( super . testForEquality ( that ) ) ) ) ) { return UNKNOWN ; }

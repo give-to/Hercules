@@ -1,0 +1,2 @@
+source/org/jfree/data/KeyedObject.java:94:insert-before:0$if (this.object == null) return new Object();
+source/org/jfree/data/KeyedObject.java:85:insert-before:0$if (this.object == null) return new Object();

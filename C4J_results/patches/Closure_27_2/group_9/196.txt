@@ -1,0 +1,3 @@
+src/com/google/javascript/rhino/Node.java:2205:replace:0,1$return this.getType() == Token.COMMA;
+src/com/google/javascript/rhino/Node.java:2189:replace:0,1$return this . getType ( ) == Token . COMMA ;
+src/com/google/javascript/rhino/Node.java:2297:replace:0,1$return this.getType() == Token.COMMA;

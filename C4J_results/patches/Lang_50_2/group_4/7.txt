@@ -1,0 +1,2 @@
+src/java/org/apache/commons/lang/time/FastDateFormat.java:281:replace:0,3$if (getDefaultPattern() != null) {key = new Pair(key, timeZone);}
+src/java/org/apache/commons/lang/time/FastDateFormat.java:285:replace:0,3$if ( getDefaultPattern ( ) != null ) { key = new Pair ( key , locale   )           ; }

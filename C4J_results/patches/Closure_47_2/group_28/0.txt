@@ -1,0 +1,1 @@
+src/com/google/debugging/sourcemap/SourceMapConsumerV3.java:124:replace:0,1$lines = Lists.newArrayListWithCapacity(version);

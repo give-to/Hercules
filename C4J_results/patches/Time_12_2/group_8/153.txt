@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/LocalDate.java:564:insert-before:4$if (durType == null) return null;if (durType.getField(getChronology()) == null) return null;if (getChronology().days() == null) return null;

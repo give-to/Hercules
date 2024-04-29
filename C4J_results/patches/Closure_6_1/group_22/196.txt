@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:1839:replace:0,3$Node contextType = wrapNode(isThis ? Token.COLON : Token.NEW,parseTypeName(next()));

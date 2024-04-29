@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/ProcessDefines.java:179:insert-before:8$if (name.docInfo == null) continue;

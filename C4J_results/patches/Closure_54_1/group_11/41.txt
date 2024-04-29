@@ -1,0 +1,3 @@
+src/com/google/javascript/rhino/jstype/FunctionType.java:501:insert-after:22$setSource(params);
+src/com/google/javascript/rhino/jstype/FunctionType.java:498:insert-after:22$setSource(params);
+src/com/google/javascript/rhino/jstype/FunctionType.java:497:insert-after:22$setSource(params);

@@ -1,0 +1,5 @@
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:213:insert-after:0$reset();
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:214:insert-after:0$reset();
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:215:insert-after:0$reset();
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:216:insert-after:0$reset();
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:542:insert-after:0$reset();

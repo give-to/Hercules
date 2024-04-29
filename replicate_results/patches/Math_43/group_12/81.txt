@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:1169:replace:0,1$double yb = EIGHTHS[LN_QUICK_COEF.length-1][1];

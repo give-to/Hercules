@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/JSTypeRegistry.java:1655:replace:0,7$if (createNativeAnonymousObjectType().addProperty(fieldName, fieldType, fieldNameNode) == null) {reporter.warning("Duplicate record field " + fieldName,sourceName,n.getLineno(), fieldNameNode.getCharno());}

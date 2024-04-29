@@ -1,0 +1,13 @@
+src/main/java/org/joda/time/DateTimeFieldType.java:526:insert-before:0$if (chronology == null) return new DateTimeField();
+src/main/java/org/joda/time/LocalDateTime.java:546:insert-before:0$if (chronology == null) return new DateTimeField();
+src/main/java/org/joda/time/LocalDateTime.java:548:insert-before:0$if (chronology == null) return new DateTimeField();
+src/main/java/org/joda/time/LocalDateTime.java:550:insert-before:0$if (chrono == null) return new DateTimeField();
+src/main/java/org/joda/time/LocalDateTime.java:544:insert-before:0$if (chronology == null) return new DateTimeField();
+src/main/java/org/joda/time/DateTimeFieldType.java:522:insert-before:0$if (chronology == null) return new DateTimeField();
+src/main/java/org/joda/time/DateTimeFieldType.java:524:insert-before:0$if (chronology == null) return new DateTimeField();
+src/main/java/org/joda/time/DateTimeFieldType.java:520:insert-before:0$if (chronology == null) return new DateTimeField();
+src/main/java/org/joda/time/DateTimeFieldType.java:516:insert-before:0$if (chronology == null) return new DateTimeField();
+src/main/java/org/joda/time/DateTimeFieldType.java:498:insert-before:0$if (chronology == null) return new DateTimeField();
+src/main/java/org/joda/time/DateTimeFieldType.java:492:insert-before:0$if (chronology == null) return new DateTimeField();
+src/main/java/org/joda/time/DateTimeFieldType.java:496:insert-before:0$if (chronology == null) return new DateTimeField();
+src/main/java/org/joda/time/chrono/BasicWeekyearDateTimeField.java:228:insert-before:0$if (chronology == null) return new DateTimeField();

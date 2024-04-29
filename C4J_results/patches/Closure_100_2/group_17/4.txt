@@ -1,0 +1,4 @@
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:246:insert-before:0$if (registry == null) {return;}
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:257:insert-before:0$if (registry == null) {return;}
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:275:insert-before:0$if (registry == null) {return;}
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:282:insert-before:0$if (registry == null) {return;}

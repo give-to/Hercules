@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/TypeCheck.java:1619:replace:0,1$report(t, n, TypeCheck.MULTIPLE_VAR_DEF, functionPrivateName);
+src/com/google/javascript/jscomp/TypeCheck.java:1618:replace:0,1$if ( badImplementedType ) { report ( t , n , TypeCheck . MULTIPLE_VAR_DEF , functionPrivateName ) ; }

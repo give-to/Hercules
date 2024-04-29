@@ -1,0 +1,4 @@
+src/java/org/apache/commons/math/fraction/ProperFractionFormat.java:191:wrap:0,14$if (source != null) {
+src/java/org/apache/commons/math/fraction/ProperFractionFormat.java:156:wrap:0,14$if (source != null) {
+src/java/org/apache/commons/math/fraction/ProperFractionFormat.java:143:wrap:0,14$if (source != null) {
+src/java/org/apache/commons/math/fraction/FractionFormat.java:266:wrap:0,14$if (source != null) {

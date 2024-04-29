@@ -1,0 +1,1 @@
+source/org/jfree/data/DefaultKeyedValues2D.java:185:insert-after:5$clear();

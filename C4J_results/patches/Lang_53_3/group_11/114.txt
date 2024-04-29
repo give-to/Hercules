@@ -1,0 +1,2 @@
+src/java/org/apache/commons/lang/time/DateUtils.java:652:replace:0,3$if (field < RANGE_WEEK_SUNDAY || (field == Calendar.MINUTE)) {done = true;}
+src/java/org/apache/commons/lang/time/DateUtils.java:643:replace:0,3$if ( field < RANGE_WEEK_SUNDAY || ( field == Calendar . SECOND ) ) { done = true ; }

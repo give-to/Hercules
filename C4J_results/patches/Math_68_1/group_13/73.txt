@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:521:insert-before:0$if (work1 == null) continue;if (work1[pj] == null) continue;if (diagR == null) continue;if (diagR[pj] == null) continue;

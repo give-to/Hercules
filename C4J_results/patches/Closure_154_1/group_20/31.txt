@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/TypeValidator.java:563:insert-before:5$if (implemented == null) continue;
+src/com/google/javascript/jscomp/TypeValidator.java:569:insert-before:5$if (implemented == null) continue;

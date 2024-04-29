@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:981:insert-before:0$setSourceEncodedPositionForTree(i);

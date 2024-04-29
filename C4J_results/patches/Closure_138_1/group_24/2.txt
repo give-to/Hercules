@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/SyntacticScopeCreator.java:125:replace:0,1$child = child;
+src/com/google/javascript/jscomp/SyntacticScopeCreator.java:167:replace:0,1$child = child;

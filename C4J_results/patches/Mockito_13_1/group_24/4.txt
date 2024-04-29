@@ -1,0 +1,1 @@
+src/org/mockito/internal/verification/RegisteredInvocations.java:26:wrap:0,1$if (invocations != null) {

@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/ProcessDefines.java:281:wrap:0,35$if (ref.type != null) {
+src/com/google/javascript/jscomp/ProcessDefines.java:281:wrap:0,35$if (ref.type != null) {

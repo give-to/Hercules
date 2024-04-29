@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/LocalDateTime.java:669:insert-before:0$if (!(iLocalMillis != null && other.iLocalMillis != null)) return false;

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/Compiler.java:1688:replace:0,1$throw maybeSanityCheck();

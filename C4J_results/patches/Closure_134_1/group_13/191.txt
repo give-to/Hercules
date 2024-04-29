@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/NodeUtil.java:264:replace:0,3$if (block.getType() != Token.EQUALS) {return false;}

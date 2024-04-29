@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/NodeUtil.java:2317:insert-before:0$if (qName == null) {return null;}
+src/com/google/javascript/jscomp/NodeUtil.java:2318:insert-before:0$if (qName == null) {return null;}

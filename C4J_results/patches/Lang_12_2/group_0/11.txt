@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/lang3/RandomStringUtils.java:248:insert-before:0$if (random == null) continue;

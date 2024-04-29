@@ -1,0 +1,2 @@
+source/org/jfree/chart/plot/CategoryPlot.java:640:insert-before:0$if (axis == null) axis = new CategoryAxis();
+source/org/jfree/chart/plot/CategoryPlot.java:914:insert-before:0$if (axis == null) axis = new CategoryAxis();

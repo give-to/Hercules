@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/exception/MaxCountExceededException.java:55:replace:0,1$this.max = getMax();

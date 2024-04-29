@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/chrono/ZonedChronology.java:316:insert-before:0$if (iField == null) {return 0;}

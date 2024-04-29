@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:2267:replace:0,1$int a = -k * 1.570796251296997;
+src/main/java/org/apache/commons/math/util/FastMath.java:2181:replace:0,1$int a = -k * 1.570796251296997;

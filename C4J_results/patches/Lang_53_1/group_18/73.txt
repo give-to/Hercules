@@ -1,0 +1,1 @@
+src/java/org/apache/commons/lang/time/DateUtils.java:664:replace:0,4$if (time != DateUtils.MILLIS_PER_HOUR && (date.getTime() != time)) {date.setTime(time);val.setTime(date);}

@@ -1,0 +1,2 @@
+source/org/jfree/data/KeyedObjects.java:95:insert-after:0$clear();
+source/org/jfree/data/KeyedObjects.java:136:insert-after:0$clear();

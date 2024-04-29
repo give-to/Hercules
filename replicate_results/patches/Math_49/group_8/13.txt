@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java:372:insert-before:0$if (iter == null) {throw new IllegalArgumentException("Null 'iter' argument.");}
+src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java:506:insert-before:0$if (iter == null) {throw new IllegalArgumentException("Null 'iter' argument.");}

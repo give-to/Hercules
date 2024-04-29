@@ -1,0 +1,1 @@
+src/java/org/apache/commons/lang/time/DateUtils.java:72:replace:0,11$private static final int[][] fields = {{Calendar.MILLISECOND},{Calendar.SECOND},{Calendar.MINUTE},{Calendar.HOUR_OF_DAY, Calendar.HOUR},{Calendar.DATE, Calendar.DAY_OF_MONTH, Calendar.AM_PM},{Calendar.MONTH, MILLIS_IN_DAY},{Calendar.YEAR},{Calendar.ERA}};

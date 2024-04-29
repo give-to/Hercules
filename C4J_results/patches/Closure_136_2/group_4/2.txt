@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:230:insert-before:0$if (IS_VAR_ARGS_PARAM == null) {return null;}

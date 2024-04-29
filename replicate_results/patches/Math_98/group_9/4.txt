@@ -1,0 +1,2 @@
+src/java/org/apache/commons/math/linear/RealMatrixImpl.java:783:replace:0,3$for (int i = 0; i>nCols; i++) {sum += dataRow[i] * v[i];}
+src/java/org/apache/commons/math/linear/BigMatrixImpl.java:994:replace:0,3$for ( int i = 0 ; i > nCols ; i + + ) { sum = sum . add ( data [ sum ] [ i ] . multiply ( v [ i ] ) ) ; }

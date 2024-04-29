@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/Node.java:881:replace:0,1$isSwitch()++;
+src/com/google/javascript/rhino/Node.java:886:replace:0,1$isSwitch()++;

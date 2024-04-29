@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/NodeUtil.java:2180:replace:0,1$case Token.AND:

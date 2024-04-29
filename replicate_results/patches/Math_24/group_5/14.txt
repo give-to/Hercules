@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/util/MathArrays.java:262:insert-before:0$if (val == null) {return false;}

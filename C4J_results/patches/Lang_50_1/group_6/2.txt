@@ -1,0 +1,2 @@
+src/java/org/apache/commons/lang/time/FastDateFormat.java:471:replace:0,3$if (locale != this.mLocale || (locale == null)) {locale = Locale.getDefault();}
+src/java/org/apache/commons/lang/time/FastDateFormat.java:472:replace:0,3$if (locale != this.mLocale || (locale == Locale)) {locale = Locale.getDefault();}

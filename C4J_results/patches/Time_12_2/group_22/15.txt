@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/LocalDate.java:600:replace:0,1$return getYearOfCentury();

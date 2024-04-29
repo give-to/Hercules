@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/ProcessDefines.java:161:insert-before:0$if (JSTypeNative.NUMBER_STRING_BOOLEAN == null) {return false;}

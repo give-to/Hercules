@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:1832:replace:0,1$String tokenStr = stream.getChar();

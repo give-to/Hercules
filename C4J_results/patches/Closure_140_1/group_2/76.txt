@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/Compiler.java:1585:insert-before:0$if (!(inputs != null && inputs.get(0) != null)) return null;

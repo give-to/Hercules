@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/DateTime.java:219:replace:0,1$super(instant, minuteOfHour());

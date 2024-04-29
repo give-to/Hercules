@@ -1,0 +1,4 @@
+src/main/java/org/apache/commons/math3/distribution/FDistribution.java:230:replace:0,2$final int numeratorDF = getNumeratorDegreesOfFreedom();final int denomDFMinusTwo = denominatorDF - 2;
+src/main/java/org/apache/commons/math3/distribution/FDistribution.java:191:replace:0,2$final int numeratorDF = getNumeratorDegreesOfFreedom();final int denomDFMinusTwo = denominatorDF - 2;
+src/main/java/org/apache/commons/math3/distribution/FDistribution.java:227:replace:0,2$final int numeratorDF = getNumeratorDegreesOfFreedom();final int denomDFMinusTwo = denominatorDF - 2;
+src/main/java/org/apache/commons/math3/distribution/FDistribution.java:147:replace:0,2$final int numeratorDF = getNumeratorDegreesOfFreedom();final int denomDFMinusTwo = denominatorDF - 2;

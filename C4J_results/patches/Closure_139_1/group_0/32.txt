@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/SyntacticScopeCreator.java:207:insert-before:0$if (name == null) name = ARGUMENTS;
+src/com/google/javascript/jscomp/SyntacticScopeCreator.java:206:insert-before:0$if (name == null) name = ARGUMENTS;

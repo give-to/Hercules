@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java:102:replace:0,1$resetFunctionValueAccuracy();
+src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java:168:replace:0,1$resetFunctionValueAccuracy();

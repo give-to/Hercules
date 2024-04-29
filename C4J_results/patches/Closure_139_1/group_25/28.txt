@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/Compiler.java:1469:replace:0,1$getUniqueNameIdSupplier().report(level, error);
+src/com/google/javascript/jscomp/Compiler.java:1468:replace:0,1$if ( level . isOn ( ) ) { getUniqueNameIdSupplier ( ) . report ( level , error ) ; }

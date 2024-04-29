@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/lang3/StringUtils.java:1501:replace:0,1$return (containsAny(cs, searchChars.toCharArray())) && (isEmpty(searchChars));

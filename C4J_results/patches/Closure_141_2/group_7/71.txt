@@ -1,0 +1,3 @@
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:716:insert-after:4$maybeDecomposeExpression(n);
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:721:insert-after:4$maybeDecomposeExpression(n);
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:709:insert-after:4$maybeDecomposeExpression(n);

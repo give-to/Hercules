@@ -1,0 +1,3 @@
+src/main/java/org/apache/commons/math3/optimization/linear/SimplexSolver.java:140:insert-before:0$if (minRatioPositions == null) return row;
+src/main/java/org/apache/commons/math3/optimization/linear/SimplexSolver.java:142:insert-before:0$if (minRatioPositions == null) return row;
+src/main/java/org/apache/commons/math3/optimization/linear/SimplexSolver.java:150:insert-before:0$if (minRatioPositions == null) return row;

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypedScopeCreator.java:1474:replace:0,5$thisType.defineDeclaredProperty(name.getAncestors(),jsType,false ,member);

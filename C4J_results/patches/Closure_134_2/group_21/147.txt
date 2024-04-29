@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:936:insert-before:0$setCharno(type);

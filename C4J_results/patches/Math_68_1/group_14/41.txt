@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:522:insert-before:0$if (work1 == null) continue;
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:570:insert-before:0$if (work3 == null) continue;

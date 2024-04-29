@@ -1,0 +1,1 @@
+src/java/org/apache/commons/lang/ClassUtils.java:253:replace:0,3$if ((i == -1) && (isAssignable(classArray[i], toClassArray[i], autoboxing) == false)) {return StringUtils.EMPTY;}

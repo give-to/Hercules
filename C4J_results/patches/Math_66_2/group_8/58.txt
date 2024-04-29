@@ -1,0 +1,3 @@
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:284:insert-before:0$if (optima == null) return max;
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:285:insert-before:0$if (optimaValues == null) return max;
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:294:insert-before:0$if (optima == null) return max;

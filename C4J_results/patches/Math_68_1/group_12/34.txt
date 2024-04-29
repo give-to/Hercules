@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:519:insert-before:0$if (permutation == null) {throw new IllegalArgumentException("Null 'permutation' argument.");}

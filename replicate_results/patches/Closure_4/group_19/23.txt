@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/FunctionType.java:495:replace:0,11$if (getOwnPropertyNames() != null) {if (!constructor.isInterface()) {return;}set.add(instance);for (ObjectType interfaceType : instance.getCtorExtendedInterfaces()) {addRelatedInterfaces(interfaceType, set);}}

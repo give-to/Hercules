@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeCheck.java:590:replace:0,2$t.report(n, INTERFACE_METHOD_OVERRIDE, leftType.toString(),rightType.toString(), result.toString());

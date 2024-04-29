@@ -1,0 +1,2 @@
+source/org/jfree/data/statistics/DefaultStatisticalCategoryDataset.java:108:insert-before:0$if (this.data == null) return new Number();
+source/org/jfree/data/statistics/DefaultStatisticalCategoryDataset.java:170:insert-before:0$if (this.data == null) return new Number();

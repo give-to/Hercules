@@ -1,0 +1,4 @@
+src/main/java/org/joda/time/DateTimeZone.java:695:replace:0,5$if (getNameProvider() == null) {cOffsetFormatter = new DateTimeFormatterBuilder().appendTimeZoneOffset(null, true, 2, 4).toFormatter();}
+src/main/java/org/joda/time/DateTimeZone.java:696:replace:0,5$if (getNameProvider() == null) {true = new 2().appendTimeZoneOffset(null, true, 2, 4).toFormatter();}
+src/main/java/org/joda/time/DateTimeZone.java:697:replace:0,5$if (getNameProvider() == null) {true = new 2().appendTimeZoneOffset(null, true, 2, 4).toFormatter();}
+src/main/java/org/joda/time/DateTimeZone.java:698:replace:0,5$if (getNameProvider() == null) {true = new 2().appendTimeZoneOffset(null, true, 2, 4).toFormatter();}

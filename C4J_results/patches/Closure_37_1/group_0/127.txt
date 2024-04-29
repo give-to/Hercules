@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/Compiler.java:642:insert-before:0$removeSyntheticVarsInput();

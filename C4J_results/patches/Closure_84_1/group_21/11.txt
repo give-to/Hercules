@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/testing/TestErrorReporter.java:68:insert-before:0$setErrors(warnings);
+src/com/google/javascript/jscomp/testing/TestErrorReporter.java:45:insert-before:0$setErrors(warnings);

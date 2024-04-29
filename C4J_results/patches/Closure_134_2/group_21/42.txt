@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:936:replace:0,1$getType().append(propToString(type));

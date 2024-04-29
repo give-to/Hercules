@@ -1,0 +1,2 @@
+source/org/jfree/data/KeyedObjects2D.java:232:wrap:0,2$if (this.rows != null) {
+source/org/jfree/data/KeyedObjects.java:91:wrap:0,2$if (this.rows != null) {

@@ -1,0 +1,122 @@
+group_15/4.txt:Build Error
+group_15/12.txt:Fail
+group_15/2.txt:Build Error
+group_15/3.txt:Build Error
+group_15/0.txt:Fail
+group_15/15.txt:Fail
+group_15/1.txt:Build Error
+group_13/4.txt:Build Error
+group_13/20.txt:Fail
+group_13/54.txt:Fail
+group_13/18.txt:Fail
+group_13/13.txt:Fail
+group_13/51.txt:Fail
+group_13/12.txt:Fail
+group_13/48.txt:Fail
+group_13/19.txt:Fail
+group_13/5.txt:Fail
+group_13/10.txt:Fail
+group_13/9.txt:Fail
+group_13/45.txt:Fail
+group_13/42.txt:Fail
+group_13/2.txt:Build Error
+group_13/3.txt:Build Error
+group_13/17.txt:Fail
+group_13/21.txt:Fail
+group_13/7.txt:Fail
+group_13/0.txt:Build Error
+group_13/16.txt:Fail
+group_13/6.txt:Fail
+group_13/8.txt:Fail
+group_13/11.txt:Fail
+group_13/15.txt:Fail
+group_13/1.txt:Build Error
+group_13/14.txt:Fail
+group_13/39.txt:Fail
+group_14/4.txt:Build Error
+group_14/20.txt:Fail
+group_14/54.txt:Fail
+group_14/18.txt:Fail
+group_14/13.txt:Fail
+group_14/51.txt:Fail
+group_14/12.txt:Fail
+group_14/48.txt:Fail
+group_14/19.txt:Fail
+group_14/5.txt:Fail
+group_14/10.txt:Fail
+group_14/9.txt:Fail
+group_14/45.txt:Fail
+group_14/42.txt:Fail
+group_14/2.txt:Build Error
+group_14/3.txt:Build Error
+group_14/17.txt:Fail
+group_14/21.txt:Fail
+group_14/7.txt:Fail
+group_14/0.txt:Build Error
+group_14/16.txt:Fail
+group_14/6.txt:Fail
+group_14/8.txt:Fail
+group_14/11.txt:Fail
+group_14/15.txt:Fail
+group_14/1.txt:Build Error
+group_14/14.txt:Fail
+group_14/39.txt:Fail
+group_17/4.txt:Build Error
+group_15/5.txt:Build Error
+group_15/9.txt:Build Error
+group_15/7.txt:Fail
+group_15/6.txt:Fail
+group_15/8.txt:Fail
+group_13/35.txt:Build Error
+group_13/22.txt:Build Error
+group_13/27.txt:Fail
+group_13/23.txt:Build Error
+group_13/24.txt:Build Error
+group_13/33.txt:Fail
+group_13/29.txt:Fail
+group_13/30.txt:Build Error
+group_13/32.txt:Fail
+group_13/26.txt:Fail
+group_13/31.txt:Fail
+group_13/25.txt:Fail
+group_13/34.txt:Fail
+group_13/28.txt:Fail
+group_13/36.txt:Fail
+group_14/35.txt:Build Error
+group_14/22.txt:Build Error
+group_14/27.txt:Fail
+group_14/23.txt:Build Error
+group_14/24.txt:Build Error
+group_14/33.txt:Fail
+group_14/29.txt:Fail
+group_14/30.txt:Build Error
+group_14/32.txt:Fail
+group_14/26.txt:Fail
+group_14/31.txt:Fail
+group_14/25.txt:Fail
+group_14/34.txt:Fail
+group_14/28.txt:Fail
+group_14/36.txt:Fail
+group_19/30.txt:Build Error
+group_19/36.txt:Build Error
+group_18/4.txt:Build Error
+group_0/2.txt:Build Error
+group_0/1.txt:Build Error
+group_19/38.txt:Fail
+group_19/37.txt:Fail
+group_19/35.txt:Build Error
+group_0/4.txt:Build Error
+group_0/5.txt:Build Error
+group_0/3.txt:Build Error
+group_0/7.txt:Build Error
+group_0/6.txt:Build Error
+group_15/13.txt:Fail
+group_15/16.txt:Fail
+group_14/55.txt:Fail
+group_14/52.txt:Fail
+group_14/40.txt:Fail
+group_14/49.txt:Fail
+group_14/46.txt:Fail
+group_14/43.txt:Fail
+group_15/17.txt:Fail
+group_15/14.txt:Fail

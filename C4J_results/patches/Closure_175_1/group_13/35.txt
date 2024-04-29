@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/FunctionArgumentInjector.java:200:insert-before:0$if (parent == null) return names;
+src/com/google/javascript/jscomp/FunctionArgumentInjector.java:199:insert-before:0$if (parent == null) return names;

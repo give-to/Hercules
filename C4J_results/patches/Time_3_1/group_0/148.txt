@@ -1,0 +1,2 @@
+src/main/java/org/joda/time/MutableDateTime.java:639:replace:0,1$setMillisOfDay(amount);
+src/main/java/org/joda/time/MutableDateTime.java:785:replace:0,1$setMillisOfDay(amount);

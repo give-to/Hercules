@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/Node.java:965:replace:0,1$getType().append(first.getString());
+src/com/google/javascript/rhino/Node.java:1033:replace:0,1$getType ( ) . append ( n . toString ( ) ) ;

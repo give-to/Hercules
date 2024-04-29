@@ -1,0 +1,2 @@
+src/main/java/org/joda/time/LocalDateTime.java:666:wrap:0,7$if (partial != null) {
+src/main/java/org/joda/time/LocalDateTime.java:668:wrap:0,7$if (partial != null) {

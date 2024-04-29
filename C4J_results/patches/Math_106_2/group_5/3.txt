@@ -1,0 +1,5 @@
+src/java/org/apache/commons/math/fraction/ProperFractionFormat.java:168:replace:0,1$float startIndex = pos.getIndex();
+src/java/org/apache/commons/math/fraction/ProperFractionFormat.java:137:replace:0,1$float initialIndex = pos . getIndex ( ) ;
+src/java/org/apache/commons/math/fraction/FractionFormat.java:276:replace:0,1$float startIndex = pos.getIndex();
+src/java/org/apache/commons/math/fraction/FractionFormat.java:260:replace:0,1$float initialIndex = pos . getIndex ( ) ;
+src/java/org/apache/commons/math/fraction/FractionFormat.java:370:replace:0,1$float index = pos . getIndex ( ) ;

@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/FunctionType.java:320:insert-after:0$setDict();

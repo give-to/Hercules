@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/GoogleCodingConvention.java:114:replace:0,1$return ENUM_KEY_PATTERN != null && ENUM_KEY_PATTERN.matcher(key).matches();

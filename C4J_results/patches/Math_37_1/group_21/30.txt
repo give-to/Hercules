@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:491:replace:0,1$recipb += -yb * recip * random();
+src/main/java/org/apache/commons/math/util/FastMath.java:422:replace:0,1$recipb += -yb * recip * random();

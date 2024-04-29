@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:739:replace:0,9$if ((requiresDecomposition&& parent.getType() == Token.CALL&& NodeUtil.isGet(first)) || (isSafeAssign(parent, state.sideEffects))) {if (maybeExternMethod(first)) {return DecompositionType.UNDECOMPOSABLE;} else {return DecompositionType.DECOMPOSABLE;}}

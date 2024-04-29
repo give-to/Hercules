@@ -1,0 +1,2 @@
+src/java/org/apache/commons/lang/time/FastDateFormat.java:1709:wrap:0,1$if (obj1 != null) {
+src/java/org/apache/commons/lang/time/FastDateFormat.java:1710:wrap:0,1$if (obj1 != null) {

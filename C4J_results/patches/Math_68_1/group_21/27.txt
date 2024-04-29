@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:592:insert-before:0$if (work1 == null) {throw new IllegalArgumentException("Null 'work1' argument.");}

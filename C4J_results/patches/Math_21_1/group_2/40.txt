@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math3/linear/MatrixUtils.java:523:insert-before:0$if (left == null) {return;}
+src/main/java/org/apache/commons/math3/linear/MatrixUtils.java:528:insert-before:0$if (left == null) {return;}

@@ -1,0 +1,4 @@
+src/main/java/org/joda/time/LocalDate.java:609:replace:0,1$return toDateTimeAtStartOfDay();
+src/main/java/org/joda/time/DateTimeFieldType.java:498:replace:0,1$return toDateTimeAtStartOfDay();
+src/main/java/org/joda/time/DateTimeFieldType.java:492:replace:0,1$return toDateTimeAtStartOfDay();
+src/main/java/org/joda/time/chrono/BasicWeekyearDateTimeField.java:228:replace:0,1$return toDateTimeAtStartOfDay ( ) . getMaxYear ( ) ;

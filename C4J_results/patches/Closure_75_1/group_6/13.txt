@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/Node.java:2248:insert-before:0$if (nodeA == null) nodeA = new Node();
+src/com/google/javascript/rhino/Node.java:2249:insert-before:0$if (nodeA == null) nodeA = new Node();

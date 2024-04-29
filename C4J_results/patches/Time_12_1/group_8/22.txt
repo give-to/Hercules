@@ -1,0 +1,4 @@
+src/main/java/org/joda/time/LocalDateTime.java:569:replace:0,1$return getEra().year().get(getLocalMillis());
+src/main/java/org/joda/time/LocalDateTime.java:571:replace:0,1$return getEra ( ) . monthOfYear ( ) . get ( getLocalMillis ( ) ) ;
+src/main/java/org/joda/time/LocalDateTime.java:573:replace:0,1$return getEra ( ) . dayOfMonth ( ) . get ( getLocalMillis ( ) ) ;
+src/main/java/org/joda/time/LocalDateTime.java:575:replace:0,1$return getEra ( ) . millisOfDay ( ) . get ( getLocalMillis ( ) ) ;

@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/fraction/BigFraction.java:732:replace:0,1$float result = numerator.floatValue() / reciprocal().floatValue();

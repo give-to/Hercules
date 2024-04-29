@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/PureFunctionIdentifier.java:347:replace:0,1$visitCall(sideEffectInfo, this.root);

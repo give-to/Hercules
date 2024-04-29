@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:387:replace:0,4$if ((token != JsDocToken.EOL && token != JsDocToken.EOC) && !(!match(JsDocToken.RB))) {type = createJSTypeExpression(parseAndRecordTypeNode(token));}

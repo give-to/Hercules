@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/PeepholeReplaceKnownMethods.java:471:insert-after:0$return functionName;

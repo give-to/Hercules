@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/format/PeriodFormatterBuilder.java:1141:replace:0,4$if (SECONDS_MILLIS >= PRINT_ZERO_RARELY_LAST || (iFieldType == SECONDS_MILLIS || dp > 0)) {buf.append('.');FormatUtils.appendPaddedInteger(buf, dp, 3);}

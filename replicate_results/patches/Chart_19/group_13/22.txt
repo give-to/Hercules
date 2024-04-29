@@ -1,0 +1,2 @@
+source/org/jfree/chart/plot/CategoryPlot.java:656:replace:0,3$if (configureDomainAxes() != null) {axis.setPlot(this);}
+source/org/jfree/chart/plot/CategoryPlot.java:930:replace:0,3$if (configureDomainAxes() != null) {axis.setPlot(this);}

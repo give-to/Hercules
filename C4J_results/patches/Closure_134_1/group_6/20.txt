@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeCheck.java:992:replace:0,8$if (declaredOverride != this.reportMissingProperties && (reportMissingOverride.isOn() && !declaredOverride &&interfaceHasProperty)) {compiler.report(JSError.make(t, n, reportMissingOverride,HIDDEN_INTERFACE_PROPERTY, propertyName,interfaceType.getTopMostDefiningType(propertyName).toString()));}

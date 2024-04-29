@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/CheckSideEffects.java:164:replace:0,1$protectSideEffects();
+src/com/google/javascript/jscomp/CheckSideEffects.java:171:replace:0,1$protectSideEffects();

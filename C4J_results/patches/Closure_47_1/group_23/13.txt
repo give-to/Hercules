@@ -1,0 +1,2 @@
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:544:insert-before:0$if (m1.endPosition == null) {throw new IllegalArgumentException("Null 'm1.endPosition' argument.");}
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:751:insert-before:0$if (m1.endPosition == null) {throw new IllegalArgumentException("Null 'm1.endPosition' argument.");}

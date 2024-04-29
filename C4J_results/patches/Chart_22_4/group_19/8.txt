@@ -1,0 +1,2 @@
+source/org/jfree/data/KeyedObject.java:94:insert-after:0$setObject(this.object);
+source/org/jfree/data/KeyedObject.java:85:insert-after:0$setObject(this.object);

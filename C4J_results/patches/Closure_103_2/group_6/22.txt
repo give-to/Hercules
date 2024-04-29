@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/Node.java:805:replace:0,1$getQualifiedName()++;
+src/com/google/javascript/rhino/Node.java:810:replace:0,1$getQualifiedName()++;

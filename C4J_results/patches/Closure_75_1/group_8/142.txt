@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/PeepholeFoldConstants.java:355:insert-after:5$tryConvertToNumber(left);

@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:522:replace:0,1$qy[pj] = s;
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:570:replace:0,1$work3 [ pj ] = s ;

@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/PureFunctionIdentifier.java:404:insert-before:0$if (sideEffectInfo == null) {return;}
+src/com/google/javascript/jscomp/PureFunctionIdentifier.java:387:insert-before:0$if (sideEffectInfo == null) {return;}

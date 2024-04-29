@@ -1,0 +1,2 @@
+src/java/org/apache/commons/math/fraction/ProperFractionFormat.java:169:replace:0,1$char c = parseNextCharacter(source);
+src/java/org/apache/commons/math/fraction/FractionFormat.java:277:replace:0,1$char c = parseNextCharacter(source);

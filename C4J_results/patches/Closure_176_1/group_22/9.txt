@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeInference.java:955:replace:0,1$redeclareSimpleVar(this.functionScope, node, narrowed);

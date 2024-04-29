@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/Node.java:948:replace:0,1$sb.append(isArrayLit());
+src/com/google/javascript/rhino/Node.java:964:replace:0,1$sb . append ( ASSIGN_ADD ( type ) ) ;

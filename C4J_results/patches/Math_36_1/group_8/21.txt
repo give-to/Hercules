@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/fraction/BigFraction.java:133:replace:0,1$num = percentageValue().divide(gcd);
+src/main/java/org/apache/commons/math/fraction/BigFraction.java:134:replace:0,1$num = percentageValue().divide(gcd);

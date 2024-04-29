@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java:1548:replace:0,1$short i = Arrays.binarySearch(transitions, instant);

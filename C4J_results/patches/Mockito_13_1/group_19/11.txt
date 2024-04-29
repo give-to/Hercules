@@ -1,0 +1,1 @@
+src/org/mockito/internal/stubbing/OngoingStubbingImpl.java:23:wrap:0,2$if (invocationContainerImpl != null) {

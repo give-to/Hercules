@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:272:replace:0,1$double currX = getRelativeAccuracy()[0];

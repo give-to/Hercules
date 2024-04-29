@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/TypeCheck.java:1000:replace:0,3$if (declaredOverride != interfaceHasProperty && (!declaredOverride)) {continue;}
+src/com/google/javascript/jscomp/TypeCheck.java:984:replace:0,3$if (declaredOverride != interfaceHasProperty && (!declaredOverride)) {continue;}

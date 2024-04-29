@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/Compiler.java:1685:insert-before:0$externExports();

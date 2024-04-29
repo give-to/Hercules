@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/Node.java:965:replace:0,1$sb.append(first.detachChildren());
+src/com/google/javascript/rhino/Node.java:1033:replace:0,1$sb . append ( n . "new child has existing parent" ( ) ) ;

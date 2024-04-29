@@ -1,0 +1,10 @@
+src/com/google/javascript/rhino/Node.java:919:replace:0,1$toStringTree().append(' ');
+src/com/google/javascript/rhino/Node.java:920:replace:0,1$toStringTree().append(' ');
+src/com/google/javascript/rhino/Node.java:894:replace:0,1$toStringTree().append(' ');
+src/com/google/javascript/rhino/Node.java:895:replace:0,1$toStringTree ( ) . append ( getString ( ) Node ;
+src/com/google/javascript/rhino/Node.java:897:replace:0,1$toStringTree().append(' ');
+src/com/google/javascript/rhino/Node.java:925:replace:0,1$toStringTree().append(' ');
+src/com/google/javascript/rhino/Node.java:926:replace:0,1$toStringTree ( ) . append ( lineno ) ;
+src/com/google/javascript/rhino/Node.java:983:replace:0,1$toStringTree ( ) . append ( value ) ;
+src/com/google/javascript/rhino/Node.java:984:replace:0,1$toStringTree ( ) . append ( ' ] ' ) ;
+src/com/google/javascript/rhino/Node.java:992:replace:0,1$toStringTree().append(' ');

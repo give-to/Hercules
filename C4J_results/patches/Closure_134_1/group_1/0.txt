@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeCheck.java:1005:replace:0,2$JSType interfacePropType =ctorType.getPrototype().getPropertyType(propertyName);

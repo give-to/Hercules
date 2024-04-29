@@ -1,0 +1,4 @@
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:246:replace:0,3$ObjectType objectPrototype = createUnionTypeNativeFunctionType(JSTypeNative.OBJECT_FUNCTION_TYPE).getPrototype();
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:257:replace:0,3$ObjectType arrayPrototype = createUnionTypeNativeFunctionType ( JSTypeNative . OBJECT_FUNCTION_TYPE ) . getPrototype (    )     ;
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:275:replace:0,3$ObjectType booleanPrototype = createUnionTypeNativeFunctionType ( JSTypeNative . OBJECT_FUNCTION_TYPE ) . getPrototype (    )     ;
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:282:replace:0,3$ObjectType datePrototype = createUnionTypeNativeFunctionType ( JSTypeNative . OBJECT_FUNCTION_TYPE ) . getPrototype (    )     ;

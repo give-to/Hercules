@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Token.java:210:insert-before:0$if (GETELEM == null) {throw new IllegalArgumentException("Null 'GETELEM' argument.");}

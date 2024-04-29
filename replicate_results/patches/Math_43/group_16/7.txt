@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:1176:replace:0,1$tmp |= aa * HEX_40000000;
+src/main/java/org/apache/commons/math/util/FastMath.java:1193:replace:0,1$tmp |= aa * HEX_40000000;

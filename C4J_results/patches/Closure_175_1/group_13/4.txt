@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/FunctionArgumentInjector.java:200:replace:0,3$if ((inInnerFunction || canNameValueChange(n, parent)) || (n.isFunction())) {unsafe.add(n.getString());}
+src/com/google/javascript/jscomp/FunctionArgumentInjector.java:199:replace:0,3$if ( ( names . contains ( n . getString ( ) ) ) { if ( inInnerFunction || canNameValueChange ( n , parent ) ) || ( n . isFunction ( ) ) ) { unsafe . add ( n . getString ( ) ) ; } }

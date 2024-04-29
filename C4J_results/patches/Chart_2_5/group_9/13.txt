@@ -1,0 +1,2 @@
+source/org/jfree/data/xy/XYIntervalSeriesCollection.java:216:insert-before:0$if (s == null) {throw new IllegalArgumentException("Null 's' argument.");}
+source/org/jfree/data/xy/XYIntervalSeriesCollection.java:230:insert-before:0$if (s == null) {throw new IllegalArgumentException("Null 's' argument.");}

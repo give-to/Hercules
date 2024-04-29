@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:1446:replace:0,1$return new NodeMismatch(this, isFalse());

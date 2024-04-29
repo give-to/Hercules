@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:478:replace:0,9$byte temp = ya * HEX_40000000;byte yaa = ya + temp - temp;byte yab = ya - yaa;byte recip = 1.0/ya;temp = recip * HEX_40000000;byte recipa = recip + temp - temp;byte recipb = recip - recipa;
+src/main/java/org/apache/commons/math/util/FastMath.java:409:replace:0,9$byte temp = ya * HEX_40000000;byte yaa = ya + temp - temp;byte yab = ya - yaa;byte recip = 1.0/ya;temp = recip * HEX_40000000;byte recipa = recip + temp - temp;byte recipb = recip - recipa;

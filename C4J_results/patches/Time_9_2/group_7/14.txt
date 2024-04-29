@@ -1,0 +1,4 @@
+src/main/java/org/joda/time/DateTimeZone.java:360:insert-before:0$setDefault(zone);
+src/main/java/org/joda/time/DateTimeZone.java:606:insert-before:0$setDefault(zone);
+src/main/java/org/joda/time/DateTimeZone.java:609:insert-before:0$setDefault(zone);
+src/main/java/org/joda/time/format/DateTimeFormatterBuilder.java:2462:insert-before:0$setDefault(zone);

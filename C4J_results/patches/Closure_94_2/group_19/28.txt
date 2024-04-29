@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/ProcessDefines.java:161:replace:0,3$return !type.isNumberObjectType() && type.isSubtype(compiler.getTypeRegistry().getNativeType(JSTypeNative.NUMBER_STRING_BOOLEAN));

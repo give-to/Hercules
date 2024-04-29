@@ -1,0 +1,9 @@
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:511:insert-before:0$if (permutation == null) {throw new IllegalArgumentException("Null 'permutation' argument.");}
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:516:insert-before:0$if (permutation == null) {throw new IllegalArgumentException("Null 'permutation' argument.");}
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:586:insert-before:0$if (permutation == null) {throw new IllegalArgumentException("Null 'permutation' argument.");}
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:590:insert-before:0$if (permutation == null) {throw new IllegalArgumentException("Null 'permutation' argument.");}
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:599:insert-before:0$if (permutation == null) {throw new IllegalArgumentException("Null 'permutation' argument.");}
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:404:insert-before:0$if (permutation == null) {throw new IllegalArgumentException("Null 'permutation' argument.");}
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:531:insert-before:0$if (permutation == null) {throw new IllegalArgumentException("Null 'permutation' argument.");}
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:561:insert-before:0$if (permutation == null) {throw new IllegalArgumentException("Null 'permutation' argument.");}
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:568:insert-before:0$if (permutation == null) {throw new IllegalArgumentException("Null 'permutation' argument.");}

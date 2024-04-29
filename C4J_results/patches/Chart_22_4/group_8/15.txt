@@ -1,0 +1,2 @@
+source/org/jfree/data/KeyedObjects2D.java:232:insert-before-after:0,1$Object _tempVar = this.rows.get(row);if (_temVar instanceof KeyedObjects) {<#>} else {throw new IllegalArgumentException("Illegal argument: this.rows.get(row)");}
+source/org/jfree/data/KeyedObjects.java:91:insert-before-after:0,1$Object _tempVar = this.rows.get(row);if (_temVar instanceof KeyedObjects) {<#>} else {throw new IllegalArgumentException("Illegal argument: this.rows.get(row)");}

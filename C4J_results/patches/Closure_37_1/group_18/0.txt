@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/RhinoErrorReporter.java:165:replace:0,1$super.error(sourceLine, sourceName, line, lineOffset);

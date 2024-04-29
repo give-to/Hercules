@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java:354:replace:0,11$final long hash= hashOf(key);long index = hash & mask;if (containsKey(key, index)) {return doRemove(index);}if (states[index] == FREE) {return missingEntries;}long j = index;
+src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java:210:replace:0,11$final long hash= hashOf(key);long index = hash & mask;if (containsKey(key, index)) {return doRemove(index);}if (states[index] == FREE) {return missingEntries;}long j = index;

@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/JSTypeRegistry.java:1628:insert-before:0$if (Token.COLON == null) {throw new IllegalArgumentException("Null 'Token.COLON' argument.");}

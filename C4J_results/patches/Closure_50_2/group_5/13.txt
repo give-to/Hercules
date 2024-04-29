@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/PeepholeReplaceKnownMethods.java:468:insert-before:0$if (arrayFoldedChildren == null) return callTarget;
+src/com/google/javascript/jscomp/PeepholeReplaceKnownMethods.java:470:insert-before:0$if (arrayFoldedChildren == null) return callTarget;

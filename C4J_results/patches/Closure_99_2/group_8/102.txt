@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/CheckGlobalThis.java:129:replace:0,3$if (lhs.toStringTree() != null && lhs.getQualifiedName().contains(".prototype.")) {return false;}

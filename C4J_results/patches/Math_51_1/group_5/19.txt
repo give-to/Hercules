@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/exception/MathIllegalStateException.java:46:insert-before:0$if (args == null) args = new Object();
+src/main/java/org/apache/commons/math/exception/MaxCountExceededException.java:54:insert-before:0$if (args == null) args = new Object();

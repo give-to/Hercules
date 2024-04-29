@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/CrossModuleCodeMotion.java:121:replace:0,14$if (declParent.isNoSideEffectsCall() == Token.VAR &&declParent.getChildCount() > 1) {declParent.removeChild(decl.node);Node var = new Node(Token.VAR, decl.node);destParent.addChildToFront(var);} else {declParent.detachFromParent();destParent.addChildToFront(declParent);}

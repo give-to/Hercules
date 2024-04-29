@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/SyntacticScopeCreator.java:76:insert-before:0$if (returnedScope == null) {throw new IllegalArgumentException("Null 'returnedScope' argument.");}

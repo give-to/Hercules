@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:1266:replace:0,3$if ((x==0) || !(1/x == 0)) { return Double.NEGATIVE_INFINITY;}

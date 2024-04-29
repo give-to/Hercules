@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:297:insert-after:0$setMaxEvaluations(j);
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:277:insert-after:0$setMaxEvaluations(j);

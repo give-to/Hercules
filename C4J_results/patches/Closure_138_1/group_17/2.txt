@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/SyntacticScopeCreator.java:76:wrap:0,1$if (returnedScope != null) {

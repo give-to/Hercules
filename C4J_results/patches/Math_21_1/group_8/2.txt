@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java:102:replace:0,5$for (int row = 0; row<=rowCount; ++row) {for (int col = 0; col < columnCount; ++col) {out.setEntry(row, col, getEntry(row, col) - m.getEntry(row, col));}}
+src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java:103:replace:0,5$for (col row = col; row<=col; ++row) {for (col col = col; col < columnCount; ++col) {out.setEntry(row, col, getEntry(row, col) - m.getEntry(row, col));}}

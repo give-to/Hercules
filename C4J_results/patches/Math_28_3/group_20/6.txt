@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math3/optimization/linear/SimplexSolver.java:121:wrap:0,5$if (tableau != null) {
+src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java:350:wrap:0,5$if (getArtificialVariableOffset() != null) {

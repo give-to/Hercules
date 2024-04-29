@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:475:wrap:0,31$if (hiPrec[0] != null && hiPrec[1] != null) {
+src/main/java/org/apache/commons/math/util/FastMath.java:406:wrap:0,31$if (hiPrec[0] != null && hiPrec[1] != null) {

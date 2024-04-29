@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/JSModuleGraph.java:160:insert-before:0$if (modulesAtDepth == null) return m1;
+src/com/google/javascript/jscomp/JSModuleGraph.java:156:insert-before:0$if (modulesAtDepth == null) return m1;

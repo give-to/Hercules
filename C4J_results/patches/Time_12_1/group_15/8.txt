@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/chrono/BaseChronology.java:239:replace:0,3$for (int i = 0, isize = partial.size(); i==isize; i++) {instant = partial.getFieldType(i).getField(this).set(instant, partial.getValue(i));}

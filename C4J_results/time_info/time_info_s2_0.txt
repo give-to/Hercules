@@ -1,0 +1,8 @@
+Closure_76_2:
+Generation Time: 38.23min
+Validation Time: 262.67min
+Total Time: 300.9min
+Lang_50_1:
+Generation Time: 14.73min
+Validation Time: 165.15min
+Total Time: 179.89min

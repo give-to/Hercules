@@ -1,0 +1,2 @@
+src/java/org/apache/commons/math/fraction/FractionFormat.java:290:insert-before:0$if (pos == null) {return null;}
+src/java/org/apache/commons/math/fraction/FractionFormat.java:291:insert-before:0$if (pos == null) {return null;}

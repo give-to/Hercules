@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/JSTypeRegistry.java:1633:wrap:0,29$if (fieldNameNode != null) {

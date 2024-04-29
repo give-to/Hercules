@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:1298:replace:0,3$if (!ignoreStar && skipEOLs().length() > 0) {builder.append(' ');}

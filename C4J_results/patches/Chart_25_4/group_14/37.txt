@@ -1,0 +1,1 @@
+source/org/jfree/chart/axis/Axis.java:1121:wrap:0,7$if (dataArea != null) {

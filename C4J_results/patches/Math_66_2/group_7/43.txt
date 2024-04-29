@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:283:wrap:0,11$if (GoalType.MAXIMIZE != null) {
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:278:wrap:0,11$if (GoalType.MAXIMIZE != null) {

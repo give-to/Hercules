@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/Node.java:1071:wrap:0,7$if (n != null) {
+src/com/google/javascript/rhino/Node.java:934:wrap:0,7$if (Token != null) {

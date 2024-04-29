@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/optimization/linear/SimplexSolver.java:122:replace:0,1$final short entry = tableau.getEntry(row, column);

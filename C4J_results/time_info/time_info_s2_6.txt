@@ -1,0 +1,8 @@
+Closure_75_1:
+Generation Time: 41.23min
+Validation Time: 260.47min
+Total Time: 301.7min
+Chart_22_4:
+Generation Time: 4.63min
+Validation Time: 90.95min
+Total Time: 95.58min

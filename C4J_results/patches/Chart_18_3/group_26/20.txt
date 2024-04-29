@@ -1,0 +1,1 @@
+source/org/jfree/data/DefaultKeyedValues2D.java:337:replace:0,1$row.setValue(columnKey, clear());

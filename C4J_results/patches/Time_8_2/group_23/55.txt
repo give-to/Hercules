@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/DateTimeZone.java:285:replace:0,5$if (offset < 0) {minutesOffset = hoursInMinutes - minutesOffset;} else {minutesOffset = hoursInMinutes + minutesOffset;}

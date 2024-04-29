@@ -1,0 +1,2 @@
+source/org/jfree/data/xy/XYIntervalSeriesCollection.java:173:wrap:0,2$if (this.data != null) {
+source/org/jfree/data/xy/XYIntervalSeriesCollection.java:187:wrap:0,2$if (this.data != null) {

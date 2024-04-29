@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/IR.java:97:replace:0,1$Preconditions.checkState(objectlit(stmt));

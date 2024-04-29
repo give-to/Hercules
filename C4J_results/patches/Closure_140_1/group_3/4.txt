@@ -1,0 +1,4 @@
+src/com/google/javascript/jscomp/JSModuleGraph.java:212:insert-before:0$coalesceDuplicateFiles();
+src/com/google/javascript/jscomp/CrossModuleCodeMotion.java:389:insert-before:0$coalesceDuplicateFiles();
+src/com/google/javascript/jscomp/JSModuleGraph.java:163:insert-before:0$coalesceDuplicateFiles();
+src/com/google/javascript/jscomp/CrossModuleCodeMotion.java:225:insert-before:0$coalesceDuplicateFiles();

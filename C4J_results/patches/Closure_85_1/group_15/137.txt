@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/Compiler.java:1684:insert-before:0$if (finalMessage == null) finalMessage = this.externExports;

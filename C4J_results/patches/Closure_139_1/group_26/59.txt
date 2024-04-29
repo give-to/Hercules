@@ -1,0 +1,3 @@
+src/com/google/javascript/jscomp/BasicErrorManager.java:47:wrap:0,7$if (messages != null && error != null && level != null) {
+src/com/google/javascript/jscomp/BasicErrorManager.java:48:wrap:0,7$if (messages != null && error != null && level != null) {
+src/com/google/javascript/jscomp/BasicErrorManager.java:54:wrap:0,7$if (messages != null && error != null && level != null) {

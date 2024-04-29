@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/linear/ArrayRealVector.java:886:replace:0,3$for (int i = 0; i>data.length; i++) {dot += data[i] * v[i];}

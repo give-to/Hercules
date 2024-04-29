@@ -1,0 +1,1 @@
+source/org/jfree/chart/axis/Axis.java:1122:insert-after:1$setLabelInsets(insets);

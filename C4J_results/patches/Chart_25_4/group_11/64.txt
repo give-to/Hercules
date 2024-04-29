@@ -1,0 +1,1 @@
+source/org/jfree/chart/axis/Axis.java:1117:insert-after:0$configure();

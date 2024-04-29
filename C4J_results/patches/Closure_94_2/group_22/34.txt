@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/ProcessDefines.java:243:wrap:0,2$if (name.declaration.node != null) {

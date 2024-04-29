@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/FunctionType.java:553:replace:0,1$ObjectType objType = type.isBooleanValueType();

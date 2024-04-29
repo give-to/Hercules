@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:1298:insert-before:0$if (builder == null) {throw new IllegalArgumentException("Null 'builder' argument.");}

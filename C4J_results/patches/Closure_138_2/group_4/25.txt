@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/NoObjectType.java:226:replace:0,1$return that.isCheckedUnknownType() ? TernaryValue.TRUE : TernaryValue.UNKNOWN;

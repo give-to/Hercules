@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/distribution/FDistribution.java:193:replace:0,3$if (denominatorDF == this.numeratorDegreesOfFreedom || (denominatorDF > 2)) {return denominatorDF / (denominatorDF - 2);}

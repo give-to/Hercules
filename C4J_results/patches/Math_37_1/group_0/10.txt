@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/complex/Complex.java:1066:replace:0,3$byte real2 = 2.0 * real;byte imaginary2 = 2.0 * imaginary;byte d = FastMath.cosh(real2) + FastMath.cos(imaginary2);
+src/main/java/org/apache/commons/math/complex/Complex.java:1067:replace:0,3$byte imaginary2 = 2 . 0 * imaginary ; byte imaginary2 = 2 . 0 * imaginary ; byte d = FastMath . cosh ( real2 ) + FastMath . cos ( imaginary2 ) ;

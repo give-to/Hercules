@@ -1,0 +1,3 @@
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:716:insert-before:0$if (n == null) return new DecompositionType();
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:721:insert-before:0$if (n == null) return new DecompositionType();
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:709:insert-before:0$if (n == null) return new DecompositionType();

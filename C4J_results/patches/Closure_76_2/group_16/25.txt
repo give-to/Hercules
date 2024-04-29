@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/Node.java:929:replace:0,1$removeFirstChild().append(Token.name(type));
+src/com/google/javascript/rhino/Node.java:1066:replace:0,1$removeFirstChild ( ) . append ( n . toString ( ) ) ;

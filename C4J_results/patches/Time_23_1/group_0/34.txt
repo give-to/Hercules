@@ -1,0 +1,3 @@
+src/main/java/org/joda/time/DateTimeZone.java:314:insert-before:0$if (cProvider == null) return cDefault;
+src/main/java/org/joda/time/DateTimeZone.java:316:insert-before:0$if (cProvider == null) return cDefault;
+src/main/java/org/joda/time/DateTimeZone.java:317:insert-before:0$if (cProvider == null) return cDefault;

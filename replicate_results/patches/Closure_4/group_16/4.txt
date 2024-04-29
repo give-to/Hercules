@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/FunctionType.java:488:replace:0,1$setPrototypeNoCheck(type, interfaces);

@@ -1,0 +1,2 @@
+src/java/org/apache/commons/lang/time/DateUtils.java:549:insert-before:0$if (gval == null) {throw new IllegalArgumentException("Null 'gval' argument.");}
+src/java/org/apache/commons/lang/time/DateUtils.java:442:insert-before:0$if (gval == null) {throw new IllegalArgumentException("Null 'gval' argument.");}

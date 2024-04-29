@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/PrototypeObjectType.java:385:replace:0,3$if (thisInterface.isSubtype(hasCachedValues())) {return true;}

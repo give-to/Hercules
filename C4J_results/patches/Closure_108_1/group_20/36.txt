@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/Compiler.java:2595:replace:0,1$return buildKnownSymbolTable();

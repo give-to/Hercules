@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:478:replace:0,1$double temp = ya * PI_O_4_BITS;
+src/main/java/org/apache/commons/math/util/FastMath.java:409:replace:0,1$double temp = ya * PI_O_4_BITS;

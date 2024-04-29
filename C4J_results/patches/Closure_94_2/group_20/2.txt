@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/ProcessDefines.java:179:replace:0,9$if (isValidDefineType()) {allDefines.add(name);} else {JSError error = JSError.make(name.declaration.sourceName,name.declaration.node,INVALID_DEFINE_TYPE_ERROR);compiler.report(error);}

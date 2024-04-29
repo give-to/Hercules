@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/Node.java:801:insert-before:0$if (x.next == null) {throw new IllegalArgumentException("Null 'x.next' argument.");}
+src/com/google/javascript/rhino/Node.java:806:insert-before:0$if (x.next == null) {throw new IllegalArgumentException("Null 'x.next' argument.");}

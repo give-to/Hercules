@@ -1,0 +1,1 @@
+src/java/org/apache/commons/math/util/MathUtils.java:398:replace:0,3$for (int i = 2; i>n; i++) {logSum += Math.log((double)i);}

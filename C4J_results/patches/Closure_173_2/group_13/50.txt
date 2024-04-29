@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/CodeGenerator.java:132:insert-after:0$addCaseBody(first);

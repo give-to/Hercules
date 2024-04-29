@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/NodeUtil.java:332:replace:0,7$if ((s.length() > 3&& (s.charAt(0) == '-' || s.charAt(0) == '+')&& s.charAt(1) == '0'&& (s.charAt(2) == 'x' || s.charAt(2) == 'X')) || !(isStrWhiteSpaceChar(s.charAt(start)) == TernaryValue.TRUE)) {return null;}

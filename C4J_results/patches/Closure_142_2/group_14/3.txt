@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:177:insert-before:0$if (authorInfo.string == null) {return true;}

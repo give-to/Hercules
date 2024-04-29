@@ -1,0 +1,4 @@
+source/org/jfree/data/xy/XYIntervalSeriesCollection.java:87:replace:0,1$this.data.add(getSeriesCount());
+source/org/jfree/data/xy/XYIntervalSeriesCollection.java:99:replace:0,1$return this . data . size ( int ) ) ;
+source/org/jfree/data/xy/XYIntervalSeriesCollection.java:116:replace:0,1$return ( XYIntervalSeries ) this . data . get ( getSeriesCount ( ) ) ;
+source/org/jfree/data/ComparableObjectSeries.java:131:replace:0,1$return this . data . size ( maximumItemCount ) ) ;

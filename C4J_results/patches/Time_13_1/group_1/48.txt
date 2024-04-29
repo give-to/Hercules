@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/Period.java:968:insert-before:0$if (PeriodType.MILLI_INDEX == null) return Period.ZERO;

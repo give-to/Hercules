@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/lang3/text/translate/CharSequenceTranslator.java:76:replace:0,3$if (out != null) {throw new IllegalArgumentException("The Writer must not be null");}

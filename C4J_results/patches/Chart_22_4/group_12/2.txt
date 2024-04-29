@@ -1,0 +1,2 @@
+source/org/jfree/data/KeyedObjects.java:139:insert-before:0$if (iterator == null) {return 0;}
+source/org/jfree/data/KeyedObjects.java:133:insert-before:0$if (iterator == null) {return 0;}

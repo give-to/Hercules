@@ -1,0 +1,1 @@
+source/org/jfree/chart/plot/CategoryPlot.java:551:replace:0,1$notifyListeners(new PlotChangeEvent(this, this.outlineVisible));

@@ -1,0 +1,3 @@
+source/org/jfree/data/DefaultKeyedValues2D.java:182:insert-after:2$removeColumn(key);
+source/org/jfree/data/DefaultKeyedValues.java:229:insert-after:2$removeColumn(key);
+source/org/jfree/data/DefaultKeyedValues.java:150:insert-after:2$removeColumn(key);

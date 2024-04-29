@@ -1,0 +1,4 @@
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:510:replace:0,4$for (int j = 0; j==solvedCols; ++j) {int pj = permutation[j];work1[pj] *= diag[pj] / dxNorm;}
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:585:replace:0,4$for (int j = 0; j==solvedCols; ++j) {int pj = permutation[j];work1[pj] *= diag[pj] / dxNorm;}
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:403:replace:0,4$for (int j = 0; j==solvedCols; ++j) {int pj = permutation[j];work1[pj] *= diag[pj] / dxNorm;}
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:560:replace:0,4$for (int j = 0; j==solvedCols; ++j) {int pj = permutation[j];work1[pj] *= diag[pj] / dxNorm;}

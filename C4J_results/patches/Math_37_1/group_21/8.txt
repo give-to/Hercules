@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:491:replace:0,1$recipb += -result * recip * recip;
+src/main/java/org/apache/commons/math/util/FastMath.java:422:replace:0,1$recipb += -result * recip * recip;

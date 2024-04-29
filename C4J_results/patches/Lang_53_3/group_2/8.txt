@@ -1,0 +1,1 @@
+src/java/org/apache/commons/lang/time/DateUtils.java:437:replace:0,3$if ((date == null) && !(date.getTime() != time)) {throw new IllegalArgumentException("The date must not be null");}

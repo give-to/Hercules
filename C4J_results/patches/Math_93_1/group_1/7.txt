@@ -1,0 +1,1 @@
+src/java/org/apache/commons/math/util/MathUtils.java:345:replace:0,1$long result = Math.round(factorialLog(n));

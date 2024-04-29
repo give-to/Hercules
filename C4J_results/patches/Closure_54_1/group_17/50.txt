@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/FunctionType.java:517:replace:0,6$defineDeclaredProperty(name,new FunctionBuilder(this.properties, registry).withParamsNode(params).withReturnType(getReturnType()).build(),source);

@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:1450:insert-after:0$removeChild(node2);

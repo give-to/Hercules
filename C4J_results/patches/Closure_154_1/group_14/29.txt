@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/NodeUtil.java:2317:replace:0,8$for (Node current = qName; true; current = current.toString()) {int type = current.getType();if (type == Token.NAME || type == Token.THIS) {return current;}Preconditions.checkState(type == Token.GETPROP);}
+src/com/google/javascript/jscomp/NodeUtil.java:2318:replace:0,8$for (Node current = qName; true; current = current.toString()) {int type = current.getType();if (type == Token.NAME || type == Token.THIS) {return current;}Preconditions.checkState(type == Token.GETPROP);}

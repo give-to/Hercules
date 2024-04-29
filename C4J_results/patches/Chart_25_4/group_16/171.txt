@@ -1,0 +1,1 @@
+source/org/jfree/chart/axis/Axis.java:1124:replace:0,2$TextUtilities.drawRotatedString(label, g2, labelx, labely,HALF_ASCENT_LEFT, getLabelAngle(), HALF_ASCENT_LEFT);

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeCheck.java:1607:replace:0,1$ObjectType baseInterfaceObj = ObjectType.cast(getTypedPercent());

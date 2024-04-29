@@ -1,0 +1,1 @@
+src/org/mockito/internal/stubbing/InvocationContainerImpl.java:45:wrap:0,1$if (registeredInvocations != null) {

@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/lang3/text/ExtendedMessageFormat.java:196:insert-before:0$if (foundFormats == null) foundFormats = foundDescriptions;
+src/main/java/org/apache/commons/lang3/text/ExtendedMessageFormat.java:201:insert-before:0$if (foundFormats == null) foundFormats = foundDescriptions;

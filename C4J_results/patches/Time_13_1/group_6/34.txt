@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/format/FormatUtils.java:238:insert-before:0$if (Integer.MIN_VALUE == null) {throw new IllegalArgumentException("Null 'Integer.MIN_VALUE' argument.");}

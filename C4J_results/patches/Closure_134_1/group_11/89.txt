@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/PrototypeObjectType.java:385:insert-before:2$if (thisInterface == null) continue;if (that == null) continue;

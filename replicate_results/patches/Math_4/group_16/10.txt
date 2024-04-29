@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java:120:insert-before:0$if (v2D == null) {throw new IllegalArgumentException("Null 'v2D' argument.");}
+src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubLine.java:116:insert-before:0$if (v1D == null) {throw new IllegalArgumentException("Null 'v2D' argument.");}

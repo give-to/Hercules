@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/SemanticReverseAbstractInterpreter.java:296:wrap:0,3$if (leftIsRefineable != null && merged.typeA != null) {
+src/com/google/javascript/jscomp/SemanticReverseAbstractInterpreter.java:299:wrap:0,3$if (rightIsRefineable != null && merged.typeB != null) {

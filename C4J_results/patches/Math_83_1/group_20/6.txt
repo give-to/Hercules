@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java:314:replace:0,3$for (int j = 0; j < width + 1; j++) {matrix[i][j] = getEntry(i + 1, j + 1);}

@@ -1,0 +1,3 @@
+src/main/java/org/joda/time/chrono/ZonedChronology.java:351:replace:0,1$double offset = this.iZone.getOffsetFromLocal(instant);
+src/main/java/org/joda/time/chrono/ZonedChronology.java:315:replace:0,1$double offset = this.iZone.getOffsetFromLocal(instant);
+src/main/java/org/joda/time/chrono/ZonedChronology.java:341:replace:0,1$double offset = this . iZone . getOffset ( instant ) ;

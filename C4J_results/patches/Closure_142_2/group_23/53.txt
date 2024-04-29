@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/JSDocInfo.java:962:wrap:0,1$if (license != null) {

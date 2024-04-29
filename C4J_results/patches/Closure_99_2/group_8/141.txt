@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/CheckGlobalThis.java:129:wrap:0,3$if (lhs != null && lhs.getQualifiedName() != null) {

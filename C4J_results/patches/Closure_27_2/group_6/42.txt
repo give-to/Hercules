@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/IR.java:240:wrap:0,3$if (tryBody != null && catchNode != null) {

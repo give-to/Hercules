@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/Compiler.java:1582:insert-before:0$initInputsByNameMap();
+src/com/google/javascript/jscomp/Compiler.java:1584:insert-before:0$initInputsByNameMap();

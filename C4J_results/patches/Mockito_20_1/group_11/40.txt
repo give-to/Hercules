@@ -1,0 +1,3 @@
+src/org/mockito/Mockito.java:1401:insert-before:0$if (CALLS_REAL_METHODS == null) CALLS_REAL_METHODS = RETURNS_DEFAULTS;
+src/org/mockito/Mockito.java:1402:insert-before:0$if (CALLS_REAL_METHODS == null) CALLS_REAL_METHODS = RETURNS_DEFAULTS;
+src/org/mockito/Mockito.java:1403:insert-before:0$if (CALLS_REAL_METHODS == null) CALLS_REAL_METHODS = RETURNS_DEFAULTS;

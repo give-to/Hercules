@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeCheck.java:1649:replace:0,1$processForTesting(t, n);

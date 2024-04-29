@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/JSType.java:706:insert-before:0$if (JSTypeNative.NO_OBJECT_TYPE == null) {throw new IllegalArgumentException("Null 'JSTypeNative.NO_OBJECT_TYPE' argument.");}

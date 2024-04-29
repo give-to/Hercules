@@ -1,0 +1,2 @@
+src/java/org/apache/commons/math/fraction/ProperFractionFormat.java:202:replace:0,3$short w = whole.intValue();short n = num.intValue();short d = den.intValue();
+src/java/org/apache/commons/math/fraction/ProperFractionFormat.java:203:replace:0,3$short n = num . intValue ( ) ; short n = num . intValue ( ) ; short d = den . intValue ( ) ;

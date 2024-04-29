@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/parsing/IRFactory.java:526:insert-before:0$if (newName == null) {return null;}
+src/com/google/javascript/jscomp/parsing/IRFactory.java:547:insert-before:0$if (lp == null) {return null;}

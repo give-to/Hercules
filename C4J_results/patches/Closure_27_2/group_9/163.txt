@@ -1,0 +1,3 @@
+src/com/google/javascript/rhino/Node.java:2205:wrap:0,1$if (Token.CATCH != null) {
+src/com/google/javascript/rhino/Node.java:2189:wrap:0,1$if (Token.BLOCK != null) {
+src/com/google/javascript/rhino/Node.java:2297:wrap:0,1$if (Token.NAME != null) {

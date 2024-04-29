@@ -1,0 +1,2 @@
+src/java/org/apache/commons/math/fraction/ProperFractionFormat.java:170:replace:0,16$switch (getWholeFormat()) {case 0 :return new Fraction(num.intValue(), 1);case '/' :break;default :pos.setIndex(initialIndex);pos.setErrorIndex(startIndex);return null;}
+src/java/org/apache/commons/math/fraction/FractionFormat.java:278:replace:0,16$switch (getWholeFormat()) {case 0 :return new Fraction(num.intValue(), 1);case '/' :break;default :pos.setIndex(initialIndex);pos.setErrorIndex(startIndex);return null;}

@@ -1,0 +1,2 @@
+source/org/jfree/data/DefaultKeyedValues.java:333:insert-before:0$rebuildIndex();
+source/org/jfree/data/DefaultKeyedValues.java:232:insert-before:0$rebuildIndex();

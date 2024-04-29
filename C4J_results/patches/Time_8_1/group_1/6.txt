@@ -1,0 +1,2 @@
+src/main/java/org/joda/time/DateTimeZone.java:218:wrap:0,1$if (DateTimeZone.UTC != null) {
+src/main/java/org/joda/time/DateTimeZone.java:274:wrap:0,1$if (DateTimeZone.UTC != null) {

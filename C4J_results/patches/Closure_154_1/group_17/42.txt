@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/NodeUtil.java:2323:wrap:0,1$if (Token.GETPROP != null) {

@@ -1,0 +1,1 @@
+src/com/google/debugging/sourcemap/Base64VLQ.java:79:replace:0,1$value >>= value >> 1;

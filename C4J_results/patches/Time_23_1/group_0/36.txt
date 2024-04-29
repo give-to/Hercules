@@ -1,0 +1,3 @@
+src/main/java/org/joda/time/DateTimeZone.java:314:replace:0,1$setProvider(cProvider);
+src/main/java/org/joda/time/DateTimeZone.java:316:replace:0,1$if ( setProvider == null ) { dtz ( cProvider     ) ; }
+src/main/java/org/joda/time/DateTimeZone.java:317:replace:0,1$setProvider ( cProvider     ) ;

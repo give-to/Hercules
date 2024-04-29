@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/PrototypeObjectType.java:384:insert-before:0$if (thisInterfaces == null) thisInterfaces = new Iterable();

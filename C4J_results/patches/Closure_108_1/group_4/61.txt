@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/ScopedAliases.java:430:insert-before:0$if (grandparent == null) continue;if (newDecl == null) continue;if (varNode == null) continue;

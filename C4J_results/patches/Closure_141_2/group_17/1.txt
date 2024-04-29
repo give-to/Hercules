@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:751:replace:0,1$child = getTempConstantValueName();
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:600:replace:0,1$child = getTempConstantValueName();

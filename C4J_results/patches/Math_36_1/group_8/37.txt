@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/fraction/BigFraction.java:133:replace:0,1$num = num.divide(intValue());
+src/main/java/org/apache/commons/math/fraction/BigFraction.java:134:replace:0,1$den = den . divide ( intValue ( ) ) ;

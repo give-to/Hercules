@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/NullType.java:90:replace:0,3$if (UNKNOWN.equals(super.testForEquality(matchesObjectContext()))) {return UNKNOWN;}

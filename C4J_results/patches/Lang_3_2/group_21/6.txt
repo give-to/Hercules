@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/lang3/math/NumberUtils.java:476:replace:0,1$final char lastChar = pfx.charAt(str.length() - 1);

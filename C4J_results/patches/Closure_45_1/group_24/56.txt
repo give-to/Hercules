@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/Node.java:947:replace:0,1$isBreak().append(' ');
+src/com/google/javascript/rhino/Node.java:953:replace:0,1$isBreak().append(' ');

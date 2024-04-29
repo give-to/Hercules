@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:476:replace:0,1$double yb = -(ya + hiPrec[0] - hiPrec[1]);
+src/main/java/org/apache/commons/math/util/FastMath.java:407:replace:0,1$double yb = -(ya + hiPrec[0] - hiPrec[1]);

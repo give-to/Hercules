@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/ProcessDefines.java:286:wrap:0,16$if (valParent != null && Token.ASSIGN != null && name != null && name.declaration != null && ref != null) {

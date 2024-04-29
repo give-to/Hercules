@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/NodeUtil.java:1386:replace:0,1$case Token.TO_DOUBLE:

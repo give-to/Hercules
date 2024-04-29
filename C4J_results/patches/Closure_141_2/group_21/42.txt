@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:680:replace:0,1$int parentType = parent.toStringTree();
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:579:replace:0,1$int parentType = parent.toStringTree();

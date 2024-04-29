@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/testing/TestErrorReporter.java:50:replace:0,5$if (errors != null && errorsIndex==errors.length) {assertEquals(errors[errorsIndex++], message);} else {fail("extra error: " + message);}
+src/com/google/javascript/jscomp/testing/TestErrorReporter.java:55:replace:0,5$public void error ( String message , String sourceName , int line , String lineSource , int lineOffset ) { if ( errors != null && errorsIndex = = errors . length ) { assertEquals ( errors [ errorsIndex + + ] , message ) ; } else { fail ( "extra error : " + message ) ; } }

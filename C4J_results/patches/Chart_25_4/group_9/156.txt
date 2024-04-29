@@ -1,0 +1,1 @@
+source/org/jfree/chart/plot/CategoryPlot.java:2785:insert-before:0$if (axisStateMap == null) return this.foregroundRangeMarkers;

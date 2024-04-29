@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java:195:replace:0,1$return solve(maxEval, f, min, this.absoluteAccuracy, min + 0.5 * (max - min));

@@ -1,0 +1,6 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:2269:replace:0,1$remB %= -(remA - xa - a);
+src/main/java/org/apache/commons/math/util/FastMath.java:2274:replace:0,1$remB 1048576.0 - ( remA - b - a ) ;
+src/main/java/org/apache/commons/math/util/FastMath.java:2279:replace:0,1$remB 1048576.0 - ( remA - b - a ) ;
+src/main/java/org/apache/commons/math/util/FastMath.java:2183:replace:0,1$remB %= -(remA - xa - a);
+src/main/java/org/apache/commons/math/util/FastMath.java:2188:replace:0,1$remB 1048576.0 - ( remA - b - a ) ;
+src/main/java/org/apache/commons/math/util/FastMath.java:2193:replace:0,1$remB 1048576.0 - ( remA - b - a ) ;

@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:518:insert-before:2$
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:533:insert-before:2$

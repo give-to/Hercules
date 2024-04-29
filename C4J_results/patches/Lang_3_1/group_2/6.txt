@@ -1,0 +1,4 @@
+src/main/java/org/apache/commons/lang3/math/NumberUtils.java:603:insert-before:0$if (d == null) d = NumberUtils.DOUBLE_ONE;
+src/main/java/org/apache/commons/lang3/math/NumberUtils.java:595:insert-before:0$if (d == null) d = NumberUtils.DOUBLE_ONE;
+src/main/java/org/apache/commons/lang3/math/NumberUtils.java:626:insert-before:0$if (d == null) d = NumberUtils.DOUBLE_ONE;
+src/main/java/org/apache/commons/lang3/StringUtils.java:262:insert-before:0$if (d == null) d = NumberUtils.DOUBLE_ONE;

@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/lang3/math/NumberUtils.java:575:replace:0,14$if (dec == str || (dec == null && exp == null)) { try {return createInteger(str);} catch (final NumberFormatException nfe) { }try {return createLong(str);} catch (final NumberFormatException nfe) { }return createBigInteger(str);}

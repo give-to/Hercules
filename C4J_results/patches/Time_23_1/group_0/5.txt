@@ -1,0 +1,3 @@
+src/main/java/org/joda/time/DateTimeZone.java:314:replace:0,1$dtz = getDefaultProvider().getZone(convId);
+src/main/java/org/joda/time/DateTimeZone.java:316:replace:0,1$if ( dtz == null ) { dtz = getDefaultProvider ( ) . getZone ( id ) ; }
+src/main/java/org/joda/time/DateTimeZone.java:317:replace:0,1$dtz = getDefaultProvider ( ) . getZone ( id ) ;

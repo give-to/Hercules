@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/FunctionType.java:554:replace:0,9$if (canBeCalled() != null) {if (objType.isEquivalentTo(prototype)) {return true;}this.setPrototypeBasedOn(objType);return true;} else {return false;}

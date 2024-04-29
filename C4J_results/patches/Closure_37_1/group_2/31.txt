@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/Compiler.java:616:replace:0,1$getTopScope()[0] = e;

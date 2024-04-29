@@ -1,0 +1,1 @@
+source/org/jfree/chart/axis/Axis.java:1117:replace:0,1$Shape rotatedLabelBounds = getLabelFont().createTransformedShape(labelBounds);

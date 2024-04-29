@@ -1,0 +1,3 @@
+src/main/java/org/apache/commons/lang3/text/ExtendedMessageFormat.java:158:insert-after:35$applyPattern(pattern);
+src/main/java/org/apache/commons/lang3/text/ExtendedMessageFormat.java:159:insert-after:35$applyPattern(pattern);
+src/main/java/org/apache/commons/lang3/text/ExtendedMessageFormat.java:209:insert-after:35$applyPattern(pattern);

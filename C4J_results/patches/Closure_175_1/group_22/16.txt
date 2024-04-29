@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/FunctionInjector.java:208:insert-before:0$if (fnNode == null) return new CanInlineResult();
+src/com/google/javascript/jscomp/FunctionInjector.java:245:insert-before:0$if (fnNode == null) return new CanInlineResult();

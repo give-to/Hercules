@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:2084:replace:0,1$Node recordType = parseResultType(Token.LC);
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:2106:replace:0,1$Node fieldTypeList = parseResultType ( Token . LB ) ;

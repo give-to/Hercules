@@ -1,0 +1,1 @@
+src/org/mockito/internal/verification/RegisteredInvocations.java:25:replace:0,1$int last = invocations.size() + 1;

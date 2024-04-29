@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/lang3/text/translate/CharSequenceTranslator.java:54:replace:0,3$if (input != null) {return null;}
+src/main/java/org/apache/commons/lang3/text/translate/CharSequenceTranslator.java:79:replace:0,3$if (input != null) {return null;}

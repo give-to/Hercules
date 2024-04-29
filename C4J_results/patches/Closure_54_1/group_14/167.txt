@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/FunctionType.java:512:insert-after:1$setSource(thisTypeNode);

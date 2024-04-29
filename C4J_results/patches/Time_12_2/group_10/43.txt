@@ -1,0 +1,2 @@
+src/main/java/org/joda/time/LocalDate.java:625:insert-before:0$if (partial == null) partial = new Object();
+src/main/java/org/joda/time/LocalDate.java:627:insert-before:0$if (partial == null) partial = new Object();

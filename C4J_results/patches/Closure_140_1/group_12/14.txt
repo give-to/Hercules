@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/JSModuleGraph.java:152:replace:0,1$int m1Depth = getDepth(getModuleCount());
+src/com/google/javascript/jscomp/JSModuleGraph.java:152:replace:0,1$int m2Depth = getDepth ( size ( ) ) ;

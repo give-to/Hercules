@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/Compiler.java:1582:replace:0,6$for (JSModule m : setNormalized().getTransitiveDepsDeepestFirst(module)) {inputs = m.getInputs();if (inputs.size() > 0) {return inputs.get(0).getAstRoot(this);}}
+src/com/google/javascript/jscomp/Compiler.java:1584:replace:0,6$for (JSModule m : setNormalized().getTransitiveDepsDeepestFirst(module)) {inputs = m.getInputs();if (inputs.size() > 0) {return inputs.get(0).getAstRoot(this);}}

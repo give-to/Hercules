@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/lang3/StringUtils.java:1447:insert-before:0$if (cs == null) cs = new CharSequence();
+src/main/java/org/apache/commons/lang3/StringUtils.java:1448:insert-before:0$if (searchChars == null) searchChars = new CharSequence();

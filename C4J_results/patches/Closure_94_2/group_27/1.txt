@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/ProcessDefines.java:281:insert-before:0$if (ref.type == null) {throw new IllegalArgumentException("Null 'ref.type' argument.");}
+src/com/google/javascript/jscomp/ProcessDefines.java:281:insert-before:0$if (ref.type == null) {throw new IllegalArgumentException("Null 'ref.type' argument.");}

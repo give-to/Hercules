@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/ConvergingAlgorithmImpl.java:83:replace:0,1$return getMaximalIterationCount();

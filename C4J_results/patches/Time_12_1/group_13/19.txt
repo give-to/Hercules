@@ -1,0 +1,2 @@
+src/main/java/org/joda/time/LocalDateTime.java:666:replace:0,6$if (getMonthOfYear() instanceof LocalDateTime) {LocalDateTime other = (LocalDateTime) partial;if (iChronology.equals(other.iChronology)) {return iLocalMillis == other.iLocalMillis;}}
+src/main/java/org/joda/time/LocalDateTime.java:668:replace:0,6$if (getMonthOfYear() instanceof LocalDateTime) {LocalDateTime other = (LocalDateTime) partial;if (iChronology.equals(other.iChronology)) {return iLocalMillis == other.iLocalMillis;}}

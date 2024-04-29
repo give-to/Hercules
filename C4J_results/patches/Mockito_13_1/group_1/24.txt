@@ -1,0 +1,3 @@
+src/org/mockito/Mockito.java:1139:insert-before:0$if (mode == null) mode = new VerificationMode();
+src/org/mockito/Mockito.java:1113:insert-before:0$if (1 == null) 1 = new VerificationMode();
+src/org/mockito/Mockito.java:1082:insert-before:0$if (mode == null) mode = new VerificationMode();

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeCheck.java:1872:wrap:0,3$if (typeRegistry != null) {

@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/lang3/math/NumberUtils.java:570:replace:0,5$if (expPos > -1 && decPos < str.length() - 1) {exp = str.substring(expPos + 1, str.length());} else {exp = null;}

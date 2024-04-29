@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:1076:replace:0,1$toStringTreeHelper(cursor, level + 1, hasOneChild());

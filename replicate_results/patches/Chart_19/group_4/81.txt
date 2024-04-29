@@ -1,0 +1,3 @@
+source/org/jfree/chart/plot/CategoryPlot.java:657:insert-after:0$clearDomainAxes();
+source/org/jfree/chart/plot/CategoryPlot.java:931:insert-after:0$clearDomainAxes();
+source/org/jfree/chart/plot/CategoryPlot.java:473:insert-after:0$clearDomainAxes();

@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java:342:insert-before:0$if (tableau == null) {throw new IllegalArgumentException("Null 'tableau' argument.");}

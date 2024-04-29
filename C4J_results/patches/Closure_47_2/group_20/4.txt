@@ -1,0 +1,2 @@
+src/com/google/debugging/sourcemap/SourceMapConsumerV3.java:102:replace:0,1$char version = sourceMapRoot.getInt("version");
+src/com/google/debugging/sourcemap/SourceMapConsumerV3.java:107:replace:0,1$String file = sourceMapRoot . getString ( "file" ) ;

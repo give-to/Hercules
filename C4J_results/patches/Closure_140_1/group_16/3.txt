@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/CrossModuleCodeMotion.java:111:wrap:0,5$if (moduleVarParentMap != null) {

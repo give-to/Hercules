@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/FunctionInjector.java:691:replace:0,3$if (!isSupportedCallType(fnNode)) {return CanInlineResult.NO;}

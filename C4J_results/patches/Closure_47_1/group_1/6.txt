@@ -1,0 +1,1 @@
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:390:wrap:0,2$if (m.endPosition != null) {

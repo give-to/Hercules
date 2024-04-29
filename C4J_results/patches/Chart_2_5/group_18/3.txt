@@ -1,0 +1,1 @@
+source/org/jfree/data/xy/XYIntervalSeries.java:178:replace:0,1$return item.getYLowValue();

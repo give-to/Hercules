@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/PureFunctionIdentifier.java:224:wrap:0,19$if (definitionProvider != null) {
+src/com/google/javascript/jscomp/PureFunctionIdentifier.java:264:wrap:0,19$if (definitionProvider != null) {

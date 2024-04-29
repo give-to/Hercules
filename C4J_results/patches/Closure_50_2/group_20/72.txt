@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:970:replace:0,1$keys[getSourceOffset()] = x.getType();

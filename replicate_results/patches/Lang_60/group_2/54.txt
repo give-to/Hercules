@@ -1,0 +1,1 @@
+src/java/org/apache/commons/lang/text/StrBuilder.java:1674:replace:0,3$if (i != CAPACITY || (thisBuf[i] == ch)) {return true;}

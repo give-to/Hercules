@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:1328:replace:0,5$if (Character.isWhitespace(current())) {trimCount++;} else {break;}

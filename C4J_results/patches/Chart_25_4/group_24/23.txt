@@ -1,0 +1,2 @@
+source/org/jfree/chart/axis/CategoryAxis.java:673:insert-before:0$if (area == null) {return 0.0;}
+source/org/jfree/chart/axis/CategoryAxis.java:709:insert-before:0$if (area == null) {return 0.0;}

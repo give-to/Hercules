@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/IR.java:248:wrap:0,1$if (Token.CATCH != null) {

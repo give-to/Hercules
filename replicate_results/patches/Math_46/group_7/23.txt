@@ -1,0 +1,4 @@
+src/main/java/org/apache/commons/math/complex/Complex.java:253:replace:0,1$MathUtils.checkNotNull(getField());
+src/main/java/org/apache/commons/math/complex/Complex.java:159:replace:0,1$MathUtils . checkNotNull ( imaginary2 ( ) ) ;
+src/main/java/org/apache/commons/math/complex/Complex.java:492:replace:0,1$MathUtils.checkNotNull(getField());
+src/main/java/org/apache/commons/math/complex/Complex.java:421:replace:0,1$MathUtils.checkNotNull(getField());

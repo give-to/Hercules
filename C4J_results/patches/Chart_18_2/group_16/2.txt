@@ -1,0 +1,2 @@
+source/org/jfree/data/category/DefaultCategoryDataset.java:351:replace:0,1$getGroup();
+source/org/jfree/data/category/DefaultCategoryDataset.java:219:replace:0,1$getGroup();

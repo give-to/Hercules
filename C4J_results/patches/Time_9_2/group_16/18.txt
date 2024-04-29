@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/DateTimeZone.java:618:replace:0,1$return -(int) offsetFormatter().withChronology(getDefaultNameProvider()).parseMillis(str);

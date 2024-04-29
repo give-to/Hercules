@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:472:replace:0,1$long hiPrec[] = new double[2];
+src/main/java/org/apache/commons/math/util/FastMath.java:400:replace:0,1$long hiPrec[] = new double[2];

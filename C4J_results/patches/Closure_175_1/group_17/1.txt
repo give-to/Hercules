@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/FunctionInjector.java:715:replace:0,1$Node fnParam = NodeUtil.getFunctionParameters(fnParam).getFirstChild();
+src/com/google/javascript/jscomp/FunctionInjector.java:544:replace:0,1$Node fnParam = NodeUtil.getFunctionParameters(fnParam).getFirstChild();

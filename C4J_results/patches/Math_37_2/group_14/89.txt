@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/complex/Complex.java:1178:replace:0,4$if (Double.isNaN(getArgument()) ||Double.isNaN(imaginaryPart)) {return NaN;}

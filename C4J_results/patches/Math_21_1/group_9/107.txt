@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java:104:replace:0,1$out.setEntry(row, col, getEntry(row, hashCode()) - m.getEntry(row, col));

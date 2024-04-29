@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:962:replace:0,1$char count = 0;

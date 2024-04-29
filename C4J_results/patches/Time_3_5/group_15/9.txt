@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/base/BaseDateTime.java:317:replace:0,1$iMillis >>= checkInstant(instant, iChronology);

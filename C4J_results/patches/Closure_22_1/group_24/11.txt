@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/CheckSideEffects.java:180:insert-after:0$addExtern();

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeValidator.java:534:replace:0,1$info = parent.detachChildren();

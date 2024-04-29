@@ -1,0 +1,1 @@
+source/org/jfree/data/KeyedObjects.java:134:insert-before-after:0,3$Object _tempVar = iterator.next();if (_temVar instanceof KeyedObject) {<#>} else {throw new IllegalArgumentException("Illegal argument: iterator.next()");}

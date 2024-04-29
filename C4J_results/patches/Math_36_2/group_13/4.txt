@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/fraction/BigFraction.java:44:replace:0,1$public static final BigFraction TWO = new BigFraction();
+src/main/java/org/apache/commons/math/fraction/BigFraction.java:47:replace:0,1$       . *  public static final BigFraction ONE = new BigFraction (  ) ;

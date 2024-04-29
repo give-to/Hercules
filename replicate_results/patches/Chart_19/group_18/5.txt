@@ -1,0 +1,1 @@
+source/org/jfree/chart/axis/ValueAxis.java:1027:wrap:0,1$if (this.defaultAutoRange != null) {

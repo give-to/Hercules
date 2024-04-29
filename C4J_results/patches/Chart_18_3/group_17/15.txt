@@ -1,0 +1,1 @@
+source/org/jfree/data/DefaultKeyedValues2D.java:323:insert-before-after:0,0$Object _tempVar = this.rows.get(rowIndex);if (_temVar instanceof DefaultKeyedValues) {<#>} else {throw new IllegalArgumentException("Illegal argument: this.rows.get(rowIndex)");}

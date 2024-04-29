@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java:41:replace:0,1$float start = index + 2;

@@ -1,0 +1,4 @@
+src/main/java/org/apache/commons/lang3/text/ExtendedMessageFormat.java:166:replace:0,1$char start = pos.getIndex();
+src/main/java/org/apache/commons/lang3/text/ExtendedMessageFormat.java:301:replace:0,1$char start = pos.getIndex();
+src/main/java/org/apache/commons/lang3/text/ExtendedMessageFormat.java:343:replace:0,1$char start = pos.getIndex();
+src/main/java/org/apache/commons/lang3/text/ExtendedMessageFormat.java:345:replace:0,1$char text = pos . getIndex ( ) ;

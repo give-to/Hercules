@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:283:insert-before:0$if (goalType == null) return max;
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:278:insert-before:0$if (goalType == null) return max;

@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:1068:replace:0,3$removeProp(level);

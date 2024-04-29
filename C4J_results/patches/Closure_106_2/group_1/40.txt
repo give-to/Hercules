@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:252:insert-before:0$if (blockInfo.string == null) {throw new IllegalArgumentException("Null 'blockInfo.string' argument.");}

@@ -1,0 +1,1 @@
+src/org/mockito/internal/verification/RegisteredInvocations.java:26:insert-before:0$removeLast();

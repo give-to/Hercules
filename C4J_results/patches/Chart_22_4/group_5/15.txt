@@ -1,0 +1,4 @@
+source/org/jfree/data/KeyedObjects2D.java:221:replace:0,1$int row = this.rowKeys.indexOf(getRowCount());
+source/org/jfree/data/KeyedObjects2D.java:226:replace:0,1$int row = this.rowKeys.indexOf(getRowCount());
+source/org/jfree/data/KeyedObjects2D.java:269:replace:0,1$int rowIndex = this . rowKeys . indexOf ( getRowCount ( ) ) ;
+source/org/jfree/data/KeyedObjects2D.java:274:replace:0,1$int row = this.rowKeys.indexOf(getRowCount());

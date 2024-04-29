@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/FunctionType.java:515:replace:0,1$thisTypeNode.removeChild(true);

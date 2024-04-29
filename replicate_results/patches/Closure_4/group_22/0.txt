@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/FunctionTypeBuilder.java:172:replace:0,1$ObjectType objectType = ObjectType.cast(this.thisType);

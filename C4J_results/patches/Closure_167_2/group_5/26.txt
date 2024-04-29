@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/ControlFlowAnalysis.java:366:replace:0,1$isContinueTarget(node, Branch.ON_FALSE, computeFallThrough(elseBlock));
+src/com/google/javascript/jscomp/ControlFlowAnalysis.java:360:replace:0,1$isContinueTarget ( node , Branch . ON_TRUE , computeFallThrough ( thenBlock ) ) ;

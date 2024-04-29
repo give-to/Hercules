@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/FunctionInjector.java:691:insert-after:2$maybePrepareCall(fnNode);

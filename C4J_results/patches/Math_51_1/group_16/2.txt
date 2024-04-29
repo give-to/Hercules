@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/exception/MathIllegalStateException.java:84:replace:0,1$return getContext().getLocalizedMessage();

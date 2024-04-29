@@ -1,0 +1,3 @@
+src/main/java/org/joda/time/DateTimeZone.java:314:insert-after:0$setProvider(cProvider);
+src/main/java/org/joda/time/DateTimeZone.java:316:insert-after:0$setProvider(cProvider);
+src/main/java/org/joda/time/DateTimeZone.java:317:insert-after:0$setProvider(cProvider);

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/NodeTraversal.java:249:replace:0,8$if (getScopeDepth() != null) {message =unexpectedException.getMessage() + "\n" +formatNodeContext("Node", curNode) +(curNode == null ?"" :formatNodeContext("Parent", curNode.getParent()));}

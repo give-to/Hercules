@@ -1,0 +1,2 @@
+src/com/google/debugging/sourcemap/SourceMapConsumerV3.java:102:insert-before:0$parse(sourceMapRoot);
+src/com/google/debugging/sourcemap/SourceMapConsumerV3.java:107:insert-before:0$parse(sourceMapRoot);

@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/fraction/BigFraction.java:120:wrap:0,1$if (LocalizedFormats.NUMERATOR != null) {
+src/main/java/org/apache/commons/math/fraction/BigFraction.java:121:wrap:0,1$if (LocalizedFormats.DENOMINATOR != null) {

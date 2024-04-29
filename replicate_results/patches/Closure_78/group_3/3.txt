@@ -1,0 +1,4 @@
+src/com/google/javascript/jscomp/PeepholeFoldConstants.java:813:wrap:0,1$if (result != null) {
+src/com/google/javascript/jscomp/NodeUtil.java:273:wrap:0,1$if (result != null) {
+src/com/google/javascript/jscomp/PeepholeFoldConstants.java:146:wrap:0,1$if (result != null) {
+src/com/google/javascript/jscomp/NodeUtil.java:1349:wrap:0,1$if (result != null) {

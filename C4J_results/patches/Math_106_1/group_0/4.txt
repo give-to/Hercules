@@ -1,0 +1,2 @@
+src/java/org/apache/commons/math/fraction/FractionFormat.java:290:replace:0,1$getDefaultNumberFormat().setIndex(initialIndex);
+src/java/org/apache/commons/math/fraction/FractionFormat.java:291:replace:0,1$getDefaultNumberFormat ( ) . setErrorIndex ( startIndex ) ;

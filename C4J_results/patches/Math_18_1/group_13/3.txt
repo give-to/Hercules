@@ -1,0 +1,9 @@
+src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java:934:wrap:0,1$if (res != null) {
+src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java:960:wrap:0,1$if (res != null) {
+src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java:1024:wrap:0,1$if (res != null) {
+src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java:927:wrap:0,1$if (res != null) {
+src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java:953:wrap:0,1$if (res != null) {
+src/main/java/org/apache/commons/math3/util/FastMath.java:3523:wrap:0,1$if (res != null) {
+src/main/java/org/apache/commons/math3/util/Pair.java:65:wrap:0,1$if (res != null) {
+src/main/java/org/apache/commons/math3/util/Pair.java:74:wrap:0,1$if (res != null) {
+src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java:82:wrap:0,1$if (res != null) {

@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:486:replace:0,1$double recipb = hiPrec - recipa;
+src/main/java/org/apache/commons/math/util/FastMath.java:417:replace:0,1$double recipb = hiPrec - recipa;

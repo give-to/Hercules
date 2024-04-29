@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/SyntacticScopeCreator.java:124:insert-before:0$if (name == null) continue;if (n == null) continue;if (parent == null) continue;

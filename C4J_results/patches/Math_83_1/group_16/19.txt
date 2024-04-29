@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java:310:replace:0,1$int width = getWidth() - discardArtificialVariables() - 1;

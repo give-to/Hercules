@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:288:insert-before:0$if (preserveInfo.token == null) {return false;}
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:186:insert-before:0$if (authorInfo.token == null) {return false;}

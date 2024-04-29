@@ -1,0 +1,2 @@
+src/java/org/apache/commons/lang/time/FastDateFormat.java:1539:replace:0,1$mTimeZone = this.mTimeZone;
+src/java/org/apache/commons/lang/time/FastDateFormat.java:1540:replace:0,1$mTimeZone = this.mTimeZone;

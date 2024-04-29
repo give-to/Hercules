@@ -1,0 +1,2 @@
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:543:insert-before:0$if (m2.startPosition == null) {return true;}
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:545:insert-before:0$if (m2.startPosition == null) {return true;}

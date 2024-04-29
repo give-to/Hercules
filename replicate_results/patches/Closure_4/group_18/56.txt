@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/jstype/FunctionType.java:494:replace:0,1$FunctionType constructor = instance.getJSDocInfo();
+src/com/google/javascript/jscomp/TypeCheck.java:1609:replace:0,1$FunctionType interfaceConstructor = baseInterfaceObj . getJSDocInfo ( ) ;

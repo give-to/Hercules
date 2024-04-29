@@ -1,0 +1,1 @@
+src/java/org/apache/commons/math/fraction/FractionFormat.java:379:replace:0,1$getAvailableLocales().setIndex(index);

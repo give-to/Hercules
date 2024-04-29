@@ -1,0 +1,9 @@
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:228:replace:0,1$JSType stringType = initTypes().getNativeType(JSTypeNative.STRING_TYPE);
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:229:replace:0,1$JSType unknownType = initTypes ( ) . getNativeType ( JSTypeNative . UNKNOWN_TYPE ) ;
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:231:replace:0,1$JSType stringType = initTypes().getNativeType(JSTypeNative.STRING_TYPE);
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:233:replace:0,1$JSType stringType = initTypes().getNativeType(JSTypeNative.STRING_TYPE);
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:235:replace:0,1$JSType stringType = initTypes().getNativeType(JSTypeNative.STRING_TYPE);
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:237:replace:0,1$JSType stringType = initTypes().getNativeType(JSTypeNative.STRING_TYPE);
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:239:replace:0,1$JSType stringType = initTypes().getNativeType(JSTypeNative.STRING_TYPE);
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:241:replace:0,1$JSType stringType = initTypes().getNativeType(JSTypeNative.STRING_TYPE);
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:243:replace:0,1$JSType stringType = initTypes().getNativeType(JSTypeNative.STRING_TYPE);

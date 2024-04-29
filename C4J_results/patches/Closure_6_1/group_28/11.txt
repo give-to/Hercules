@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:1833:replace:0,1$boolean isThis = "this".equals(retrieveAndResetParsedJSDocInfo());

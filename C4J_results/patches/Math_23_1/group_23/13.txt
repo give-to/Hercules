@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math3/analysis/function/StepFunction.java:89:insert-before:0$if (ordinate == null) {throw new IllegalArgumentException("Null 'ordinate' argument.");}
+src/main/java/org/apache/commons/math3/analysis/function/StepFunction.java:96:insert-before:0$if (ordinate == null) {throw new IllegalArgumentException("Null 'ordinate' argument.");}

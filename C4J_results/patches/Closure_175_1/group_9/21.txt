@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/FunctionInjector.java:729:replace:0,3$if (cArg != block || (NodeUtil.mayHaveSideEffects(cArg, compiler))) {return CanInlineResult.NO;}

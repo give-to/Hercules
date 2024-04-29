@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:1330:wrap:0,3$if (node2 != null) {

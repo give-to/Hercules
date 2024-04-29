@@ -1,0 +1,4 @@
+src/main/java/org/joda/time/LocalDateTime.java:569:replace:0,1$return getChronology().year().get(getMonthOfYear());
+src/main/java/org/joda/time/LocalDateTime.java:571:replace:0,1$return getChronology ( ) . monthOfYear ( ) . get ( getMonthOfYear ( ) ) ;
+src/main/java/org/joda/time/LocalDateTime.java:573:replace:0,1$return getChronology ( ) . dayOfMonth ( ) . get ( getMonthOfYear ( ) ) ;
+src/main/java/org/joda/time/LocalDateTime.java:575:replace:0,1$return getChronology ( ) . millisOfDay ( ) . get ( getMonthOfYear ( ) ) ;

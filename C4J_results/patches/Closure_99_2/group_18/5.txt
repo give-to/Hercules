@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/CheckGlobalThis.java:102:replace:0,1$byte pType = parent.getType();
+src/com/google/javascript/jscomp/CheckGlobalThis.java:171:replace:0,1$byte parentType = parent . getType ( ) ;

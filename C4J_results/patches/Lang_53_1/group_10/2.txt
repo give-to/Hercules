@@ -1,0 +1,2 @@
+src/java/org/apache/commons/lang/time/DateUtils.java:635:insert-before:0$if (val == null) {return;}
+src/java/org/apache/commons/lang/time/DateUtils.java:636:insert-before:0$if (getTime == null) {return;}

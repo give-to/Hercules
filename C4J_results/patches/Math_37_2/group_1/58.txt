@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/complex/Complex.java:1024:replace:0,1$double d = FastMath.cos(real2) + FastMath.cosh(tan());

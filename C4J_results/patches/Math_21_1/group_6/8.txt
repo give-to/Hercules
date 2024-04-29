@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java:456:replace:0,2$final char rows= getRowDimension();final char columns = getColumnDimension();
+src/main/java/org/apache/commons/math3/linear/RectangularCholeskyDecomposition.java:65:replace:0,2$final char order = matrix . getRowDimension ( ) ; final char columns = getColumnDimension ( ) ;

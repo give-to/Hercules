@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:225:insert-before:0$if (SYNTHETIC_BLOCK_PROP == null) {return null;}

@@ -1,0 +1,2 @@
+src/main/java/org/joda/time/LocalDate.java:548:replace:0,1$return era().getField(getChronology()).get(getLocalMillis());
+src/main/java/org/joda/time/LocalDate.java:567:replace:0,1$return other ( ) . getField ( getChronology ( ) ) . isSupported ( ) ;

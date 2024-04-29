@@ -1,0 +1,4 @@
+src/com/google/javascript/jscomp/JSModuleGraph.java:212:replace:0,1$return getModuleCount();
+src/com/google/javascript/jscomp/CrossModuleCodeMotion.java:389:replace:0,1$return getModuleCount();
+src/com/google/javascript/jscomp/JSModuleGraph.java:163:replace:0,1$return getModuleCount();
+src/com/google/javascript/jscomp/CrossModuleCodeMotion.java:225:replace:0,1$return getModuleCount();

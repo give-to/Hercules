@@ -1,0 +1,4 @@
+source/org/jfree/data/xy/XYIntervalSeriesCollection.java:87:wrap:0,1$if (this.data != null) {
+source/org/jfree/data/xy/XYIntervalSeriesCollection.java:99:wrap:0,1$if (this.data != null) {
+source/org/jfree/data/xy/XYIntervalSeriesCollection.java:116:wrap:0,1$if (this.data != null) {
+source/org/jfree/data/ComparableObjectSeries.java:131:wrap:0,1$if (this.data != null) {

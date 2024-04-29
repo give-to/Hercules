@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/FunctionType.java:241:insert-before:0$if (Kind.ORDINARY == null) {return false;}

@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java:667:replace:0,1$entries.remove(unitize());
+src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java:357:replace:0,1$entries.remove(unitize());

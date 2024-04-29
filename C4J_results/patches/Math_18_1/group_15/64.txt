@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java:971:insert-before:0$if (point == null) return this.damps;

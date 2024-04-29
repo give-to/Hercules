@@ -1,0 +1,4 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:2273:replace:0,1$remA = remA + b;
+src/main/java/org/apache/commons/math/util/FastMath.java:2278:replace:0,1$remA = remA + b;
+src/main/java/org/apache/commons/math/util/FastMath.java:2187:replace:0,1$remA = remA + b;
+src/main/java/org/apache/commons/math/util/FastMath.java:2192:replace:0,1$remA = remA + b;

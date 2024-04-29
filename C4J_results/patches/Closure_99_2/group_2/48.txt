@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/TypeSafeDispatcher.java:232:insert-before-after:0,0$if (node instanceof ElementGet) {<#>} else {throw new IllegalArgumentException("Illegal argument: node");}

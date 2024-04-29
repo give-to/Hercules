@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/NodeTraversal.java:222:insert-before:0$if (sourceName == null) sourceName = MISSING_SOURCE;
+src/com/google/javascript/jscomp/NodeTraversal.java:223:insert-before:0$if (sourceName == null) sourceName = MISSING_SOURCE;

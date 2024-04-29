@@ -1,0 +1,1 @@
+src/java/org/apache/commons/lang/ClassUtils.java:201:replace:0,1$out = out.replace(ClassUtils.PACKAGE_SEPARATOR_CHAR, PACKAGE_SEPARATOR_CHAR);

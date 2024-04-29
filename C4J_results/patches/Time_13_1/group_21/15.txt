@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/format/PeriodFormatterBuilder.java:1651:insert-before:0$if (iText == null) return WEEKS;

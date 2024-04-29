@@ -1,0 +1,1 @@
+src/java/org/apache/commons/lang/time/DateUtils.java:664:replace:0,4$if ((date.getTime() != time) && (date instanceof Calendar)) {date.setTime(time);val.setTime(date);}

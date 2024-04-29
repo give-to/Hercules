@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:473:replace:0,1$atan(x, 0.0, hiPrec);

@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/fraction/BigFraction.java:366:replace:0,1$this(BigInteger.valueOf(intValue()), BigInteger.ONE);
+src/main/java/org/apache/commons/math/fraction/BigFraction.java:381:replace:0,1$this ( BigInteger . valueOf ( intValue ( ) ) , BigInteger . valueOf ( den ) ) ;

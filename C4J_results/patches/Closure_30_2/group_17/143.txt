@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:962:replace:0,5$if (getInputId() == null || first.getType() != Token.NAME) {sb.append("<invalid>");} else {sb.append(first.getString());}

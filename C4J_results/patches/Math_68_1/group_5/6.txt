@@ -1,0 +1,9 @@
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:511:wrap:0,2$if (permutation != null) {
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:516:wrap:0,2$if (permutation != null) {
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:586:wrap:0,2$if (permutation != null) {
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:590:wrap:0,2$if (permutation != null) {
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:599:wrap:0,2$if (permutation != null) {
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:404:wrap:0,2$if (permutation != null) {
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:531:wrap:0,2$if (permutation != null) {
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:561:wrap:0,2$if (permutation != null) {
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:568:wrap:0,2$if (permutation != null) {

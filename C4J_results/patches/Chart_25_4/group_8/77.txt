@@ -1,0 +1,1 @@
+source/org/jfree/chart/plot/CategoryPlot.java:2784:insert-before:0$configureRangeAxes();

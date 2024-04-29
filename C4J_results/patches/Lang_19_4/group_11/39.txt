@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java:40:wrap:0,42$if (input != null) {
+src/main/java/org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java:31:wrap:0,42$if (input != null) {

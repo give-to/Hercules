@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/NodeUtil.java:2395:wrap:0,1$if (result != null && result.getFirstChild() != null && info != null) {

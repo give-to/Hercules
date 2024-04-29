@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java:315:wrap:0,1$if (matrix != null) {
+src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java:317:wrap:0,1$if (matrix != null) {

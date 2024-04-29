@@ -1,0 +1,8 @@
+Mockito_20_1:
+Generation Time: 2.63min
+Validation Time: 297.8min
+Total Time: 300.43min
+Time_12_4:
+Generation Time: 16.83min
+Validation Time: 283.45min
+Total Time: 300.29min

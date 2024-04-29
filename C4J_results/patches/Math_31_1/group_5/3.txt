@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/exception/ConvergenceException.java:49:insert-before:0$if (pattern == null) pattern = new Localizable();

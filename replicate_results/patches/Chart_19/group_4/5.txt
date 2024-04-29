@@ -1,0 +1,3 @@
+source/org/jfree/chart/plot/CategoryPlot.java:657:replace:0,1$axis.setLabelAngle(this);
+source/org/jfree/chart/plot/CategoryPlot.java:931:replace:0,1$axis.setLabelAngle(this);
+source/org/jfree/chart/plot/CategoryPlot.java:473:replace:0,1$axis.setLabelAngle(this);

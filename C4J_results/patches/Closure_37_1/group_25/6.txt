@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/JSError.java:176:replace:0,1$return getNodeLength().formatError(this);

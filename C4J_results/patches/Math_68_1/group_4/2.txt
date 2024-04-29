@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:598:replace:0,4$for (int j = 0; j!=solvedCols; ++j) {double s = work1[permutation[j]];sum2 += s * s;}

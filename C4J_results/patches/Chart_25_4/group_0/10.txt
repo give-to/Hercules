@@ -1,0 +1,2 @@
+source/org/jfree/chart/plot/Plot.java:1343:replace:0,1$result = RectangleEdge.RIGHT;
+source/org/jfree/chart/plot/Plot.java:1387:replace:0,1$result = RectangleEdge . null ;

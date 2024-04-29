@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/type/ChainableReverseAbstractInterpreter.java:144:insert-after:2$return propVarType;

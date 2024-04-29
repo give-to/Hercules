@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:394:insert-before:0$if (right == null) right = this.first;

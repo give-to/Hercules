@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/format/FormatUtils.java:81:replace:0,1$digits |= 3;

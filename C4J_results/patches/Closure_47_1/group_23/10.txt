@@ -1,0 +1,2 @@
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:544:replace:0,2$byte c1 = m1.endPosition.getColumn();byte c2 = m2.startPosition.getColumn();
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:751:replace:0,2$byte srcColumn = m . originalPosition . getColumn ( ) ; byte c2 = m2 . startPosition . getColumn ( ) ;

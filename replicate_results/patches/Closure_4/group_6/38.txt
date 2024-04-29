@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/jstype/FunctionType.java:1196:wrap:0,1$if (resolvedInterfaces != null) {
+src/com/google/javascript/jscomp/FunctionTypeBuilder.java:339:wrap:0,1$if (Lists != null) {

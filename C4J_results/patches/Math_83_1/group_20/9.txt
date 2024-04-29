@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java:314:insert-after:2$initialize();

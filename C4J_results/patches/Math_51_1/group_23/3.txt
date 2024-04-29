@@ -1,0 +1,3 @@
+src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java:174:replace:0,1$x0 /= x1;
+src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java:175:replace:0,1$x0 /= x1;
+src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java:192:replace:0,1$x0 /= x1;

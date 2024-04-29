@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:1335:replace:0,3$if (trimCount<=0) {return s;}

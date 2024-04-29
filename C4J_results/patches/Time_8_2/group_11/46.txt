@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/DateTimeZone.java:217:replace:0,6$if (getAvailableIDs() == 0L) {return DateTimeZone.UTC;} else {id = printOffset(offset);return fixedOffsetZone(id, offset);}

@@ -1,0 +1,8 @@
+Closure_47_2:
+Generation Time: 7.15min
+Validation Time: 294.14min
+Total Time: 301.29min
+Closure_47_1:
+Generation Time: 11.08min
+Validation Time: 289.62min
+Total Time: 300.7min

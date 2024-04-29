@@ -1,0 +1,2 @@
+src/java/org/apache/commons/math/linear/RealMatrixImpl.java:783:insert-before:2$
+src/java/org/apache/commons/math/linear/BigMatrixImpl.java:994:insert-before:2$

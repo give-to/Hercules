@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/JSTypeRegistry.java:1456:replace:0,2$return createRecordTypeFromNodes(n.getCharno(), sourceName, scope);

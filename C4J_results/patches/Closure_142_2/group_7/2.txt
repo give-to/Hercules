@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:1897:replace:0,3$if (license != fileLevelComment || (license == null)) {license = "";}

@@ -1,0 +1,1 @@
+src/org/mockito/internal/configuration/SpyAnnotationEngine.java:112:wrap:0,7$if (constructor != null) {

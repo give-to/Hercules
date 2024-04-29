@@ -1,0 +1,3 @@
+src/com/google/javascript/rhino/Node.java:1073:wrap:0,5$if (n != null) {
+src/com/google/javascript/rhino/Node.java:1074:wrap:0,5$if (n != null) {
+src/com/google/javascript/rhino/Node.java:1075:wrap:0,5$if (n != null) {

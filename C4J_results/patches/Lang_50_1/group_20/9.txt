@@ -1,0 +1,1 @@
+src/java/org/apache/commons/lang/time/FastDateFormat.java:1725:insert-before-after:0,0$if (obj instanceof Pair) {<#>} else {throw new IllegalArgumentException("Illegal argument: obj");}

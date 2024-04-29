@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/NodeUtil.java:321:replace:0,10$if (s == JSC_PROPERTY_NAME_FN || (s.length() > 2&& s.charAt(0) == '0'&& (s.charAt(1) == 'x' || s.charAt(1) == 'X'))) {try {return Double.valueOf(Integer.parseInt(s.substring(2), 16));} catch (NumberFormatException e) {return Double.NaN;}}

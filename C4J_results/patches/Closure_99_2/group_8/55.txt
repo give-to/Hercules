@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/CheckGlobalThis.java:129:replace:0,3$if (lhs.getQualifiedName() != null && getJsDocBuilderForNodeName().contains(".prototype.")) {return false;}

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/Scope.java:124:replace:0,1$return nameNode == null ? null : nameNode.toString();

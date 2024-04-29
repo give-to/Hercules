@@ -1,0 +1,5 @@
+src/com/google/javascript/rhino/Node.java:2195:insert-before:0$if (nodeA == null) nodeA = this.parent;
+src/com/google/javascript/rhino/Node.java:2196:insert-before:0$if (nodeA == null) nodeA = this.parent;
+src/com/google/javascript/jscomp/PeepholeSubstituteAlternateSyntax.java:59:insert-before:0$if (nodeA == null) nodeA = this.parent;
+src/com/google/javascript/jscomp/AbstractPeepholeOptimization.java:92:insert-before:0$if (nodeA == null) nodeA = this.parent;
+src/com/google/javascript/jscomp/AbstractPeepholeOptimization.java:100:insert-before:0$if (nodeA == null) nodeA = this.parent;

@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java:54:replace:0,4$while(input.charAt(end)<';'){end++;}

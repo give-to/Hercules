@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/TypeCheck.java:987:insert-before:0$if (implementedInterface == null) {throw new IllegalArgumentException("Null 'implementedInterface' argument.");}
+src/com/google/javascript/jscomp/TypeCheck.java:1337:insert-before:0$if (baseInterfaceObj == null) {throw new IllegalArgumentException("Null 'implementedInterface' argument.");}

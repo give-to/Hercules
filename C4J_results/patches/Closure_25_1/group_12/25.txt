@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:2163:insert-before:0$if (fieldType == null) fieldType = new Node();
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:2099:insert-before:0$if (fieldType == null) fieldType = new Node();

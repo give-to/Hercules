@@ -1,0 +1,3 @@
+source/org/jfree/chart/axis/CategoryAxis.java:596:insert-after:3$configure();
+source/org/jfree/chart/axis/CategoryAxis.java:671:insert-after:3$configure();
+source/org/jfree/chart/axis/CategoryAxis.java:707:insert-after:3$configure();

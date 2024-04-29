@@ -1,0 +1,2 @@
+source/org/jfree/chart/plot/CategoryPlot.java:652:insert-before:0$if (this.domainAxes == null) {throw new IllegalArgumentException("Null 'this.domainAxes' argument.");}
+source/org/jfree/chart/plot/CategoryPlot.java:926:insert-before:0$if (this.rangeAxes == null) {throw new IllegalArgumentException("Null 'this.domainAxes' argument.");}

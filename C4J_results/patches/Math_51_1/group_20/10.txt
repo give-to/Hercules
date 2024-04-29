@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java:117:wrap:0,1$if (f != null) {

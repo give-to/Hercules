@@ -1,0 +1,4 @@
+source/org/jfree/data/statistics/DefaultStatisticalCategoryDataset.java:215:insert-before:0$if (this.data == null) this.data = new KeyedObjects2D();
+source/org/jfree/data/statistics/DefaultStatisticalCategoryDataset.java:246:insert-before:0$if (this.data == null) this.data = new KeyedObjects2D();
+source/org/jfree/data/statistics/DefaultStatisticalCategoryDataset.java:264:insert-before:0$if (this.data == null) this.data = new KeyedObjects2D();
+source/org/jfree/data/statistics/DefaultStatisticalCategoryDataset.java:273:insert-before:0$if (this.data == null) this.data = new KeyedObjects2D();

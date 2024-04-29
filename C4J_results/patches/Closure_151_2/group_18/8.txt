@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/JSSourceFile.java:72:wrap:0,2$if (referenced != null) {

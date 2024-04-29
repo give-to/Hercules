@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/optimization/linear/LinearObjectiveFunction.java:92:wrap:0,1$if (point != null) {

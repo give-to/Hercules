@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/SyntacticScopeCreator.java:124:replace:0,1$declareVar(name, child, n, parent, null, next);

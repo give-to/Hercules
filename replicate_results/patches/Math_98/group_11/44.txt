@@ -1,0 +1,2 @@
+src/java/org/apache/commons/math/linear/RealMatrixImpl.java:786:wrap:0,1$if (out != null) {
+src/java/org/apache/commons/math/linear/BigMatrixImpl.java:997:wrap:0,1$if (out != null) {

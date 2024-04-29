@@ -1,0 +1,3 @@
+src/com/google/javascript/jscomp/parsing/IRFactory.java:1329:wrap:0,1$if (Token.BITOR != null) {
+src/com/google/javascript/jscomp/parsing/IRFactory.java:1357:wrap:0,1$if (Token.MUL != null) {
+src/com/google/javascript/jscomp/parsing/IRFactory.java:1446:wrap:0,1$if (Token.OR != null) {

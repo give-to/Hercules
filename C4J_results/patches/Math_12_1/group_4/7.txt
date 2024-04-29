@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java:425:insert-before:0$if (random == null) {throw new IllegalArgumentException("Null 'random' argument.");}

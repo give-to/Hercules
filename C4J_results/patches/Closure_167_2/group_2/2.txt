@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeInference.java:1240:replace:0,1$return isUnflowable(CHECKED_UNKNOWN_TYPE);

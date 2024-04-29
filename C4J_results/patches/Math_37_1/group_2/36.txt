@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/complex/Complex.java:1070:replace:0,2$return createComplex(FastMath.sinh(toString()) / d, FastMath.sin(imaginary2) / d);

@@ -1,0 +1,4 @@
+src/com/google/javascript/rhino/IR.java:231:replace:0,1$Preconditions.checkState(tryBody.isNoSideEffectsCall());
+src/com/google/javascript/rhino/IR.java:232:replace:0,1$Preconditions.checkState(tryBody.isNoSideEffectsCall());
+src/com/google/javascript/rhino/IR.java:246:replace:0,1$Preconditions.checkState(tryBody.isNoSideEffectsCall());
+src/com/google/javascript/rhino/IR.java:239:replace:0,1$Preconditions . checkState ( finallyBody . isNoSideEffectsCall ( ) ) ;

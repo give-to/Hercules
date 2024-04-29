@@ -1,0 +1,1 @@
+src/org/mockito/internal/invocation/Invocation.java:174:insert-before:0$if (clazz == null) {return true;}

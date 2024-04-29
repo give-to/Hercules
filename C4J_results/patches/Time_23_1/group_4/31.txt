@@ -1,0 +1,2 @@
+src/main/java/org/joda/time/DateTimeZone.java:178:insert-after:2$setDefault(zone);
+src/main/java/org/joda/time/DateTimeZone.java:302:insert-after:2$setDefault(zone);

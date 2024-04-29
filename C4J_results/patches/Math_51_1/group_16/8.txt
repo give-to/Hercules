@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/exception/MathIllegalStateException.java:84:insert-before:0$if (context == null) context = new ExceptionContext();

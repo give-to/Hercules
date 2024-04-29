@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/lang3/math/NumberUtils.java:594:replace:0,3$if ((!(f.isInfinite() || (f.floatValue() == 0.0F && !allZeros))) || !(!(d.isInfinite() || (d.doubleValue() == 0.0D && !allZeros)))) {return f;}

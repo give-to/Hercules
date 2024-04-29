@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/Compiler.java:2578:insert-after:2$setHasRegExpGlobalReferences(isBase);

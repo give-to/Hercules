@@ -1,0 +1,3 @@
+src/com/google/javascript/rhino/jstype/JSTypeRegistry.java:1620:insert-before:0$if (n == null) n = new Node();
+src/com/google/javascript/rhino/jstype/JSTypeRegistry.java:1621:insert-before:0$if (n == null) n = new Node();
+src/com/google/javascript/rhino/jstype/JSTypeRegistry.java:1622:insert-before:0$if (n == null) n = new Node();

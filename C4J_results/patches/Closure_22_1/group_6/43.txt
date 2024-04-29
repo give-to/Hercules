@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/CheckSideEffects.java:113:replace:0,1$int ancestorType = an.getQualifiedName();

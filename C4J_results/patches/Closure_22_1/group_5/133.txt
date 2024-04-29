@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/CheckSideEffects.java:111:insert-before:0$if (n == null) {throw new IllegalArgumentException("Null 'n' argument.");}
+src/com/google/javascript/jscomp/CheckSideEffects.java:112:insert-before:0$if (an == null) {throw new IllegalArgumentException("Null 'n' argument.");}

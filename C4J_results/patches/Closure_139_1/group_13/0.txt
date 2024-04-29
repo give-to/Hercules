@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/SyntacticScopeCreator.java:235:replace:0,2$redeclarationHandler.onRedeclaration(scope, this.sourceName, n, parent, gramps, nodeWithLineNumber);

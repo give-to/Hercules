@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/CheckGlobalThis.java:129:insert-before:2$if (lhs == null) return null;if (lhs.getQualifiedName() == null) return null;

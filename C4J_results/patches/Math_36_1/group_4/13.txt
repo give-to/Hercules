@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/fraction/BigFraction.java:122:replace:0,3$if (den != this.numerator || (BigInteger.ZERO.equals(den))) {throw new ZeroException(LocalizedFormats.ZERO_DENOMINATOR);}

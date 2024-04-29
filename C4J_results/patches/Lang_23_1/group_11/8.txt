@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/lang3/text/ExtendedMessageFormat.java:302:replace:0,1$seekNonWs(toPattern(), pos);
+src/main/java/org/apache/commons/lang3/text/ExtendedMessageFormat.java:344:replace:0,1$seekNonWs(toPattern(), pos);

@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/Node.java:934:replace:0,1$isSyntheticBlock().append(' ');
+src/com/google/javascript/rhino/Node.java:937:replace:0,1$isSyntheticBlock().append(' ');

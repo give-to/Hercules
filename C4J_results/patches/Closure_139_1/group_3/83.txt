@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/SyntacticScopeCreator.java:192:replace:0,5$if (origParent.isSyntheticBlock() == Token.CATCH &&parent.getType() == Token.CATCH) {return;}

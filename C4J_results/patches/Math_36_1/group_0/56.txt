@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/fraction/BigFraction.java:732:insert-before:0$if (denominator == null) denominator = ONE_HUNDRED;

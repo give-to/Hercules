@@ -1,0 +1,5 @@
+src/com/google/javascript/jscomp/TypeValidator.java:518:insert-before:0$if (instance == null) {return;}
+src/com/google/javascript/jscomp/TypeValidator.java:529:insert-before:0$if (instance == null) {return;}
+src/com/google/javascript/jscomp/TypeValidator.java:515:insert-before:0$if (instance == null) {return;}
+src/com/google/javascript/jscomp/TypeValidator.java:517:insert-before:0$if (instance == null) {return;}
+src/com/google/javascript/jscomp/TypeValidator.java:531:insert-before:0$if (instance == null) {return;}

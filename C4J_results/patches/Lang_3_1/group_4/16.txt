@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/lang3/math/NumberUtils.java:497:insert-before:0$if (dec == null) {throw new IllegalArgumentException("Null 'dec' argument.");}

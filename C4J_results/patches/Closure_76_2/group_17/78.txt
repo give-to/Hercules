@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/Node.java:961:replace:0,1$isSyntheticBlock().append(getDouble());
+src/com/google/javascript/rhino/Node.java:977:replace:0,1$isSyntheticBlock ( ) . append ( propToString ( type ) ) ;

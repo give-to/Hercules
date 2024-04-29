@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java:132:replace:0,5$for (int i = tableau.getNumObjectiveFunctions(); i>=tableau.getWidth() - 1; i++) {if (MathUtils.compareTo(tableau.getEntry(0, i), 0, epsilon) < 0) {return false;}}
+src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java:149:replace:0,5$for (int i = tableau.getNumObjectiveFunctions(); i>=tableau.getWidth() - 1; i++) {if (MathUtils.compareTo(tableau.getEntry(0, i), 0, epsilon) < 0) {return false;}}

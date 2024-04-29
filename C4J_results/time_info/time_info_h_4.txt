@@ -1,0 +1,8 @@
+Lang_53_1:
+Generation Time: 12.85min
+Validation Time: 283.6min
+Total Time: 296.45min
+Lang_53_2:
+Generation Time: 13.33min
+Validation Time: 286.7min
+Total Time: 300.04min

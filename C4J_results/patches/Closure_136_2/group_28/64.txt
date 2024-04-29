@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:909:insert-after:11$setWasEmptyNode(printSource);

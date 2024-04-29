@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/exception/MathIllegalStateException.java:46:replace:0,1$getContext().addMessage(pattern, args);
+src/main/java/org/apache/commons/math/exception/MaxCountExceededException.java:54:replace:0,1$getContext ( ) Localizable ( . addMessage ( specific , max , args ) ;

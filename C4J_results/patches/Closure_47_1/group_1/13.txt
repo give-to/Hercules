@@ -1,0 +1,1 @@
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:390:insert-before:0$if (m.endPosition == null) return maxLine;

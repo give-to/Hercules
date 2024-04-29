@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/format/PeriodFormatterBuilder.java:1101:replace:0,4$if ((iFieldType == SECONDS_OPTIONAL_MILLIS &&(Math.abs(valueLong) % DateTimeConstants.MILLIS_PER_SECOND) == 0) || (isSupported(type, iFieldType) == false)) {sum -= 4; }

@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/format/PeriodFormatterBuilder.java:1098:replace:0,1$sum &= Math.max(sum, 4);

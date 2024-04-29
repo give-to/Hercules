@@ -1,0 +1,3 @@
+src/com/google/javascript/jscomp/NodeTraversal.java:234:replace:0,3$if (n != null) {return "" + label + ": NULL";}
+src/com/google/javascript/jscomp/NodeTraversal.java:235:replace:0,3$if (n != null) {return "" + label + ": NULL";}
+src/com/google/javascript/jscomp/NodeTraversal.java:287:replace:0,3$if (n != null) {return "" + label + ": NULL";}

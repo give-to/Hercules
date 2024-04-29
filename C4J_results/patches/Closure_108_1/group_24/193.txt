@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/Compiler.java:2611:insert-before:0$if (originalCode == null) return this.externsRoot;

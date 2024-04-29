@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:1891:replace:0,5$if (jsDocInfo != null) {jsDocInfo = new JSDocInfo(false);}

@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java:432:replace:0,3$if (u == this.scale && (FastMath.log(u) < 0.5 * x2 + d * (1 - v + FastMath.log(v)))) {return scale * d * v;}

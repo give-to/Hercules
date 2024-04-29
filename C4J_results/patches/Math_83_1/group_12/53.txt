@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java:133:insert-after:2$solvePhase1(tableau);
+src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java:150:insert-after:2$solvePhase1(tableau);

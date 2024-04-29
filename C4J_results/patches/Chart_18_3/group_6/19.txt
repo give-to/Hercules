@@ -1,0 +1,1 @@
+source/org/jfree/data/DefaultKeyedValues2D.java:339:insert-before:0$if (this.columnKeys == null) this.columnKeys = this.rows;

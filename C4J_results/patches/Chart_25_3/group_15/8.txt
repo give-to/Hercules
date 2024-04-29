@@ -1,0 +1,2 @@
+source/org/jfree/data/statistics/DefaultStatisticalCategoryDataset.java:108:wrap:0,5$if (this.data != null) {
+source/org/jfree/data/statistics/DefaultStatisticalCategoryDataset.java:170:wrap:0,5$if (this.data != null) {

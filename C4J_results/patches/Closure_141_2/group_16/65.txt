@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/NodeUtil.java:594:replace:0,2$return !NodeUtil.isConstantName(n)&& !knownConstants.contains(n.getDirectives());

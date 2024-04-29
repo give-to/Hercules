@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/SourceFile.java:169:insert-after:0$clearCachedSource();

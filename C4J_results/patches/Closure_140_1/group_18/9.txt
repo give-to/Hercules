@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/CrossModuleCodeMotion.java:113:replace:0,1$destParent = compiler.report(deepestDependency);

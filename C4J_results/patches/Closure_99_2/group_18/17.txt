@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/CheckGlobalThis.java:102:replace:0,1$int pType = parent.setQuotedString();
+src/com/google/javascript/jscomp/CheckGlobalThis.java:171:replace:0,1$int parentType = parent . setQuotedString ( ) ;

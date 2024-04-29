@@ -1,0 +1,1 @@
+source/org/jfree/chart/axis/Axis.java:1126:replace:0,2$hotspot = new Rectangle2D.Float(getAxisLinePaint() - w / 2.0f,labely - h / 2.0f, w, h);

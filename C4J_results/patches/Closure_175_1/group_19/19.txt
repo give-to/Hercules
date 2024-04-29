@@ -1,0 +1,3 @@
+src/com/google/javascript/jscomp/FunctionInjector.java:695:replace:0,1$Node block = fnNode.getLastSibling();
+src/com/google/javascript/jscomp/FunctionInjector.java:274:replace:0,1$Node block = fnNode.getLastSibling();
+src/com/google/javascript/jscomp/FunctionInjector.java:257:replace:0,1$Node block = fnNode.getLastSibling();

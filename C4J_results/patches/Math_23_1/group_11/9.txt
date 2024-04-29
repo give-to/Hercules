@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math3/util/MathArrays.java:295:wrap:0,1$if (dir != null) {
+src/main/java/org/apache/commons/math3/util/MathArrays.java:306:wrap:0,1$if (OrderDirection != null) {

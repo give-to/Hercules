@@ -1,0 +1,1 @@
+src/com/google/debugging/sourcemap/SourceMapConsumerV3.java:118:replace:0,1$lineCount &= sourceMapRoot.getInt("lineCount");

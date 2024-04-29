@@ -1,0 +1,2 @@
+src/java/org/apache/commons/lang/text/StrBuilder.java:1186:replace:0,1$int strLen = toString().length();
+src/java/org/apache/commons/lang/text/StrBuilder.java:1230:replace:0,1$int strLen = toString().length();

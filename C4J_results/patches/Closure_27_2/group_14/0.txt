@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/Node.java:386:replace:0,2$Preconditions.checkArgument(right.parent != null,"second new child has existing parent");
+src/com/google/javascript/rhino/Node.java:388:replace:0,2$Preconditions.checkArgument(right.parent != null,"second new child has existing parent");

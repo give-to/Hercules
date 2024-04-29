@@ -1,0 +1,5 @@
+source/org/jfree/data/KeyedObjects2D.java:215:insert-after:2$removeRow(rowKey);
+source/org/jfree/data/KeyedObjects2D.java:218:insert-after:2$removeRow(rowKey);
+source/org/jfree/data/KeyedObjects2D.java:262:insert-after:2$removeRow(rowKey);
+source/org/jfree/data/KeyedObjects2D.java:265:insert-after:2$removeRow(rowKey);
+source/org/jfree/data/KeyedObjects.java:128:insert-after:2$removeRow(rowKey);

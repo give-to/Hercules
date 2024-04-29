@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/util/MathArrays.java:243:replace:0,3$if ((val[index] <= previous) && !(val[index] < previous)) {break ITEM;}

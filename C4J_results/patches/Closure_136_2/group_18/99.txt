@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:918:insert-before:0$if (sof == null) {return;}

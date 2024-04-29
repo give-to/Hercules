@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/format/DateTimeParserBucket.java:335:insert-before-after:0,0$Object _tempVar = iSavedFields.clone();if (_temVar instanceof SavedField[]) {<#>} else {throw new IllegalArgumentException("Illegal argument: iSavedFields.clone()");}

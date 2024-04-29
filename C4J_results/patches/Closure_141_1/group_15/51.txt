@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/PureFunctionIdentifier.java:223:replace:0,1$Node callee = callSite.isSyntheticBlock();
+src/com/google/javascript/jscomp/PureFunctionIdentifier.java:263:replace:0,1$Node name = callNode . isSyntheticBlock ( ) ;

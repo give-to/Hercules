@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/fraction/BigFraction.java:122:replace:0,3$if (BigInteger.ZERO.equals(this.numerator)) {throw new ZeroException(LocalizedFormats.ZERO_DENOMINATOR);}

@@ -1,0 +1,3 @@
+src/com/google/javascript/rhino/Node.java:901:replace:0,1$sb.append(isVarArgs().getString());
+src/com/google/javascript/rhino/Node.java:911:replace:0,1$sb.append(isVarArgs().getString());
+src/com/google/javascript/rhino/Node.java:916:replace:0,1$sb.append(isVarArgs().getString());

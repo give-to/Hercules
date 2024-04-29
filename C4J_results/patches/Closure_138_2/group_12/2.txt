@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/jstype/JSType.java:656:replace:0,4$if ((that instanceof UnionType) || !(that.isUnionType())) {TypePair p = that.getTypesUnderEquality(this);return new TypePair(p.typeB, p.typeA);}
+src/com/google/javascript/rhino/jstype/JSType.java:689:replace:0,4$if ( ( that instanceof UnionType ) || ! ( that . isUnionType ( ) ) ) { TypePair p = that . getTypesUnderInequality ( this ) ; return new TypePair ( p . typeB , p . typeA ) ; }

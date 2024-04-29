@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/JSModuleGraph.java:187:insert-after:0$coalesceDuplicateFiles();

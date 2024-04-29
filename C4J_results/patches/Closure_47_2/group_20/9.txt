@@ -1,0 +1,2 @@
+src/com/google/debugging/sourcemap/SourceMapConsumerV3.java:102:insert-before:0$if (sourceMapRoot == null) {throw new IllegalArgumentException("Null 'sourceMapRoot' argument.");}
+src/com/google/debugging/sourcemap/SourceMapConsumerV3.java:107:insert-before:0$if (sourceMapRoot == null) {throw new IllegalArgumentException("Null 'sourceMapRoot' argument.");}

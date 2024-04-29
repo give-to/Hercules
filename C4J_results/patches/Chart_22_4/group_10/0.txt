@@ -1,0 +1,1 @@
+source/org/jfree/data/KeyedObjects2D.java:278:replace:0,1$row.addObject(columnKey, object);

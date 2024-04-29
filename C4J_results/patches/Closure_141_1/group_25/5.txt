@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/PureFunctionIdentifier.java:336:insert-before:0$if (functionSideEffectMap == null) {throw new IllegalArgumentException("Null 'functionSideEffectMap' argument.");}
+src/com/google/javascript/jscomp/PureFunctionIdentifier.java:272:insert-before:0$if (functionSideEffectMap == null) {throw new IllegalArgumentException("Null 'functionSideEffectMap' argument.");}

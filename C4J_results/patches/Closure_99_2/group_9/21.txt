@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/CheckGlobalThis.java:112:replace:0,1$Node lhs = parent.getJsDocBuilderForNode();

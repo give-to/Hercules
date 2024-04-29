@@ -1,1 +1,188 @@
 # Hercules
+
+## 1. Environment
+
+- JDK 1.8
+- Python 3.8
+- [Defects4J 2.0.0](https://github.com/rjust/defects4j)
+- [CatenaD4J](https://github.com/universetraveller/CatenaD4J)
+
+
+
+## 2. Installation
+
+#### 2.1 Create the docker image
+
+Use the `Dockerfile` in `./Docker` to create the docker image.
+
+```shell
+docker build -t hercules-env .
+```
+
+This docker image includes **Defects4J**, **CatenaD4J**, **JDK 1.8**, and **Python 3.8**.
+
+#### 2.2 Create the container with this image
+
+```shell
+docker run -it --name hercules hercules-env /bin/bash
+```
+
+#### 2.3 Clone the Hercules repository
+
+At the root of this container, we clone the Hercules repository.
+
+```shell
+cd /
+git clone https://github.com/give-to/Hercules.git
+```
+
+#### 2.4 Install Dependencies
+
+After testing, we found that using **pip** in the Docker file might cause image creation to fail, so configuration inside the container is required.
+
+```shell
+# Preparing the environment
+cd /Hercules
+pip install -r requirements.txt
+```
+
+
+## 3. Quick Test
+
+Run the test experiment to ensure your environment is correct. This command takes a maximum of 5 hours.
+
+```shell
+# Test your environment
+./run.sh /CatenaD4JProjects /CatenaD4J ./location/105SampleBugsResult ./test.txt
+```
+
+The generated patches will be stored in the `patches` folder. Its structure is as follows:
+
+```
+ patches
+ |--- Chart_2_5               :  bugid
+ |------ group_1              :  the first siblings
+ |--------- 0.txt             :  specific patches, each row is a partial patch
+ |------ group_2              :  the second siblings
+ |--------- 0.txt             :  specific patches, each row is a partial patch
+```
+
+
+
+## 4. Repeat whole experiments
+
+``` shell
+# Run the whole experiment
+./run.sh /CatenaD4JProjects /CatenaD4J ./location/105SampleBugsResult ./105_bugs_list.txt
+```
+
+
+
+## 5. Usage
+
+### 5.1 Repair Bugs
+
+In the Hercules directory:
+
+```shell
+./run.sh <ProjectsRoot> <CatenaD4JHome> <FLroot> <bugListFile>
+```
+
+Where:
+
+- `ProjectsRoot`: the root directory that you want to checkout all CatenaD4J bugs in.
+- `CatenaD4JHome`: the root directory of CatenaD4J. 
+- `FLroot`: the root directory of ochiai results of all bugs.
+- `bugListFile`: a file contains all the bugs to be fixed.
+
+### 5.2 Find Siblings and Generate Patches
+
+The `Hercules-1.0-SNAPSHOT-jar-with-dependencies.jar` in the root directory contains 3 parts, finding siblings, patch generation and patch ranking. It saves all patches and patch ranking results in `patches` directory. It accepts 4 parameters:
+
+```shell
+java -cp Hercules-1.0-SNAPSHOT-jar-with-dependencies.jar org.example.hercules.Main_NFL <ProjectsRoot> <CatenaD4JHome> <FLroot> <bugListFile>
+```
+
+Where:
+
+- `ProjectsRoot`: the all buggy projects' root directory. 
+
+```
+ProjectRootDir
+| Chart_1_1
+|	| 
+|	|
+| Chart_1_2
+|	|
+|	|
+```
+
+- `CatenaD4JHome`: the root directory of CatenaD4J. 
+- `FLRoot`: the root directory of fault localization results. (The file name of fault localization results must be `ochiai.ranking.txt`.)
+
+```
+FLRoot
+| Chart_1_1
+|	| ochiai.ranking.txt
+| Chart_1_2
+|	| ochiai.ranking.txt
+```
+
+- `bugListFile`: A file contains all projectsId that you want to repair.
+
+**Example:**
+
+```shell
+# You should have checked out the bugs first.
+java -cp Hercules-1.0-SNAPSHOT-jar-with-dependencies.jar /CatenaD4JProjects CatenaD4J ./location/105SampleBugsResult ./105_bugs_list.txt
+```
+
+### 5.3 Validation
+
+The `hercules_valid_v2.py` will validate patches under `patches` directory according to patch ranking results, until all patches have been validated or timed out. The patch that shows **Pass** is the `plausible patch`. It accepts 1 parameter:
+
+```
+python3 hercules_valid_v2.py <ProjectsRoot>
+```
+
+- `ProjectsRoot`: the all buggy projects' root directory. 
+
+**Example:**
+
+```shell
+# You should have checked out the bugs and generated the patches first.
+python3 hercules_valid_v2.py /CatenaD4JProjects
+```
+
+
+
+## 6 Source Code Availability
+
+> We only reproduced the Hercules-MinusHistory.
+
+### 6.1 Spectrum Based Fault Localization
+
+We use the [GZoltar](https://github.com/GZoltar/gzoltar) to identify potential repair locations. The formula we used in GZoltar is Ochiai.
+
+### 6.2 Identification of Evolutionary Siblings
+
+① We use [soot](https://github.com/soot-oss/soot) to extract program context.
+
+② When comparing two AST nodes N1 and N2, we only use kind compatibility and name similarity. Because there are some nodes, the JDT cannot get their type. 
+
+### 6.3 Patch Generation
+
+We completed the stages of building an abstract syntax tree and generating patches based on [TBar](https://github.com/TruX-DTF/TBar). 
+
+① We change the a field ```isTestFixPatterns``` in ```edu.lu.uni.serval.tbar.AbstractFixer``` from **false** to **true**, so that it can generate more plausible patches.
+
+② We removed some templates and kept only the templates used in PAR, ACS, Elixir, which are cited by the authors in the Implementation part.
+
+③ We transform the patches generated by TBar according to this [rule](./rules.md).
+
+### 6.4 Ranking of Candidate Patches
+
+We use [ODS](https://dl.acm.org/doi/10.1109/TSE.2021.3071750) to rank the candidate patches, which is also a learning-based ranking model. Because we do not have the ranking model similar to Elixir.
+
+
+

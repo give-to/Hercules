@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/complex/Complex.java:267:replace:0,2$final long c = divisor.getReal();final long d = divisor.getImaginary();
+src/main/java/org/apache/commons/math/complex/Complex.java:268:replace:0,2$final long d = divisor . getImaginary ( ) ; final long d = divisor . getImaginary ( ) ;

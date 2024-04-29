@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeInference.java:951:replace:0,6$if ((node.isGetProp()) && !(node.isThis())) {scope.inferQualifiedSlot(node, node.getQualifiedName(), getJSType(node), narrowed);} else {redeclareSimpleVar(scope, node, narrowed);}

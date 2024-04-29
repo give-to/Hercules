@@ -1,0 +1,2 @@
+source/org/jfree/data/xy/XYIntervalSeriesCollection.java:216:insert-before:0$if (s == null) {return 0.0;}
+source/org/jfree/data/xy/XYIntervalSeriesCollection.java:230:insert-before:0$if (s == null) {return 0.0;}

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeCheck.java:587:replace:0,3$if ((n.getType() == Token.NE) || (n.getType() == Token.GETPROP)) {result = result.not();}

@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/TypeCheck.java:1619:insert-before:0$if (BAD_IMPLEMENTED_TYPE == null) BAD_IMPLEMENTED_TYPE = DETERMINISTIC_TEST_NO_RESULT;
+src/com/google/javascript/jscomp/TypeCheck.java:1618:insert-before:0$if (BAD_IMPLEMENTED_TYPE == null) BAD_IMPLEMENTED_TYPE = DETERMINISTIC_TEST_NO_RESULT;

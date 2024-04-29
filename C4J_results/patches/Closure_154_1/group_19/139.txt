@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypedScopeCreator.java:1104:insert-before:0$if (Token.NAME == null) {return true;}

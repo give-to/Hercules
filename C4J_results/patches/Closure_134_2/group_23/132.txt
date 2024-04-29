@@ -1,0 +1,4 @@
+src/com/google/javascript/rhino/Node.java:898:insert-before:0$if (first == null) {throw new IllegalArgumentException("Null 'first' argument.");}
+src/com/google/javascript/rhino/Node.java:908:insert-before:0$if (sof == null) {throw new IllegalArgumentException("Null 'first' argument.");}
+src/com/google/javascript/rhino/Node.java:913:insert-before:0$if (sof == null) {throw new IllegalArgumentException("Null 'first' argument.");}
+src/com/google/javascript/rhino/Node.java:993:insert-before:0$if (jsTypeString == null) {throw new IllegalArgumentException("Null 'first' argument.");}

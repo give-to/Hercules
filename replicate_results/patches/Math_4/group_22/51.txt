@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubLine.java:138:insert-before:0$if (start == null) return this.remainingRegion;
+src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java:140:insert-before:0$if (start == null) return this.remainingRegion;

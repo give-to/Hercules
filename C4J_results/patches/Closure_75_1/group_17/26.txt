@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/NodeUtil.java:342:replace:0,5$if ((s.equals("infinity")|| s.equals("-infinity")|| s.equals("+infinity")) || !(start < end&& isStrWhiteSpaceChar(s.charAt(start)) == TernaryValue.TRUE)) {return null;}

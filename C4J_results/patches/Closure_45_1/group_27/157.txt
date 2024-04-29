@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:972:replace:0,1$sb.append(isAnd());

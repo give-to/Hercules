@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/AbstractPeepholeOptimization.java:85:replace:0,1$return hasHaltingErrorsycleStage().isNormalized();

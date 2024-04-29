@@ -1,0 +1,2 @@
+source/org/jfree/chart/axis/CategoryAxis.java:673:insert-before:0$if (area == null) return DEFAULT_AXIS_MARGIN;
+source/org/jfree/chart/axis/CategoryAxis.java:709:insert-before:0$if (area == null) return DEFAULT_AXIS_MARGIN;

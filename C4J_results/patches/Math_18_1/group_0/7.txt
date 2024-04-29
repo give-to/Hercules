@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java:87:replace:0,1$return optimize(maxEval, f, goalType, this.upperBound, null, null);

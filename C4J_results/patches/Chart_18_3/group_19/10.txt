@@ -1,0 +1,1 @@
+source/org/jfree/data/DefaultKeyedValues2D.java:334:insert-before:0$if (this.rows == null) {return;}

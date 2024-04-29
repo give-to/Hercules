@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypedScopeCreator.java:1421:replace:0,3$if ((qVar.getScope() == scope) && (n.getType() == Token.GETPROP && !scope.isGlobal() &&isQnameRootedInGlobalScope(n))) {scope.undeclare(qVar);}

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/IRFactory.java:700:replace:0,3$if (statementNode.getReturnValue() == null) {node.addChildToBack(transform(statementNode.getReturnValue()));}

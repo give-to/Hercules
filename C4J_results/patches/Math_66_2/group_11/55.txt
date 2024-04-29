@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:287:insert-after:0$resetAbsoluteAccuracy();
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:288:insert-after:0$resetAbsoluteAccuracy();

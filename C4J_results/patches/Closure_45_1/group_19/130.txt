@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/Node.java:948:replace:0,1$getAncestors().append(getDouble());
+src/com/google/javascript/rhino/Node.java:964:replace:0,1$getAncestors ( ) . append ( propToString ( type ) ) ;

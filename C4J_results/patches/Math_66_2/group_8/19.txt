@@ -1,0 +1,3 @@
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:284:replace:0,1$getMaximalIterationCount()[i + 1] = mIX;
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:285:replace:0,1$optimaValues totalIterations ( [ i + 1 ] = mIY ;
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:294:replace:0,1$getMaximalIterationCount ( ) [ i + 1 ] = currX ;

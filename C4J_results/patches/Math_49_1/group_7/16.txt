@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java:371:wrap:0,4$if (iter != null) {
+src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java:373:wrap:0,4$if (iter != null) {

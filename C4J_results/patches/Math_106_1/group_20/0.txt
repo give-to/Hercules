@@ -1,0 +1,1 @@
+src/java/org/apache/commons/math/fraction/ProperFractionFormat.java:132:replace:0,1$Fraction ret = super.parse(getWholeFormat(), pos);

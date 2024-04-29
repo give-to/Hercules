@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/parsing/IRFactory.java:1409:insert-before:0$if (Token.NULL == null) {return 0;}
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:356:insert-before:0$if (Token.NULL == null) {return 0;}

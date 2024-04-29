@@ -1,0 +1,4 @@
+src/com/google/javascript/jscomp/PeepholeFoldConstants.java:813:insert-before:0$if (result == null) {throw new IllegalArgumentException("Null 'result' argument.");}
+src/com/google/javascript/jscomp/NodeUtil.java:273:insert-before:0$if (result == null) {throw new IllegalArgumentException("Null 'result' argument.");}
+src/com/google/javascript/jscomp/PeepholeFoldConstants.java:146:insert-before:0$if (result == null) {throw new IllegalArgumentException("Null 'result' argument.");}
+src/com/google/javascript/jscomp/NodeUtil.java:1349:insert-before:0$if (result == null) {throw new IllegalArgumentException("Null 'result' argument.");}

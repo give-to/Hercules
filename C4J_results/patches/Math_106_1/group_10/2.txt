@@ -1,0 +1,2 @@
+src/java/org/apache/commons/math/fraction/ProperFractionFormat.java:188:replace:0,1$parseObject(source, pos);
+src/java/org/apache/commons/math/fraction/ProperFractionFormat.java:153:replace:0,1$parseObject(source, pos);

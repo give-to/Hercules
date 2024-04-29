@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/ProcessDefines.java:148:wrap:0,1$if (unknownDefine != null) {
+src/com/google/javascript/jscomp/ProcessDefines.java:149:wrap:0,1$if (unknownDefine != null) {

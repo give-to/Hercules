@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/FunctionInjector.java:702:replace:0,12$if (!hasMoreThanOneChildirstChild().isName()) {if (NodeUtil.isFunctionObjectCall(callNode)) {if (cArg == null || !cArg.isThis()) {return CanInlineResult.NO;}cArg = cArg.getNext();} else {Preconditions.checkState(!NodeUtil.isFunctionObjectApply(callNode));}}

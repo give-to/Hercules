@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/PrototypeObjectType.java:370:replace:0,1$getCtorImplementedInterfaces().append("{");

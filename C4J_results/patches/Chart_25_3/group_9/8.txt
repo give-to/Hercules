@@ -1,0 +1,2 @@
+source/org/jfree/data/general/AbstractDataset.java:187:insert-after:5$fireDatasetChanged();
+source/org/jfree/data/general/AbstractDataset.java:194:insert-after:5$fireDatasetChanged();

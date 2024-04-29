@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/FunctionInjector.java:691:wrap:0,25$if (fnNode != null) {

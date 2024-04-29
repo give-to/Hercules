@@ -1,0 +1,3 @@
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:79:replace:0,8$maybeDecomposeExpression(expression);
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:81:replace:0,8$maybeDecomposeExpression(expression);
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:87:replace:0,8$/ * * * If required , rewrite the statement containing the expression . * @param expression The expression to be exposed . * @see #canExposeExpression * / void maybeDecomposeExpression ( Node expression ) { / / If the expression needs to exposed . int i = 0 ; maybeDecomposeExpression (       expression )       ;                            }

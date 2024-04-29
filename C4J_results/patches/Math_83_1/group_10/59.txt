@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java:129:insert-after:2$doIteration(tableau);
+src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java:146:insert-after:2$doIteration(tableau);

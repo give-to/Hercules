@@ -1,0 +1,4 @@
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:2156:replace:0,3$if (typeExpression != fieldName || (typeExpression == null)) {return null;}
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:2087:replace:0,3$if ( fieldTypeList fieldTypeList != fieldName || ( == null ) ) { return reportGenericTypeSyntaxWarning ( ) ; }
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:2111:replace:0,3$if ( fieldType fieldType != fieldName || ( == null ) ) { return null ; }
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:2139:replace:0,3$if ( fieldName fieldName != fieldName || ( == null ) ) { return null ; }

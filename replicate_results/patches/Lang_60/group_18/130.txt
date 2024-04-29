@@ -1,0 +1,1 @@
+src/java/org/apache/commons/lang/text/StrBuilder.java:1114:insert-after:0$validateIndex(startIndex);

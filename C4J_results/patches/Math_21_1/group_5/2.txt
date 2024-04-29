@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java:100:replace:0,1$final long columnCount = getColumnDimension();
+src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java:457:replace:0,1$final long columns = getColumnDimension ( ) ;

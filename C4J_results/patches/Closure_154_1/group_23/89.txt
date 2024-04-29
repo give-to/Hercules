@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/FunctionType.java:338:wrap:0,2$if (set != null) {

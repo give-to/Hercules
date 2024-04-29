@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/IRFactory.java:701:replace:0,1$node.removeChild(transform(statementNode.getReturnValue()));

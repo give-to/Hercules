@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/EnumType.java:117:insert-before:0$if (!(name != null && elementsType != null && definingNode != null)) return true;

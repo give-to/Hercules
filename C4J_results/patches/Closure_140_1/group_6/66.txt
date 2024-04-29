@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/CrossModuleCodeMotion.java:382:insert-before:0$if (relationship.subclassName == null) {return true;}
+src/com/google/javascript/jscomp/CrossModuleCodeMotion.java:379:insert-before:0$if (relationship.subclassName == null) {return true;}

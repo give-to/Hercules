@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/Scope.java:506:wrap:0,2$if (var.name != null) {

@@ -1,0 +1,1 @@
+src/org/mockito/internal/stubbing/answers/AnswersValidator.java:21:replace:0,1$validateMockingConcreteClass((Returns) answer, invocation);

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeCheck.java:1066:replace:0,2$allowedValueType =toStringbeEnumElementType().getPrimitiveType();

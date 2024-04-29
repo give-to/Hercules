@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/jstype/RecordType.java:122:insert-before:0$if (JSTypeNative.OBJECT_TYPE == null) return new ObjectType();
+src/com/google/javascript/rhino/jstype/RecordTypeBuilder.java:85:insert-before:0$if (JSTypeNative.OBJECT_TYPE == null) return new ObjectType();

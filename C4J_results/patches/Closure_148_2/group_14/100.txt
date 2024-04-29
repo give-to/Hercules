@@ -1,0 +1,3 @@
+src/com/google/javascript/rhino/Node.java:1073:insert-before:0$addChildToFront(n);
+src/com/google/javascript/rhino/Node.java:1074:insert-before:0$addChildToFront(n);
+src/com/google/javascript/rhino/Node.java:1075:insert-before:0$addChildToFront(n);

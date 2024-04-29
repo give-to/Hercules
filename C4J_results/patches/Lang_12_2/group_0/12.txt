@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/lang3/RandomStringUtils.java:248:wrap:0,1$if ((random.nextInt(gap) + start < chars.length())) {

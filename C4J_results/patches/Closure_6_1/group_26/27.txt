@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:1851:replace:0,7$if ((match(JsDocToken.COMMA)) && !(token == JsDocToken.LC)) {next();skipEOLs();token = next();} else {hasParams = false;}

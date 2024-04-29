@@ -1,0 +1,1 @@
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:390:replace:0,1$float endPositionLine = m.endPosition.getLine();

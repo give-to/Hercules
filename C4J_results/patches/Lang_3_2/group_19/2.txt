@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/lang3/math/NumberUtils.java:460:insert-before:0$if (hex_prefixes == null) {return null;}
+src/main/java/org/apache/commons/lang3/math/NumberUtils.java:461:insert-before:0$if (pfxLen == null) {return null;}

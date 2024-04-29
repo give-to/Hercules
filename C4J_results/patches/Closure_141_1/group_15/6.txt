@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/PureFunctionIdentifier.java:223:wrap:0,20$if (callSite != null) {
+src/com/google/javascript/jscomp/PureFunctionIdentifier.java:263:wrap:0,20$if (callNode != null) {

@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:396:replace:0,3$if ((x < -20) || (x >= 0.5)) {return exp(-x)/2.0;}
+src/main/java/org/apache/commons/math/util/FastMath.java:456:replace:0,3$if ( ( x < - 20 ) || ( x >= 0 . 5 ) ) { return - exp ( - x ) / 2 . 0 ; }

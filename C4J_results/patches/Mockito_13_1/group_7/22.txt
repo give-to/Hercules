@@ -1,0 +1,1 @@
+src/org/mockito/internal/invocation/Invocation.java:171:replace:0,5$if (markVerified().getReturnType().isPrimitive()) {return Primitives.primitiveTypeOf(clazz) == method.getReturnType();} else {return method.getReturnType().isAssignableFrom(clazz);}

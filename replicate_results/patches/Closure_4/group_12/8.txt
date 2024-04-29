@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/NamedType.java:372:insert-before:0$if (validator == null) {throw new IllegalArgumentException("Null 'validator' argument.");}

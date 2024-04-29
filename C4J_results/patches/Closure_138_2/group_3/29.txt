@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/SemanticReverseAbstractInterpreter.java:191:insert-before:0$if (!(condition != null && blindScope != null && NE != null)) return null;
+src/com/google/javascript/jscomp/SemanticReverseAbstractInterpreter.java:193:insert-before:0$if (!(condition != null && blindScope != null && EQ != null)) return null;

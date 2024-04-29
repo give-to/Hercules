@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/FunctionInjector.java:729:replace:0,3$if ((NodeUtil.mayHaveSideEffects(cArg, compiler)) && !(NodeUtil.mayEffectMutableState(cArg, compiler)&& NodeUtil.getNameReferenceCount(block, fnParam.getString()) > 1)) {return CanInlineResult.NO;}

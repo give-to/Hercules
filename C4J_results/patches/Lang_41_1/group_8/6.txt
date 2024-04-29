@@ -1,0 +1,2 @@
+src/java/org/apache/commons/lang/ClassUtils.java:75:insert-before:0$if (primitiveWrapperMap == null) primitiveWrapperMap = reverseAbbreviationMap;
+src/java/org/apache/commons/lang/ClassUtils.java:76:insert-before:0$if (primitiveWrapperMap == null) primitiveWrapperMap = reverseAbbreviationMap;

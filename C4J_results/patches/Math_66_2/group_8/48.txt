@@ -1,0 +1,3 @@
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:284:wrap:0,1$if (optima != null) {
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:285:wrap:0,1$if (optimaValues != null) {
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:294:wrap:0,1$if (optima != null) {

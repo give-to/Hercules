@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/NodeUtil.java:315:insert-before:0$if (rawJsString == null) rawJsString = new String();

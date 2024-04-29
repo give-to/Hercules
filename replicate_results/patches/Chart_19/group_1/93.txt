@@ -1,0 +1,2 @@
+source/org/jfree/chart/plot/CategoryPlot.java:974:insert-after:6$setWeight(result);
+source/org/jfree/chart/plot/CategoryPlot.java:976:insert-after:6$setWeight(result);

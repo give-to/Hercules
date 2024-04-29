@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:866:replace:0,1$keys[isSyntheticBlock()] = x.getType();

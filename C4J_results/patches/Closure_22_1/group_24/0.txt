@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/CheckSideEffects.java:180:replace:0,1$Node var = IR.var(var);

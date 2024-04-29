@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/Compiler.java:616:replace:0,1$createPassConfigInternal()[0] = e;

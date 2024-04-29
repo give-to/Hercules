@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/JSError.java:99:insert-before:0$if (arguments == null) arguments = new String();

@@ -1,0 +1,3 @@
+src/com/google/javascript/jscomp/FunctionInjector.java:695:wrap:0,21$if (fnNode != null) {
+src/com/google/javascript/jscomp/FunctionInjector.java:274:wrap:0,21$if (getFirstChild != null) {
+src/com/google/javascript/jscomp/FunctionInjector.java:257:wrap:0,21$if (fnNode != null) {

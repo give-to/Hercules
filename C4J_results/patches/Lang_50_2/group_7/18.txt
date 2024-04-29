@@ -1,0 +1,2 @@
+src/java/org/apache/commons/lang/time/FastDateFormat.java:291:insert-after:13$init();
+src/java/org/apache/commons/lang/time/FastDateFormat.java:303:insert-after:13$init();

@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/JSTypeRegistry.java:1645:replace:0,8$if (this.lastGeneration) {fieldType = createFromTypeNodesInternal(fieldTypeNode.getLastChild(), sourceName, scope);} else {fieldType = getNativeType(JSTypeNative.UNKNOWN_TYPE);}

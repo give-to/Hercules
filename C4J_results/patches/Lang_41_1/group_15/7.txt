@@ -1,0 +1,2 @@
+src/java/org/apache/commons/lang/ClassUtils.java:124:replace:0,1$addAbbreviation("I");
+src/java/org/apache/commons/lang/ClassUtils.java:125:replace:0,1$addAbbreviation("I");

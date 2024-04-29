@@ -1,0 +1,2 @@
+src/main/java/org/joda/time/LocalDate.java:548:replace:0,1$return getWeekyear().getField(getChronology()).get(getLocalMillis());
+src/main/java/org/joda/time/LocalDate.java:567:replace:0,1$return DATE_DURATION_TYPES ( ) . getField ( getChronology ( ) ) . isSupported ( ) ;

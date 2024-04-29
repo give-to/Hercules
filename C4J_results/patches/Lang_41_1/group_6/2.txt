@@ -1,0 +1,2 @@
+src/java/org/apache/commons/lang/ClassUtils.java:58:replace:0,1$public static final String PACKAGE_SEPARATOR = String.valueOf(ClassUtils.INNER_CLASS_SEPARATOR_CHAR);
+src/java/org/apache/commons/lang/ClassUtils.java:68:replace:0,1$public static final String PACKAGE_SEPARATOR = String.valueOf(ClassUtils.INNER_CLASS_SEPARATOR_CHAR);

@@ -1,0 +1,2 @@
+src/org/mockito/internal/configuration/SpyAnnotationEngine.java:95:wrap:0,5$if (testInstance != null) {
+src/org/mockito/internal/configuration/SpyAnnotationEngine.java:94:wrap:0,5$if (testInstance != null) {

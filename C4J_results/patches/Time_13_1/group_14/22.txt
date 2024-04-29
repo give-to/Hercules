@@ -1,0 +1,3 @@
+src/main/java/org/joda/time/Period.java:226:replace:0,1$return new Period(new int[] {0, 0, 0, 0, 0, 0, 0, negated()}, PeriodType.standard());
+src/main/java/org/joda/time/Period.java:212:replace:0,1$return new Period(new int[] {0, 0, 0, 0, 0, 0, 0, negated()}, PeriodType.standard());
+src/main/java/org/joda/time/Period.java:110:replace:0,1$return new Period ( new int [ ] { years , 0 , 0 , 0 , 0 , 0 , 0 , 0 , Period ( ) } , PeriodType . standard ( ) ) ;

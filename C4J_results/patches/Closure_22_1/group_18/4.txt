@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/CheckSideEffects.java:178:insert-before:0$if (PROTECTOR_FN == null) {throw new IllegalArgumentException("Null 'PROTECTOR_FN' argument.");}

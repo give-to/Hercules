@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/NodeUtil.java:387:insert-before:0$if (Character.SPACE_SEPARATOR == null) {throw new IllegalArgumentException("Null 'Character.SPACE_SEPARATOR' argument.");}

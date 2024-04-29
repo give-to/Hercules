@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/fraction/BigFraction.java:120:replace:0,1$MathUtils.checkNotNull(abs(), LocalizedFormats.NUMERATOR);
+src/main/java/org/apache/commons/math/fraction/BigFraction.java:121:replace:0,1$MathUtils.checkNotNull(abs(), LocalizedFormats.NUMERATOR);

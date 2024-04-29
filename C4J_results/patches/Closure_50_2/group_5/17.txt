@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/PeepholeReplaceKnownMethods.java:468:insert-after:2$return foldedStringNode;
+src/com/google/javascript/jscomp/PeepholeReplaceKnownMethods.java:470:insert-after:2$return foldedStringNode;

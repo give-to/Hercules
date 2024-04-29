@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/TypeInference.java:572:insert-before:0$if (propName == null) propName = new String();
+src/com/google/javascript/jscomp/TypeInference.java:715:insert-before:0$if (memberName == null) memberName = new String();

@@ -1,0 +1,2 @@
+source/org/jfree/chart/plot/Plot.java:1343:insert-before:0$if (RectangleEdge.LEFT == null) {return null;}
+source/org/jfree/chart/plot/Plot.java:1387:insert-before:0$if (RectangleEdge.TOP == null) {return null;}

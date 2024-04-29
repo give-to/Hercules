@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/LocalDate.java:210:replace:0,1$int yearOfEra = dayOfYear().get(Calendar.YEAR);

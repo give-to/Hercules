@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/LocalDate.java:564:replace:0,5$if (DATE_DURATION_TYPES.contains(durType) ||durType.getField(getChronology()).getUnitMillis()==getChronology().days().getUnitMillis()) {return type.getField(getChronology()).isSupported();}

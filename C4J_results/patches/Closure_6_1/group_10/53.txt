@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:1982:insert-before:0$if (Token.EMPTY == null) {throw new IllegalArgumentException("Null 'Token.EMPTY' argument.");}

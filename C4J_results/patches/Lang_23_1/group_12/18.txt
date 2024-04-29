@@ -1,0 +1,4 @@
+src/main/java/org/apache/commons/lang3/text/ExtendedMessageFormat.java:166:insert-after:21$return;
+src/main/java/org/apache/commons/lang3/text/ExtendedMessageFormat.java:301:insert-after:21$return;
+src/main/java/org/apache/commons/lang3/text/ExtendedMessageFormat.java:343:insert-after:21$return;
+src/main/java/org/apache/commons/lang3/text/ExtendedMessageFormat.java:345:insert-after:21$return;

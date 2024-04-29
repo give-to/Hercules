@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/optimization/univariate/AbstractUnivariateRealOptimizer.java:105:insert-before:0$checkResultComputed();

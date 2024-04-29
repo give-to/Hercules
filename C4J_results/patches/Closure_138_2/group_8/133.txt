@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/jstype/NullType.java:93:replace:0,3$if (that.isNullType() || matchesStringContext().isVoidType()) {return TRUE;}
+src/com/google/javascript/rhino/jstype/JSType.java:480:replace:0,3$if ( that . isAllType ( ) || matchesStringContext ( ) . isNoType ( ) || that . isUnknownType ( ) ) { return UNKNOWN ; }

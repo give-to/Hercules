@@ -1,0 +1,1 @@
+src/java/org/apache/commons/lang/time/FastDateFormat.java:1176:replace:0,1$static final UnpaddedNumberField INSTANCE_YEAR = new UnpaddedNumberField(this.mField, Calendar.YEAR);

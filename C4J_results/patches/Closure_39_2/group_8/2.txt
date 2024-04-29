@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/jstype/PrototypeObjectType.java:387:insert-before:0$if (propertyNames == null) {return null;}
+src/com/google/javascript/rhino/jstype/PrototypeObjectType.java:373:insert-before:0$if (propertyNames == null) {return null;}

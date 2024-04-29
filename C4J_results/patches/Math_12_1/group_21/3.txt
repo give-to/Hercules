@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/random/AbstractWell.java:132:replace:0,1$this(k, m1, m2, this.index, new int[] { (int) (seed >>> 32), (int) (seed & 0xffffffffl) });

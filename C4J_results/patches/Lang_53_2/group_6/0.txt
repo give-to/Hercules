@@ -1,0 +1,2 @@
+src/java/org/apache/commons/lang/time/DateUtils.java:665:wrap:0,2$if (date != null) {
+src/java/org/apache/commons/lang/time/DateUtils.java:666:wrap:0,2$if (date != null) {

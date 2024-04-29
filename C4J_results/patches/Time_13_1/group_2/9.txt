@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/Period.java:969:replace:0,1$return new Period(values, getPeriodType(), this.iType);

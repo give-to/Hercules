@@ -1,0 +1,3 @@
+src/org/mockito/internal/configuration/SpyAnnotationEngine.java:100:replace:0,3$return Mockito.mock(enclosing, settings.useConstructor().outerInstance(testInstance));
+src/org/mockito/internal/configuration/SpyAnnotationEngine.java:101:replace:0,3$return Mockito.mock(enclosing, settings.useConstructor().outerInstance(testInstance));
+src/org/mockito/internal/configuration/SpyAnnotationEngine.java:102:replace:0,3$return Mockito.mock(enclosing, settings.useConstructor().outerInstance(testInstance));

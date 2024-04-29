@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java:178:replace:0,12$switch (doSolve()) {case ILLINOIS:f0 *= 0.5;break;case PEGASUS:f0 *= f1 / (f1 + fx);break;default:}
+src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java:178:replace:0,12$switch (doSolve()) {case ILLINOIS:f0 *= 0.5;break;case PEGASUS:f0 *= f1 / (f1 + fx);break;default:}

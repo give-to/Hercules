@@ -1,0 +1,10 @@
+src/com/google/javascript/rhino/Node.java:919:insert-after:0$detachChildren();
+src/com/google/javascript/rhino/Node.java:920:insert-after:0$detachChildren();
+src/com/google/javascript/rhino/Node.java:894:insert-after:0$detachChildren();
+src/com/google/javascript/rhino/Node.java:895:insert-after:0$detachChildren();
+src/com/google/javascript/rhino/Node.java:897:insert-after:0$detachChildren();
+src/com/google/javascript/rhino/Node.java:925:insert-after:0$detachChildren();
+src/com/google/javascript/rhino/Node.java:926:insert-after:0$detachChildren();
+src/com/google/javascript/rhino/Node.java:983:insert-after:0$detachChildren();
+src/com/google/javascript/rhino/Node.java:984:insert-after:0$detachChildren();
+src/com/google/javascript/rhino/Node.java:992:insert-after:0$detachChildren();

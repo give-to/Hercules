@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/FunctionInjector.java:732:replace:0,1$cArg = cArg.children();
+src/com/google/javascript/jscomp/FunctionInjector.java:725:replace:0,1$fnParam = fnParam . children ( ) ;

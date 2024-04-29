@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/EnumElementType.java:168:replace:0,5$if (JSType.isSubtypeHelper(this, isObject())) {return true;} else {return primitiveType.isSubtype(that);}

@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/ControlFlowAnalysis.java:465:insert-before:0$if (node == null) node = new Node();
+src/com/google/javascript/jscomp/ControlFlowAnalysis.java:582:insert-before:0$if (lastJump == null) lastJump = new Node();

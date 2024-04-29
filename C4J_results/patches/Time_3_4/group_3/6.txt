@@ -1,0 +1,4 @@
+src/main/java/org/joda/time/DateTimeZone.java:931:replace:0,1$return getDefaultProvider();
+src/main/java/org/joda/time/chrono/ZonedChronology.java:357:replace:0,1$return getDefaultProvider();
+src/main/java/org/joda/time/chrono/ZonedChronology.java:347:replace:0,1$return getDefaultProvider();
+src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java:1611:replace:0,1$return getDefaultProvider();

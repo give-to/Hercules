@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:1019:replace:0,1$return newString(true, true, true);

@@ -1,0 +1,4 @@
+src/com/google/javascript/rhino/Node.java:898:wrap:0,1$if (sb != null && first != null) {
+src/com/google/javascript/rhino/Node.java:908:wrap:0,1$if (sb != null && sof != null) {
+src/com/google/javascript/rhino/Node.java:913:wrap:0,1$if (sb != null && sof != null) {
+src/com/google/javascript/rhino/Node.java:993:wrap:0,1$if (sb != null && jsTypeString != null) {

@@ -1,0 +1,4 @@
+source/org/jfree/data/DefaultKeyedValues2D.java:460:wrap:0,1$if (columnKey != null) {
+source/org/jfree/data/DefaultKeyedValues.java:316:wrap:0,1$if (columnKey != null) {
+source/org/jfree/data/DefaultKeyedValues2D.java:333:wrap:0,1$if (columnKey != null) {
+source/org/jfree/data/DefaultKeyedValues2D.java:341:wrap:0,1$if (columnKey != null) {

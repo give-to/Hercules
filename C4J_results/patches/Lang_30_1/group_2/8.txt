@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/lang3/StringUtils.java:1447:replace:0,4$char csLength = cs.length();char searchLength = searchChars.length;char csLast = csLength - 1;char searchLast = searchLength - 1;
+src/main/java/org/apache/commons/lang3/StringUtils.java:1448:replace:0,4$char csLength = cs.length();char searchLength = searchChars.length;char csLast = csLength - 1;char searchLast = searchLength - 1;

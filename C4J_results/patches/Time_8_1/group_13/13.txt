@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/DateTimeZone.java:294:replace:0,1$return forID(offset);

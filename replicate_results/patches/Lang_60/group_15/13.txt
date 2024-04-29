@@ -1,0 +1,2 @@
+src/java/org/apache/commons/lang/text/StrBuilder.java:1778:insert-after:7$validateIndex(startIndex);
+src/java/org/apache/commons/lang/text/StrBuilder.java:1779:insert-after:7$validateIndex(startIndex);

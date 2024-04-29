@@ -1,0 +1,1 @@
+source/org/jfree/data/DefaultKeyedValues.java:240:insert-after:0$rebuildIndex();

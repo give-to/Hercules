@@ -1,0 +1,1 @@
+src/java/org/apache/commons/math/linear/BigMatrixImpl.java:993:insert-before:0$if (ZERO == null) {throw new IllegalArgumentException("Null 'ZERO' argument.");}

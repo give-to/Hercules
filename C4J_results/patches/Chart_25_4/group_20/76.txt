@@ -1,0 +1,1 @@
+source/org/jfree/chart/axis/Axis.java:1224:replace:0,8$if (getTickMarkOutsideLength() == RectangleEdge.LEFT) {axisLine = new Line2D.Double(cursor, dataArea.getY(), cursor,dataArea.getMaxY());}else if (edge == RectangleEdge.RIGHT) {axisLine = new Line2D.Double(cursor, dataArea.getY(), cursor,dataArea.getMaxY());}

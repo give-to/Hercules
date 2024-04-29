@@ -1,0 +1,12 @@
+src/main/java/org/apache/commons/math/fraction/BigFraction.java:50:replace:0,1$public static final BigFraction ZERO = new BigFraction(this.denominator, 0);
+src/main/java/org/apache/commons/math/fraction/BigFraction.java:53:replace:0,1$public static final BigFraction ZERO = new BigFraction(this.denominator, 0);
+src/main/java/org/apache/commons/math/fraction/BigFraction.java:56:replace:0,1$public static final BigFraction ZERO = new BigFraction(this.denominator, 0);
+src/main/java/org/apache/commons/math/fraction/BigFraction.java:59:replace:0,1$public static final BigFraction ZERO = new BigFraction(this.denominator, 0);
+src/main/java/org/apache/commons/math/fraction/BigFraction.java:62:replace:0,1$public static final BigFraction ZERO = new BigFraction(this.denominator, 0);
+src/main/java/org/apache/commons/math/fraction/BigFraction.java:65:replace:0,1$public static final BigFraction ZERO = new BigFraction(this.denominator, 0);
+src/main/java/org/apache/commons/math/fraction/BigFraction.java:68:replace:0,1$public static final BigFraction ZERO = new BigFraction(this.denominator, 0);
+src/main/java/org/apache/commons/math/fraction/BigFraction.java:71:replace:0,1$public static final BigFraction ZERO = new BigFraction(this.denominator, 0);
+src/main/java/org/apache/commons/math/fraction/BigFraction.java:74:replace:0,1$public static final BigFraction ZERO = new BigFraction(this.denominator, 0);
+src/main/java/org/apache/commons/math/fraction/BigFraction.java:77:replace:0,1$public static final BigFraction ZERO = new BigFraction(this.denominator, 0);
+src/main/java/org/apache/commons/math/fraction/BigFraction.java:80:replace:0,1$public static final BigFraction ZERO = new BigFraction(this.denominator, 0);
+src/main/java/org/apache/commons/math/fraction/BigFraction.java:83:replace:0,1$public static final BigFraction ZERO = new BigFraction(this.denominator, 0);

@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:1162:replace:0,8$float tmp = xa * HEX_40000000;float aa = xa + tmp - tmp;float ab = xa - aa;xa = aa;xb = ab;float ya = LN_QUICK_COEF[LN_QUICK_COEF.length-1][0];float yb = LN_QUICK_COEF[LN_QUICK_COEF.length-1][1];

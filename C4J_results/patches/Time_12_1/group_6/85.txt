@@ -1,0 +1,3 @@
+src/main/java/org/joda/time/LocalDateTime.java:615:insert-before:0$if (type.getField(getChronology()) == null) return null;
+src/main/java/org/joda/time/LocalDateTime.java:600:insert-before:0$if (type.getField(getChronology()) == null) return null;
+src/main/java/org/joda/time/base/AbstractPartial.java:79:insert-before:0$if (index.getField(getChronology()) == null) return null;

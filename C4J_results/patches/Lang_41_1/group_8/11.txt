@@ -1,0 +1,2 @@
+src/java/org/apache/commons/lang/ClassUtils.java:75:replace:0,1$wrapperPrimitiveMap.put(Boolean.TYPE, Boolean.class);
+src/java/org/apache/commons/lang/ClassUtils.java:76:replace:0,1$wrapperPrimitiveMap.put(Boolean.TYPE, Boolean.class);

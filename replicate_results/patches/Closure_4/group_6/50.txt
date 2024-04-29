@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/jstype/FunctionType.java:1196:insert-after:0$clearCachedValues();
+src/com/google/javascript/jscomp/FunctionTypeBuilder.java:339:insert-after:0$clearCachedValues();

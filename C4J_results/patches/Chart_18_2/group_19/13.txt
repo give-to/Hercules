@@ -1,0 +1,2 @@
+source/org/jfree/data/DefaultKeyedValues.java:234:insert-before:0$if (this.keys == null) {return;}
+source/org/jfree/data/DefaultKeyedValues.java:238:insert-before:0$if (this.keys == null) {return;}

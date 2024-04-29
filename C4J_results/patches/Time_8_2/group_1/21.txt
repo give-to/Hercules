@@ -1,0 +1,2 @@
+src/main/java/org/joda/time/DateTimeZone.java:218:insert-after:0$setDefault(DateTimeZone.UTC);
+src/main/java/org/joda/time/DateTimeZone.java:274:insert-after:0$setDefault(DateTimeZone.UTC);

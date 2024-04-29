@@ -1,0 +1,4 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:498:replace:0,1$yb += -(recip - ya - recipa);
+src/main/java/org/apache/commons/math/util/FastMath.java:501:replace:0,1$yb += - ( recip - ya - recipb ) ;
+src/main/java/org/apache/commons/math/util/FastMath.java:426:replace:0,1$yb += -(recip - ya - recipa);
+src/main/java/org/apache/commons/math/util/FastMath.java:429:replace:0,1$yb += - ( recip - ya - recipb ) ;

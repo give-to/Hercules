@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/FunctionInjector.java:736:wrap:0,1$if (CanInlineResult.YES != null) {

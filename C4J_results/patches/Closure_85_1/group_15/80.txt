@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/Compiler.java:1684:replace:0,1$RuntimeException e = new RuntimeException(finalMessage, externExports());

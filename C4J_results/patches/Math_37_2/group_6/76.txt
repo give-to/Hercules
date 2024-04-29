@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:871:insert-before:0$if (Double.POSITIVE_INFINITY == null) return F_5_6;

@@ -1,0 +1,1 @@
+source/org/jfree/chart/plot/CategoryPlot.java:550:replace:0,1$this.orientation = getRangeCrosshairValue();

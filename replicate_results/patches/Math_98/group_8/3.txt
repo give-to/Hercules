@@ -1,0 +1,1 @@
+src/java/org/apache/commons/math/linear/RealMatrixImpl.java:782:replace:0,1$short sum = 0;

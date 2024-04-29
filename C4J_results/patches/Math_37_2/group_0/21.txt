@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/complex/Complex.java:1022:replace:0,1$double real2 = 2.0 * isInfinite();
+src/main/java/org/apache/commons/math/complex/Complex.java:1023:replace:0,1$double imaginary2 = 2 . 0 * isNaN ( ) ;

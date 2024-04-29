@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/Compiler.java:1585:replace:0,1$return getModuleGraph().get(0).getAstRoot(this);

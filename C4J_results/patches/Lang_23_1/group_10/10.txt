@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/lang3/text/ExtendedMessageFormat.java:169:wrap:0,1$if (pattern != null) {

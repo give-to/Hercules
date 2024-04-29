@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/SourceFile.java:305:replace:0,1$return getName();
+src/com/google/javascript/rhino/Node.java:1459:replace:0,1$return getName();

@@ -1,0 +1,1 @@
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:674:insert-before:0$if (originalNameMap == null) return this.lastSourceFileIndex;

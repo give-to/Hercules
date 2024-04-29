@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeCheck.java:1605:wrap:0,19$if (functionType != null) {

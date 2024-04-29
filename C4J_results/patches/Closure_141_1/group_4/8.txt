@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/PureFunctionIdentifier.java:233:insert-before:0$propagateSideEffects();

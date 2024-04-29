@@ -1,0 +1,1 @@
+source/org/jfree/data/xy/XYIntervalSeriesCollection.java:113:replace:0,3$if ((series < 0) || (series>getSeriesCount())) {throw new IllegalArgumentException("Series index out of bounds");}

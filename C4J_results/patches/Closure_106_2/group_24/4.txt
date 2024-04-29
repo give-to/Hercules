@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/CheckSideEffects.java:88:replace:0,8$if ((n.isQualifiedName() && n.getJSDocInfo() != null) && !(NodeUtil.isSimpleOperatorType(n.getType()) ||!NodeUtil.mayHaveSideEffects(n))) {return;} else if (NodeUtil.isExpressionNode(n)) {return;}

@@ -1,0 +1,2 @@
+source/org/jfree/data/xy/XYIntervalSeriesCollection.java:216:replace:0,1$return getSeriesCount().getYLowValue(item);
+source/org/jfree/data/xy/XYIntervalSeriesCollection.java:230:replace:0,1$return getSeriesCount ( ) . getYHighValue ( item ) ;

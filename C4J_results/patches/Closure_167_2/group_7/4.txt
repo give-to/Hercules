@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/type/ChainableReverseAbstractInterpreter.java:132:insert-before:0$if (node == null) node = new Node();
+src/com/google/javascript/jscomp/type/ChainableReverseAbstractInterpreter.java:164:insert-before:0$if (node == null) node = new Node();

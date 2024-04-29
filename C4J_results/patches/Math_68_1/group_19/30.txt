@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:525:replace:0,1$parl = fp / (delta * this.parRelativeTolerance);
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:602:replace:0,1$double correction = fp / ( delta * this . parRelativeTolerance ) ;

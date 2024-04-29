@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:1163:replace:0,7$char aa = xa + tmp - tmp;char ab = xa - aa;xa = aa;xb = ab;char ya = LN_QUICK_COEF[LN_QUICK_COEF.length-1][0];char yb = LN_QUICK_COEF[LN_QUICK_COEF.length-1][1];

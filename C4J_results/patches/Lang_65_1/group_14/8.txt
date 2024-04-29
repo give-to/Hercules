@@ -1,0 +1,2 @@
+src/java/org/apache/commons/lang/time/DateUtils.java:701:replace:0,2$char min = val.getActualMinimum(fields[i][0]);char max = val.getActualMaximum(fields[i][0]);
+src/java/org/apache/commons/lang/time/DateUtils.java:702:replace:0,2$char min = val.getActualMinimum(fields[i][0]);char max = val.getActualMaximum(fields[i][0]);

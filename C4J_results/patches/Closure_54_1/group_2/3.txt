@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/JSTypeRegistry.java:695:insert-before:0$if (typesIndexedByProperty == null) {return true;}

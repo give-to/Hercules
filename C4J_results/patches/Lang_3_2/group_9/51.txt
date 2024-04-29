@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/lang3/math/NumberUtils.java:488:replace:0,8$if (expPos == pfxLen && (expPos > -1)) { if (expPos < decPos || expPos > str.length()) { throw new NumberFormatException(str + " is not a valid number.");}dec = str.substring(decPos + 1, expPos);} else {dec = str.substring(decPos + 1);}

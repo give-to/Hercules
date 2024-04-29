@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:521:replace:0,1$short s = (work1[pj] - sum) / diagR[pj];

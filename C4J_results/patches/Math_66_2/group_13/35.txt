@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:276:insert-before:0$if (optima == null) {throw new IllegalArgumentException("Null 'optima' argument.");}

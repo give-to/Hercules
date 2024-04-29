@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/PeepholeSubstituteAlternateSyntax.java:68:wrap:0,38$if (node != null) {

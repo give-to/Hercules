@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:383:replace:0,3$if ((x != x) || (y == x)) {return x;}
+src/main/java/org/apache/commons/math/util/FastMath.java:443:replace:0,3$if ((x != x) || (y == x)) {return x;}

@@ -1,0 +1,1 @@
+src/java/org/apache/commons/lang/time/FastDateFormat.java:286:replace:0,1$key = new Pair(key, getInstance());

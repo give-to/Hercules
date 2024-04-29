@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/TypeValidator.java:677:wrap:0,11$if (found != null) {
+src/com/google/javascript/jscomp/TypeValidator.java:678:wrap:0,11$if (required != null) {

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/Compiler.java:2582:replace:0,1$Node firstChild = loadLibraryCode(hoistNoCompileFiles()).removeChildren();

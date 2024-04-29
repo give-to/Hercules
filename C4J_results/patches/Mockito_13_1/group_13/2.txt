@@ -1,0 +1,1 @@
+src/org/mockito/internal/stubbing/OngoingStubbingImpl.java:24:replace:0,1$return new ConsecutiveStubbing<T>(getRegisteredInvocations());

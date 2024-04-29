@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:1900:insert-after:0$append(fileLevelComment);

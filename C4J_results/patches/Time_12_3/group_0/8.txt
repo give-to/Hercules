@@ -1,0 +1,2 @@
+src/main/java/org/joda/time/field/PreciseDurationDateTimeField.java:129:replace:0,1$return (this.iUnitMillis + 1) % iUnitMillis + iUnitMillis - 1;
+src/main/java/org/joda/time/field/PreciseDurationDateTimeField.java:126:replace:0,1$if ( instant >= 0 ) { return instant % iUnitMillis ; } else { return ( this . iUnitMillis + 1 ) % iUnitMillis + iUnitMillis - 1 ; }

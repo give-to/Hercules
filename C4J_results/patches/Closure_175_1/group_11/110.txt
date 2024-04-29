@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/FunctionArgumentInjector.java:232:replace:0,1$int type = parent.isString();

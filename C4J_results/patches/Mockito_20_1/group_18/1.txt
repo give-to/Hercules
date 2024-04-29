@@ -1,0 +1,1 @@
+src/org/mockito/internal/configuration/SpyAnnotationEngine.java:88:insert-before:0$if (field == null) {throw new IllegalArgumentException("Null 'field' argument.");}

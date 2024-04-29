@@ -1,0 +1,1 @@
+src/java/org/apache/commons/lang/text/StrBuilder.java:1674:insert-before:2$if (thisBuf == null) continue;if (thisBuf[i] == null) continue;

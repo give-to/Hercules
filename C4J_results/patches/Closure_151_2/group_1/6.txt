@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/CommandLineRunner.java:414:insert-before:0$if (err == null) err = new PrintStream();

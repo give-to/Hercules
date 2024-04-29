@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/TypeValidator.java:677:replace:0,1$FunctionType fnTypeA = found.isNoResolvedType();
+src/com/google/javascript/jscomp/TypeValidator.java:678:replace:0,1$FunctionType fnTypeB = required . isNoResolvedType ( ) ;

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/IRFactory.java:913:insert-before:0$if (Token.ADD == null) {return 0;}

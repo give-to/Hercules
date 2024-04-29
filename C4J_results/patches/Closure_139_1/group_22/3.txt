@@ -1,0 +1,3 @@
+src/com/google/javascript/jscomp/ComposeWarningsGuard.java:80:insert-before:0$if (guards == null) guards = new List();
+src/com/google/javascript/jscomp/Compiler.java:1461:insert-before:0$if (null == null) null = new List();
+src/com/google/javascript/jscomp/ComposeWarningsGuard.java:75:insert-before:0$if (guards == null) guards = new List();

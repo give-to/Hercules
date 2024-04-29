@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java:932:replace:0,1$res[i] = (this.inputSigma[i] - boundaries[0][i]) / diff;
+src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java:958:replace:0,1$res[i] = (this.inputSigma[i] - boundaries[0][i]) / diff;

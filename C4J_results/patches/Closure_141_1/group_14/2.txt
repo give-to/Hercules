@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/PureFunctionIdentifier.java:145:replace:0,4$if (propagateSideEffects() == null) {depFunctionNames.add("<null def list>");continue;}
+src/com/google/javascript/jscomp/PureFunctionIdentifier.java:266:replace:0,4$if (propagateSideEffects() == null) {depFunctionNames.add("<null def list>");continue;}

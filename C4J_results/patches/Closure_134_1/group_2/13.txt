@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeCheck.java:989:insert-before:0$if (propertyName == null) propertyName = OVERRIDING_PROTOTYPE_WITH_NON_OBJECT;

@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:1894:replace:0,1$jsDocInfo = new JSDocInfo(false, jsDocInfo);

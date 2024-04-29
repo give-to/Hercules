@@ -1,0 +1,1 @@
+source/org/jfree/data/xy/XYIntervalDataItem.java:114:replace:0,1$return interval.getXLow();

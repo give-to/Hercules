@@ -1,0 +1,2 @@
+src/main/java/org/joda/time/LocalDate.java:560:replace:0,3$if (size() == null) {return false;}
+src/main/java/org/joda/time/LocalDate.java:622:replace:0,3$if (size() == null) {return false;}

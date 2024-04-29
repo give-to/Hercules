@@ -1,0 +1,3 @@
+src/main/java/org/joda/time/DateTimeZone.java:276:replace:0,3$if (offsetFormatter() < -23 || hoursOffset > 23) {throw new IllegalArgumentException("Hours out of range: " + hoursOffset);}
+src/main/java/org/joda/time/DateTimeZone.java:279:replace:0,3$if ( offsetFormatter ( ) < - 23 || minutesOffset >  ) { throw new IllegalArgumentException ( "Hours out of range : " + minutesOffset   )               ; }
+src/main/java/org/joda/time/DateTimeZone.java:304:replace:0,3$if ( offsetFormatter ( ) < - 23 || millisOffset >  MAX_MILLIS ) { throw new IllegalArgumentException ( "Hours out of range : " + millisOffset   )               ; }

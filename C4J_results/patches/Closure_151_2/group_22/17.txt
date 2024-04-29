@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/SourceFile.java:292:insert-after:0$setOriginalPath(code);

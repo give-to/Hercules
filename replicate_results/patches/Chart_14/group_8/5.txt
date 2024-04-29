@@ -1,0 +1,2 @@
+source/org/jfree/chart/plot/CategoryMarker.java:80:replace:0,1$this(key, Color.gray, new BasicStroke(this.outlinePaint, 1.0f));
+source/org/jfree/chart/plot/CategoryMarker.java:81:replace:0,1$/ * * * Creates a new category marker for the specified category . * * @param key the category key . * / public CategoryMarker ( Comparable key ) { this ( key , Color . gray , new BasicStroke ( this . outlinePaint , 1 . 0f ) ) ; }

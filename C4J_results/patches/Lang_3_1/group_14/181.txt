@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/lang3/math/NumberUtils.java:625:insert-before:2$
+src/main/java/org/apache/commons/lang3/StringUtils.java:261:insert-before:2$

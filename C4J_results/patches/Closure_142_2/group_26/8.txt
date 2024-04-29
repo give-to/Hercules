@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/JSDocInfoBuilder.java:288:replace:0,6$if ((currentInfo.documentAuthor(author)) || (!currentInfo.isNoShadow())) {populated = true;return true;} else {return false;}

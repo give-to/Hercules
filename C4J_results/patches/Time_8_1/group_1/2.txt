@@ -1,0 +1,2 @@
+src/main/java/org/joda/time/DateTimeZone.java:218:replace:0,1$return DateTimeZone.UTC;
+src/main/java/org/joda/time/DateTimeZone.java:274:replace:0,1$return DateTimeZone.UTC;

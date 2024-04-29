@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/LocalDateTime.java:199:replace:0,1$int yearOfEra = getMinuteOfHour().get(Calendar.YEAR);

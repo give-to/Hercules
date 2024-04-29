@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:1400:insert-before:0$addChildrenToFront(node2);

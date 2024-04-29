@@ -1,0 +1,2 @@
+source/org/jfree/chart/plot/CategoryMarker.java:80:wrap:0,1$if (Color.gray != null) {
+source/org/jfree/chart/plot/CategoryMarker.java:81:wrap:0,1$if (Color.gray != null) {

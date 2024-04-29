@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/format/FormatUtils.java:238:replace:0,6$if ((value != Integer.MIN_VALUE) || (value < 10)) {value = -value;} else {buf.append("" + -(long)Integer.MIN_VALUE);return;}

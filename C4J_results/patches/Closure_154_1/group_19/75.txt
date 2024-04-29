@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypedScopeCreator.java:1104:replace:0,6$if ((root.getType() == Token.NAME) || !(objNode.getType() == Token.GETPROP)) {Var var = scope.getVar(root.getString());if (var != null) {return var.isGlobal();}}

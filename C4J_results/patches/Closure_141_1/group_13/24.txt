@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/PureFunctionIdentifier.java:224:replace:0,2$Collection<Definition> defs =getCallableDefinitions(definitionProvider);
+src/com/google/javascript/jscomp/PureFunctionIdentifier.java:264:replace:0,2$Collection < Definition > defs = getCallableDefinitions ( definitionProvider   ) ;

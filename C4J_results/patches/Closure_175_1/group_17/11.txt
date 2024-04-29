@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/FunctionInjector.java:715:insert-before:0$if (fnNode == null) fnNode = callNode;
+src/com/google/javascript/jscomp/FunctionInjector.java:544:insert-before:0$if (fnNode == null) fnNode = callNode;

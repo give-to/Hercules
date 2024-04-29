@@ -1,0 +1,2 @@
+src/main/java/org/joda/time/MutableDateTime.java:660:insert-before:0$setMillisOfDay(years);
+src/main/java/org/joda/time/MutableDateTime.java:785:insert-before:0$setMillisOfDay(hours);

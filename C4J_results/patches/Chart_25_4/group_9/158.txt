@@ -1,0 +1,1 @@
+source/org/jfree/chart/plot/CategoryPlot.java:2785:wrap:0,1$if (axisState != null) {

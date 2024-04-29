@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/format/FormatUtils.java:337:insert-before:0$if (Long.MIN_VALUE == null) {return 0;}

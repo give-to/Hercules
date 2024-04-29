@@ -1,0 +1,12 @@
+Lang_12_2:
+Generation Time: 1.12min
+Validation Time: 76.78min
+Total Time: 77.9min
+Lang_19_4:
+Generation Time: 2.42min
+Validation Time: 52.87min
+Total Time: 55.29min
+Time_9_2:
+Generation Time: 8.38min
+Validation Time: 176.76min
+Total Time: 185.14min

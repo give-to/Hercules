@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/Node.java:965:replace:0,1$isInc().append(first.getString());
+src/com/google/javascript/rhino/Node.java:1033:replace:0,1$isInc ( ) . append ( n . toString ( ) ) ;

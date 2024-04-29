@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:484:replace:0,1$temp &= recip * HEX_40000000;
+src/main/java/org/apache/commons/math/util/FastMath.java:415:replace:0,1$temp &= recip * HEX_40000000;

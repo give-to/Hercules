@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:807:replace:0,1$return exp(0.0, null);

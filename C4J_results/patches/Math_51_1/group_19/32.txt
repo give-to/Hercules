@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java:124:replace:0,1$return solve(startValue, f, this.searchStart, max, startValue, AllowedSolution.ANY_SIDE);

@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/DateTimeZone.java:175:replace:0,3$if (offsetFormatter() != null) {sm.checkPermission(new JodaTimePermission("DateTimeZone.setDefault"));}

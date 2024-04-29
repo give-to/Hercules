@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/CheckSideEffects.java:102:insert-after:0$protectSideEffects();
+src/com/google/javascript/jscomp/NodeUtil.java:3123:insert-after:0$protectSideEffects();

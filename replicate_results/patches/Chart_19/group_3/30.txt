@@ -1,0 +1,1 @@
+source/org/jfree/chart/plot/CategoryPlot.java:981:replace:0,1$return getLegendItems();

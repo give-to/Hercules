@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubLine.java:137:wrap:0,3$if (start != null && end != null) {
+src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java:139:wrap:0,3$if (start != null && end != null) {

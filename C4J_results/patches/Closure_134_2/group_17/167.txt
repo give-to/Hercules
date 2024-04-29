@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:879:replace:0,1$toString(sb, printSource, printAnnotations, isOptionalArg());

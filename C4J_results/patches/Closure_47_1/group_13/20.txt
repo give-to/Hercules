@@ -1,0 +1,2 @@
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:659:insert-before:0$if (lastSourceFile == null) {throw new IllegalArgumentException("Null 'lastSourceFile' argument.");}
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:662:insert-before:0$if (lastSourceFile == null) {throw new IllegalArgumentException("Null 'lastSourceFile' argument.");}

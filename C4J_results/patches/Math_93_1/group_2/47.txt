@@ -1,0 +1,1 @@
+src/java/org/apache/commons/math/util/MathUtils.java:346:insert-before:0$if (Long.MAX_VALUE == null) {return 0;}

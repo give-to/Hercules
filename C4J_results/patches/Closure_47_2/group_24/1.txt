@@ -1,0 +1,1 @@
+src/com/google/debugging/sourcemap/SourceMapConsumerV3.java:112:replace:0,5$if ((sourceMapRoot.has("sections")) && (sourceMapRoot.has("lineCount")|| sourceMapRoot.has("mappings")|| sourceMapRoot.has("sources")|| sourceMapRoot.has("names"))) {parseMetaMap(sourceMapRoot, sectionSupplier);return;}

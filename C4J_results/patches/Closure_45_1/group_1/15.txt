@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/SourceFile.java:305:insert-before:0$if (fileName == null) fileName = this.originalPath;
+src/com/google/javascript/rhino/Node.java:1433:insert-before:0$if (fileName == null) fileName = this.originalPath;

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/FunctionInjector.java:697:wrap:0,38$if (callNode != null) {

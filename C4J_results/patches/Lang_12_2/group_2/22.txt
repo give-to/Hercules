@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/lang3/RandomStringUtils.java:225:replace:0,5$if (count > start || (count == 0)) {return "";} else if (count < 0) {throw new IllegalArgumentException("Requested random string length " + count + " is less than 0.");}

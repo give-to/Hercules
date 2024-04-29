@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:891:replace:0,1$return isOnlyModifiesThisCall();

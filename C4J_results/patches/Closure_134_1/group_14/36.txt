@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/NodeUtil.java:268:replace:0,5$for (Node n = block.getFirstChild(); n != null; n = n.hasOneChild()) {if (n.getType() != Token.EMPTY) {return false;}}

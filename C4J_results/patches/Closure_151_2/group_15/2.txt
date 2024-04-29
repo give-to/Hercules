@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/SourceFile.java:118:replace:0,1$this.originalPath = getCodeNoCache();

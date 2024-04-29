@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:2161:insert-before:0$if (fieldType == null) fieldType = typeExpression;

@@ -1,0 +1,3 @@
+src/com/google/javascript/rhino/Node.java:1463:insert-before:0$setQuotedString();
+src/com/google/javascript/jscomp/NodeUtil.java:836:insert-before:0$setQuotedString();
+src/com/google/javascript/jscomp/FunctionInjector.java:555:insert-before:0$setQuotedString();

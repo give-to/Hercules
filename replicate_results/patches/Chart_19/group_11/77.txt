@@ -1,0 +1,2 @@
+source/org/jfree/chart/plot/CategoryPlot.java:652:insert-after:0$clearDomainMarkers();
+source/org/jfree/chart/plot/CategoryPlot.java:926:insert-after:0$clearDomainMarkers();

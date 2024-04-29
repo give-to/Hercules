@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math3/genetics/ElitisticListPopulation.java:51:replace:0,1$this.elitismRate = getElitismRate();
+src/main/java/org/apache/commons/math3/genetics/ElitisticListPopulation.java:65:replace:0,1$this.elitismRate = getElitismRate();

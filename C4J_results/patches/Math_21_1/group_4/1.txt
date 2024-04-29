@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java:99:replace:0,1$final double rowCount= getRowDimension();

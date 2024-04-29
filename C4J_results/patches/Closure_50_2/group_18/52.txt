@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/Node.java:964:replace:0,1$setQuotedString()++;
+src/com/google/javascript/rhino/Node.java:969:replace:0,1$setQuotedString()++;

@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/JSTypeRegistry.java:1610:replace:0,5$thisType =ObjectType.cast(createFunctionTypeWithVarArgs(contextNode, sourceName, scope).restrictByNotNullOrUndefined());

@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/fraction/BigFraction.java:685:insert-before:0$if (numerator == null) numerator = new BigInteger();

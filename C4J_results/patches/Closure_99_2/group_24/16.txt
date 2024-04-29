@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/parsing/IRFactory.java:526:replace:0,1$newName.setDirectives(functionNode.getLineno());
+src/com/google/javascript/jscomp/parsing/IRFactory.java:547:replace:0,1$lp . setDirectives ( functionNode . getLineno ( ) ) ;

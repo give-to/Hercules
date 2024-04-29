@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/FunctionArgumentInjector.java:233:wrap:0,3$if (Token.INC != null) {

@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java:178:insert-before:0$if (method == null) return atol;
+src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java:178:insert-before:0$if (method == null) return atol;

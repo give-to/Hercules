@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java:312:insert-before:0$if (!(scale != null && shape != null)) return 0.0;

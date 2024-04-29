@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeValidator.java:533:replace:0,3$if (info != null) {info = parent.getJSDocInfo();}

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/ScopedAliases.java:418:insert-before:0$if (globalName == null) globalName = name;

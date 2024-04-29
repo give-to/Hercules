@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/LoggerErrorManager.java:39:replace:0,1$this.formatter = printSummary();
+src/com/google/javascript/jscomp/LoggerErrorManager.java:40:replace:0,1$this.formatter = printSummary();

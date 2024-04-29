@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeInference.java:945:insert-before:0$if (node == null) return this.functionScope;

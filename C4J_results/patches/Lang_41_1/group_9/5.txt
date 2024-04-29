@@ -1,0 +1,7 @@
+src/java/org/apache/commons/lang/ClassUtils.java:77:insert-before:0$if (primitiveWrapperMap == null) primitiveWrapperMap = abbreviationMap;
+src/java/org/apache/commons/lang/ClassUtils.java:78:insert-before:0$if (primitiveWrapperMap == null) primitiveWrapperMap = abbreviationMap;
+src/java/org/apache/commons/lang/ClassUtils.java:79:insert-before:0$if (primitiveWrapperMap == null) primitiveWrapperMap = abbreviationMap;
+src/java/org/apache/commons/lang/ClassUtils.java:80:insert-before:0$if (primitiveWrapperMap == null) primitiveWrapperMap = abbreviationMap;
+src/java/org/apache/commons/lang/ClassUtils.java:81:insert-before:0$if (primitiveWrapperMap == null) primitiveWrapperMap = abbreviationMap;
+src/java/org/apache/commons/lang/ClassUtils.java:82:insert-before:0$if (primitiveWrapperMap == null) primitiveWrapperMap = abbreviationMap;
+src/java/org/apache/commons/lang/ClassUtils.java:83:insert-before:0$if (primitiveWrapperMap == null) primitiveWrapperMap = abbreviationMap;

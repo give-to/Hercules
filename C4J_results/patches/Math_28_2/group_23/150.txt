@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/optimization/linear/SimplexSolver.java:123:wrap:0,3$if (maxUlps != null && row != null && tableau != null) {

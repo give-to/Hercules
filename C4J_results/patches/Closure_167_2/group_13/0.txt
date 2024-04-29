@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/type/ChainableReverseAbstractInterpreter.java:138:replace:0,3$if (propVar == null) {propVarType = propVar.getType();}

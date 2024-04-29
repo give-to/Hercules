@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/lang3/text/ExtendedMessageFormat.java:196:insert-before:0$if (foundFormats == null) {throw new IllegalArgumentException("Null 'foundFormats' argument.");}
+src/main/java/org/apache/commons/lang3/text/ExtendedMessageFormat.java:201:insert-before:0$if (foundFormats == null) {throw new IllegalArgumentException("Null 'foundFormats' argument.");}

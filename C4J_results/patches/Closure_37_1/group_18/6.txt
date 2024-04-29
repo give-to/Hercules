@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/RhinoErrorReporter.java:165:insert-before:0$if (message == null) message = new String();

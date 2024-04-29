@@ -1,0 +1,1 @@
+src/org/mockito/internal/configuration/SpyAnnotationEngine.java:117:insert-before:0$if (settings == null) return testInstance;

@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:84:wrap:0,1$if (generator != null) {
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:85:wrap:0,1$if (generator != null) {

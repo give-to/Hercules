@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/parsing/ParserRunner.java:99:insert-before:0$if (compilerEnv == null) return new Node();
+src/com/google/javascript/jscomp/parsing/ParserRunner.java:100:insert-before:0$if (compilerEnv == null) return new Node();

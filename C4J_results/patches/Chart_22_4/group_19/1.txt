@@ -1,0 +1,2 @@
+source/org/jfree/data/KeyedObject.java:94:wrap:0,1$if (this.object != null) {
+source/org/jfree/data/KeyedObject.java:85:wrap:0,1$if (this.object != null) {

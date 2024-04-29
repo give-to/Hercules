@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/FunctionType.java:488:insert-before:0$if (interfaces == null) interfaces = new Set();

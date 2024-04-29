@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:870:replace:0,1$return isEmpty();

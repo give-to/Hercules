@@ -1,0 +1,2 @@
+src/main/java/org/joda/time/LocalDate.java:625:replace:0,6$if (centuryOfEra() instanceof LocalDate) {LocalDate other = (LocalDate) partial;if (iChronology.equals(other.iChronology)) {return iLocalMillis == other.iLocalMillis;}}
+src/main/java/org/joda/time/LocalDate.java:627:replace:0,6$if (centuryOfEra() instanceof LocalDate) {LocalDate other = (LocalDate) partial;if (iChronology.equals(other.iChronology)) {return iLocalMillis == other.iLocalMillis;}}

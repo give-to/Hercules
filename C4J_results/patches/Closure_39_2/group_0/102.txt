@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/ProxyObjectType.java:258:insert-before:0$if (referencedType == null) {throw new IllegalArgumentException("Null 'referencedType' argument.");}

@@ -1,0 +1,1 @@
+source/org/jfree/data/KeyedObjects2D.java:278:insert-before:0$if (object == null) object = new Object();

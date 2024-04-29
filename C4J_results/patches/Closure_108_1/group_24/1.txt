@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/Compiler.java:2611:replace:0,3$return Normalize.parseAndNormalizeSyntheticCode(this, this.externExports,String.format("jscomp_%s_", resourceName));

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/CheckGlobalThis.java:129:insert-before:0$if (lhs == null) lhs = parent;

@@ -1,0 +1,2 @@
+src/java/org/apache/commons/math/fraction/ProperFractionFormat.java:202:replace:0,1$int w = num.intValue();
+src/java/org/apache/commons/math/fraction/ProperFractionFormat.java:203:replace:0,1$int n = toAppendTo . intValue ( ) ;

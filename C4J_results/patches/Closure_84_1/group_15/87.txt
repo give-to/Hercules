@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:114:replace:0,1$errorReporter = new TestErrorReporter(null, this.RANGE_ERROR_TYPE, null);

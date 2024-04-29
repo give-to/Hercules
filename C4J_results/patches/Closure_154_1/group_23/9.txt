@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/FunctionType.java:338:replace:0,2$addRelatedInterfaces(isConstructorsConstructor().getInstanceType(), set);

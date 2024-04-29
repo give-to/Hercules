@@ -1,0 +1,5 @@
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:213:wrap:0,9$if (lastMapping.startPosition != null) {
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:214:wrap:0,9$if (lastMapping.startPosition != null) {
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:215:wrap:0,9$if (lastMapping.startPosition != null) {
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:216:wrap:0,9$if (lastMapping.startPosition != null) {
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:542:wrap:0,9$if (lastMapping.startPosition != null) {

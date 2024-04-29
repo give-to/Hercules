@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/NodeUtil.java:2323:insert-before:0$if (Token.GETPROP == null) {return null;}

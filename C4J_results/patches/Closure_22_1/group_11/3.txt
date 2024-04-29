@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/NodeUtil.java:3138:replace:0,2$return ((expr == parent.getFirstChild())? false : isExpressionResultUsed(parent)) && !(isTryFinallyNode(parent, node));

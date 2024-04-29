@@ -1,0 +1,2 @@
+src/main/java/org/joda/time/DateTimeZone.java:264:replace:0,1$minutesOffset = FieldUtils.safeAdd(toTimeZone(), -minutesOffset);
+src/main/java/org/joda/time/DateTimeZone.java:266:replace:0,1$minutesOffset = FieldUtils . safeAdd ( toTimeZone ( ) , minutesOffset ) ;

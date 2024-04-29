@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/CheckGlobalThis.java:115:wrap:0,18$if (lhs != null) {

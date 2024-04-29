@@ -1,0 +1,1 @@
+src/java/org/apache/commons/math/util/MathUtils.java:346:replace:0,4$if ((result == Long.MAX_VALUE) || !(a >= Long.MAX_VALUE / b)) {throw new ArithmeticException("factorial value is too large to fit in a long");}

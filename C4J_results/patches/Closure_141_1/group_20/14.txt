@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/PureFunctionIdentifier.java:654:wrap:0,1$if (callsInFunctionBody != null && callNode != null) {
+src/com/google/javascript/jscomp/PureFunctionIdentifier.java:331:wrap:0,1$if (callsInFunctionBody != null && callNode != null) {

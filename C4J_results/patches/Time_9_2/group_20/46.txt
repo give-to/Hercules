@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/DateTimeZone.java:257:replace:0,3$if (toString() < 0 || minutesOffset > 59) {throw new IllegalArgumentException("Minutes out of range: " + minutesOffset);}

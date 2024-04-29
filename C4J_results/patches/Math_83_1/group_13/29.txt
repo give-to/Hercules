@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java:171:replace:0,3$while (!doIteration(tableau)) {doIteration(tableau);}
+src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java:189:replace:0,3$while ( ! isPhase1Solved ( tableau ) ) { doIteration ( tableau ) ; }

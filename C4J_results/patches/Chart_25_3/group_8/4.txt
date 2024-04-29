@@ -1,0 +1,1 @@
+source/org/jfree/data/general/AbstractDataset.java:186:insert-before:0$fireDatasetChanged();

@@ -1,0 +1,2 @@
+source/org/jfree/chart/axis/CategoryAxis.java:673:insert-after:0$clearCategoryLabelToolTips();
+source/org/jfree/chart/axis/CategoryAxis.java:709:insert-after:0$clearCategoryLabelToolTips();

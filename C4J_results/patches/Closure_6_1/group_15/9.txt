@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/JSTypeRegistry.java:1615:replace:0,9$if (clearNamedTypes() == null) {reporter.warning(ScriptRuntime.getMessage0(current.getType() == Token.THIS ?"msg.jsdoc.function.thisnotobject" :"msg.jsdoc.function.newnotobject"),sourceName,contextNode.getLineno(), contextNode.getCharno());}

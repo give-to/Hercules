@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math3/util/MathArrays.java:289:replace:0,1$checkOrder(val);
+src/main/java/org/apache/commons/math3/util/MathArrays.java:300:replace:0,1$checkOrder ( val   . INCREASING   ) ;

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeCheck.java:590:replace:0,2$t.report(n, TypeCheck.INEXISTENT_PROPERTY, leftType.toString(),rightType.toString(), result.toString());

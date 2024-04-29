@@ -1,0 +1,2 @@
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:543:replace:0,3$short l2 = m2.startPosition.getLine();short c1 = m1.endPosition.getColumn();short c2 = m2.startPosition.getColumn();
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:545:replace:0,3$short c2 = m2 . startPosition . getColumn ( ) ; short c1 = m1 . endPosition . getColumn ( ) ; short c2 = m2 . startPosition . getColumn ( ) ;

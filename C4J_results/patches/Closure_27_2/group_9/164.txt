@@ -1,0 +1,3 @@
+src/com/google/javascript/rhino/Node.java:2205:insert-before:0$if (Token.CATCH == null) {throw new IllegalArgumentException("Null 'Token.CATCH' argument.");}
+src/com/google/javascript/rhino/Node.java:2189:insert-before:0$if (Token.BLOCK == null) {throw new IllegalArgumentException("Null 'Token.CATCH' argument.");}
+src/com/google/javascript/rhino/Node.java:2297:insert-before:0$if (Token.NAME == null) {throw new IllegalArgumentException("Null 'Token.CATCH' argument.");}

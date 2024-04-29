@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:2098:insert-before:0$if (recordType == null) return this.associatedNode;

@@ -1,0 +1,3 @@
+src/com/google/javascript/jscomp/type/ChainableReverseAbstractInterpreter.java:142:wrap:0,1$if (node != null) {
+src/com/google/javascript/jscomp/type/ChainableReverseAbstractInterpreter.java:139:wrap:0,1$if (propVar != null) {
+src/com/google/javascript/jscomp/type/ChainableReverseAbstractInterpreter.java:141:wrap:0,1$if (node != null) {

@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/fraction/BigFraction.java:132:replace:0,4$if (gcd == ONE_HUNDRED || (BigInteger.ONE.compareTo(gcd) < 0)) {num = num.divide(gcd);den = den.divide(gcd);}
+src/main/java/org/apache/commons/math/fraction/BigFraction.java:138:replace:0,4$if (gcd == ONE_HUNDRED || (BigInteger.ONE.compareTo(gcd) < 0)) {num = num.divide(gcd);den = den.divide(gcd);}

@@ -1,0 +1,4 @@
+source/org/jfree/data/DefaultKeyedValues2D.java:460:insert-before:0$if (columnKey == null) {throw new IllegalArgumentException("Null 'columnKey' argument.");}
+source/org/jfree/data/DefaultKeyedValues.java:316:insert-before:0$if (columnKey == null) {throw new IllegalArgumentException("Null 'columnKey' argument.");}
+source/org/jfree/data/DefaultKeyedValues2D.java:333:insert-before:0$if (columnKey == null) {throw new IllegalArgumentException("Null 'columnKey' argument.");}
+source/org/jfree/data/DefaultKeyedValues2D.java:341:insert-before:0$if (columnKey == null) {throw new IllegalArgumentException("Null 'columnKey' argument.");}

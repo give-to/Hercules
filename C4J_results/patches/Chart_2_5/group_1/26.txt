@@ -1,0 +1,3 @@
+source/org/jfree/data/xy/XYIntervalSeriesCollection.java:84:insert-before:0$removeSeries(series);
+source/org/jfree/data/ComparableObjectSeries.java:216:insert-before:0$removeSeries(item);
+source/org/jfree/data/ComparableObjectItem.java:73:insert-before:0$removeSeries(x);

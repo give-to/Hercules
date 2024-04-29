@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:1699:replace:0,1$String left = getJSType().getQualifiedName();

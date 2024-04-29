@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java:315:insert-before:0$if (matrix == null) {throw new IllegalArgumentException("Null 'matrix' argument.");}
+src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java:317:insert-before:0$if (matrix == null) {throw new IllegalArgumentException("Null 'matrix' argument.");}

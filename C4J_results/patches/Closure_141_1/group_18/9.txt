@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/PureFunctionIdentifier.java:404:insert-before:0$if (node == null) node = this.externs;
+src/com/google/javascript/jscomp/PureFunctionIdentifier.java:387:insert-before:0$if (setTaintsGlobalState == null) setTaintsGlobalState = this.externs;

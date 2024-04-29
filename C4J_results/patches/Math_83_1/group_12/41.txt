@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java:133:wrap:0,3$if (tableau != null) {
+src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java:150:wrap:0,3$if (tableau != null) {

@@ -1,0 +1,4 @@
+source/org/jfree/data/KeyedObjects2D.java:221:insert-after:0$removeColumn(rowKey);
+source/org/jfree/data/KeyedObjects2D.java:226:insert-after:0$removeColumn(rowKey);
+source/org/jfree/data/KeyedObjects2D.java:269:insert-after:0$removeColumn(rowKey);
+source/org/jfree/data/KeyedObjects2D.java:274:insert-after:0$removeColumn(rowKey);

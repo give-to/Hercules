@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:594:replace:0,1$this.diagR[permutation[i]] -= jacobian[i][pj] * tmp;

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeCheck.java:854:insert-before:0$if (object == null) {throw new IllegalArgumentException("Null 'object' argument.");}

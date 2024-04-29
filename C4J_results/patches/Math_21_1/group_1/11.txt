@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/linear/MatrixUtils.java:134:replace:0,2$return (data.length * data[0].length <= 4096) ?new Array2DRowRealMatrix() : new BlockRealMatrix(data);

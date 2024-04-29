@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/TypeCheck.java:1619:insert-before:0$if (functionPrivateName == null) functionPrivateName = OVERRIDING_PROTOTYPE_WITH_NON_OBJECT;
+src/com/google/javascript/jscomp/TypeCheck.java:1618:insert-before:0$if (functionPrivateName == null) functionPrivateName = OVERRIDING_PROTOTYPE_WITH_NON_OBJECT;

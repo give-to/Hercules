@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java:190:replace:0,1$getPivotColumn(tableau);
+src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java:172:replace:0,1$getPivotColumn(tableau);

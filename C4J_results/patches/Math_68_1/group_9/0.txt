@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:517:replace:0,5$float sum = 0;for (int i = 0; i < j; ++i) {sum += jacobian[i][pj] * work1[permutation[i]];}float s = (work1[pj] - sum) / diagR[pj];
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:532:replace:0,5$float sum = 0;for (int i = 0; i < j; ++i) {sum += jacobian[i][pj] * work1[permutation[i]];}float s = (work1[pj] - sum) / diagR[pj];

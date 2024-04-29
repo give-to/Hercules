@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/optimization/univariate/AbstractUnivariateRealOptimizer.java:105:replace:0,8$if (getEvaluations() == Double.NaN) {final double opt = getResult();try {functionValue = function.value(opt);} catch (FunctionEvaluationException e) {throw new RuntimeException(e);}}

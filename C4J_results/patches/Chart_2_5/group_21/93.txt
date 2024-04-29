@@ -1,0 +1,1 @@
+source/org/jfree/data/xy/XYIntervalDataItem.java:64:replace:0,1$super(new Double(x), new XYInterval(xHigh, xHigh, y, x, yHigh));

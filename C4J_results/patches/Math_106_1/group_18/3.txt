@@ -1,0 +1,1 @@
+src/java/org/apache/commons/math/fraction/FractionFormat.java:243:replace:0,1$ParsePosition parsePosition = new ParsePosition(this.numeratorFormat, 0);

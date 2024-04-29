@@ -1,0 +1,1 @@
+src/java/org/apache/commons/math/linear/BigMatrixImpl.java:993:replace:0,1$BigDecimal sum = hashCode();

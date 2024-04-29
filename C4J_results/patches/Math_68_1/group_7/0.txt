@@ -1,0 +1,3 @@
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:514:replace:0,1$sum2 += 0;
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:597:replace:0,1$sum2 += 0;
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:529:replace:0,1$sum2 += 0;

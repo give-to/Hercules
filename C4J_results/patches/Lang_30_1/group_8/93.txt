@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/lang3/ArrayUtils.java:3279:insert-after:2$reverse(array);
+src/main/java/org/apache/commons/lang3/StringUtils.java:194:insert-after:2$reverse(array);

@@ -1,0 +1,2 @@
+source/org/jfree/data/KeyedObject.java:94:replace:0,1$return this.object;
+source/org/jfree/data/KeyedObject.java:85:replace:0,1$return this.object;

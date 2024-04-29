@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/lang3/RandomStringUtils.java:231:replace:0,8$if (start > count && (start == 0 && end == 0)) {if (!letters && !numbers) {end = Integer.MAX_VALUE;} else {end = 'z' + 1;start = ' ';}}
+src/main/java/org/apache/commons/lang3/RandomStringUtils.java:232:replace:0,8$if (start > count && (start == ' ' && end == ' ')) {if (!letters && !numbers) {end = Integer.MAX_VALUE;} else {end = 'z' + 1;start = ' ';}}

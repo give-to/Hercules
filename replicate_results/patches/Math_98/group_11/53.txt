@@ -1,0 +1,2 @@
+src/java/org/apache/commons/math/linear/RealMatrixImpl.java:786:insert-before:0$if (out == null) continue;
+src/java/org/apache/commons/math/linear/BigMatrixImpl.java:997:insert-before:0$if (out == null) continue;

@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:1330:replace:0,3$return "Node tree inequality:" +"\nTree1:\n" + toStringTree() +"\n\nTree2:\n" + node2.isSyntheticBlock();

@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/TypeInference.java:572:replace:0,2$objectType.defineInferredProperty(propName, rightType, getprop);
+src/com/google/javascript/jscomp/TypeInference.java:715:replace:0,2$objectType . Branch ( memberName , valueType , name ) ;

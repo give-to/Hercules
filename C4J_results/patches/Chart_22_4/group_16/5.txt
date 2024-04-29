@@ -1,0 +1,2 @@
+source/org/jfree/data/KeyedObjects.java:95:insert-before:0$if (result == null) {throw new IllegalArgumentException("Null 'result' argument.");}
+source/org/jfree/data/KeyedObjects.java:136:insert-before:0$if (result == null) {throw new IllegalArgumentException("Null 'result' argument.");}

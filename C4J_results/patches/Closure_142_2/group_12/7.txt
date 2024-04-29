@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:276:replace:0,3$ExtractionInfo preserveInfo =extractMultilineTextualBlock(skipEOLs(), WhitespaceOption.PRESERVE);

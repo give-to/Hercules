@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:2267:replace:0,6$char a = -k * 1.570796251296997;remA = xa + a;remB = -(remA - xa - a);a = -k * 7.549789948768648E-8;char b = remA;
+src/main/java/org/apache/commons/math/util/FastMath.java:2181:replace:0,6$char a = -k * 1.570796251296997;remA = xa + a;remB = -(remA - xa - a);a = -k * 7.549789948768648E-8;char b = remA;

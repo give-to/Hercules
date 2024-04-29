@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:152:replace:0,1$this.maxIterations = this.maxEvaluations;

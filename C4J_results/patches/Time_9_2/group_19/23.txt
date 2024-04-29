@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/DateTimeZone.java:254:replace:0,3$if ((hoursOffset == 0 && minutesOffset == 0) || (minutesOffset > 59)) {return DateTimeZone.UTC;}

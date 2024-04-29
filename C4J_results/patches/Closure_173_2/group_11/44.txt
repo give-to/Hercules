@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/NodeUtil.java:2198:insert-before:0$if (Token.MUL == null) return NodeUtil.JSC_PROPERTY_NAME_FN;
+src/com/google/javascript/jscomp/NodeUtil.java:2181:insert-before:0$if (Token.MUL == null) return NodeUtil.JSC_PROPERTY_NAME_FN;

@@ -1,0 +1,9 @@
+src/com/google/javascript/rhino/Node.java:931:wrap:0,2$if (sb != null) {
+src/com/google/javascript/rhino/Node.java:932:wrap:0,2$if (sb != null) {
+src/com/google/javascript/rhino/Node.java:934:wrap:0,2$if (sb != null) {
+src/com/google/javascript/rhino/Node.java:960:wrap:0,2$if (sb != null) {
+src/com/google/javascript/rhino/Node.java:966:wrap:0,2$if (sb != null) {
+src/com/google/javascript/rhino/Node.java:967:wrap:0,2$if (sb != null) {
+src/com/google/javascript/rhino/Node.java:1024:wrap:0,2$if (sb != null) {
+src/com/google/javascript/rhino/Node.java:1025:wrap:0,2$if (sb != null) {
+src/com/google/javascript/rhino/Node.java:1064:wrap:0,2$if (sb != null) {

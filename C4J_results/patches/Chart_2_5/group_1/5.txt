@@ -1,0 +1,3 @@
+source/org/jfree/data/xy/XYIntervalSeriesCollection.java:84:replace:0,3$if ((series == null) || ((series < 0) || (series >= getSeriesCount()))) {throw new IllegalArgumentException("Null 'series' argument.");}
+source/org/jfree/data/ComparableObjectSeries.java:216:replace:0,3$if ((series == null) || ((series < 0) || (series >= getSeriesCount()))) {throw new IllegalArgumentException("Null 'series' argument.");}
+source/org/jfree/data/ComparableObjectItem.java:73:replace:0,3$if ((series == null) || ((series < 0) || (series >= getSeriesCount()))) {throw new IllegalArgumentException("Null 'series' argument.");}

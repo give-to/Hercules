@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/JSTypeRegistry.java:1625:replace:0,1$isConstructor = current.cloneTree() == Token.NEW;

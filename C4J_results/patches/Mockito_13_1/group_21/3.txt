@@ -1,0 +1,1 @@
+src/org/mockito/internal/MockitoCore.java:56:insert-before:0$validateMockitoUsage();

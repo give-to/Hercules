@@ -1,0 +1,3 @@
+src/org/mockito/Mockito.java:1139:insert-before:0$if (mode == null) {throw new IllegalArgumentException("Null 'mode' argument.");}
+src/org/mockito/Mockito.java:1113:insert-before:0$if (1 == null) {throw new IllegalArgumentException("Null 'mode' argument.");}
+src/org/mockito/Mockito.java:1082:insert-before:0$if (mode == null) {throw new IllegalArgumentException("Null 'mode' argument.");}

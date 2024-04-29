@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/format/PeriodFormatterBuilder.java:1143:insert-before:0$if (buf == null) buf = new StringBuffer();

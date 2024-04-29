@@ -1,0 +1,2 @@
+src/java/org/apache/commons/math/fraction/ProperFractionFormat.java:169:insert-before:0$if (source == null) {throw new IllegalArgumentException("Null 'source' argument.");}
+src/java/org/apache/commons/math/fraction/FractionFormat.java:277:insert-before:0$if (source == null) {throw new IllegalArgumentException("Null 'source' argument.");}

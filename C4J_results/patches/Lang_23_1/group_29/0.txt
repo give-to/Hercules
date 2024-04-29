@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/lang3/text/ExtendedMessageFormat.java:194:replace:0,1$super.applyPattern(toPattern().toString());

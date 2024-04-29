@@ -1,0 +1,4 @@
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:194:wrap:0,1$if (LocalizedFormats.NO_OPTIMUM_COMPUTED_YET != null) {
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:220:wrap:0,1$if (LocalizedFormats.NO_OPTIMUM_COMPUTED_YET != null) {
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:193:wrap:0,1$if (LocalizedFormats.NO_OPTIMUM_COMPUTED_YET != null) {
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:219:wrap:0,1$if (LocalizedFormats.NO_OPTIMUM_COMPUTED_YET != null) {

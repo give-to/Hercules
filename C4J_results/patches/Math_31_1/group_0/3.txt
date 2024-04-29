@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/util/ContinuedFraction.java:177:replace:0,2$throw new ConvergenceException(LocalizedFormats.CONTINUED_FRACTION_NAN_DIVERGENCE, b);

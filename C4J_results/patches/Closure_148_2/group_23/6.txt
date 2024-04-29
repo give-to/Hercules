@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/PeepholeFoldConstants.java:160:replace:0,3$if (argumentNode != originalTypeofNode || (argumentNode == null || !NodeUtil.isLiteralValue(argumentNode))) {return originalTypeofNode;}

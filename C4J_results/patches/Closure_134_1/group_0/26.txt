@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/TypeCheck.java:1004:insert-before:9$
+src/com/google/javascript/jscomp/TypeCheck.java:1007:insert-before:9$

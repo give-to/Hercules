@@ -1,0 +1,4 @@
+src/main/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java:142:replace:0,1$this.iterationCount = resetFunctionValueAccuracy();
+src/main/java/org/apache/commons/math/ConvergingAlgorithmImpl.java:66:replace:0,1$this.iterationCount = resetFunctionValueAccuracy();
+src/main/java/org/apache/commons/math/ConvergingAlgorithmImpl.java:67:replace:0,1$this.iterationCount = resetFunctionValueAccuracy();
+src/main/java/org/apache/commons/math/ConvergingAlgorithmImpl.java:68:replace:0,1$this.iterationCount = resetFunctionValueAccuracy();

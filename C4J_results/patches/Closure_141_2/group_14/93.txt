@@ -1,0 +1,4 @@
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:696:insert-before:0$if (parent == null) {throw new IllegalArgumentException("Null 'parent' argument.");}
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:752:insert-before:0$if (parent == null) {throw new IllegalArgumentException("Null 'parent' argument.");}
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:682:insert-before:0$if (parent == null) {throw new IllegalArgumentException("Null 'parent' argument.");}
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:671:insert-before:0$if (parent == null) {throw new IllegalArgumentException("Null 'parent' argument.");}

@@ -1,0 +1,2 @@
+source/org/jfree/chart/plot/CategoryPlot.java:652:replace:0,1$setWeight(index);
+source/org/jfree/chart/plot/CategoryPlot.java:926:replace:0,1$ValueAxis   ( domainAxis )         ;

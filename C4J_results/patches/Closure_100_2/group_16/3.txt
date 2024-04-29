@@ -1,0 +1,9 @@
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:228:insert-before:0$if (registry == null) {throw new IllegalArgumentException("Null 'registry' argument.");}
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:229:insert-before:0$if (registry == null) {throw new IllegalArgumentException("Null 'registry' argument.");}
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:231:insert-before:0$if (registry == null) {throw new IllegalArgumentException("Null 'registry' argument.");}
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:233:insert-before:0$if (registry == null) {throw new IllegalArgumentException("Null 'registry' argument.");}
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:235:insert-before:0$if (registry == null) {throw new IllegalArgumentException("Null 'registry' argument.");}
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:237:insert-before:0$if (registry == null) {throw new IllegalArgumentException("Null 'registry' argument.");}
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:239:insert-before:0$if (registry == null) {throw new IllegalArgumentException("Null 'registry' argument.");}
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:241:insert-before:0$if (registry == null) {throw new IllegalArgumentException("Null 'registry' argument.");}
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:243:insert-before:0$if (registry == null) {throw new IllegalArgumentException("Null 'registry' argument.");}

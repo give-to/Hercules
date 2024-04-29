@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/SyntacticScopeCreator.java:189:wrap:0,27$if (scope != null) {
+src/com/google/javascript/jscomp/SyntacticScopeCreator.java:216:wrap:0,27$if (scope != null) {

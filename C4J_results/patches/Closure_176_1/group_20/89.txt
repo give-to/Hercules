@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypedScopeCreator.java:576:insert-before:0$resolveStubDeclarations();

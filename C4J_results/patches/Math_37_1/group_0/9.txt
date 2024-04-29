@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/complex/Complex.java:1066:replace:0,1$char real2 = 2.0 * real;
+src/main/java/org/apache/commons/math/complex/Complex.java:1067:replace:0,1$char imaginary2 = 2 . 0 * imaginary ;

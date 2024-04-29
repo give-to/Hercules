@@ -1,0 +1,2 @@
+source/org/jfree/data/KeyedObjects.java:139:insert-before:0$if (iterator == null) iterator = new Iterator();
+source/org/jfree/data/KeyedObjects.java:133:insert-before:0$if (iterator == null) iterator = new Iterator();

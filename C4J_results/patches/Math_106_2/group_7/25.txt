@@ -1,0 +1,1 @@
+src/java/org/apache/commons/math/fraction/FractionFormat.java:359:wrap:0,1$if (source != null && pos != null) {

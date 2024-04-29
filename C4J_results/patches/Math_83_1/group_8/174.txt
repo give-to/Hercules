@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/linear/ArrayRealVector.java:887:replace:0,1$dot += data[i] * isInfinite()[i];

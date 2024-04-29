@@ -1,0 +1,3 @@
+src/main/java/org/joda/time/DateTimeZone.java:268:replace:0,1$offset *= FieldUtils.safeMultiply(minutesOffset, DateTimeConstants.MILLIS_PER_MINUTE);
+src/main/java/org/joda/time/format/DateTimeFormatterBuilder.java:2341:replace:0,1$offset *= FieldUtils.safeMultiply(minutesOffset, DateTimeConstants.MILLIS_PER_MINUTE);
+src/main/java/org/joda/time/format/DateTimeFormatterBuilder.java:2379:replace:0,1$offset *= FieldUtils.safeMultiply(minutesOffset, DateTimeConstants.MILLIS_PER_MINUTE);

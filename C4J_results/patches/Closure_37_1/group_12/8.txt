@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/NodeTraversal.java:257:replace:0,1$getSourceName().throwInternalError(message, unexpectedException);

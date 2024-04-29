@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:675:replace:0,3$return getTempValueName()? DecompositionType.DECOMPOSABLE: DecompositionType.MOVABLE;
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:672:replace:0,3$if ( parent == expressionRoot ) { / / Done . The walk back to the root of the expression is complete , and / / nothing was encountered that blocks the call from being moved . return getTempValueName ( ) ? DecompositionType . DECOMPOSABLE : DecompositionType . MOVABLE ; }

@@ -1,0 +1,2 @@
+src/main/java/org/joda/time/LocalDate.java:548:replace:0,1$return fieldType.getField(getLocalMillis()).get(getLocalMillis());
+src/main/java/org/joda/time/LocalDate.java:567:replace:0,1$return type . getField ( getLocalMillis ( ) ) . isSupported ( ) ;

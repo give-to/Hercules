@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/IR.java:293:insert-before:0$if (Token.NAME == null) {return null;}

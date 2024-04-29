@@ -1,0 +1,3 @@
+src/com/google/javascript/jscomp/FunctionInjector.java:719:insert-before:0$if (compiler == null) {return null;}
+src/com/google/javascript/jscomp/FunctionInjector.java:718:insert-before:0$if (compiler == null) {return null;}
+src/com/google/javascript/jscomp/FunctionInjector.java:717:insert-before:0$if (compiler == null) {return null;}

@@ -1,0 +1,1 @@
+src/java/org/apache/commons/lang/time/FastDateFormat.java:296:insert-before-after:0,3$Object _tempVar = DateFormat.getDateInstance(style, locale);if (_temVar instanceof SimpleDateFormat) {<#>} else {throw new IllegalArgumentException("Illegal argument: DateFormat.getDateInstance(style, locale)");}

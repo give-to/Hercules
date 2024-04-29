@@ -1,0 +1,8 @@
+src/com/google/javascript/rhino/Node.java:897:replace:0,1$getNext().append(' ');
+src/com/google/javascript/rhino/Node.java:898:replace:0,1$getNext ( ) . append ( getString ( ) propListHead ;
+src/com/google/javascript/rhino/Node.java:900:replace:0,1$getNext().append(' ');
+src/com/google/javascript/rhino/Node.java:928:replace:0,1$getNext().append(' ');
+src/com/google/javascript/rhino/Node.java:929:replace:0,1$getNext ( ) . append ( lineno ) ;
+src/com/google/javascript/rhino/Node.java:986:replace:0,1$getNext ( ) . append ( value ) ;
+src/com/google/javascript/rhino/Node.java:987:replace:0,1$getNext ( ) . append ( ' ] ' ) ;
+src/com/google/javascript/rhino/Node.java:1027:replace:0,1$getNext().append(' ');

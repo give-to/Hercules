@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:484:replace:0,1$temp = recip * MASK_30BITS;
+src/main/java/org/apache/commons/math/util/FastMath.java:415:replace:0,1$temp = recip * MASK_30BITS;

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/FunctionArgumentInjector.java:233:insert-before:0$if (Token.VAR == null) {return true;}

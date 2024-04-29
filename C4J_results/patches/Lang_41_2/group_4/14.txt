@@ -1,0 +1,1 @@
+src/java/org/apache/commons/lang/ClassUtils.java:172:replace:0,1$return getPackageCanonicalName(cls.getName());

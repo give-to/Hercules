@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/InstanceObjectType.java:93:wrap:0,1$if (type != null) {

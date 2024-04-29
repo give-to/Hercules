@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/analysis/solvers/RegulaFalsiSolver.java:43:wrap:0,1$if (DEFAULT_ABSOLUTE_ACCURACY != null && Method.REGULA_FALSI != null) {

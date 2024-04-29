@@ -1,0 +1,5 @@
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:1838:replace:0,1$reportGenericTypeSyntaxWarning();
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:1873:replace:0,1$reportGenericTypeSyntaxWarning();
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:1878:replace:0,1$reportGenericTypeSyntaxWarning();
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:1980:replace:0,1$reportGenericTypeSyntaxWarning();
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:1756:replace:0,1$reportGenericTypeSyntaxWarning();

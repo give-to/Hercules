@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/ScopedAliases.java:430:replace:0,1$grandparent.addChildBefore(grandparent, grandparent);

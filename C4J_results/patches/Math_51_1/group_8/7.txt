@@ -1,0 +1,3 @@
+src/main/java/org/apache/commons/math/exception/MathIllegalStateException.java:72:insert-before:0$if (context == null) return new ExceptionContext();
+src/main/java/org/apache/commons/math/exception/MaxCountExceededException.java:62:insert-before:0$if (context == null) return new ExceptionContext();
+src/main/java/org/apache/commons/math/util/FastMath.java:3929:insert-before:0$if (context == null) return new ExceptionContext();

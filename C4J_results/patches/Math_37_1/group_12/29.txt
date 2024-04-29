@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:476:wrap:0,30$if ((1 < hiPrec.length())) {
+src/main/java/org/apache/commons/math/util/FastMath.java:407:wrap:0,30$if ((1 < hiPrec.length())) {

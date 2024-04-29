@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:226:insert-before:0$if (JSTypeNative.BOOLEAN_TYPE == null) {throw new IllegalArgumentException("Null 'JSTypeNative.BOOLEAN_TYPE' argument.");}
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:227:insert-before:0$if (JSTypeNative.NUMBER_TYPE == null) {throw new IllegalArgumentException("Null 'JSTypeNative.BOOLEAN_TYPE' argument.");}

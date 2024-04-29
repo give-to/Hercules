@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/FunctionInjector.java:728:insert-after:5$maybePrepareCall(cArg);

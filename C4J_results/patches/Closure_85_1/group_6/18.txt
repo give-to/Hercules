@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:963:replace:0,7$if (getCharno()) {int lineno = getLineno();if (lineno != -1) {sb.append(' ');sb.append(lineno);}}

@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:608:replace:0,1$paru *= Math.min(paru, lmPar);

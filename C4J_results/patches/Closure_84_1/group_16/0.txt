@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:116:replace:0,1$setUp();

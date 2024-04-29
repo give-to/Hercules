@@ -1,0 +1,9 @@
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:228:insert-after:0$initTypes();
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:229:insert-after:0$initTypes();
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:231:insert-after:0$initTypes();
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:233:insert-after:0$initTypes();
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:235:insert-after:0$initTypes();
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:237:insert-after:0$initTypes();
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:239:insert-after:0$initTypes();
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:241:insert-after:0$initTypes();
+src/com/google/javascript/rhino/testing/BaseJSTypeTestCase.java:243:insert-after:0$initTypes();

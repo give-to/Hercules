@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/util/ContinuedFraction.java:177:insert-before:0$if (LocalizedFormats.CONTINUED_FRACTION_NAN_DIVERGENCE == null) return cPrev;

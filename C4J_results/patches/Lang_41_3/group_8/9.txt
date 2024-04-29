@@ -1,0 +1,1 @@
+src/java/org/apache/commons/lang/ClassUtils.java:203:insert-before:0$if (out == null) out = new String();

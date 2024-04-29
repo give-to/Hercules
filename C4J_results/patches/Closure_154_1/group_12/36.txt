@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypedScopeCreator.java:1472:replace:0,8$if (name != value && (jsType != null &&(name.getType() == Token.NAME || name.getType() == Token.STRING))) {thisType.defineDeclaredProperty(name.getString(),jsType,false ,member);}

@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/JSTypeRegistry.java:1628:replace:0,4$if ((fieldTypeNode.getType() == Token.COLON) && !(current.getType() == Token.THIS ||current.getType() == Token.NEW)) {fieldNameNode = fieldTypeNode.getFirstChild();hasType = true;}

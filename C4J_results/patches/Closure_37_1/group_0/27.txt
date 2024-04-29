@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/Compiler.java:642:replace:0,1$throw new RuntimeException(getTypeRegistry()[0]);

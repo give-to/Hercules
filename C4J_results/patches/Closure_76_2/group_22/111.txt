@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:938:replace:0,3$if (this.next.getType() == Token.STRING) {sb.append(first.getString());}

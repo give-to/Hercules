@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:512:replace:0,1$qTy(diag);
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:587:replace:0,1$qTy (    work3 [ pj ] * diag )     ;

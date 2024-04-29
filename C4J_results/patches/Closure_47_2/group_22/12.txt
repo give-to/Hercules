@@ -1,0 +1,1 @@
+src/com/google/debugging/sourcemap/SourceMapConsumerV3.java:103:replace:0,3$if (version <= UNMAPPED || (version != 3)) {throw new SourceMapParseException("Unknown version: " + version);}

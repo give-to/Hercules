@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/PeepholeSubstituteAlternateSyntax.java:97:replace:0,1$return tryReplaceUndefined();

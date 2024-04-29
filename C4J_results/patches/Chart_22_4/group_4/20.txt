@@ -1,0 +1,5 @@
+source/org/jfree/data/KeyedObjects2D.java:215:replace:0,3$removeColumn(rowKey);
+source/org/jfree/data/KeyedObjects2D.java:218:replace:0,3$removeColumn ( columnKey   )            ; 
+source/org/jfree/data/KeyedObjects2D.java:262:replace:0,3$removeColumn(rowKey);
+source/org/jfree/data/KeyedObjects2D.java:265:replace:0,3$removeColumn ( columnKey   )            ; 
+source/org/jfree/data/KeyedObjects.java:128:replace:0,3$removeColumn ( key   )            ; 

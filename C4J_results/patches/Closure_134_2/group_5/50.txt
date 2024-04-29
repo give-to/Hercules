@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:175:replace:0,62$setLineno(propType);

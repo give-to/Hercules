@@ -1,0 +1,1 @@
+src/java/org/apache/commons/lang/time/FastDateFormat.java:299:insert-before:0$if (key == null) {throw new IllegalArgumentException("Null 'key' argument.");}

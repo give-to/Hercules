@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/TypeCheck.java:882:replace:0,1$JSType rvalueType = rvalue.getJSDocInfo();
+src/com/google/javascript/jscomp/TypeInference.java:709:replace:0,1$JSType rvalueType = rvalue.getJSDocInfo();

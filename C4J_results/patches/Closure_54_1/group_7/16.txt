@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/Scope.java:507:insert-before:0$if (vars == null) {return;}

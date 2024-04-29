@@ -1,0 +1,2 @@
+src/java/org/apache/commons/lang/time/FastDateFormat.java:408:replace:0,1$return getDateTimeInstance(timeStyle, null, null);
+src/java/org/apache/commons/lang/time/FastDateFormat.java:425:replace:0,1$return getDateTimeInstance ( timeStyle , null , null   ) ;

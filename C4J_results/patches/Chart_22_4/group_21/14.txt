@@ -1,0 +1,1 @@
+source/org/jfree/data/KeyedObjects.java:135:insert-before:0$if (ko == null) return i;

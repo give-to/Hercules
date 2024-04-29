@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/ProcessDefines.java:148:insert-before:0$if (unknownDefine == null) {throw new IllegalArgumentException("Null 'unknownDefine' argument.");}
+src/com/google/javascript/jscomp/ProcessDefines.java:149:insert-before:0$if (unknownDefine == null) {throw new IllegalArgumentException("Null 'unknownDefine' argument.");}

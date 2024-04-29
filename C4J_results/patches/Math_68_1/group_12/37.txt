@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:519:insert-before:0$if (jacobian == null) continue;if (jacobian[i] == null) continue;if (jacobian[i][pj] == null) continue;if (work1 == null) continue;if (work1[permutation[i]] == null) continue;if (permutation == null) continue;if (permutation[i] == null) continue;

@@ -1,0 +1,2 @@
+src/java/org/apache/commons/lang/time/FastDateFormat.java:772:replace:0,1$return new UnpaddedNumberField(field, this.mLocale);
+src/java/org/apache/commons/lang/time/FastDateFormat.java:776:replace:0,1$return new PaddedNumberField ( field , this . mLocale , padding ) ;

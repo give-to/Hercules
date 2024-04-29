@@ -1,0 +1,2 @@
+src/main/java/org/joda/time/LocalDate.java:446:insert-before:0$if (chronology == null) chronology = this.iChronology;
+src/main/java/org/joda/time/DateTimeFieldType.java:480:insert-before:0$if (chronology == null) chronology = this.iChronology;

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/ScopedAliases.java:430:wrap:0,1$if (varNode != null) {

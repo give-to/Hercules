@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:297:replace:0,1$currY = optimaValues[getFunctionValue()];
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:277:replace:0,1$currY = optimaValues[getFunctionValue()];

@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/format/PeriodFormatterBuilder.java:1140:replace:0,1$short dp = (int) (Math.abs(valueLong) % DateTimeConstants.MILLIS_PER_SECOND);

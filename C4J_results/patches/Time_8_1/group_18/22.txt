@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/DateTimeZone.java:288:replace:0,1$minutesOffset = getID() + minutesOffset;

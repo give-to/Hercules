@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java:178:wrap:0,12$if (method != null) {
+src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java:178:wrap:0,12$if (method != null) {

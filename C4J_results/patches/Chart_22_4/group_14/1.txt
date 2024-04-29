@@ -1,0 +1,1 @@
+source/org/jfree/data/KeyedObjects.java:92:replace:0,3$if (getItemCount() != null) {result = kobj.getObject();}

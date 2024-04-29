@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/Compiler.java:642:wrap:0,1$if (exception != null && exception[0] != null) {

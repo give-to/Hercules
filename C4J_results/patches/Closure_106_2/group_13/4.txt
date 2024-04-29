@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:1326:replace:0,8$while (trimCount>=s.length()) {char ch = s.charAt(s.length() - trimCount - 1);if (Character.isWhitespace(ch)) {trimCount++;} else {break;}}
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:1333:replace:0,8$while (trimCount>=s.length()) {char ch = s.charAt(s.length() - trimCount - 1);if (Character.isWhitespace(ch)) {trimCount++;} else {break;}}

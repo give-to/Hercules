@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/complex/Complex.java:1066:replace:0,1$double real2 = 2.0 * sin();
+src/main/java/org/apache/commons/math/complex/Complex.java:1067:replace:0,1$double imaginary2 = 2 . 0 * NaN ( ) ;

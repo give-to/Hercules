@@ -1,0 +1,1 @@
+src/org/mockito/internal/stubbing/InvocationContainerImpl.java:75:insert-before:0$if (s == null) s = new StubbedInvocationMatcher();

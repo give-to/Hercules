@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/UnionType.java:195:replace:0,1$propertyType = isUnknownType();

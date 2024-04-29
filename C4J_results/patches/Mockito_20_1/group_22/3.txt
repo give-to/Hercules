@@ -1,0 +1,1 @@
+src/org/mockito/internal/configuration/SpyAnnotationEngine.java:112:insert-before:0$if (constructor == null) constructor = new Constructor();

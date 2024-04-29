@@ -1,0 +1,1 @@
+source/org/jfree/chart/axis/CategoryAxis.java:598:replace:0,1$result /= area.getMinY() + area.getHeight() * getLowerMargin();

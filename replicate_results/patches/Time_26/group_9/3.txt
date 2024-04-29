@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java:1547:insert-before:0$if (iTransitions == null) {return 0;}

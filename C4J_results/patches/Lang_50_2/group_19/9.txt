@@ -1,0 +1,3 @@
+src/java/org/apache/commons/lang/time/FastDateFormat.java:1186:replace:0,1$mField >>= field;
+src/java/org/apache/commons/lang/time/FastDateFormat.java:1146:replace:0,1$mField >>= field;
+src/java/org/apache/commons/lang/time/FastDateFormat.java:1277:replace:0,1$mField >>= field;

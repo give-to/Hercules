@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java:120:insert-before:0$if (v2D == null) v2D = new Vector2D();
+src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubLine.java:116:insert-before:0$if (v1D == null) v1D = new Vector2D();

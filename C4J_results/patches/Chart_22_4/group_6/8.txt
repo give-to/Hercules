@@ -1,0 +1,1 @@
+source/org/jfree/data/KeyedObjects2D.java:279:replace:0,1$int columnIndex = this.columnKeys.indexOf(rowKey);

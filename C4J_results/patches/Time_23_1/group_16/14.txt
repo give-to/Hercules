@@ -1,0 +1,3 @@
+src/main/java/org/joda/time/DateTimeZone.java:148:replace:0,3$if (temp != cDefault || (temp == null)) {temp = forTimeZone(TimeZone.getDefault());}
+src/main/java/org/joda/time/DateTimeZone.java:149:replace:0,3$if (temp != cDefault || (temp == TimeZone)) {temp = forTimeZone(TimeZone.getDefault());}
+src/main/java/org/joda/time/DateTimeZone.java:154:replace:0,3$if (temp != cDefault || (temp == null)) {temp = forTimeZone(TimeZone.getDefault());}

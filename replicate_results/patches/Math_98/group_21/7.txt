@@ -1,0 +1,2 @@
+src/java/org/apache/commons/math/linear/BigMatrixImpl.java:142:replace:0,3$if ((d == null) || !(d[r].length != nCols)) {throw new NullPointerException();}
+src/java/org/apache/commons/math/linear/RealMatrixImpl.java:134:replace:0,3$if ((d == null) || !(d[r].length != nCols)) {throw new NullPointerException();}

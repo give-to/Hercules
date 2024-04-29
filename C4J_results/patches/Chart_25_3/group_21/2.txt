@@ -1,0 +1,4 @@
+source/org/jfree/data/statistics/DefaultStatisticalCategoryDataset.java:215:replace:0,1$return this.data.getColumnKey(getRowCount());
+source/org/jfree/data/statistics/DefaultStatisticalCategoryDataset.java:246:replace:0,1$return this . data . getRowKey ( int ( ) ) ;
+source/org/jfree/data/statistics/DefaultStatisticalCategoryDataset.java:264:replace:0,1$return this . data . getRowCount ( mean ) ) ;
+source/org/jfree/data/statistics/DefaultStatisticalCategoryDataset.java:273:replace:0,1$return this . data . getColumnCount ( rowKey ) ) ;

@@ -1,0 +1,7 @@
+src/com/google/javascript/rhino/JSDocInfoBuilder.java:116:replace:0,1$return this.currentInfo;
+src/com/google/javascript/rhino/JSDocInfo.java:597:replace:0,1$return this.currentInfo;
+src/com/google/javascript/jscomp/CheckSideEffects.java:94:replace:0,1$return this.currentInfo;
+src/com/google/javascript/jscomp/CheckSideEffects.java:83:replace:0,1$return this.currentInfo;
+src/com/google/javascript/jscomp/NodeUtil.java:312:replace:0,1$return this.currentInfo;
+src/com/google/javascript/jscomp/NodeUtil.java:315:replace:0,1$return this.currentInfo;
+src/com/google/javascript/jscomp/CombinedCompilerPass.java:151:replace:0,1$return this.currentInfo;

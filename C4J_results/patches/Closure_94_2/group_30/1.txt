@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/ProcessDefines.java:286:replace:0,16$if (valParent.getType()<Token.ASSIGN && name.isSimpleName() &&name.declaration == ref) {compiler.report(t.makeError(val, INVALID_DEFINE_INIT_ERROR, fullName));} else if (processDefineAssignment(t, fullName, val, valParent)) {refInfo.name.removeRef(ref);lvalueToRemoveLater = valParent;}

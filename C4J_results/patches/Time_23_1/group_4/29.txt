@@ -1,0 +1,2 @@
+src/main/java/org/joda/time/DateTimeZone.java:178:replace:0,3$setDefault(zone);
+src/main/java/org/joda/time/DateTimeZone.java:302:replace:0,3$setDefault(zone);

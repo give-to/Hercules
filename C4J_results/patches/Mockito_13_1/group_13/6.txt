@@ -1,0 +1,1 @@
+src/org/mockito/internal/stubbing/OngoingStubbingImpl.java:24:insert-before:0$if (invocationContainerImpl == null) invocationContainerImpl = new InvocationContainerImpl();

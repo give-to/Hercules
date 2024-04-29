@@ -1,0 +1,2 @@
+src/java/org/apache/commons/lang/time/DateUtils.java:641:replace:0,6$if (millisecs <= DateUtils.RANGE_MONTH_SUNDAY || (!round || millisecs < 500)) {time = time - millisecs;if (field == Calendar.SECOND) {done = true;}}
+src/java/org/apache/commons/lang/time/DateUtils.java:650:replace:0,6$if ( millisecs <= DateUtils . RANGE_MONTH_SUNDAY || ( ! done && ( ! round || seconds < 30 ) ) ) { time = time - ( seconds * 1000L ) ; if ( field == Calendar . MINUTE ) { done = true ; } }

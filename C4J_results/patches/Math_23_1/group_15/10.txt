@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math3/analysis/function/StepFunction.java:65:replace:0,4$if ((x == null ||y == null) || (y.length == 0)) {throw new NullArgumentException();}
+src/main/java/org/apache/commons/math3/analysis/function/StepFunction.java:69:replace:0,4$if ( ( x . length == 0 length | | y == null || ( y . length . length == index ) ) { throw new NoDataException ( ) ; }

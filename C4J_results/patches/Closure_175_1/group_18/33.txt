@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/FunctionInjector.java:716:insert-after:18$maybePrepareCall(fnParam);

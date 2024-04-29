@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/Node.java:1071:replace:0,1$sb.append(getAncestors().toString());
+src/com/google/javascript/rhino/Node.java:934:replace:0,1$sb . append ( "no_side_effects_call" ( ) . name ( type ) ) ;

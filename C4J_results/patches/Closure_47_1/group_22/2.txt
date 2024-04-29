@@ -1,0 +1,1 @@
+src/com/google/debugging/sourcemap/SourceMapGeneratorV3.java:679:replace:0,1$this.sourceFileMap.put(symbolName, originalNameIndex);

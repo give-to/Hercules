@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:512:wrap:0,1$if ((pj < work1.length()) && (pj < diag.length())) {
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:587:wrap:0,1$if ((pj < work1.length()) && (pj < diag.length())) {

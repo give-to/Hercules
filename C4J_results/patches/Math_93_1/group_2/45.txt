@@ -1,0 +1,1 @@
+src/java/org/apache/commons/math/util/MathUtils.java:346:wrap:0,4$if (Long.MAX_VALUE != null) {

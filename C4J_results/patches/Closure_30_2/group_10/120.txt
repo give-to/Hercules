@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:884:replace:0,1$setCharno(count);

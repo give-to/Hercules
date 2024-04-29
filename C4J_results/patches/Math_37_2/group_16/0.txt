@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:2261:replace:0,1$double k = (int)(xa * 0.6366197723675814);
+src/main/java/org/apache/commons/math/util/FastMath.java:2175:replace:0,1$double k = (int)(xa * 0.6366197723675814);

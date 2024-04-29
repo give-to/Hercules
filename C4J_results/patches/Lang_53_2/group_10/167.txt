@@ -1,0 +1,1 @@
+src/java/org/apache/commons/lang/time/DateUtils.java:643:replace:0,3$if (field >= DateUtils.RANGE_WEEK_RELATIVE && (field == Calendar.SECOND)) {done = true;}

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/NodeUtil.java:1386:insert-before:0$if (Token.TYPEOF == null) return new String();

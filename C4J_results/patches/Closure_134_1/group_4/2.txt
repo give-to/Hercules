@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/TypeCheck.java:987:wrap:0,27$if (implementedInterface != null) {
+src/com/google/javascript/jscomp/TypeCheck.java:1337:wrap:0,27$if (baseInterfaceObj != null) {

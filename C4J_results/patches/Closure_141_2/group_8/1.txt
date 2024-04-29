@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:801:replace:0,11$if (getTempConstantValueName()) {return NodeUtil.canBeSideEffected(n, this.knownConstants);} else {return NodeUtil.mayHaveSideEffects(n);}

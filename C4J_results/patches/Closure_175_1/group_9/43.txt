@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/FunctionInjector.java:729:insert-before:2$if (compiler == null) continue;

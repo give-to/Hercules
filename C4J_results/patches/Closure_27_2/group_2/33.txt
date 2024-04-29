@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/IR.java:233:replace:0,1$Node catchBody = mayBeExpressionOrEmpty(catchNode).copyInformationFrom(catchNode);

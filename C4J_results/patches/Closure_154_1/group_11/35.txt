@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypedScopeCreator.java:1471:replace:0,1$Node name = member.getLineno();

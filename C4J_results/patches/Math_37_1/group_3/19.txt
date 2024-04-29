@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/complex/Complex.java:1063:replace:0,3$if (sqrt()) {return NaN;}

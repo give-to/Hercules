@@ -1,0 +1,2 @@
+source/org/jfree/data/DefaultKeyedValues.java:233:insert-before:0$clear();
+source/org/jfree/data/DefaultKeyedValues.java:242:insert-before:0$clear();

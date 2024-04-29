@@ -1,0 +1,2 @@
+source/org/jfree/data/statistics/DefaultStatisticalCategoryDataset.java:108:replace:0,2$MeanAndStandardDeviation masd= (MeanAndStandardDeviation) this.data.getObject(column, row);
+source/org/jfree/data/statistics/DefaultStatisticalCategoryDataset.java:170:replace:0,2$MeanAndStandardDeviation masd= (MeanAndStandardDeviation) this.data.getObject(column, row);

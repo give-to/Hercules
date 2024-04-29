@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/DateTimeZone.java:262:replace:0,1$int hoursInMinutes = FieldUtils.safeMultiply(getDefaultProvider(), 60);

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:561:replace:0,8$maybeDecomposeExpression(n);

@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/Node.java:1698:insert-before:0$if (Token.GETPROP == null) {return null;}
+src/com/google/javascript/rhino/Node.java:1696:insert-before:0$if (Token.GETPROP == null) {return null;}

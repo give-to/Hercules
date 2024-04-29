@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/parsing/ParserRunner.java:99:replace:0,1$initResourceConfig().setReservedKeywordAsIdentifier(true);
+src/com/google/javascript/jscomp/parsing/ParserRunner.java:100:replace:0,1$initResourceConfig().setReservedKeywordAsIdentifier(true);

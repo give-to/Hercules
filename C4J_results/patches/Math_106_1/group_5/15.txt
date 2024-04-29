@@ -1,0 +1,5 @@
+src/java/org/apache/commons/math/fraction/ProperFractionFormat.java:168:insert-before:0$if (pos == null) {return null;}
+src/java/org/apache/commons/math/fraction/ProperFractionFormat.java:137:insert-before:0$if (pos == null) {return null;}
+src/java/org/apache/commons/math/fraction/FractionFormat.java:276:insert-before:0$if (pos == null) {return null;}
+src/java/org/apache/commons/math/fraction/FractionFormat.java:260:insert-before:0$if (pos == null) {return null;}
+src/java/org/apache/commons/math/fraction/FractionFormat.java:370:insert-before:0$if (pos == null) {return null;}

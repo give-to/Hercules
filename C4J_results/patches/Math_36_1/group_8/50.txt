@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/fraction/BigFraction.java:133:insert-before:0$if (num == null) num = new BigInteger();
+src/main/java/org/apache/commons/math/fraction/BigFraction.java:134:insert-before:0$if (den == null) den = new BigInteger();

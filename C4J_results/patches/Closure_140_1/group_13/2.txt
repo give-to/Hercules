@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/CrossModuleCodeMotion.java:346:replace:0,4$if ((NodeUtil.isFunctionDeclaration(parent)) || !(maybeProcessDeclaration(t, n, parent, info))) {return info.addDeclaration(new Declaration(t.getModule(), name, parent, gramps));}

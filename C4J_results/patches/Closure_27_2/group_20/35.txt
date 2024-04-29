@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:393:replace:0,1$last = detachFromParent();

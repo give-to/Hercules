@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/chrono/BaseChronology.java:240:replace:0,1$instant = partial.getFieldType(i).getField(this).set(instant, dayOfWeek().getValue(i));

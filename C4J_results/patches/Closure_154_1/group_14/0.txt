@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/NodeUtil.java:2317:wrap:0,8$if (qName != null) {
+src/com/google/javascript/jscomp/NodeUtil.java:2318:wrap:0,8$if (qName != null) {

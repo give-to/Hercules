@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/lang3/text/ExtendedMessageFormat.java:155:replace:0,1$ParsePosition pos = new ParsePosition(this.toPattern, 0);
+src/main/java/org/apache/commons/lang3/text/ExtendedMessageFormat.java:379:replace:0,1$ParsePosition pos = new ParsePosition(this.toPattern, 0);

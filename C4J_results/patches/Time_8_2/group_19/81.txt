@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/DateTimeZone.java:273:replace:0,3$if (getDefaultProvider() == 0 && minutesOffset == 0) {return DateTimeZone.UTC;}

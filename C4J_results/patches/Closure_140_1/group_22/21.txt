@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/CrossModuleCodeMotion.java:136:insert-before:0$if (compiler == null) {throw new IllegalArgumentException("Null 'compiler' argument.");}

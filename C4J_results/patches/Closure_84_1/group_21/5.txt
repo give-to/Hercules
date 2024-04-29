@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/testing/TestErrorReporter.java:68:wrap:0,1$if (warnings != null) {
+src/com/google/javascript/jscomp/testing/TestErrorReporter.java:45:wrap:0,1$if (warnings != null) {

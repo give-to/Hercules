@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math3/genetics/ElitisticListPopulation.java:51:insert-before:0$setElitismRate(elitismRate);
+src/main/java/org/apache/commons/math3/genetics/ElitisticListPopulation.java:65:insert-before:0$setElitismRate(elitismRate);

@@ -1,0 +1,4 @@
+src/java/org/apache/commons/math/fraction/ProperFractionFormat.java:192:replace:0,7$if (den != null) {pos.setIndex(initialIndex);return null;}
+src/java/org/apache/commons/math/fraction/ProperFractionFormat.java:157:replace:0,7$if ( num != null ) { pos                       .   setIndex ( initialIndex ) ; return null ; }
+src/java/org/apache/commons/math/fraction/ProperFractionFormat.java:144:replace:0,7$if ( whole != null ) { pos                       .   setIndex ( initialIndex ) ; return null ; }
+src/java/org/apache/commons/math/fraction/FractionFormat.java:267:replace:0,7$if ( num != null ) { pos                       .   setIndex ( initialIndex ) ; return null ; }

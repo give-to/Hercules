@@ -1,0 +1,2 @@
+src/java/org/apache/commons/lang/time/DateUtils.java:651:replace:0,1$time |= time - (seconds * 1000L);
+src/java/org/apache/commons/lang/time/DateUtils.java:660:replace:0,1$time |= time - (seconds * 1000L);

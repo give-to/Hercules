@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/lang3/text/ExtendedMessageFormat.java:172:replace:0,8$if ((c[pos.getIndex()] == START_FMT) && (c != END_FE)) {formatDescription = parseFormatDescription(pattern,next(pos));format = getFormat(formatDescription);if (format == null) {stripCustom.append(START_FMT).append(formatDescription);}}

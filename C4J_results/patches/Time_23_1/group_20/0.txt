@@ -1,0 +1,1 @@
+src/main/java/org/joda/time/DateTimeZone.java:306:replace:0,3$if ((id.equals("UTC")) || (id.startsWith("+") || id.startsWith("-"))) {return DateTimeZone.UTC;}

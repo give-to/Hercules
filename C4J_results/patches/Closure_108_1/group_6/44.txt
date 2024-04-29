@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/NodeUtil.java:2395:replace:0,1$isOnlyModifiesThisCallstChild().setJSDocInfo(info);

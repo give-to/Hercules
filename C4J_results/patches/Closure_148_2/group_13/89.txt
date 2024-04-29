@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/Node.java:1071:replace:0,1$sb.append(getType().toString());
+src/com/google/javascript/rhino/Node.java:934:replace:0,1$sb . append ( NO_SIDE_EFFECTS_CALL ( ) . name ( type ) ) ;

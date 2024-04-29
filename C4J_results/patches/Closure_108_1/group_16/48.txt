@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/Compiler.java:2586:replace:0,6$if (processAMDAndCommonJSModules()) {parent.addChildrenToFront(firstChild);} else {parent.addChildrenAfter(firstChild, injectedLibraries.get("base"));}

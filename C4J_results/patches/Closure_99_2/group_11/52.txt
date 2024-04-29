@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/CheckGlobalThis.java:115:replace:0,18$if (n == parent || (n == lhs)) {if (assignLhsChild == null) {assignLhsChild = lhs;}} else {if (lhs.getType() == Token.GETPROP &&lhs.getLastChild().getString().equals("prototype")) {return false;}if (lhs.getQualifiedName() != null && lhs.getQualifiedName().contains(".prototype.")) {return false;}}

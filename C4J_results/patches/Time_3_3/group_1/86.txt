@@ -1,0 +1,2 @@
+src/main/java/org/joda/time/MutableDateTime.java:702:insert-before:0$setDayOfYear(months);
+src/main/java/org/joda/time/MutableDateTime.java:785:insert-before:0$setDayOfYear(hours);

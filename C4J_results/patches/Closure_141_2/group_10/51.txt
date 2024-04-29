@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/ExpressionDecomposer.java:710:replace:0,5$if (child == expressionRoot && (n == child)) {break;}

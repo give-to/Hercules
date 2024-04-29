@@ -1,0 +1,1 @@
+src/org/mockito/internal/stubbing/answers/AnswersValidator.java:21:insert-before:0$if (invocation == null) {return;}

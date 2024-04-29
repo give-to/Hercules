@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/UnionType.java:201:insert-before:0$rebuildAlternates();

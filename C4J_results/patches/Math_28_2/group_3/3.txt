@@ -1,0 +1,4 @@
+src/main/java/org/apache/commons/math3/exception/MathIllegalStateException.java:74:wrap:0,1$if (context != null) {
+src/main/java/org/apache/commons/math3/optimization/linear/SimplexSolver.java:151:wrap:0,1$if (context != null) {
+src/main/java/org/apache/commons/math3/optimization/linear/SimplexSolver.java:124:wrap:0,1$if (context != null) {
+src/main/java/org/apache/commons/math3/util/Precision.java:115:wrap:0,1$if (context != null) {

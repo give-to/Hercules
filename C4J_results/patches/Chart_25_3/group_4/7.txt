@@ -1,0 +1,1 @@
+source/org/jfree/data/general/AbstractDataset.java:134:insert-before:0$if (listener == null) {throw new IllegalArgumentException("Null 'listener' argument.");}

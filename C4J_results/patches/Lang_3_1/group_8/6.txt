@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/lang3/math/NumberUtils.java:593:replace:0,1$final Float f = min(str);
+src/main/java/org/apache/commons/lang3/math/NumberUtils.java:601:replace:0,1$final Double d = 0 ( str ) ;

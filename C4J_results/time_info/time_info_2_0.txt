@@ -1,0 +1,12 @@
+Time_3_3:
+Generation Time: 9.08min
+Validation Time: 108.23min
+Total Time: 117.31min
+Time_3_4:
+Generation Time: 8.18min
+Validation Time: 106.58min
+Total Time: 114.77min
+Closure_45_1:
+Generation Time: 56.23min
+Validation Time: 244.74min
+Total Time: 300.97min

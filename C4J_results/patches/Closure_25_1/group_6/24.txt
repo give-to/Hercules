@@ -1,0 +1,4 @@
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:2156:replace:0,3$if (skipEOLs() == null) {return null;}
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:2087:replace:0,3$if ( eatTokensUntilEOL ( ) == null ) { return reportGenericTypeSyntaxWarning ( ) ; }
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:2111:replace:0,3$if ( JsDocToken ( ) == null ) { return null ; }
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:2139:replace:0,3$if ( unreadToken ( ) == null ) { return null ; }

@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:1330:insert-after:2$addChildrenToBack(node2);

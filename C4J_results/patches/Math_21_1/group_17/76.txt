@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/util/FastMath.java:3514:replace:0,3$if (a <= b || (a != b)) {return Double.NaN;}

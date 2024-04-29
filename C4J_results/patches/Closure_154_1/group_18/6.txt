@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypedScopeCreator.java:1103:insert-before:0$if (n == null) n = new Node();

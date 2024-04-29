@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/CheckGlobalThis.java:125:replace:0,4$if ((lhs.getType() == Token.GETPROP &&lhs.getLastChild().getString().equals("prototype")) || (parentType == Token.NAME)) {return false;}

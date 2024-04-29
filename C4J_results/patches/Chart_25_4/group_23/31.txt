@@ -1,0 +1,1 @@
+source/org/jfree/chart/axis/CategoryAxis.java:598:wrap:0,1$if (area != null) {

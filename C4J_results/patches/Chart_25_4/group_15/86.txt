@@ -1,0 +1,1 @@
+source/org/jfree/chart/axis/Axis.java:1122:insert-before:0$if (insets == null) insets = Axis.DEFAULT_AXIS_LABEL_INSETS;

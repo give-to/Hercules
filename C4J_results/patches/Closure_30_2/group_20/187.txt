@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:973:replace:0,4$if (lineno == FLAG_THIS_UNMODIFIED && (lineno != -1)) {sb.append(' ');sb.append(lineno);}

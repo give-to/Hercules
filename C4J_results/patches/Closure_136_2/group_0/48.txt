@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/Node.java:177:insert-before:0$removeProp(propType);

@@ -1,0 +1,4 @@
+src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java:246:replace:0,1$sample().setSeed(seed);
+src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java:247:replace:0,1$sample().setSeed(seed);
+src/main/java/org/apache/commons/math3/random/RandomDataImpl.java:461:replace:0,1$delegate RandomDataGenerator ( . reSeed ( seed ) ;
+src/main/java/org/apache/commons/math3/random/RandomDataGenerator.java:648:replace:0,1$getRan ( ) ran ( . setSeed ( seed ) ;

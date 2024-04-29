@@ -1,0 +1,3 @@
+src/com/google/javascript/rhino/jstype/PrototypeObjectType.java:375:replace:0,1$matchesStringContext().append(", ");
+src/com/google/javascript/rhino/jstype/PrototypeObjectType.java:378:replace:0,1$matchesStringContext().append(", ");
+src/com/google/javascript/rhino/jstype/PrototypeObjectType.java:379:replace:0,1$matchesStringContext().append(", ");

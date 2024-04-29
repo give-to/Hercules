@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/Node.java:804:insert-before:0$if (propListHead == null) propListHead = x;
+src/com/google/javascript/rhino/Node.java:809:insert-before:0$if (propListHead == null) propListHead = x;

@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/JSError.java:215:replace:0,4$return this.description;

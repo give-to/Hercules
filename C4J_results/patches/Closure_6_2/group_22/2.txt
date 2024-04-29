@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/TypeCheck.java:1870:insert-before:0$if (valueEnumType == null) {throw new IllegalArgumentException("Null 'valueEnumType' argument.");}

@@ -1,0 +1,9 @@
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:511:replace:0,1$long pj = permutation[j];
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:516:replace:0,1$long pj = permutation[j];
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:586:replace:0,1$long pj = permutation[j];
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:590:replace:0,1$long pj = permutation[j];
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:599:replace:0,1$double s = work1 [ permutation [ j ] ] ;
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:404:replace:0,1$long pj = permutation[j];
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:531:replace:0,1$long pj = permutation[j];
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:561:replace:0,1$long pj = permutation[j];
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:568:replace:0,1$long pj = permutation[j];

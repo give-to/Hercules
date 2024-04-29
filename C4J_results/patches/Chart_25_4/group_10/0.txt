@@ -1,0 +1,1 @@
+source/org/jfree/chart/axis/Axis.java:1114:replace:0,3$AffineTransform t = AffineTransform.getRotateInstance(getLabelAngle(), plotArea.getCenterX(),labelBounds.getCenterY());

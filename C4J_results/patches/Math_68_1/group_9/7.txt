@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:517:replace:0,1$short sum = 0;
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:532:replace:0,1$short sum = 0;

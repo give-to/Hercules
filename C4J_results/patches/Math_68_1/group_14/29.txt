@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:522:wrap:0,1$if (work1 != null) {
+src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java:570:wrap:0,1$if (work3 != null) {

@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java:195:wrap:0,12$if (direction != null) {

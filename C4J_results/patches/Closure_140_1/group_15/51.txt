@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/CrossModuleCodeMotion.java:130:insert-after:0$moveCode();
+src/com/google/javascript/jscomp/CrossModuleCodeMotion.java:133:insert-after:0$moveCode();

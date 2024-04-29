@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/JSDocInfo.java:950:replace:0,1$return (getImplementedInterfaceCount() == null) ? null : info.license;

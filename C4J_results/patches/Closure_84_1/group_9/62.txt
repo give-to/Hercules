@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/parsing/IRFactory.java:318:insert-before:0$if (c == null) {throw new IllegalArgumentException("Null 'c' argument.");}
+src/com/google/javascript/jscomp/parsing/IRFactory.java:313:insert-before:0$if (c == null) {throw new IllegalArgumentException("Null 'c' argument.");}

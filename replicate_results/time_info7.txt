@@ -1,0 +1,4 @@
+Time_26:
+Generation Time: 9.62min
+Validation Time: 84.47min
+Total Time: 94.09min

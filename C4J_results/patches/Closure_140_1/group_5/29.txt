@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/CrossModuleCodeMotion.java:380:replace:0,2$SubclassRelationship relationship =acquireSymbolTableonvention().getClassesDefinedByCall(parent);

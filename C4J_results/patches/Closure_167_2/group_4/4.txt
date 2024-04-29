@@ -1,0 +1,3 @@
+src/com/google/javascript/jscomp/type/ChainableReverseAbstractInterpreter.java:142:insert-before:0$if (node == null) node = new Node();
+src/com/google/javascript/jscomp/type/ChainableReverseAbstractInterpreter.java:139:insert-before:0$if (propVar == null) propVar = new Node();
+src/com/google/javascript/jscomp/type/ChainableReverseAbstractInterpreter.java:141:insert-before:0$if (node == null) node = new Node();

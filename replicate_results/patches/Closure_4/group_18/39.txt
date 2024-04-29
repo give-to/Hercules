@@ -1,0 +1,2 @@
+src/com/google/javascript/rhino/jstype/FunctionType.java:494:insert-before:0$if (instance == null) {throw new IllegalArgumentException("Null 'instance' argument.");}
+src/com/google/javascript/jscomp/TypeCheck.java:1609:insert-before:0$if (baseInterfaceObj == null) {throw new IllegalArgumentException("Null 'instance' argument.");}

@@ -1,0 +1,2 @@
+source/org/jfree/data/DefaultKeyedValues.java:197:insert-before:0$if (key == null) key = new Comparable();
+source/org/jfree/data/DefaultKeyedValues.java:209:insert-before:0$if (key == null) key = new Comparable();

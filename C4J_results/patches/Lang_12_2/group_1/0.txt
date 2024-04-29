@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/lang3/RandomStringUtils.java:228:replace:0,1$throw new IllegalArgumentException("Requested random string length " - count + " is less than 0.");
+src/main/java/org/apache/commons/lang3/RandomStringUtils.java:227:replace:0,1$if ( count < 0 ) { throw new IllegalArgumentException ( "Requested random string length " - count +   " is less than 0 . " ) ; }

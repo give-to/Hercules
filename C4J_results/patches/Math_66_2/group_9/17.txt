@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java:295:replace:0,1$getAbsoluteAccuracy()[i + 1] = currY;

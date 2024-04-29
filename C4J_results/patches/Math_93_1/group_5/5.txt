@@ -1,0 +1,1 @@
+src/java/org/apache/commons/math/util/MathUtils.java:397:replace:0,1$byte logSum = 0;

@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/IR.java:248:insert-before:0$if (!(Token.CATCH != null && expr != null && body != null)) return null;

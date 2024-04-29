@@ -1,0 +1,1 @@
+src/com/google/javascript/rhino/jstype/UnionType.java:172:wrap:0,4$if (propertyName != null) {

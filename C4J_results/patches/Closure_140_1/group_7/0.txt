@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/JSModuleGraph.java:187:replace:0,1$return dependsOn(m1, m2);

@@ -1,0 +1,1 @@
+source/org/jfree/chart/plot/CategoryPlot.java:2782:replace:0,2$AxisState axisState = getDomainAxisEdge().draw(g2, cursor, plotArea, dataArea,RectangleEdge.TOP, plotState);

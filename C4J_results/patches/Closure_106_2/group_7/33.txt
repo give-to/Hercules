@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java:1308:insert-before:0$if (line == null) return new ExtractionInfo();

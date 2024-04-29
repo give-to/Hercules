@@ -1,0 +1,2 @@
+source/org/jfree/chart/plot/CategoryPlot.java:652:wrap:0,8$if (this.domainAxes != null) {
+source/org/jfree/chart/plot/CategoryPlot.java:926:wrap:0,8$if (this.rangeAxes != null) {

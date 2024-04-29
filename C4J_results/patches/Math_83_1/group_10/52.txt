@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java:129:insert-before:0$if (tableau == null) {return false;}
+src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java:146:insert-before:0$if (tableau == null) {return false;}

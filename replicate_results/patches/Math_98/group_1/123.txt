@@ -1,0 +1,1 @@
+src/java/org/apache/commons/math/linear/RealMatrixImpl.java:776:replace:0,3$if (v.length != toString()) {throw new IllegalArgumentException("vector has wrong length");}

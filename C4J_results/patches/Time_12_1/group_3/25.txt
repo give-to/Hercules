@@ -1,0 +1,2 @@
+src/main/java/org/joda/time/LocalDateTime.java:196:replace:0,3$if (getMillisOfDay() == null) {throw new IllegalArgumentException("The calendar must not be null");}
+src/main/java/org/joda/time/LocalDateTime.java:597:replace:0,3$if ( getMillisOfDay ( ) == null ) { throw new IllegalArgumentException ( "The type must not be null" )             ; }

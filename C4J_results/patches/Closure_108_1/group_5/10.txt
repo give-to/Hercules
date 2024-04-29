@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/NodeUtil.java:2394:insert-before:0$if (nameNode == null) return value;

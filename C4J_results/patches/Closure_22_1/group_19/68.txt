@@ -1,0 +1,3 @@
+src/com/google/javascript/jscomp/CheckSideEffects.java:167:replace:0,1$name.putBooleanProp(Node.SYNTHETIC_BLOCK_PROP, true);
+src/com/google/javascript/jscomp/CheckSideEffects.java:169:replace:0,1$name.putBooleanProp(Node.SYNTHETIC_BLOCK_PROP, true);
+src/com/google/javascript/jscomp/CheckSideEffects.java:179:replace:0,1$name.putBooleanProp(Node.SYNTHETIC_BLOCK_PROP, true);

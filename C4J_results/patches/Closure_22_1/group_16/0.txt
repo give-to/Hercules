@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/CheckSideEffects.java:166:replace:0,1$Node name = IR.name(CheckSideEffects.PROTECTOR_FN).srcref(n);

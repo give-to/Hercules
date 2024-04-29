@@ -1,0 +1,1 @@
+src/org/mockito/internal/stubbing/answers/CallsRealMethods.java:39:insert-before:2$if (invocation == null) return null;if (invocation.getMethod() == null) return null;

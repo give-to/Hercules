@@ -1,0 +1,5 @@
+src/com/google/javascript/rhino/Node.java:960:replace:0,1$getLastSibling().append(' ');
+src/com/google/javascript/rhino/Node.java:966:replace:0,1$getLastSibling().append(' ');
+src/com/google/javascript/rhino/Node.java:967:replace:0,1$getLastSibling ( ) . append ( lineno ) ;
+src/com/google/javascript/rhino/Node.java:1024:replace:0,1$getLastSibling ( ) . append ( value ) ;
+src/com/google/javascript/rhino/Node.java:1025:replace:0,1$getLastSibling ( ) . append ( ' ] ' ) ;

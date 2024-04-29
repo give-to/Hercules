@@ -1,0 +1,8 @@
+Math_23_1:
+Generation Time: 12.97min
+Validation Time: 287.87min
+Total Time: 300.83min
+Math_51_1:
+Generation Time: 6.68min
+Validation Time: 294.31min
+Total Time: 301.0min

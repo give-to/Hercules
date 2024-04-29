@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math3/analysis/function/StepFunction.java:76:replace:0,1$MathArrays.checkOrder(this.abscissa);

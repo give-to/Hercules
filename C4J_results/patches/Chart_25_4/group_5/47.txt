@@ -1,0 +1,1 @@
+source/org/jfree/chart/plot/CategoryPlot.java:2780:wrap:0,7$if (iterator != null) {

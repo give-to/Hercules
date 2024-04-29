@@ -1,0 +1,2 @@
+src/com/google/javascript/jscomp/CrossModuleCodeMotion.java:382:wrap:0,6$if (name != null) {
+src/com/google/javascript/jscomp/CrossModuleCodeMotion.java:379:wrap:0,6$if (name != null) {

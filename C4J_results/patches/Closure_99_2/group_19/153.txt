@@ -1,0 +1,1 @@
+src/com/google/javascript/jscomp/CheckGlobalThis.java:103:replace:0,6$if (!(pType == Token.BLOCK ||pType == Token.EMPTY ||pType == Token.NAME ||pType == Token.ASSIGN)) {return false;}

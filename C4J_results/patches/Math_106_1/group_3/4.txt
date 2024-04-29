@@ -1,0 +1,2 @@
+src/java/org/apache/commons/math/fraction/FractionFormat.java:249:replace:0,1$return getDenominatorFormat();
+src/java/org/apache/commons/math/fraction/FractionFormat.java:386:replace:0,1$return getDenominatorFormat();

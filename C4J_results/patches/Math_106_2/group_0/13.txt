@@ -1,0 +1,2 @@
+src/java/org/apache/commons/math/fraction/FractionFormat.java:290:wrap:0,2$if (pos != null) {
+src/java/org/apache/commons/math/fraction/FractionFormat.java:291:wrap:0,2$if (pos != null) {

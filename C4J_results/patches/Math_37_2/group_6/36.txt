@@ -1,0 +1,1 @@
+src/main/java/org/apache/commons/math/util/FastMath.java:871:replace:0,1$return F_1_2;

@@ -1,0 +1,1 @@
+source/org/jfree/data/DefaultKeyedValues.java:317:insert-before:0$removeValue(index);
