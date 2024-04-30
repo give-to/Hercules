@@ -125,6 +125,8 @@ After finishing the repair, the results are in folders: `patches` and `results`.
 
 ## 7. Experiment Reproduction
 
+It may take about **22 days** to finish the entire experiment. You can also modify `105_bugs_list.txt` to determine the bugs to be fixed.
+
 ``` shell
 cp location/105SampleBugsResult/Chart_18_2/backup.txt location/105SampleBugsResult/Chart_18_2/ochiai.ranking.txt
 rm -rf patches/ results/
@@ -216,14 +218,14 @@ python3 hercules_valid_v2.py /CatenaD4JProjects
 
 ## 9. Structure of the Directories
 
- ```powershell
- |--- README.md               :  user guidance
- |--- C4J_results             :  patches and results of CatenaD4J bugs
+ ```shell
+ |--- README.md               :  User guidance
+ |--- C4J_results             :  Patches and results of CatenaD4J bugs
  |--- Docker                  :  Dockerfile
- |--- location                :  
- |--- src                     :  source code
- |--- SuspiciousCodePositions :  Bug positions localized with GZoltar
- |--- target                  :  binary code
+ |--- location                :  Bug positions localized with GZoltar of CatenaD4J bugs
+ |--- replicate_results       :  Reproduction Results of the original paper
+ |--- scripts                 :  Apply patches to projects
+ |--- src                     :  Source code
  ```
 
 
