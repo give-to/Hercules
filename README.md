@@ -214,6 +214,20 @@ python3 hercules_valid_v2.py /CatenaD4JProjects
 
 
 
+## 9. Structure of the Directories
+
+ ```powershell
+ |--- README.md               :  user guidance
+ |--- C4J_results             :  patches and results of CatenaD4J bugs
+ |--- Docker                  :  Dockerfile
+ |--- location                :  
+ |--- src                     :  source code
+ |--- SuspiciousCodePositions :  Bug positions localized with GZoltar
+ |--- target                  :  binary code
+ ```
+
+
+
 
 
 
