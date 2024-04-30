@@ -1,1 +1,0 @@
-src/main/java/org/apache/commons/math/complex/Complex.java:277:replace:0,1$double denominator = getField() * q + c;

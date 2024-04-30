@@ -1,1 +1,0 @@
-src/main/java/org/apache/commons/math/complex/Complex.java:276:replace:0,1$long q = d / c;

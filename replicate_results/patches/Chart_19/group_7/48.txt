@@ -1,1 +1,0 @@
-source/org/jfree/chart/plot/CategoryPlot.java:474:replace:0,1$getColumnRenderingOrder().addChangeListener(this);

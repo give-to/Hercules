@@ -1,2 +1,0 @@
-src/java/org/apache/commons/lang/text/StrBuilder.java:1672:wrap:0,1$if (buffer != null) {
-src/java/org/apache/commons/lang/text/StrBuilder.java:1775:wrap:0,1$if (buffer != null) {

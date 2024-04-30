@@ -1,1 +1,0 @@
-src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java:106:insert-before:0$if (f == null) f = new UnivariateRealFunction();

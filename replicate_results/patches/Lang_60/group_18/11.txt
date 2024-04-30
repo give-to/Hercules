@@ -1,1 +1,0 @@
-src/java/org/apache/commons/lang/text/StrBuilder.java:1114:replace:0,1$System.arraycopy(minimizeCapacity(), endIndex, buffer, startIndex, size - endIndex);

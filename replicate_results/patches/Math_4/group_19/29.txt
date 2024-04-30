@@ -1,1 +1,0 @@
-src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java:114:wrap:0,1$if (point != null) {

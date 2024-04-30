@@ -1,1 +1,0 @@
-src/main/java/org/apache/commons/math/util/FastMath.java:1272:replace:0,9$if (((bits & 0x8000000000000000L) != 0 || x != x) && !(1/x == 0)) {if (x != 0.0) {if (hiPrec != null) {hiPrec[0] = Double.NaN;}return Double.NaN;}}

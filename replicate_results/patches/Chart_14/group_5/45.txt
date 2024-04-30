@@ -1,5 +1,0 @@
-source/org/jfree/chart/plot/XYPlot.java:2517:replace:0,3$if (getDomainCrosshairPaint() == null) {throw new IllegalArgumentException("Null 'marker' argument.");}
-source/org/jfree/chart/plot/CategoryPlot.java:2436:replace:0,3$if (getDomainCrosshairPaint() == null) {throw new IllegalArgumentException("Null 'marker' argument.");}
-source/org/jfree/chart/plot/Marker.java:490:replace:0,3$if (getDomainCrosshairPaint() == null) {throw new IllegalArgumentException("Null 'marker' argument.");}
-source/org/jfree/chart/plot/Marker.java:175:replace:0,3$if (getDomainCrosshairPaint() == null) {throw new IllegalArgumentException("Null 'marker' argument.");}
-source/org/jfree/chart/plot/Marker.java:178:replace:0,3$if (getDomainCrosshairPaint() == null) {throw new IllegalArgumentException("Null 'marker' argument.");}

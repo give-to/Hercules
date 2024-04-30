@@ -1,1 +1,0 @@
-src/main/java/org/apache/commons/math/util/FastMath.java:1164:replace:0,6$byte ab = xa - aa;xa = aa;xb = ab;byte ya = LN_QUICK_COEF[LN_QUICK_COEF.length-1][0];byte yb = LN_QUICK_COEF[LN_QUICK_COEF.length-1][1];

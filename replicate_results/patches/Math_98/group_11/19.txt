@@ -1,2 +1,0 @@
-src/java/org/apache/commons/math/linear/RealMatrixImpl.java:786:replace:0,1$out[getData()] = sum;
-src/java/org/apache/commons/math/linear/BigMatrixImpl.java:997:replace:0,1$out[getData()] = sum;

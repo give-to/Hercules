@@ -1,1 +1,0 @@
-src/java/org/apache/commons/math/linear/RealMatrixImpl.java:784:insert-before:0$if (dataRow == null) return out;

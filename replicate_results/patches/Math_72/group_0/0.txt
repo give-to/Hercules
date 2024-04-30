@@ -1,3 +1,0 @@
-src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java:115:replace:0,1$verifyInterval(yMin, 0);
-src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java:184:replace:0,1$verifyInterval ( max , 0 ) ;
-src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java:247:replace:0,1$verifyInterval(yMin, 0);

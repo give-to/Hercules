@@ -1,1 +1,0 @@
-src/main/java/org/apache/commons/math/util/FastMath.java:1164:replace:0,1$char ab = xa - aa;

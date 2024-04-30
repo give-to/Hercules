@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubLine.java:137:replace:0,1$final Line line = new Line(start, end, line);
-src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java:139:replace:0,1$final Line line = new Line(start, end, line);

@@ -1,1 +1,0 @@
-src/main/java/org/apache/commons/math/util/FastMath.java:1266:replace:0,3$if ((x==0) || !(x >= TWO_POWER_52)) { return Double.NEGATIVE_INFINITY;}

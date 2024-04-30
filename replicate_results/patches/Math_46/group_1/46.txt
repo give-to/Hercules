@@ -1,1 +1,0 @@
-src/main/java/org/apache/commons/math/complex/Complex.java:1183:replace:0,1$return "(" + real + ", " + sin() + ")";

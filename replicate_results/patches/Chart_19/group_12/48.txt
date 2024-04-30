@@ -1,2 +1,0 @@
-source/org/jfree/chart/plot/CategoryPlot.java:653:replace:0,3$if (getCategories() != null) {existing.removeChangeListener(this);}
-source/org/jfree/chart/plot/CategoryPlot.java:927:replace:0,3$if (getCategories() != null) {existing.removeChangeListener(this);}

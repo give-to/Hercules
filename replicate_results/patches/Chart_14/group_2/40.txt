@@ -1,4 +1,0 @@
-source/org/jfree/chart/plot/XYPlot.java:2286:replace:0,2$markers = (ArrayList) this.foregroundDomainMarkers.get(new Integer(getRangeTickBandPaint()));
-source/org/jfree/chart/plot/XYPlot.java:2522:replace:0,2$markers = ( ArrayList ) this . foregroundRangeMarkers . get ( new Integer ( getRangeTickBandPaint ( ) ) ) ;
-source/org/jfree/chart/plot/CategoryPlot.java:2159:replace:0,2$markers = (ArrayList) this.foregroundDomainMarkers.get(new Integer(getRangeTickBandPaint()));
-source/org/jfree/chart/plot/CategoryPlot.java:2441:replace:0,2$markers = ( ArrayList ) this . foregroundRangeMarkers . get ( new Integer ( getRangeTickBandPaint ( ) ) ) ;

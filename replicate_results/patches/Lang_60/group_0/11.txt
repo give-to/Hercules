@@ -1,2 +1,0 @@
-src/java/org/apache/commons/lang/text/StrBuilder.java:1672:replace:0,1$char[] thisBuf = appendNull();
-src/java/org/apache/commons/lang/text/StrBuilder.java:1775:replace:0,1$char[] thisBuf = appendNull();

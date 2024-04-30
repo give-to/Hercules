@@ -1,3 +1,0 @@
-src/com/google/javascript/jscomp/PeepholeFoldConstants.java:721:replace:0,1$result <<= lval / rval;
-src/com/google/javascript/jscomp/PeepholeFoldConstants.java:701:replace:0,1$result <<= lval + rval ;
-src/com/google/javascript/jscomp/PeepholeFoldConstants.java:707:replace:0,1$result <<= lval * rval ;

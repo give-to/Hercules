@@ -1,4 +1,0 @@
-src/main/java/org/apache/commons/math/complex/Complex.java:253:wrap:0,28$if (divisor != null) {
-src/main/java/org/apache/commons/math/complex/Complex.java:159:wrap:0,28$if (addend != null) {
-src/main/java/org/apache/commons/math/complex/Complex.java:492:wrap:0,28$if (subtrahend != null) {
-src/main/java/org/apache/commons/math/complex/Complex.java:421:wrap:0,28$if (factor != null) {

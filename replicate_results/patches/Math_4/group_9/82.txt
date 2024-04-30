@@ -1,1 +1,0 @@
-src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java:206:insert-before:0$if (zero == null) return delta0;

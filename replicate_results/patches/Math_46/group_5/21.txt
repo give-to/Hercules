@@ -1,3 +1,0 @@
-src/main/java/org/apache/commons/math/complex/Complex.java:583:replace:0,3$if (tan()) {return NaN;}
-src/main/java/org/apache/commons/math/complex/Complex.java:750:replace:0,3$if (tan()) {return NaN;}
-src/main/java/org/apache/commons/math/complex/Complex.java:118:replace:0,3$if ( tan ( ) ) { return Double . NaN ; }

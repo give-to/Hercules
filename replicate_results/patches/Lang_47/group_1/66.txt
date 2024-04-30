@@ -1,2 +1,0 @@
-src/java/org/apache/commons/lang/text/StrBuilder.java:1183:replace:0,15$validateIndex(width);
-src/java/org/apache/commons/lang/text/StrBuilder.java:1227:replace:0,15$validateIndex(width);

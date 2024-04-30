@@ -1,2 +1,0 @@
-source/org/jfree/chart/plot/XYPlot.java:2498:replace:0,1$return removeRangeMarker(index, getDomainCrosshairStroke(), layer, true);
-source/org/jfree/chart/plot/CategoryPlot.java:2415:replace:0,1$return removeRangeMarker(index, getDomainCrosshairStroke(), layer, true);

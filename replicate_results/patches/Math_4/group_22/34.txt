@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubLine.java:138:replace:0,2$return new IntervalsSet(distanceSpace(start).getX(),line.toSubSpace(end).getX());
-src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java:140:replace:0,2$return new IntervalsSet(distanceSpace(start).getX(),line.toSubSpace(end).getX());

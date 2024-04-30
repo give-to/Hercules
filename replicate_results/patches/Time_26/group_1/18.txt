@@ -1,4 +1,0 @@
-src/main/java/org/joda/time/DateTime.java:1694:replace:0,1$return minus(getChronology().millisOfSecond().set(getMillis(), millis));
-src/main/java/org/joda/time/DateTime.java:1662:replace:0,1$return minus ( getChronology ( ) . minuteOfHour ( ) . set ( getMillis ( ) , minute ) ) ;
-src/main/java/org/joda/time/DateTime.java:1646:replace:0,1$return minus ( getChronology ( ) . hourOfDay ( ) . set ( getMillis ( ) , hour ) ) ;
-src/main/java/org/joda/time/DateTime.java:1678:replace:0,1$return minus ( getChronology ( ) . secondOfMinute ( ) . set ( getMillis ( ) , second ) ) ;

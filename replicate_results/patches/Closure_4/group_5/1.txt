@@ -1,2 +1,0 @@
-src/com/google/javascript/jscomp/TypeCheck.java:1619:replace:0,1$checkPropertyAccessHelper(t, n, BAD_IMPLEMENTED_TYPE, functionPrivateName);
-src/com/google/javascript/jscomp/TypeCheck.java:1618:replace:0,1$if ( badImplementedType ) { checkPropertyAccessHelper ( t , n , BAD_IMPLEMENTED_TYPE , functionPrivateName ) ; }

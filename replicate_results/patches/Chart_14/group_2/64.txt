@@ -1,4 +1,0 @@
-source/org/jfree/chart/plot/XYPlot.java:2286:insert-before:0$if (this.foregroundDomainMarkers == null) {throw new IllegalArgumentException("Null 'this.foregroundDomainMarkers' argument.");}
-source/org/jfree/chart/plot/XYPlot.java:2522:insert-before:0$if (this.foregroundRangeMarkers == null) {throw new IllegalArgumentException("Null 'this.foregroundDomainMarkers' argument.");}
-source/org/jfree/chart/plot/CategoryPlot.java:2159:insert-before:0$if (this.foregroundDomainMarkers == null) {throw new IllegalArgumentException("Null 'this.foregroundDomainMarkers' argument.");}
-source/org/jfree/chart/plot/CategoryPlot.java:2441:insert-before:0$if (this.foregroundRangeMarkers == null) {throw new IllegalArgumentException("Null 'this.foregroundDomainMarkers' argument.");}

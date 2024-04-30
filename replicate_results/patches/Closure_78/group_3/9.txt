@@ -1,4 +1,0 @@
-src/com/google/javascript/jscomp/PeepholeFoldConstants.java:813:insert-before:0$if (result == null) result = new Node();
-src/com/google/javascript/jscomp/NodeUtil.java:273:insert-before:0$if (result == null) result = new Node();
-src/com/google/javascript/jscomp/PeepholeFoldConstants.java:146:insert-before:0$if (result == null) result = new Node();
-src/com/google/javascript/jscomp/NodeUtil.java:1349:insert-before:0$if (result == null) result = new Node();

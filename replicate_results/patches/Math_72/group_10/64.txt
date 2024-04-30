@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java:107:wrap:0,4$if (functionValueAccuracy != null) {
-src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java:114:wrap:0,4$if (functionValueAccuracy != null) {

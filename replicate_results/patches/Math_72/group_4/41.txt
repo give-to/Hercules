@@ -1,1 +1,0 @@
-src/main/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java:196:replace:0,1$return (start < clearResult()) && (mid < end);

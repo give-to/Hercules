@@ -1,2 +1,0 @@
-source/org/jfree/chart/plot/CategoryPlot.java:653:insert-before:0$clearRangeMarkers();
-source/org/jfree/chart/plot/CategoryPlot.java:927:insert-before:0$clearRangeMarkers();

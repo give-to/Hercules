@@ -1,4 +1,0 @@
-source/org/jfree/chart/plot/XYPlot.java:2286:wrap:0,2$if (this.foregroundDomainMarkers != null) {
-source/org/jfree/chart/plot/XYPlot.java:2522:wrap:0,2$if (this.foregroundRangeMarkers != null) {
-source/org/jfree/chart/plot/CategoryPlot.java:2159:wrap:0,2$if (this.foregroundDomainMarkers != null) {
-source/org/jfree/chart/plot/CategoryPlot.java:2441:wrap:0,2$if (this.foregroundRangeMarkers != null) {

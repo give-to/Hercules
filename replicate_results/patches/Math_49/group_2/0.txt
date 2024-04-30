@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java:564:wrap:0,1$if (LocalizedFormats.MAP_MODIFIED_WHILE_ITERATING != null) {
-src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java:529:wrap:0,1$if (LocalizedFormats.MAP_MODIFIED_WHILE_ITERATING != null) {

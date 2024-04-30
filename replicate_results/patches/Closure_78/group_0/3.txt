@@ -1,2 +1,0 @@
-src/com/google/javascript/jscomp/PeepholeFoldConstants.java:718:replace:0,1$error(DiagnosticType.error("JSC_DIVIDE_BY_0_ERROR", "Divide by 0"), left);
-src/com/google/javascript/jscomp/PeepholeFoldConstants.java:717:replace:0,1$if ( rval == 0 ) { error ( DiagnosticType . error ( "JSC_DIVIDE_BY_0_ERROR" , "Divide by 0" ) , left ) ; return null ; }

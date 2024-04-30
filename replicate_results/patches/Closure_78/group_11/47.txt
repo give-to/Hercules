@@ -1,1 +1,0 @@
-src/com/google/javascript/rhino/Node.java:848:insert-after:0$setType(count);

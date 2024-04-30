@@ -1,2 +1,0 @@
-src/java/org/apache/commons/lang/text/StrBuilder.java:1186:wrap:0,10$if (str != null) {
-src/java/org/apache/commons/lang/text/StrBuilder.java:1230:wrap:0,10$if (str != null) {

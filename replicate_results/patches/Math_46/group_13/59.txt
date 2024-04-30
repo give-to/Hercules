@@ -1,1 +1,0 @@
-src/main/java/org/apache/commons/math/complex/Complex.java:278:replace:0,2$return createComplex((imaginary * getImaginary() + real) / denominator,(imaginary - real * q) / denominator);

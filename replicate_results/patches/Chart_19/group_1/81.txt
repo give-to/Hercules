@@ -1,2 +1,0 @@
-source/org/jfree/chart/plot/CategoryPlot.java:974:replace:0,7$clearDomainMarkers(result);
-source/org/jfree/chart/plot/CategoryPlot.java:976:replace:0,7$clearDomainMarkers(result);

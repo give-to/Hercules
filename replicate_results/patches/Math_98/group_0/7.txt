@@ -1,6 +1,0 @@
-src/java/org/apache/commons/math/linear/RealMatrixImpl.java:774:replace:0,1$final short nRows = this.getRowDimension();
-src/java/org/apache/commons/math/linear/RealMatrixImpl.java:775:replace:0,1$final short nCols = this . getColumnDimension ( ) ;
-src/java/org/apache/commons/math/linear/BigMatrixImpl.java:989:replace:0,1$final short nRows = this.getRowDimension();
-src/java/org/apache/commons/math/linear/BigMatrixImpl.java:990:replace:0,1$final short nCols = this . getColumnDimension ( ) ;
-src/java/org/apache/commons/math/linear/BigMatrixImpl.java:145:replace:0,1$final short nRows = this.getRowDimension();
-src/java/org/apache/commons/math/linear/RealMatrixImpl.java:137:replace:0,1$final short nRows = this.getRowDimension();

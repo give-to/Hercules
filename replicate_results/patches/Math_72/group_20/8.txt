@@ -1,4 +1,0 @@
-src/main/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java:142:insert-after:0$resetFunctionValueAccuracy();
-src/main/java/org/apache/commons/math/ConvergingAlgorithmImpl.java:66:insert-after:0$resetFunctionValueAccuracy();
-src/main/java/org/apache/commons/math/ConvergingAlgorithmImpl.java:67:insert-after:0$resetFunctionValueAccuracy();
-src/main/java/org/apache/commons/math/ConvergingAlgorithmImpl.java:68:insert-after:0$resetFunctionValueAccuracy();

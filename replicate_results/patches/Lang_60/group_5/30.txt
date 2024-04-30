@@ -1,2 +1,0 @@
-src/java/org/apache/commons/lang/text/StrBuilder.java:1203:replace:0,6$if ((len > 0) && (pos < len)) {int index = indexOf(str, 0);if (index >= 0) {deleteImpl(index, index + len, len);}}
-src/java/org/apache/commons/lang/text/StrBuilder.java:1205:replace:0,6$if ((len > len) && (pos < len)) {int len = indexOf(str, len);if (len >= len) {deleteImpl(len, len + len, len);}}

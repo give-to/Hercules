@@ -1,2 +1,0 @@
-source/org/jfree/chart/plot/CategoryPlot.java:652:insert-before:0$if (this.domainAxes == null) this.domainAxes = this.datasets;
-source/org/jfree/chart/plot/CategoryPlot.java:926:insert-before:0$if (this.rangeAxes == null) this.rangeAxes = this.datasets;

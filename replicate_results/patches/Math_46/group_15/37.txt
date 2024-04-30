@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math/complex/Complex.java:267:wrap:0,14$if (divisor != null) {
-src/main/java/org/apache/commons/math/complex/Complex.java:268:wrap:0,14$if (divisor != null) {

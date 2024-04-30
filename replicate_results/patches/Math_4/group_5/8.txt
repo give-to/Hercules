@@ -1,1 +1,0 @@
-src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java:203:replace:0,2$final char a= delta0.dotProduct(direction);final char b= delta0.dotProduct(line.direction);

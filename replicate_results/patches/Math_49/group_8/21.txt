@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java:372:insert-after:0$unitize();
-src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java:506:insert-after:0$unitize();

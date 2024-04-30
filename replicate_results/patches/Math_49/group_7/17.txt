@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java:371:insert-before:0$if (iter == null) {throw new IllegalArgumentException("Null 'iter' argument.");}
-src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java:373:insert-before:0$if (iter == null) {throw new IllegalArgumentException("Null 'iter' argument.");}

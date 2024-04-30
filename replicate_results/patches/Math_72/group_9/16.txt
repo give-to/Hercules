@@ -1,3 +1,0 @@
-src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java:113:wrap:0,30$if (f != null) {
-src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java:173:wrap:0,30$if (f != null) {
-src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java:174:wrap:0,30$if (f != null) {

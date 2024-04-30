@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math/util/FastMath.java:1284:replace:0,3$if (hiPrec == null) {hiPrec[0] = Double.POSITIVE_INFINITY;}
-src/main/java/org/apache/commons/math/util/FastMath.java:1283:replace:0,3$if ( x == Double . POSITIVE_INFINITY ) { if ( hiPrec == null ) { hiPrec [ 0 ] = Double . POSITIVE_INFINITY ; } return Double . POSITIVE_INFINITY ; }

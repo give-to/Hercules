@@ -1,2 +1,0 @@
-src/com/google/javascript/rhino/Node.java:845:replace:0,1$getFirstChild()++;
-src/com/google/javascript/rhino/Node.java:850:replace:0,1$getFirstChild()++;

@@ -1,1 +1,0 @@
-src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java:204:insert-before:0$if (delta0 == null) delta0 = this.direction;

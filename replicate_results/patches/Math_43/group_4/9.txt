@@ -1,1 +1,0 @@
-src/main/java/org/apache/commons/math/util/FastMath.java:1160:replace:0,1$char xa = x - 1.0;

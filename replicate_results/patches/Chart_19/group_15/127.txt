@@ -1,4 +1,0 @@
-source/org/jfree/chart/plot/CategoryPlot.java:664:insert-after:2$setRangeCrosshairVisible(notify);
-source/org/jfree/chart/plot/CategoryPlot.java:665:insert-after:2$setRangeCrosshairVisible(notify);
-source/org/jfree/chart/plot/CategoryPlot.java:938:insert-after:2$setRangeCrosshairVisible(notify);
-source/org/jfree/chart/plot/CategoryPlot.java:939:insert-after:2$setRangeCrosshairVisible(notify);

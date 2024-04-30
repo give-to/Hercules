@@ -1,2 +1,0 @@
-src/java/org/apache/commons/lang/text/StrBuilder.java:1778:insert-before:0$validateIndex(startIndex);
-src/java/org/apache/commons/lang/text/StrBuilder.java:1779:insert-before:0$validateIndex(j);

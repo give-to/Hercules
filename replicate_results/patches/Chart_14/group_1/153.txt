@@ -1,4 +1,0 @@
-source/org/jfree/chart/plot/XYPlot.java:2285:insert-after:7$clearRangeMarkers();
-source/org/jfree/chart/plot/XYPlot.java:2521:insert-after:7$clearRangeMarkers();
-source/org/jfree/chart/plot/CategoryPlot.java:2158:insert-after:7$clearRangeMarkers();
-source/org/jfree/chart/plot/CategoryPlot.java:2440:insert-after:7$clearRangeMarkers();

@@ -1,1 +1,0 @@
-src/com/google/javascript/jscomp/ClosureCodingConvention.java:319:insert-before:0$if (propertyTestFunctions == null) propertyTestFunctions = new Set();

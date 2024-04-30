@@ -1,4 +1,0 @@
-src/com/google/javascript/jscomp/PeepholeFoldConstants.java:813:insert-after:0$tryReduceOperandsForOp(result);
-src/com/google/javascript/jscomp/NodeUtil.java:273:insert-after:0$tryReduceOperandsForOp(result);
-src/com/google/javascript/jscomp/PeepholeFoldConstants.java:146:insert-after:0$tryReduceOperandsForOp(result);
-src/com/google/javascript/jscomp/NodeUtil.java:1349:insert-after:0$tryReduceOperandsForOp(result);

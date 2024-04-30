@@ -1,4 +1,0 @@
-source/org/jfree/chart/plot/CategoryPlot.java:664:replace:0,3$setRangeCrosshairVisible(notify);
-source/org/jfree/chart/plot/CategoryPlot.java:665:replace:0,3$setRangeCrosshairVisible(notify);
-source/org/jfree/chart/plot/CategoryPlot.java:938:replace:0,3$setRangeCrosshairVisible(notify);
-source/org/jfree/chart/plot/CategoryPlot.java:939:replace:0,3$setRangeCrosshairVisible(notify);

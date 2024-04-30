@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math3/genetics/ListPopulation.java:55:insert-after:2$setPopulationLimit(populationLimit);
-src/main/java/org/apache/commons/math3/genetics/ListPopulation.java:70:insert-after:2$setPopulationLimit(populationLimit);

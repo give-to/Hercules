@@ -1,1 +1,0 @@
-src/com/google/javascript/jscomp/TypeCheck.java:1611:replace:0,4$if (baseConstructor != null &&!interfaceConstructor.isInterface()) {badImplementedType = true;}

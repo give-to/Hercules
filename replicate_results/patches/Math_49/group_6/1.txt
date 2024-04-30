@@ -1,1 +1,0 @@
-src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java:370:insert-before:0$if (res.entries == null) {throw new IllegalArgumentException("Null 'res.entries' argument.");}

@@ -1,1 +1,0 @@
-src/main/java/org/apache/commons/math/util/FastMath.java:1169:replace:0,1$long yb = LN_QUICK_COEF[LN_QUICK_COEF.length-1][1];

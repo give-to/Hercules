@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubLine.java:138:insert-before:0$if (line == null) {throw new IllegalArgumentException("Null 'line' argument.");}
-src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java:140:insert-before:0$if (line == null) {throw new IllegalArgumentException("Null 'line' argument.");}

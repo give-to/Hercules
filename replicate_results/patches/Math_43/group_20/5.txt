@@ -1,1 +1,0 @@
-src/main/java/org/apache/commons/math/util/FastMath.java:1181:replace:0,1$aa &= ya + LN_QUICK_COEF[i][0];

@@ -1,2 +1,0 @@
-src/com/google/javascript/jscomp/TypeCheck.java:1619:wrap:0,1$if (t != null && n != null && BAD_IMPLEMENTED_TYPE != null && functionPrivateName != null) {
-src/com/google/javascript/jscomp/TypeCheck.java:1618:wrap:0,1$if (t != null && n != null && BAD_IMPLEMENTED_TYPE != null && functionPrivateName != null) {

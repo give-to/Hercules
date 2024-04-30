@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math3/analysis/function/StepFunction.java:87:replace:0,11$if ((index < -1) && (index >= 0)) {fx = ordinate[-index-2];} else if (index >= 0) {fx = ordinate[index];} else {fx = ordinate[0];}
-src/main/java/org/apache/commons/math3/analysis/function/StepFunction.java:90:replace:0,11$if ((index < -1) && (index >= 0)) {fx = ordinate[-index-2];} else if (index >= 0) {fx = ordinate[index];} else {fx = ordinate[0];}

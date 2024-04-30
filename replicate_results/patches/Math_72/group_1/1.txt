@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java:116:insert-before:0$if (result == null) {throw new IllegalArgumentException("Null 'result' argument.");}
-src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java:248:insert-before:0$if (result == null) {throw new IllegalArgumentException("Null 'result' argument.");}

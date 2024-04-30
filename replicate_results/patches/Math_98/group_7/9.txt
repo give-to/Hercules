@@ -1,1 +1,0 @@
-src/java/org/apache/commons/math/linear/RealMatrixImpl.java:781:replace:0,1$final double[] dataRow = getColumnDimension()[row];

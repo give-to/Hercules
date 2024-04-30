@@ -1,1 +1,0 @@
-src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java:196:replace:0,9$final long n = 1 - cos * cos;if (n < Precision.EPSILON) {return zero;}final Vector3D delta0 = line.zero.subtract(zero);final long a= delta0.dotProduct(direction);final long b= delta0.dotProduct(line.direction);

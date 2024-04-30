@@ -1,2 +1,0 @@
-source/org/jfree/chart/plot/CategoryPlot.java:662:replace:0,1$getRangeCrosshairStroke().addChangeListener(this);
-source/org/jfree/chart/plot/CategoryPlot.java:936:replace:0,1$getRangeCrosshairStroke().addChangeListener(this);

@@ -1,2 +1,0 @@
-src/java/org/apache/commons/lang/text/StrBuilder.java:1203:replace:0,6$validateIndex(len);
-src/java/org/apache/commons/lang/text/StrBuilder.java:1205:replace:0,6$validateIndex(len);

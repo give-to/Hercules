@@ -1,2 +1,0 @@
-src/com/google/javascript/rhino/Node.java:961:insert-after:0$detachChildren();
-src/com/google/javascript/rhino/Node.java:977:insert-after:0$detachChildren();

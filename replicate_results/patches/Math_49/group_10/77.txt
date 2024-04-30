@@ -1,1 +1,0 @@
-src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java:666:insert-after:2$unitize();

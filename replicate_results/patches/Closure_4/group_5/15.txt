@@ -1,2 +1,0 @@
-src/com/google/javascript/jscomp/TypeCheck.java:1619:replace:0,1$report(t, n, CONFLICTING_EXTENDED_TYPE, functionPrivateName);
-src/com/google/javascript/jscomp/TypeCheck.java:1618:replace:0,1$if ( badImplementedType ) { report ( t , n , CONFLICTING_EXTENDED_TYPE , functionPrivateName ) ; }

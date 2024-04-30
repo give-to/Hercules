@@ -1,4 +1,0 @@
-source/org/jfree/chart/plot/XYPlot.java:2293:insert-after:0$addDomainMarker(marker);
-source/org/jfree/chart/plot/XYPlot.java:2529:insert-after:0$addDomainMarker(marker);
-source/org/jfree/chart/plot/CategoryPlot.java:2166:insert-after:0$addDomainMarker(marker);
-source/org/jfree/chart/plot/CategoryPlot.java:2448:insert-after:0$addDomainMarker(marker);

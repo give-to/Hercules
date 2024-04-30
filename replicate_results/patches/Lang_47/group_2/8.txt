@@ -1,2 +1,0 @@
-src/java/org/apache/commons/lang/text/StrBuilder.java:1184:replace:0,1$leftString(size + width);
-src/java/org/apache/commons/lang/text/StrBuilder.java:1228:replace:0,1$leftString(size + width);

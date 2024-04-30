@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java:355:insert-after:0$growTable();
-src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java:211:insert-after:0$growTable();

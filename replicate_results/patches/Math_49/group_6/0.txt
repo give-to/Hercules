@@ -1,1 +1,0 @@
-src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java:370:wrap:0,5$if (res.entries != null) {

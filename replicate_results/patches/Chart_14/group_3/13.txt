@@ -1,4 +1,0 @@
-source/org/jfree/chart/plot/XYPlot.java:2293:replace:0,1$boolean removed = clearRangeAxes().remove(marker);
-source/org/jfree/chart/plot/XYPlot.java:2529:replace:0,1$boolean removed = clearRangeAxes().remove(marker);
-source/org/jfree/chart/plot/CategoryPlot.java:2166:replace:0,1$boolean removed = clearRangeAxes().remove(marker);
-source/org/jfree/chart/plot/CategoryPlot.java:2448:replace:0,1$boolean removed = clearRangeAxes().remove(marker);

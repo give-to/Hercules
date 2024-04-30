@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java:164:insert-before:0$if (p == null) {return 0.0;}
-src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java:202:insert-before:0$if (line.zero == null) {return 0.0;}

@@ -1,2 +1,0 @@
-src/com/google/javascript/rhino/jstype/FunctionType.java:494:replace:0,1$setInstanceType(instance);
-src/com/google/javascript/jscomp/TypeCheck.java:1609:replace:0,1$setInstanceType ", or "  baseInterfaceObj    ) ;

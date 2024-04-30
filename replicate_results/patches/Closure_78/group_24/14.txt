@@ -1,1 +1,0 @@
-src/com/google/javascript/rhino/Node.java:976:replace:0,1$getParent().append(" [");

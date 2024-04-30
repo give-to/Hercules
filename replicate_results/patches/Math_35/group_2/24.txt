@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math3/genetics/ListPopulation.java:55:replace:0,3$if (getPopulationSize() <= 0) {throw new NotPositiveException(LocalizedFormats.POPULATION_LIMIT_NOT_POSITIVE, populationLimit);}
-src/main/java/org/apache/commons/math3/genetics/ListPopulation.java:70:replace:0,3$if (getPopulationSize() <= 0) {throw new NotPositiveException(LocalizedFormats.POPULATION_LIMIT_NOT_POSITIVE, populationLimit);}

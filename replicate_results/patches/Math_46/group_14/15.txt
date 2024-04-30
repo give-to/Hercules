@@ -1,1 +1,0 @@
-src/main/java/org/apache/commons/math/complex/Complex.java:263:replace:0,3$if ((divisor.isInfinite() && !isInfinite()) && !(divisor == 0d)) {return ZERO;}

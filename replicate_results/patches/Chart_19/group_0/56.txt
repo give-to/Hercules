@@ -1,4 +1,0 @@
-source/org/jfree/chart/plot/CategoryPlot.java:698:insert-before:0$if (this.domainAxes == null) {return 0;}
-source/org/jfree/chart/plot/CategoryPlot.java:973:insert-before:0$if (this.rangeAxes == null) {return 0;}
-source/org/jfree/chart/plot/CategoryPlot.java:659:insert-before:0$if (this.domainAxes == null) {return 0;}
-source/org/jfree/chart/plot/CategoryPlot.java:933:insert-before:0$if (this.index == null) {return 0;}

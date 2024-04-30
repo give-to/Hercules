@@ -1,4 +1,0 @@
-src/main/java/org/apache/commons/math/complex/Complex.java:253:insert-before:0$if (divisor == null) divisor = NaN;
-src/main/java/org/apache/commons/math/complex/Complex.java:159:insert-before:0$if (addend == null) addend = NaN;
-src/main/java/org/apache/commons/math/complex/Complex.java:492:insert-before:0$if (subtrahend == null) subtrahend = NaN;
-src/main/java/org/apache/commons/math/complex/Complex.java:421:insert-before:0$if (factor == null) factor = NaN;

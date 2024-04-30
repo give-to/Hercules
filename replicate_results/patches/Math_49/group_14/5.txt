@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java:354:replace:0,1$final long hash= hashOf(key);
-src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java:210:replace:0,1$final long hash= hashOf(key);

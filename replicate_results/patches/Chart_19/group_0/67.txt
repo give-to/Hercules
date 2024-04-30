@@ -1,4 +1,0 @@
-source/org/jfree/chart/plot/CategoryPlot.java:698:insert-before:0$if (axis == null) {throw new IllegalArgumentException("Null 'axis' argument.");}
-source/org/jfree/chart/plot/CategoryPlot.java:973:insert-before:0$if (axis == null) {throw new IllegalArgumentException("Null 'axis' argument.");}
-source/org/jfree/chart/plot/CategoryPlot.java:659:insert-before:0$if (axis == null) {throw new IllegalArgumentException("Null 'axis' argument.");}
-source/org/jfree/chart/plot/CategoryPlot.java:933:insert-before:0$if (axis == null) {throw new IllegalArgumentException("Null 'axis' argument.");}

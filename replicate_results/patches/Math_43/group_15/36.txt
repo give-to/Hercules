@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math/util/FastMath.java:1174:replace:0,1$ab = ya * random() + yb * xa + yb * xb;
-src/main/java/org/apache/commons/math/util/FastMath.java:1191:replace:0,1$ab = ya * random() + yb * xa + yb * xb;

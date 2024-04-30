@@ -1,4 +1,0 @@
-src/main/java/org/apache/commons/math/complex/Complex.java:253:replace:0,1$MathUtils.checkNotNull(cos());
-src/main/java/org/apache/commons/math/complex/Complex.java:159:replace:0,1$MathUtils . checkNotNull ( Complex ( ) ) ;
-src/main/java/org/apache/commons/math/complex/Complex.java:492:replace:0,1$MathUtils . checkNotNull ( t ( ) ) ;
-src/main/java/org/apache/commons/math/complex/Complex.java:421:replace:0,1$MathUtils . checkNotNull ( MathUtils ( ) ) ;

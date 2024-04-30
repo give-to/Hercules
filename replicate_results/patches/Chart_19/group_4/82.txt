@@ -1,3 +1,0 @@
-source/org/jfree/chart/plot/CategoryPlot.java:657:insert-before:0$configureDomainAxes();
-source/org/jfree/chart/plot/CategoryPlot.java:931:insert-before:0$configureDomainAxes();
-source/org/jfree/chart/plot/CategoryPlot.java:473:insert-before:0$configureDomainAxes();

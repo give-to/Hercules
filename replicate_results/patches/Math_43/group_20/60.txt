@@ -1,1 +1,0 @@
-src/main/java/org/apache/commons/math/util/FastMath.java:1181:wrap:0,6$if (LN_QUICK_COEF[i] != null) {

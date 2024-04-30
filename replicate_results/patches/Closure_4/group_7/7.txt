@@ -1,1 +1,0 @@
-src/com/google/javascript/rhino/jstype/NamedType.java:305:replace:0,1$validator.apply(finishPropertyContinuations());

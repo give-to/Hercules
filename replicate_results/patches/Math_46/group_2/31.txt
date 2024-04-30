@@ -1,1 +1,0 @@
-src/main/java/org/apache/commons/math/complex/Complex.java:587:replace:0,2$return this.add(tan()).divide(I.subtract(this)).log().multiply(I.divide(createComplex(2.0, 0.0)));

@@ -1,1 +1,0 @@
-src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java:229:replace:0,1$long delta = x1 - x0;

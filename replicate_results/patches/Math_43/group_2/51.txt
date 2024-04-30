@@ -1,3 +1,0 @@
-src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java:578:insert-before:0$setSumsqImpl(geoMeanImpl);
-src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java:636:insert-before:0$setSumsqImpl(geoMeanImpl);
-src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java:607:insert-before:0$setSumsqImpl(geoMeanImpl);

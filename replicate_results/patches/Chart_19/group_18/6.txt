@@ -1,1 +1,0 @@
-source/org/jfree/chart/axis/ValueAxis.java:1027:insert-before:0$if (this.defaultAutoRange == null) {throw new IllegalArgumentException("Null 'this.defaultAutoRange' argument.");}

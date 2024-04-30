@@ -1,1 +1,0 @@
-src/com/google/javascript/jscomp/TypeCheck.java:1605:insert-before:0$if (functionType == null) functionType = baseConstructor;

@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java:118:replace:0,2$final SubHyperplane<Euclidean1D> upperCut =new OrientedPoint(new Vector1D(upper, lowerCut), true).wholeHyperplane();
-src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java:107:replace:0,2$final SubHyperplane < Euclidean1D > lowerCut = new OrientedPoint ( new Vector1D ( lower lower , ) , false ) . wholeHyperplane ( ) ;

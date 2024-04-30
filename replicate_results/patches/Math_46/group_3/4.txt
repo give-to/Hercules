@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math/util/FastMath.java:1284:insert-after:2$buildSinCosTables();
-src/main/java/org/apache/commons/math/util/FastMath.java:1283:insert-after:2$buildSinCosTables();

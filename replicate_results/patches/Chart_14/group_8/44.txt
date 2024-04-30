@@ -1,2 +1,0 @@
-source/org/jfree/chart/plot/CategoryMarker.java:80:insert-after:0$setKey(key);
-source/org/jfree/chart/plot/CategoryMarker.java:81:insert-after:0$setKey(key);

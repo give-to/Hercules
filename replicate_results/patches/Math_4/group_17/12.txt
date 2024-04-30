@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubLine.java:56:replace:0,1$this(new Line(start, getSegments()), buildIntervalSet(start, end));
-src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java:56:replace:0,1$super ( new Line ( start , getSegments ( ) ) , buildIntervalSet ( start , end )       )  ;

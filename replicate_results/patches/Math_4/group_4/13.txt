@@ -1,1 +1,0 @@
-src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java:195:replace:0,1$final double cos = revert().dotProduct(line.direction);

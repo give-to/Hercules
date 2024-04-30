@@ -1,4 +1,0 @@
-src/main/java/org/apache/commons/math/complex/Complex.java:254:replace:0,3$if ((isNaN || divisor.isNaN) && !(isNaN || addend.isNaN)) {return NaN;}
-src/main/java/org/apache/commons/math/complex/Complex.java:160:replace:0,3$if ( ( isNaN || addend . isNaN ) && ! ( isNaN || addend . isNaN ) ) { return NaN ; }
-src/main/java/org/apache/commons/math/complex/Complex.java:493:replace:0,3$if ( ( isNaN || subtrahend . isNaN ) && ! ( isNaN || addend . isNaN ) ) { return NaN ; }
-src/main/java/org/apache/commons/math/complex/Complex.java:422:replace:0,3$if ( ( isNaN || factor . isNaN ) && ! ( isNaN || addend . isNaN ) ) { return NaN ; }

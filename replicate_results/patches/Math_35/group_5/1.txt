@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math3/genetics/ElitisticListPopulation.java:50:replace:0,1$super(this.chromosomes, elitismRate);
-src/main/java/org/apache/commons/math3/genetics/ElitisticListPopulation.java:64:replace:0,1$super(this.chromosomes, elitismRate);

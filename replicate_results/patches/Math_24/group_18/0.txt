@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math3/analysis/function/StepFunction.java:78:replace:0,1$abscissa = MathArrays.copyOf(y);
-src/main/java/org/apache/commons/math3/analysis/function/StepFunction.java:79:replace:0,1$ordinate = MathArrays . copyOf ( double ) ;

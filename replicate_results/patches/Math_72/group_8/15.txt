@@ -1,1 +1,0 @@
-src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java:106:wrap:0,37$if (f != null) {

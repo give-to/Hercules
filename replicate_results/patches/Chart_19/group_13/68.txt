@@ -1,2 +1,0 @@
-source/org/jfree/chart/plot/CategoryPlot.java:656:insert-after:2$setDomainAxis(axis);
-source/org/jfree/chart/plot/CategoryPlot.java:930:insert-after:2$setDomainAxis(axis);

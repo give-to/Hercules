@@ -1,4 +1,0 @@
-source/org/jfree/chart/plot/XYPlot.java:2293:wrap:0,5$if (marker != null) {
-source/org/jfree/chart/plot/XYPlot.java:2529:wrap:0,5$if (marker != null) {
-source/org/jfree/chart/plot/CategoryPlot.java:2166:wrap:0,5$if (marker != null) {
-source/org/jfree/chart/plot/CategoryPlot.java:2448:wrap:0,5$if (marker != null) {

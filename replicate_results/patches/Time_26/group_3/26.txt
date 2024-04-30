@@ -1,1 +1,0 @@
-src/main/java/org/joda/time/DateTime.java:519:replace:0,3$if (getChronology() == minuteOfDay()) {return this;}

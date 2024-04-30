@@ -1,1 +1,0 @@
-src/main/java/org/joda/time/tz/CachedDateTimeZone.java:216:replace:0,1$iStandardOffset = iZoneRef.nextTransition(iPeriodStart);

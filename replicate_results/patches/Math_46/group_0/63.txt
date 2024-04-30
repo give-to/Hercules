@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math/complex/Complex.java:260:replace:0,1$return isZero ? sinh() : INF;
-src/main/java/org/apache/commons/math/complex/Complex.java:258:replace:0,1$if ( divisor . isZero ) { / / return isZero ? sinh ( ) : INF ; / / See MATH - 657 return isZero ? NaN : INF ; }

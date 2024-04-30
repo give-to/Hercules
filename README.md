@@ -223,7 +223,6 @@ python3 hercules_valid_v2.py /CatenaD4JProjects
  |--- C4J_results             :  Patches and results of CatenaD4J bugs
  |--- Docker                  :  Dockerfile
  |--- location                :  Bug positions localized with GZoltar of CatenaD4J bugs
- |--- replicate_results       :  Reproduction Results of the original paper
  |--- scripts                 :  Apply patches to projects
  |--- src                     :  Source code
  ```

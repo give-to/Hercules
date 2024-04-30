@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java:107:insert-before:0$if (functionValueAccuracy == null) return min;
-src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java:114:insert-before:0$if (functionValueAccuracy == null) return min;

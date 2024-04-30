@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java:216:wrap:0,3$if ((index < states.length())) {
-src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java:186:wrap:0,3$if ((index < states.length())) {

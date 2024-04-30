@@ -1,2 +1,0 @@
-src/com/google/javascript/rhino/jstype/FunctionType.java:1196:insert-before:0$if (resolvedInterfaces == null) resolvedInterfaces = new Builder();
-src/com/google/javascript/jscomp/FunctionTypeBuilder.java:339:insert-before:0$if (Lists == null) Lists = new Builder();

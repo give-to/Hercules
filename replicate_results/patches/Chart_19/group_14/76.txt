@@ -1,2 +1,0 @@
-source/org/jfree/chart/plot/CategoryPlot.java:660:insert-after:3$configureRangeAxes();
-source/org/jfree/chart/plot/CategoryPlot.java:934:insert-after:3$configureRangeAxes();

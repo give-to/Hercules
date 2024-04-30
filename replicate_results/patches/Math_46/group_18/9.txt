@@ -1,1 +1,0 @@
-src/main/java/org/apache/commons/math/complex/Complex.java:754:replace:0,2$return createComplex(FastMath.log(conjugate()), FastMath.atan2(imaginary, real));

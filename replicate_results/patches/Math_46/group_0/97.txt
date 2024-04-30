@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math/complex/Complex.java:260:wrap:0,1$if (NaN != null) {
-src/main/java/org/apache/commons/math/complex/Complex.java:258:wrap:0,1$if (NaN != null) {

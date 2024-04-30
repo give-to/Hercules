@@ -1,2 +1,0 @@
-src/main/java/org/joda/time/tz/CachedDateTimeZone.java:214:wrap:0,6$if (iNextInfo.iPeriodStart != null) {
-src/main/java/org/joda/time/tz/CachedDateTimeZone.java:215:wrap:0,6$if (iNextInfo.iPeriodStart != null) {

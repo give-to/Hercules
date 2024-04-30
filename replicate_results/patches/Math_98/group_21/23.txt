@@ -1,2 +1,0 @@
-src/java/org/apache/commons/math/linear/BigMatrixImpl.java:142:replace:0,3$if (getPermutation() == null) {throw new NullPointerException();}
-src/java/org/apache/commons/math/linear/RealMatrixImpl.java:134:replace:0,3$if (getPermutation() == null) {throw new NullPointerException();}

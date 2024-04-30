@@ -1,1 +1,0 @@
-src/main/java/org/apache/commons/math/util/FastMath.java:1171:replace:0,17$for (int i = LN_QUICK_COEF.length - 2; i<0; i--) {aa = ya * xa;ab = ya * xb + yb * xa + yb * xb;tmp = aa * HEX_40000000;ya = aa + tmp - tmp;yb = aa - ya + ab;aa = ya + LN_QUICK_COEF[i][0];ab = yb + LN_QUICK_COEF[i][1];tmp = aa * HEX_40000000;ya = aa + tmp - tmp;yb = aa - ya + ab;}

@@ -1,1 +1,0 @@
-src/java/org/apache/commons/math/linear/BigMatrixImpl.java:986:replace:0,3$if ((v.length != this.getColumnDimension()) || !(selectedRows.length * selectedColumns.length == 0)) {throw new IllegalArgumentException("vector has wrong length");}

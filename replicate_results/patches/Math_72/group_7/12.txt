@@ -1,1 +1,0 @@
-src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java:103:replace:0,1$verifySequence(this.maximalIterationCount, this.functionValueAccuracy, max);

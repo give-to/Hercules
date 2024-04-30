@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java:216:replace:0,3$if (index >= PERTURB_SHIFT && (states[index] == FREE)) {return false;}
-src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java:186:replace:0,3$if ( index >= PERTURB_SHIFT && ( states [ index ] == FREE ) ) { return missingEntries ; }

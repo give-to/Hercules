@@ -1,4 +1,0 @@
-src/main/java/org/apache/commons/math/complex/Complex.java:254:insert-before:0$if (divisor.isNaN == null) {throw new IllegalArgumentException("Null 'divisor.isNaN' argument.");}
-src/main/java/org/apache/commons/math/complex/Complex.java:160:insert-before:0$if (addend.isNaN == null) {throw new IllegalArgumentException("Null 'divisor.isNaN' argument.");}
-src/main/java/org/apache/commons/math/complex/Complex.java:493:insert-before:0$if (subtrahend.isNaN == null) {throw new IllegalArgumentException("Null 'divisor.isNaN' argument.");}
-src/main/java/org/apache/commons/math/complex/Complex.java:422:insert-before:0$if (factor.isNaN == null) {throw new IllegalArgumentException("Null 'divisor.isNaN' argument.");}

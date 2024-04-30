@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java:116:wrap:0,1$if (result != null) {
-src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java:248:wrap:0,1$if (result != null) {

@@ -1,4 +1,0 @@
-source/org/jfree/chart/plot/XYPlot.java:2285:wrap:0,8$if (layer != null) {
-source/org/jfree/chart/plot/XYPlot.java:2521:wrap:0,8$if (layer != null) {
-source/org/jfree/chart/plot/CategoryPlot.java:2158:wrap:0,8$if (layer != null) {
-source/org/jfree/chart/plot/CategoryPlot.java:2440:wrap:0,8$if (layer != null) {

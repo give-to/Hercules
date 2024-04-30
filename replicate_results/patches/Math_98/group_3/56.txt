@@ -1,2 +1,0 @@
-src/java/org/apache/commons/math/linear/BigMatrixImpl.java:154:replace:0,3$if ((d[r].length != nCols) && !(m.getColumnDimension() != nCols)) {throw new IllegalArgumentException("All input rows must have the same length.");}
-src/java/org/apache/commons/math/linear/RealMatrixImpl.java:146:replace:0,3$if ((d[r].length != nCols) && !(m.getColumnDimension() != nCols)) {throw new IllegalArgumentException("All input rows must have the same length.");}

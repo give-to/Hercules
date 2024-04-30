@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java:372:insert-before:0$if (iter == null) return res;
-src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java:506:insert-before:0$if (iter == null) return res;

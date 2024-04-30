@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java:372:wrap:0,2$if (iter != null) {
-src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java:506:wrap:0,2$if (iter != null) {

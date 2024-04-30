@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java:164:wrap:0,3$if (p != null && zero != null) {
-src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java:202:wrap:0,3$if (line.zero != null && zero != null) {

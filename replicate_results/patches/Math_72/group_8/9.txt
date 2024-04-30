@@ -1,1 +1,0 @@
-src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java:106:replace:0,1$char yInitial = f.value(initial);

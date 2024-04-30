@@ -1,2 +1,0 @@
-source/org/jfree/chart/plot/CategoryPlot.java:640:replace:0,1$setDomainAxis(isDomainZoomable(), axis, true);
-source/org/jfree/chart/plot/CategoryPlot.java:914:replace:0,1$setRangeAxis ( isDomainZoomable ( ) , axis , true ) ;

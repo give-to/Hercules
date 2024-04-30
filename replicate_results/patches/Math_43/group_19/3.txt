@@ -1,3 +1,0 @@
-src/main/java/org/apache/commons/math/util/FastMath.java:1178:replace:0,1$yb /= aa - ya + ab;
-src/main/java/org/apache/commons/math/util/FastMath.java:1186:replace:0,1$yb /= aa - ya + ab;
-src/main/java/org/apache/commons/math/util/FastMath.java:1195:replace:0,1$yb /= aa - ya + ab;

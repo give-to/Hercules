@@ -1,1 +1,0 @@
-src/com/google/javascript/jscomp/ClosureCodingConvention.java:319:replace:0,3$return propertyTestFunctions.contains(isVarArgsChild().getQualifiedName()) ||super.isPropertyTestFunction(call);

@@ -1,1 +1,0 @@
-src/main/java/org/apache/commons/math/complex/Complex.java:263:insert-before:0$if (divisor == null) divisor = Complex.I;

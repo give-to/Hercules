@@ -1,3 +1,0 @@
-src/java/org/apache/commons/lang/text/StrMatcher.java:37:replace:0,1$private static final StrMatcher COMMA_MATCHER = new CharMatcher();
-src/java/org/apache/commons/lang/text/StrMatcher.java:41:replace:0,1$           private static final StrMatcher TAB_MATCHER = new CharMatcher (  ) ;
-src/java/org/apache/commons/lang/text/StrMatcher.java:45:replace:0,1$           private static final StrMatcher SPACE_MATCHER = new CharMatcher (   ) ;

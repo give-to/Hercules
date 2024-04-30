@@ -1,5 +1,0 @@
-src/com/google/javascript/rhino/Node.java:960:wrap:0,2$if (sb != null) {
-src/com/google/javascript/rhino/Node.java:966:wrap:0,2$if (sb != null) {
-src/com/google/javascript/rhino/Node.java:967:wrap:0,2$if (sb != null) {
-src/com/google/javascript/rhino/Node.java:1024:wrap:0,2$if (sb != null) {
-src/com/google/javascript/rhino/Node.java:1025:wrap:0,2$if (sb != null) {

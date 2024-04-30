@@ -1,4 +1,0 @@
-source/org/jfree/chart/plot/CategoryPlot.java:698:replace:0,1$return this.domainAxes.indexOf(getWeight());
-source/org/jfree/chart/plot/CategoryPlot.java:973:replace:0,1$int result = this . rangeAxes . indexOf ( getWeight ( ) ) ;
-source/org/jfree/chart/plot/CategoryPlot.java:659:replace:0,1$this . domainAxes . set ( index , getWeight ( ) ) ;
-source/org/jfree/chart/plot/CategoryPlot.java:933:replace:0,1$this . rangeAxes . set ( index , getWeight ( ) ) ;

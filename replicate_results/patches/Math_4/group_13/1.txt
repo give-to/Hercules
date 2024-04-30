@@ -1,1 +1,0 @@
-src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java:114:wrap:0,10$if (subLine != null) {

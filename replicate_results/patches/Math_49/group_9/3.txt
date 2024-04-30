@@ -1,1 +1,0 @@
-src/main/java/org/apache/commons/math/linear/AbstractRealVector.java:63:replace:0,1$short d = getDimension();

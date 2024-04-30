@@ -1,1 +1,0 @@
-src/com/google/javascript/rhino/jstype/FunctionType.java:488:insert-before:0$if (type == null) {throw new IllegalArgumentException("Null 'type' argument.");}

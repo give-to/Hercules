@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math/complex/Complex.java:267:replace:0,1$final double c = divisor.tan();
-src/main/java/org/apache/commons/math/complex/Complex.java:268:replace:0,1$final double d = divisor . real ( ) ;

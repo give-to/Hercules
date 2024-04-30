@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java:216:replace:0,3$if ((states[index] == FREE) || !(states[index] == FULL && keys[index] == key)) {return false;}
-src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java:186:replace:0,3$if ( ( states [ index ] == FREE ) || ! ( states [ index ] == FULL && keys [ index ] == key ) ) { return missingEntries ; }

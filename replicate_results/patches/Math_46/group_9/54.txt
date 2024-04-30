@@ -1,1 +1,0 @@
-src/main/java/org/apache/commons/math/util/FastMath.java:3005:insert-before:0$if (Math.PI == null) return TANGENT_TABLE_B;

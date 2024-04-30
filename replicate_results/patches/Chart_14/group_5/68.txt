@@ -1,5 +1,0 @@
-source/org/jfree/chart/plot/XYPlot.java:2517:insert-after:2$clearRangeAxes();
-source/org/jfree/chart/plot/CategoryPlot.java:2436:insert-after:2$clearRangeAxes();
-source/org/jfree/chart/plot/Marker.java:490:insert-after:2$clearRangeAxes();
-source/org/jfree/chart/plot/Marker.java:175:insert-after:2$clearRangeAxes();
-source/org/jfree/chart/plot/Marker.java:178:insert-after:2$clearRangeAxes();

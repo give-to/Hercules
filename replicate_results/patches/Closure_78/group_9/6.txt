@@ -1,2 +1,0 @@
-src/com/google/javascript/rhino/Node.java:844:wrap:0,3$if (x.next != null) {
-src/com/google/javascript/rhino/Node.java:849:wrap:0,3$if (x.next != null) {

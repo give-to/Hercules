@@ -1,2 +1,0 @@
-src/java/org/apache/commons/lang/text/StrBuilder.java:1672:insert-before:0$if (buffer == null) buffer = thisBuf;
-src/java/org/apache/commons/lang/text/StrBuilder.java:1775:insert-before:0$if (buffer == null) buffer = thisBuf;

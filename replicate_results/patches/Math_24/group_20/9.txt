@@ -1,1 +1,0 @@
-src/main/java/org/apache/commons/math3/analysis/function/StepFunction.java:84:insert-before:0$if (abscissa == null) {return 0.0;}

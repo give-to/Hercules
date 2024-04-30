@@ -1,1 +1,0 @@
-src/com/google/javascript/rhino/Node.java:195:insert-before:0$setQuotedString();

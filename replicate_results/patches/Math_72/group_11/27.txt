@@ -1,1 +1,0 @@
-src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java:243:replace:0,7$if ((Math.abs(y1) <= functionValueAccuracy) || !(Math.abs(yInitial) <= functionValueAccuracy)) {setResult(x1, i);return result;}

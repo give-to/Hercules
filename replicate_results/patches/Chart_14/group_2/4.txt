@@ -1,4 +1,0 @@
-source/org/jfree/chart/plot/XYPlot.java:2286:replace:0,2$markers = (ArrayList) this.datasetToRangeAxisMap.get(new Integer(index));
-source/org/jfree/chart/plot/XYPlot.java:2522:replace:0,2$markers = ( ArrayList ) this . 0.0 . get ( new Integer ( index ) ) ;
-source/org/jfree/chart/plot/CategoryPlot.java:2159:replace:0,2$markers = (ArrayList) this.datasetToRangeAxisMap.get(new Integer(index));
-source/org/jfree/chart/plot/CategoryPlot.java:2441:replace:0,2$markers = ( ArrayList ) this . ObjectList . get ( new Integer ( index ) ) ;

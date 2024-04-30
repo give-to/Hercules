@@ -1,8 +1,0 @@
-Chart_19:
-Generation Time: 39.8min
-Validation Time: 224.63min
-Total Time: 264.43min
-Chart_14:
-Generation Time: 55.05min
-Validation Time: 136.17min
-Total Time: 191.22min

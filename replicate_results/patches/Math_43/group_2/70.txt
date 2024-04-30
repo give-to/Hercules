@@ -1,3 +1,0 @@
-src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java:578:insert-after:0$setVarianceImpl(geoMeanImpl);
-src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java:636:insert-after:0$setVarianceImpl(geoMeanImpl);
-src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java:607:insert-after:0$setVarianceImpl(geoMeanImpl);

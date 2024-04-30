@@ -1,2 +1,0 @@
-source/org/jfree/chart/plot/CategoryPlot.java:662:insert-before:0$clearRangeAxes();
-source/org/jfree/chart/plot/CategoryPlot.java:936:insert-before:0$clearRangeAxes();

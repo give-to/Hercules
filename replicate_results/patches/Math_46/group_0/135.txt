@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math/complex/Complex.java:260:insert-before:0$if (INF == null) return I;
-src/main/java/org/apache/commons/math/complex/Complex.java:258:insert-before:0$if (INF == null) return I;

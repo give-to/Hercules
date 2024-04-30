@@ -1,2 +1,0 @@
-src/java/org/apache/commons/math/linear/BigMatrixImpl.java:142:insert-before:0$copyIn(d);
-src/java/org/apache/commons/math/linear/RealMatrixImpl.java:134:insert-before:0$copyIn(d);

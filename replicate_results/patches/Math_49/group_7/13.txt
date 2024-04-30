@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java:371:replace:0,4$while ((iter.hasNext()) && (iter.value() > max)) {iter.advance();res.setEntry(iter.key(), iter.value() * v.getEntry(iter.key()));}
-src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java:373:replace:0,4$while ((iter.key()) && (iter.value() > max)) {iter.value();v.setEntry(iter.key(), iter.value() * v.getEntry(iter.key()));}

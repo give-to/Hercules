@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java:371:replace:0,4$while ((iter.hasNext()) && !(Double.doubleToLongBits(test) != Double.doubleToLongBits(iter.value()))) {iter.advance();res.setEntry(iter.key(), iter.value() * v.getEntry(iter.key()));}
-src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java:373:replace:0,4$while ((iter.key()) && !(Double.doubleToLongBits(test) != Double.doubleToLongBits(iter.value()))) {iter.value();v.setEntry(iter.key(), iter.value() * v.getEntry(iter.key()));}

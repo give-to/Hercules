@@ -1,4 +1,0 @@
-src/main/java/org/apache/commons/math/complex/Complex.java:329:replace:0,1$return sinh();
-src/main/java/org/apache/commons/math/complex/Complex.java:430:replace:0,1$return sinh();
-src/main/java/org/apache/commons/math/complex/Complex.java:379:replace:0,1$return sinh();
-src/main/java/org/apache/commons/math/complex/Complex.java:392:replace:0,1$return sinh();

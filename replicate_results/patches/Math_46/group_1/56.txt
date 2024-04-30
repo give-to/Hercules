@@ -1,1 +1,0 @@
-src/main/java/org/apache/commons/math/complex/Complex.java:1183:insert-before:0$if (!(real != null && imaginary != null)) return null;
