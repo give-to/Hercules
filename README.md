@@ -92,6 +92,7 @@ After testing, we found that using **pip** in the Docker file might cause image 
 # Preparing the environment
 cd /Hercules
 pip install -r requirements.txt
+chmod +x run.sh
 ```
 
 
