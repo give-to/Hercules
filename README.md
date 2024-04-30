@@ -126,7 +126,7 @@ After finishing the repair, the results are in folders: `patches` and `results`.
 ## 7. Experiment Reproduction
 
 ``` shell
-cp location/105SampleBugsResult/Chart_18_2/back.txt location/105SampleBugsResult/Chart_18_2/ochiai.ranking.txt
+cp location/105SampleBugsResult/Chart_18_2/backup.txt location/105SampleBugsResult/Chart_18_2/ochiai.ranking.txt
 rm -rf patches/ results/
 # Run the whole experiment
 ./run.sh /CatenaD4JProjects /CatenaD4J ./location/105SampleBugsResult ./105_bugs_list.txt
