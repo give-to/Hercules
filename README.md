@@ -122,7 +122,7 @@ After finishing the repair, the results are in folders: `patches` and `results`.
 
 - `results`: The validation results. The plausible patch will show `Pass`.
 
-
+Note: If you do not get any results, you can go to `/tbar_log/TBar.log` for more information.
 
 ## 7. Experiment Reproduction
 
