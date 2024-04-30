@@ -1,0 +1,2 @@
+org.jfree.data$DefaultKeyedValues#removeValue(int):318;0.6546536707079772
+
