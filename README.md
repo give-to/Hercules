@@ -82,6 +82,7 @@ At the root of this container, we clone the Hercules repository.
 ```shell
 cd /
 git clone https://github.com/give-to/Hercules.git
+cd /Hercules && chmod +x *
 ```
 
 #### 5.4 Install Dependencies
@@ -90,9 +91,7 @@ After testing, we found that using **pip** in the Docker file might cause image 
 
 ```shell
 # Preparing the environment
-cd /Hercules
 pip install -r requirements.txt
-chmod +x run.sh
 ```
 
 
