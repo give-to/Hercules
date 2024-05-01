@@ -8,7 +8,7 @@ ENV DEBIAN_FRONTEND=noninteractive
 RUN apt-get update && \
     apt-get install -y software-properties-common && \
     add-apt-repository ppa:deadsnakes/ppa && \
-    apt-get install -y openjdk-8-jdk git wget unzip curl libdbi-perl subversion vim
+    apt-get install -y openjdk-8-jdk pip git wget unzip curl libdbi-perl subversion vim
 
 # 安装 Defects4j v2.0
 RUN git clone https://github.com/rjust/defects4j.git && \
