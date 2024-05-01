@@ -1,6 +1,6 @@
 # Hercules
 
-This repository is used to replicate the experiments of article **"Towards Effective Multi-Hunk Bug Repair: Detecting, Creating, Evaluating, and Understanding Indivisible Bugs"** on Hercules. 
+This repository is used to replicate the experiments of article **"Detecting, Creating, Repairing, and Understanding Indivisible Multi-Hunk Bugs"** on Hercules. 
 
 **["Harnessing Evolution for Multi-Hunk Program Repair"](https://ieeexplore.ieee.org/document/8812131)** proposes Hercules. Since the source code is not provided by the authors, we implement Hercules in this repository according to the description in the paper.
 
