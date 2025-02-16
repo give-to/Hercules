@@ -98,12 +98,12 @@ public class Main_NFL {
         int lastLine = curLine - 1;
         while (lastLine >= 1) {
             String lineStr = lines.get(lastLine).replace(" ", "");
-            if (lineStr.startsWith("/*") || lineStr.startsWith("*") || lineStr.startsWith("//") || lineStr.equals(""))
+            if (lineStr.startsWith("/*") || lineStr.startsWith("*") || lineStr.startsWith("*/") || lineStr.startsWith("//") || lineStr.equals(""))
                 lastLine--;
             else
                 break;
         }
-        if (!lines.get(lastLine).replace("\n", "").endsWith(";"))
+        if (lines.get(lastLine).replace("\n", "").endsWith("{"))
             return -1;
         return lastLine;
     }
@@ -118,7 +118,7 @@ public class Main_NFL {
             nextLine = lineNum + 1;
             while (nextLine < lines.size()) {
                 String lineStr = lines.get(nextLine).replace(" ", "");
-                if (lineStr.startsWith("/*") || lineStr.startsWith("*") || lineStr.startsWith("//") || lineStr.equals(""))
+                if (lineStr.startsWith("/*") || lineStr.startsWith("*") || lineStr.startsWith("*/") || lineStr.startsWith("//") || lineStr.equals(""))
                     nextLine++;
                 else
                     break;
@@ -127,7 +127,7 @@ public class Main_NFL {
         int lastLine = lineNum - 1;
         while (lastLine >= 1) {
             String lineStr = lines.get(lastLine).replace(" ", "");
-            if (lineStr.startsWith("/*") || lineStr.startsWith("*") || lineStr.startsWith("//") || lineStr.equals(""))
+            if (lineStr.startsWith("/*") || lineStr.startsWith("*") || lineStr.startsWith("*/") || lineStr.startsWith("//") || lineStr.equals(""))
                 lastLine--;
             else
                 break;
@@ -360,7 +360,7 @@ public class Main_NFL {
                         String errStr = projectId + " : " + tmpPatch.getBuggyClass() + "@" + tmpPatch.getBuggyLine().get(0) + " getContext error!";
                         System.out.println(errStr);
                         appendFile("log.log", "There exists error when get contexts of " + buggyClass + "@" + tmpPatch.getBuggyLine().get(0) + "\n");
-                        contextLines = tmpPatch.getBuggyLine();
+                        contextLines.addAll(tmpPatch.getBuggyLine());
                     }
                     contextLines.sort(Comparator.naturalOrder());
 
