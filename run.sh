@@ -6,34 +6,37 @@ ROOT_DIR=$1
 catenaD4jHome=$2
 FLroot=$3
 bugListFile=$4
-
+logFile=$5
 cat ${bugListFile} | while read item
 do
     echo $item
     PID=`echo $item | awk '{split($1,arr,"_");print(arr[1])}'`
     BID=${item#*_}
     BID_NUM=`echo $item | awk '{split($1,arr,"_");print(arr[2])}'`
-    CID_NUM=`echo $item | awk '{split($1,arr,"_");print(arr[3])}'`
+#    CID_NUM=`echo $item | awk '{split($1,arr,"_");print(arr[3])}'`
 #    echo ${PID}:${BID_NUM}:${CID_NUM}
-    PROJECT_DIR=${ROOT_DIR}/${PID}_${BID_NUM}_${CID_NUM}
+    PROJECT_DIR=${ROOT_DIR}/${PID}_${BID_NUM} # _${CID_NUM}
     echo ${PROJECT_DIR}
     # Checkout CatenaD4J project
-     if [ ! -d "${PROJECT_DIR}" ]; then
-       # Script statements if $DIR not exists.
-        echo "project dir is not exists"
-        echo PID:${PID}:BID:${BID_NUM}:CID:${CID_NUM}
-        catena4j checkout -p ${PID} -v ${BID_NUM}b${CID_NUM} -w ${PROJECT_DIR}
+    if [  -d "${PROJECT_DIR}" ]; then
+	rm -rf ${PROJECT_DIR}
      fi
+       # Script statements if $DIR not exists.
+       # echo "project dir is not exists"
+        echo PID:${PID}:BID:${BID_NUM} # :CID:${CID_NUM}
+        defects4j checkout -p ${PID} -v ${BID_NUM}b -w ${PROJECT_DIR}
+	# catena4j checkout -p ${PID} -v ${BID_NUM}b${CID_NUM} -w ${PROJECT_DIR}
+     
     cd ${PROJECT_DIR}
     defects4j compile
 done
 
 #Generate Patches
 jarGeneratorAndRank=Hercules-1.0-SNAPSHOT-jar-with-dependencies.jar
-echo "java -cp $jarGeneratorAndRank org.example.hercules.Main_NFL $ROOT_DIR $catenaD4jHome $FLroot $bugListFile"
-java -cp $jarGeneratorAndRank org.example.hercules.Main_NFL $ROOT_DIR $catenaD4jHome $FLroot $bugListFile
+echo "java -cp $jarGeneratorAndRank org.example.hercules.Main_NFL $ROOT_DIR $catenaD4jHome $FLroot $bugListFile $logFile"
+java -cp $jarGeneratorAndRank org.example.hercules.Main_NFL $ROOT_DIR $catenaD4jHome $FLroot $bugListFile $logFile
 
 #Validation
-echo ${item}" Validation start"
-python3 hercules_valid_v2.py ${ROOT_DIR}
-echo ${item}" Validation end"
+# echo ${item}" Validation start"
+# python3 hercules_valid_v2.py ${ROOT_DIR} $bugListFile
+# echo ${item}" Validation end"

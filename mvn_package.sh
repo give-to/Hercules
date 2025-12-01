@@ -27,3 +27,4 @@ mvn install:install-file \
   -Dfile=lib/jfxrt.jar
 
 mvn assembly:assembly
+cp target/Hercules-1.0-SNAPSHOT-jar-with-dependencies.jar Hercules-1.0-SNAPSHOT-jar-with-dependencies.jar

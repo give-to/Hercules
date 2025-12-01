@@ -29,14 +29,15 @@ import edu.lu.uni.serval.tbar.TBarAPI;
 import static java.io.File.separator;
 
 public class Main_NFL {
+    private static String logFile = "";
     private static String projectRoot = "";
     private static String catenaD4jHome = "";
     private static String FLResultRoot = "";
     private static String bugsListFile = "";
-    private static int MAX_FL_RANK = 30;
-    private static int MAX_SIBLINGS_RANK = 70;
-    private static int MAX_GROUP_PATCHES = 200;
-    private static double threshold = 0.5;
+    private static int MAX_FL_RANK = 35;
+    private static int MAX_SIBLINGS_RANK = Integer.MAX_VALUE;
+    private static int MAX_GROUP_PATCHES = 300;
+    private static double threshold = 0.8;
 
     public static List<Integer> getContextLines(String targetDir, String susJavaClass, int buggyLine, String susMethod) {
         return ReachingDefinitionFinder.findContext(targetDir, susJavaClass, buggyLine, susMethod);
@@ -172,9 +173,9 @@ public class Main_NFL {
 
             String line_num = line.substring(line.lastIndexOf(":") + 1, line.lastIndexOf(";"));
             String score = line.substring(line.lastIndexOf(";") + 1);
-            if (Float.parseFloat(score) > 0) {
+            // if (Float.parseFloat(score) > 0) {
                 rst.add(new Pair<>(java_class + "@" + susMethod, Integer.parseInt(line_num)));
-            }
+            // }
         }
         return rst;
     }
@@ -273,7 +274,7 @@ public class Main_NFL {
         catenaD4jHome = args[1];
         FLResultRoot = args[2];
         bugsListFile = args[3];
-
+	logFile = args[4];
         String[] allProjects = readFile(bugsListFile).split(System.getProperty("line.separator"));
         for (int index = 0; index < allProjects.length; index++) {
             String output = "";
@@ -288,9 +289,9 @@ public class Main_NFL {
             String targetDir = d4jUtil.export("dir.bin.classes", projectDir);
             String targetPath = projectDir + separator + targetDir;
 
-            appendFile("log.log", "=========================================\n");
-            appendFile("log.log", projectId + ":\n");
-            appendFile("log.log", "start at: " + sbf.format(new Date()) + "\n");
+            appendFile(logFile, "=========================================\n");
+            appendFile(logFile, projectId + ":\n");
+            appendFile(logFile, "start at: " + sbf.format(new Date()) + "\n");
             // Read Ochiai ranking
             String[] eles = projectId.split("_");
             String projectName = eles[0];
@@ -298,7 +299,7 @@ public class Main_NFL {
             String currentFLPath = FLResultRoot + separator + projectId + separator + "ochiai.ranking.txt";
             List<Pair<String, Integer>> flRanking = parseFLResult(currentFLPath);
             // require all candidatePatch FL
-            appendFile("log.log", "Parse FL start at: " + sbf.format(new Date()) + "\n");
+            appendFile(logFile, "Parse FL start at: " + sbf.format(new Date()) + "\n");
             List<Patch> candidatePatch = new ArrayList<>();
             for (int i = 0; i < Math.min(flRanking.size(), MAX_SIBLINGS_RANK); i++) {
                 Pair<String, Integer> oneFL = flRanking.get(i);
@@ -320,7 +321,7 @@ public class Main_NFL {
                         scp.parseSuspiciousCode(new File(srcfilePath), tmpPatch.getBuggyLine().get(lineIndex));
                     } catch (Exception e) {
                         String errorMsg = "Parsing FL has error at: " + tmpPatch.getBuggyFilePath() + "@" + tmpPatch.getBuggyLine().get(0) + "\n";
-                        appendFile("log.log", errorMsg);
+                        appendFile(logFile, errorMsg);
                         continue;
                     }
 //                    if(scp.unit.getProblems().length > 0){
@@ -339,11 +340,11 @@ public class Main_NFL {
                 tmpPatch.addLblTree(tree);
                 candidatePatch.add(tmpPatch);
             }
-            appendFile("log.log", "Parse FL end at: " + sbf.format(new Date()) + "\n");
+            appendFile(logFile, "Parse FL end at: " + sbf.format(new Date()) + "\n");
             // find similar FL
             List<List<Patch>> similarGroups = findSimilarFL(candidatePatch);
-            appendFile("log.log", "find similar FL end at: " + sbf.format(new Date()) + "\n");
-            appendFile("log.log", "origin group num: " + similarGroups.size() + "\n");
+            appendFile(logFile, "find similar FL end at: " + sbf.format(new Date()) + "\n");
+            appendFile(logFile, "origin group num: " + similarGroups.size() + "\n");
 
             // find similar reaching definition context
             List<List<Patch>> newSimilarGroups = new ArrayList<>();
@@ -359,7 +360,7 @@ public class Main_NFL {
                     } catch (Exception e) {
                         String errStr = projectId + " : " + tmpPatch.getBuggyClass() + "@" + tmpPatch.getBuggyLine().get(0) + " getContext error!";
                         System.out.println(errStr);
-                        appendFile("log.log", "There exists error when get contexts of " + buggyClass + "@" + tmpPatch.getBuggyLine().get(0) + "\n");
+                        appendFile(logFile, "There exists error when get contexts of " + buggyClass + "@" + tmpPatch.getBuggyLine().get(0) + "\n");
                         contextLines.addAll(tmpPatch.getBuggyLine());
                     }
                     contextLines.sort(Comparator.naturalOrder());
@@ -369,7 +370,7 @@ public class Main_NFL {
                         try {
                             lastLine = findLastStatementLine(tmpPatch.getBuggyFilePath(), tmpPatch.getBuggyLine().get(0));
                         } catch (Exception e) {
-                            appendFile("log.log", "Find Last Line Number Error! " + tmpPatch.getBuggyFilePath() + "@" + tmpPatch.getBuggyLine().get(0) + "\n");
+                            appendFile(logFile, "Find Last Line Number Error! " + tmpPatch.getBuggyFilePath() + "@" + tmpPatch.getBuggyLine().get(0) + "\n");
                         }
                         if(lastLine >= 0)
                             contextLines.add(0, lastLine);
@@ -386,7 +387,7 @@ public class Main_NFL {
                         try {
                             scp.parseSuspiciousCode(new File(srcfilePath), susLine);
                         } catch (Exception e) {
-                            appendFile("log.log", "Error when parsing Context of " + tmpPatch.getBuggyFilePath() + "@" + tmpPatch.getBuggyLine().get(0) + "=>" + susLine + "\n");
+                            appendFile(logFile, "Error when parsing Context of " + tmpPatch.getBuggyFilePath() + "@" + tmpPatch.getBuggyLine().get(0) + "=>" + susLine + "\n");
                         }
 //                        if(scp.unit.getProblems().length > 0){
 //                            continue;
@@ -410,9 +411,23 @@ public class Main_NFL {
                 }
             }
 //            System.out.println(newSimilarGroups);
-            appendFile("log.log", "find similar FL(with context) end at: " + sbf.format(new Date()) + "\n");
-            appendFile("log.log", "new group num: " + newSimilarGroups.size() + "\n");
-
+            appendFile(logFile, "find similar FL(with context) end at: " + sbf.format(new Date()) + "\n");
+            appendFile(logFile, "new group num: " + newSimilarGroups.size() + "\n");
+	
+	    for (int groupIndex = 0; groupIndex < newSimilarGroups.size(); groupIndex++) {
+                List<Patch> currentGroup = newSimilarGroups.get(groupIndex);
+                for (int i = 0; i < currentGroup.size(); i++) {
+                    Patch memberPatch = currentGroup.get(i);
+                    String relativeBuggyFilePath = memberPatch.getSrcDir() + separator + memberPatch.getBuggyClass().replace(".", separator) + ".java";
+                    String susFileAndLine = relativeBuggyFilePath + ":" + memberPatch.getBuggyLine().get(0);
+                    appendFile("groups" + separator + projectId + separator + "group_" + groupIndex + separator + "0.txt", susFileAndLine + "\n");
+                }
+            }
+	    
+	    if(newSimilarGroups.size() >= 0){
+	    	continue;
+	    }
+	
             for (int groupIndex = 0; groupIndex < newSimilarGroups.size(); groupIndex++) {
 
                 List<Patch> currentGroup = newSimilarGroups.get(groupIndex);
@@ -422,28 +437,28 @@ public class Main_NFL {
                 int buggyline = firstPatch.getBuggyLine().get(0);
                 String buggyProjectPath = projectRoot + separator + projectId + separator + firstPatch.getSrcDir();
                 String buggyFilePath = firstPatch.getBuggyFilePath();
-                appendFile("log.log", "group_" + groupIndex + " start generating patches at " + sbf.format(new Date()) + "\n");
+                appendFile(logFile, "group_" + groupIndex + " start generating patches at " + sbf.format(new Date()) + "\n");
                 String results = "";
                 TBarFixer.results = "";
                 try {
                     results = TBarAPI.runTBarPerfect("code", buggyline, buggyFilePath, buggyProjectPath);
                 }catch(Exception e){
                     System.out.println(e);
-                    appendFile("log.log", "group_" + groupIndex + " generating patches error! " + sbf.format(new Date()) + "\n");
+                    appendFile(logFile, "group_" + groupIndex + " generating patches error! " + sbf.format(new Date()) + "\n");
                     continue;
                 }
-                appendFile("log.log", "group_" + groupIndex + " end generating patches at " + sbf.format(new Date()) + "\n");
+                appendFile(logFile, "group_" + groupIndex + " end generating patches at " + sbf.format(new Date()) + "\n");
                 String debugInfo = "The patches generated by TBarAPI of " + firstPatch.getBuggyClass() + "@" + firstPatch.getBuggyLine().get(0) + "as follows:\n";
-                appendFile("log.log", debugInfo);
+                appendFile(logFile, debugInfo);
                 System.out.println(debugInfo);
-                appendFile("log.log", results);
-                appendFile("log.log", "\n<- add a \\n\n");
+                appendFile(logFile, results);
+                appendFile(logFile, "\n<- add a \\n\n");
                 System.out.println(results);
 
                 String[] genPatches = results.split("\n");
 //                List<String> patchedSrcList = new ArrayList<>();
                 System.out.println("group_" + groupIndex + "'s " + firstPatch.getBuggyFilePath() + "@" + firstPatch.getBuggyLine().get(0) + "is extending\n");
-                appendFile("log.log", "group_" + groupIndex + "'s " + firstPatch.getBuggyFilePath() + "@" + firstPatch.getBuggyLine().get(0) + "is extending\n");
+                appendFile(logFile, "group_" + groupIndex + "'s " + firstPatch.getBuggyFilePath() + "@" + firstPatch.getBuggyLine().get(0) + "is extending\n");
                 for (int j = 0; j < Math.min(MAX_GROUP_PATCHES, genPatches.length); j++) {
                     String currentGenPatch = genPatches[j];
                     if (currentGenPatch.isEmpty() || currentGenPatch.replace(" ", "").replace("\n", "").isEmpty())
@@ -461,31 +476,31 @@ public class Main_NFL {
                     }
 
                     SuspiciousCodeParser scp = new SuspiciousCodeParser();
-                    appendFile("log.log", firstPatch.getBuggyFilePath() + "@" + firstPatch.getBuggyLine().get(0) + "@" + currentGenPatch + " is extending\n");
+                    appendFile(logFile, firstPatch.getBuggyFilePath() + "@" + firstPatch.getBuggyLine().get(0) + "@" + currentGenPatch + " is extending\n");
                     System.out.println(firstPatch.getBuggyFilePath() + "@" + firstPatch.getBuggyLine().get(0) + "@" + currentGenPatch + " is extending");
 //                    System.out.println(getGenPatchLine(currentGenPatch));
-                    appendFile("log.log", projectId + "parsing patched AST start at " + sbf.format(new Date()) + "\n");
+                    appendFile(logFile, projectId + "parsing patched AST start at " + sbf.format(new Date()) + "\n");
                     try {
                         scp.parseSuspiciousCode(new File(buggyFilePath), firstPatch.getBuggyLine().get(0) + getGenPatchLine(currentGenPatch));
                     } catch (Exception e) {
                         String errorMsg = "There exists error when parsing patched src.\n";
                         System.out.println(errorMsg);
                         System.out.println("The extending patch is: " + firstPatch.getBuggyFilePath() + "@" + firstPatch.getBuggyLine().get(0) + "@" + currentGenPatch + "\n");
-                        appendFile("log.log", errorMsg);
+                        appendFile(logFile, errorMsg);
                         System.out.println(e);
                         restorePatchSrc(firstPatch);
-                        appendFile("log.log", "parsing patched AST end at " + sbf.format(new Date()) + "\n");
+                        appendFile(logFile, "parsing patched AST end at " + sbf.format(new Date()) + "\n");
                         continue;
                     }
                     if (scp.getSuspiciousCode().size() < 1) {
-                        appendFile("log.log", "get empty patched node\n");
+                        appendFile(logFile, "get empty patched node\n");
                         restorePatchSrc(firstPatch);
-                        appendFile("log.log", "parsing patched AST end at " + sbf.format(new Date()) + "\n");
+                        appendFile(logFile, "parsing patched AST end at " + sbf.format(new Date()) + "\n");
                         continue;
                     }
-                    appendFile("log.log", "parsing patched AST end at " + sbf.format(new Date()) + "\n");
+                    appendFile(logFile, "parsing patched AST end at " + sbf.format(new Date()) + "\n");
                     ITree fixedPatchNode = scp.getSuspiciousCode().get(0).getFirst();
-                    appendFile("log.log", "extending start at " + sbf.format(new Date()) + "\n");
+                    appendFile(logFile, "extending start at " + sbf.format(new Date()) + "\n");
                     for (int option = 0; option < 1; option++) {
                         if (option == 0) {
 
@@ -528,7 +543,7 @@ public class Main_NFL {
                         } catch (Exception e) {
                             System.out.println("compile failed......");
                         } finally {
-                            appendFile("log.log", "extending end at " + sbf.format(new Date()) + "\n");
+                            appendFile(logFile, "extending end at " + sbf.format(new Date()) + "\n");
                             restorePatchSrc(firstPatch);
                         }
                     }
@@ -540,7 +555,7 @@ public class Main_NFL {
             Long end_second = LocalDateTime.now().toEpochSecond(ZoneOffset.of("+8"));
             Long spend_second = end_second - start_second;
             writeFile(spend_second + "s", "patches" + separator + projectId + separator + "time_info_gen.txt");
-            appendFile("log.log", "All Generation end at: " + end_time + "\n");
+            appendFile(logFile, "All Generation end at: " + end_time + "\n");
 
 //            sort all patches
             Long sort_start_time = LocalDateTime.now().toEpochSecond(ZoneOffset.of("+8"));
@@ -566,14 +581,14 @@ public class Main_NFL {
                     }
                 }
             }
-            appendFile("log.log", projectId + "Sort Patches start at " + sbf.format(new Date()) + "\n");
+            appendFile(logFile, projectId + "Sort Patches start at " + sbf.format(new Date()) + "\n");
             try {
                 SortPatches.sortPatches(allPatchList);
             } catch (Exception e) {
                 System.out.println(e);
                 System.out.println("sort error");
             }
-            appendFile("log.log", projectId + " Sort Patches end at " + sbf.format(new Date()) + "\n");
+            appendFile(logFile, projectId + " Sort Patches end at " + sbf.format(new Date()) + "\n");
 
 
 
@@ -595,12 +610,12 @@ public class Main_NFL {
             writeFile(sum_time+"s","patches" + separator + projectId + separator + "time_info.txt");
 
             //validation
-//            appendFile("log.log", "Validation Patches start at " + sbf.format(new Date()) + "\n");
+//            appendFile(logFile, "Validation Patches start at " + sbf.format(new Date()) + "\n");
 //            System.out.println(projectId + " Start validation");
 //            String validateCmd = "python3 hercules_valid_v2.py " + projectRoot;
 //            shellUtil.runShell(validateCmd, ".");
 //            System.out.println(projectId + " End Validation");
-//            appendFile("log.log", "Validation Patches end at " + sbf.format(new Date()) + "\n");
+//            appendFile(logFile, "Validation Patches end at " + sbf.format(new Date()) + "\n");
 
 
         }
