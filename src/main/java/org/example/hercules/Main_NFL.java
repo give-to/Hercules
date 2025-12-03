@@ -34,7 +34,7 @@ public class Main_NFL {
     private static String catenaD4jHome = "";
     private static String FLResultRoot = "";
     private static String bugsListFile = "";
-    private static int MAX_FL_RANK = 35;
+    private static int MAX_FL_RANK = 200;
     private static int MAX_SIBLINGS_RANK = Integer.MAX_VALUE;
     private static int MAX_GROUP_PATCHES = 300;
     private static double threshold = 0.8;
@@ -413,6 +413,7 @@ public class Main_NFL {
 //            System.out.println(newSimilarGroups);
             appendFile(logFile, "find similar FL(with context) end at: " + sbf.format(new Date()) + "\n");
             appendFile(logFile, "new group num: " + newSimilarGroups.size() + "\n");
+	    /*
 	
 	    for (int groupIndex = 0; groupIndex < newSimilarGroups.size(); groupIndex++) {
                 List<Patch> currentGroup = newSimilarGroups.get(groupIndex);
@@ -427,6 +428,7 @@ public class Main_NFL {
 	    if(newSimilarGroups.size() >= 0){
 	    	continue;
 	    }
+	    */
 	
             for (int groupIndex = 0; groupIndex < newSimilarGroups.size(); groupIndex++) {
 
