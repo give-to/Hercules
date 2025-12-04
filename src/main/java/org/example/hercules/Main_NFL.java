@@ -574,7 +574,7 @@ public class Main_NFL {
                     for (int j = 0; j < patchFileList.length; j++) {
                         String patchFilePath = groupDir.getPath() + separator + patchFileList[j];
                         PatchFile patch = new PatchFile(groupList[i], patchFileList[j]);
-                        String[] patchFileContent = readFile(patchFilePath).split(System.getProperty("line.separator"));
+                        String[] patchFileContent = readFile(patchFilePath).split("\\r?\\n");
                         List<Patch> content = new ArrayList<>();
                         for (int k = 0; k < patchFileContent.length; k++) {
                             content.add(new Patch(projectRoot + separator + projectId + separator + patchFileContent[k]));
