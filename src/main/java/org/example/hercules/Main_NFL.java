@@ -187,17 +187,18 @@ public class Main_NFL {
         currentPatch = currentPatch.replace("\"", "\\\"");
         currentPatch = "\"" + currentPatch + "\"";
         String buggyLine = patch.getBuggyLine().get(0) + "";
-        boolean exitCode = applyPatch(buggyFilePath, currentPatch, buggyLine);
+        boolean exitCode = applyPatch(buggyFilePath, currentPatch, buggyLine, patch.getProjectId());
         return exitCode;
     }
 
-    public static boolean applyPatch(String buggyFilePath, String currentPatch, String buggyLine) throws IOException {
+    public static boolean applyPatch(String buggyFilePath, String currentPatch, String buggyLine, String projectId) throws IOException {
         String applyPatch = "python3 apply_patches.py " + "0" + " " + buggyFilePath + " " + currentPatch + " " + buggyLine;
-        String applyPatchesShell = "scripts/apply_patches.sh";
+        String shellFile = projectId + "_apply_patches.sh";
+        String applyPatchesShell = "scripts/" + shellFile;
         writeFile(applyPatch, applyPatchesShell);
         ShellUtil shellUtil = new ShellUtil();
-        shellUtil.runShell("chmod +x apply_patches.sh", "scripts");
-        boolean exitCode = shellUtil.runShellFile("scripts", "apply_patches.sh");
+        shellUtil.runShell("chmod +x " + shellFile, "scripts");
+        boolean exitCode = shellUtil.runShellFile("scripts", shellFile);
         return exitCode;
     }
 
