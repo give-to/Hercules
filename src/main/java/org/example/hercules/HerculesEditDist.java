@@ -54,19 +54,31 @@ public class HerculesEditDist extends EditBasedDist {
         t.clearTmpData();
     }
 
+    public static boolean hasEnoughMemory(int nc1, int nc2) {
+        long bytesPerDouble = 8L;
+        long required = (long) nc1 * nc2 * bytesPerDouble * 2; // treedist + forestdist
+        Runtime rt = Runtime.getRuntime();
+        long free = rt.freeMemory();
+        long total = rt.totalMemory();
+        long max = rt.maxMemory();
+        // 计算 JVM 还能再分配多少
+        long available = max - total + free;
+        return available > required;
+    }
+
     @Override
     public double nonNormalizedTreeDist(LblTree t1, LblTree t2) {
-
         // System.out.print(t1.getTreeID() + "|" + t2.getTreeID() + "|");
-
         int nc1 = t1.getNodeCount() + 1;
-        kr1 = new int[t1.getLeafCount() + 1];
-        l1 = new int[nc1];
-        lbl1 = new String[nc1];
-
         int nc2 = t2.getNodeCount() + 1;
+        if(!hasEnoughMemory(nc1, nc2)){
+            throw new OutOfMemoryError("Not enough memory for treedist and forestdist");
+        }
+        kr1 = new int[t1.getLeafCount() + 1];
         kr2 = new int[t2.getLeafCount() + 1];
+        l1 = new int[nc1];
         l2 = new int[nc2];
+        lbl1 = new String[nc1];
         lbl2 = new String[nc2];
 
         init(kr1, l1, lbl1, t1);

@@ -219,9 +219,17 @@ public class Main_NFL {
 
                 LblTree tree1 = currentPatch.getLblTree().get(currentPatch.getLblTree().size() - 1);
                 LblTree tree2 = comparedPatch.getLblTree().get(comparedPatch.getLblTree().size() - 1);
-                double result = new HerculesEditDist(true).nonNormalizedTreeDist(tree1, tree2);
-                double similarity = 1 - result / Math.max(tree1.getNodeCount() - 1, tree2.getNodeCount() - 1);
-                System.out.println(similarity);
+                double result = -1;
+                double similarity = 0;
+                try {
+                    result = new HerculesEditDist(true).nonNormalizedTreeDist(tree1, tree2);
+                }catch (OutOfMemoryError e){
+                    System.out.println(e);
+                }
+                if(result > -1){
+                    similarity = 1 - result / Math.max(tree1.getNodeCount() - 1, tree2.getNodeCount() - 1);
+                }
+//                System.out.println(similarity);
 //                output += i + " and " + j + ":" + similarity + "=" + result + " / max(" + tree1.getNodeCount() + ", " + tree2.getNodeCount() + ")\n";
                 if (similarity >= threshold) {
                     tmpSimilarGroup.add(comparedPatch);
@@ -300,7 +308,7 @@ public class Main_NFL {
             String currentFLPath = FLResultRoot + separator + projectId + separator + "ochiai.ranking.txt";
             List<Pair<String, Integer>> flRanking = parseFLResult(currentFLPath);
             // require all candidatePatch FL
-            appendFile(logFile, "Parse FL start at: " + sbf.format(new Date()) + "\n");
+//            appendFile(logFile, "Parse FL start at: " + sbf.format(new Date()) + "\n");
             List<Patch> candidatePatch = new ArrayList<>();
             for (int i = 0; i < Math.min(flRanking.size(), MAX_SIBLINGS_RANK); i++) {
                 Pair<String, Integer> oneFL = flRanking.get(i);
@@ -345,7 +353,7 @@ public class Main_NFL {
             // find similar FL
             List<List<Patch>> similarGroups = findSimilarFL(candidatePatch);
             appendFile(logFile, "find similar FL end at: " + sbf.format(new Date()) + "\n");
-            appendFile(logFile, "origin group num: " + similarGroups.size() + "\n");
+//            appendFile(logFile, "origin group num: " + similarGroups.size() + "\n");
 
             // find similar reaching definition context
             List<List<Patch>> newSimilarGroups = new ArrayList<>();
@@ -584,7 +592,7 @@ public class Main_NFL {
                     }
                 }
             }
-            appendFile(logFile, projectId + "Sort Patches start at " + sbf.format(new Date()) + "\n");
+//            appendFile(logFile, projectId + " Sort Patches start at " + sbf.format(new Date()) + "\n");
             try {
                 SortPatches.sortPatches(allPatchList);
             } catch (Exception e) {
