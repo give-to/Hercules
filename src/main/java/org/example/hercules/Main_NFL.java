@@ -328,7 +328,7 @@ public class Main_NFL {
                     tmpPatch.setBuggyFilePath(srcfilePath);
                     try {
                         scp.parseSuspiciousCode(new File(srcfilePath), tmpPatch.getBuggyLine().get(lineIndex));
-                    } catch (Exception e) {
+                    } catch (Throwable e) {
                         String errorMsg = "Parsing FL has error at: " + tmpPatch.getBuggyFilePath() + "@" + tmpPatch.getBuggyLine().get(0) + "\n";
                         appendFile(logFile, errorMsg);
                         continue;
@@ -395,7 +395,7 @@ public class Main_NFL {
                         String srcfilePath = projectDir + separator + srcDir + separator + tmpPatch.getBuggyClass().replace(".", separator) + ".java";
                         try {
                             scp.parseSuspiciousCode(new File(srcfilePath), susLine);
-                        } catch (Exception e) {
+                        } catch (Throwable e) {
                             appendFile(logFile, "Error when parsing Context of " + tmpPatch.getBuggyFilePath() + "@" + tmpPatch.getBuggyLine().get(0) + "=>" + susLine + "\n");
                         }
 //                        if(scp.unit.getProblems().length > 0){
@@ -493,7 +493,7 @@ public class Main_NFL {
 //                    appendFile(logFile, projectId + "parsing patched AST start at " + sbf.format(new Date()) + "\n");
                     try {
                         scp.parseSuspiciousCode(new File(buggyFilePath), firstPatch.getBuggyLine().get(0) + getGenPatchLine(currentGenPatch));
-                    } catch (Exception e) {
+                    } catch (Throwable e) {
                         String errorMsg = "There exists error when parsing patched src.\n";
 //                        System.out.println(errorMsg);
                         System.out.println("The extending patch is: " + firstPatch.getBuggyFilePath() + "@" + firstPatch.getBuggyLine().get(0) + "@" + currentGenPatch + "\n");
