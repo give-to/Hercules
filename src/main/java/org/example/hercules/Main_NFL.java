@@ -39,6 +39,7 @@ public class Main_NFL {
     private static int MAX_GROUP_PATCHES = 300;
     private static double threshold = 0.8;
 
+    private static long generationTimeout = 7200; //second
     public static List<Integer> getContextLines(String targetDir, String susJavaClass, int buggyLine, String susMethod) {
         return ReachingDefinitionFinder.findContext(targetDir, susJavaClass, buggyLine, susMethod);
     }
@@ -439,7 +440,7 @@ public class Main_NFL {
 	    }
 	    */
 	
-            for (int groupIndex = 0; groupIndex < newSimilarGroups.size(); groupIndex++) {
+            for (int groupIndex = 0; groupIndex < newSimilarGroups.size() && LocalDateTime.now().toEpochSecond(ZoneOffset.of("+8")) - start_second < generationTimeout; groupIndex++) {
 
                 List<Patch> currentGroup = newSimilarGroups.get(groupIndex);
 
