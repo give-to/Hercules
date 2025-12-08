@@ -1,10 +1,12 @@
 package edu.lu.uni.serval.tbar.utils;
 
 import java.io.BufferedInputStream;
+import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
+import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
@@ -268,31 +270,19 @@ public class FileHelper {
 	 * @return String, the content of a file.
 	 */
 	public static String readFile(File file) {
-		byte[] input = null;
-		BufferedInputStream bis = null;
-		
-		try {
-			
-			bis = new BufferedInputStream(new FileInputStream(file));
-			input = new byte[bis.available()];
-			bis.read(input);
-			
-		} catch (FileNotFoundException e) {
-			e.printStackTrace();
+		StringBuilder sb = new StringBuilder();
+		try (BufferedReader reader = new BufferedReader(new FileReader(file))) {
+			String line;
+			while ((line = reader.readLine()) != null) {
+				sb.append(line).append("\n");
+			}
 		} catch (IOException e) {
 			e.printStackTrace();
-		} finally {
-			close(bis);
 		}
-		
-		String sourceCode = null;
-		if (input != null) {
-			sourceCode = new String(input);
-		}
-		
-		return sourceCode;
+		return sb.toString();
 	}
-	
+
+
 	/**
 	 * Output output into a file.
 	 * @param fileName, output file name.
