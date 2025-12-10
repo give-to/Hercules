@@ -38,8 +38,8 @@ public class Main_NFL {
     private static int MAX_SIBLINGS_RANK = Integer.MAX_VALUE;
     private static int MAX_GROUP_PATCHES = 300;
     private static double threshold = 0.8;
-
-    private static long generationTimeout = 7200; //second
+    private static long parseTimeout = 1800; //second
+    private static long generationTimeout = 9000; //second
     public static List<Integer> getContextLines(String targetDir, String susJavaClass, int buggyLine, String susMethod) {
         return ReachingDefinitionFinder.findContext(targetDir, susJavaClass, buggyLine, susMethod);
     }
@@ -311,7 +311,7 @@ public class Main_NFL {
             // require all candidatePatch FL
 //            appendFile(logFile, "Parse FL start at: " + sbf.format(new Date()) + "\n");
             List<Patch> candidatePatch = new ArrayList<>();
-            for (int i = 0; i < Math.min(flRanking.size(), MAX_SIBLINGS_RANK); i++) {
+            for (int i = 0; i < Math.min(flRanking.size(), MAX_SIBLINGS_RANK) && LocalDateTime.now().toEpochSecond(ZoneOffset.of("+8")) - start_second < parseTimeout; i++) {
                 Pair<String, Integer> oneFL = flRanking.get(i);
 
                 String buggyClassAndMethod = oneFL.getFirst();
