@@ -14,6 +14,7 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 import edu.lu.uni.serval.tbar.fixtemplate.FixTemplate;
 
@@ -62,7 +63,7 @@ public class SuspiciousCodeParser {
 							child = traverseParentNode(child);
 							if (child == null) continue;
 						}
-						Pair<ITree, String> pair = new Pair<ITree, String>(child, readSuspiciousCode(child));
+						Pair<ITree, String> pair = new Pair<ITree, String>(child, readSuspiciousCode(startLine, endLine));
 						if (!suspiciousCode.contains(pair)) {
 							suspiciousCode.add(pair);
 						}
@@ -101,6 +102,11 @@ public class SuspiciousCodeParser {
 		int startPos = suspiciousCodeAstNode.getPos();
 		int endPos = startPos + suspiciousCodeAstNode.getLength();
 		return javaFileContent.substring(startPos, endPos);
+	}
+
+	private String readSuspiciousCode(int startLine, int endLine) {
+		String[] javaFileContent = FileHelper.readFile(this.javaFile).split("\n");
+		return String.join("\n", Arrays.copyOfRange(javaFileContent, startLine - 1, endLine));
 	}
 
 	// get Hercules' node name
