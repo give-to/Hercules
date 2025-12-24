@@ -13,6 +13,7 @@ import org.example.hercules.utils.GenerateStringFromTree;
 import edu.lu.uni.serval.tbar.utils.SuspiciousCodeParser;
 import org.example.hercules.utils.ShellUtil;
 import org.example.hercules.utils.SortPatches;
+import org.example.hercules.utils.VariableAssignmentAnalyzer;
 import tree.LblTree;
 
 import java.io.*;
@@ -43,7 +44,9 @@ public class Main_NFL {
     public static List<Integer> getContextLines(String targetDir, String susJavaClass, int buggyLine, String susMethod) {
         return ReachingDefinitionFinder.findContext(targetDir, susJavaClass, buggyLine, susMethod);
     }
-
+    public static List<Integer> getContextLines(String srcfilePath, int buggyLine) throws FileNotFoundException {
+        return VariableAssignmentAnalyzer.getContextAssignment(srcfilePath, buggyLine);
+    }
     public static String readFile(String fileName) {
         String jsonStr = "";
         try {
@@ -366,7 +369,9 @@ public class Main_NFL {
                     String buggyClass = tmpPatch.getBuggyClass();
                     List<Integer> contextLines = new ArrayList<>();
                     try {
-                        contextLines = getContextLines(targetPath, buggyClass, tmpPatch.getBuggyLine().get(0), tmpPatch.getSusMethod());
+//                        contextLines = getContextLines(targetPath, buggyClass, tmpPatch.getBuggyLine().get(0), tmpPatch.getSusMethod());
+                        String srcfilePath = projectDir + separator + srcDir + separator + tmpPatch.getBuggyClass().replace(".", separator) + ".java";
+                        contextLines = getContextLines(srcfilePath, tmpPatch.getBuggyLine().get(0));
                     } catch (Exception e) {
                         String errStr = projectId + " : " + tmpPatch.getBuggyClass() + "@" + tmpPatch.getBuggyLine().get(0) + " getContext error!";
                         System.out.println(errStr);
@@ -380,7 +385,7 @@ public class Main_NFL {
                         try {
                             lastLine = findLastStatementLine(tmpPatch.getBuggyFilePath(), tmpPatch.getBuggyLine().get(0));
                         } catch (Exception e) {
-                            appendFile(logFile, "Find Last Line Number Error! " + tmpPatch.getBuggyFilePath() + "@" + tmpPatch.getBuggyLine().get(0) + "\n");
+                            appendFile(logFile, "Find Last Line Number Error! " + e + " " + tmpPatch.getBuggyFilePath() + "@" + tmpPatch.getBuggyLine().get(0) + "\n");
                         }
                         if(lastLine >= 0)
                             contextLines.add(0, lastLine);
