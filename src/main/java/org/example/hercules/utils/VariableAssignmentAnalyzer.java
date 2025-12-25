@@ -6,6 +6,7 @@ import com.github.javaparser.ast.CompilationUnit;
 import com.github.javaparser.ast.ImportDeclaration;
 import com.github.javaparser.ast.Node;
 import com.github.javaparser.ast.body.ClassOrInterfaceDeclaration;
+import com.github.javaparser.ast.body.ConstructorDeclaration;
 import com.github.javaparser.ast.body.FieldDeclaration;
 import com.github.javaparser.ast.body.MethodDeclaration;
 import com.github.javaparser.ast.expr.*;
@@ -80,8 +81,11 @@ public class VariableAssignmentAnalyzer {
             if (parentNode instanceof CompilationUnit || parentNode instanceof ClassOrInterfaceDeclaration || parentNode instanceof ImportDeclaration || parentNode instanceof FieldDeclaration)
                 this.enclosingMethod = parentNode;
             else {
-                while (!(parentNode instanceof MethodDeclaration)) {
+                while (true) {
                     parentNode = parentNode.getParentNode().get();
+                    if(parentNode instanceof MethodDeclaration || parentNode instanceof ConstructorDeclaration){
+                        break;
+                    }
                 }
                 this.enclosingMethod = parentNode;
             }
