@@ -6,31 +6,16 @@ import org.example.hercules.utils.LevenshteinDistance;
 public class HerculesASTNodeSimilarityUtil {
     public static boolean nodeSimilarity(String nodeStr1,String nodeStr2){
         String[] elements1 = nodeStr1.split("###");
-        int kind1 = 0;
-        try{
-            kind1 = Integer.parseInt(elements1[0]);
-        }catch (Exception e){
-            kind1 = -1;
-        }
+        int kind1 = elements1.length > 0 ? Integer.parseInt(elements1[0]) : -1;
         Class kindClass1 = kind1 > 0 ? ASTNode.nodeClassForType(kind1) : null;
-        try{
-            String type1 = elements1[1];
-        }catch (Exception e){
-            System.out.println(e);
-        }
-        String type1 = elements1[1];
-        String name1 = elements1[2];
+        String type1 = elements1.length > 1 ? elements1[1] : "";
+        String name1 = elements1.length > 2 ? elements1[2] : "";
 
         String[] elements2 = nodeStr2.split("###");
-        int kind2 = 0;
-        try{
-            kind2 = Integer.parseInt(elements2[0]);
-        }catch (Exception e){
-            kind2 = -1;
-        }
+        int kind2 = elements2.length > 0 ? Integer.parseInt(elements2[0]) : -1;;
         Class kindClass2 = kind2 > 0 ? ASTNode.nodeClassForType(kind2) : null;
-        String type2 = elements2[1];
-        String name2 = elements2[2];
+        String type2 = elements2.length > 1 ? elements2[1] : "";
+        String name2 = elements2.length > 2 ? elements2[2] : "";
 
         if(kindCompatibility(kindClass1,kindClass2))
             if(typeCompatibility(type1,type2))
