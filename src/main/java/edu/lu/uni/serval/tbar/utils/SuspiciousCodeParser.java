@@ -63,7 +63,7 @@ public class SuspiciousCodeParser {
 							child = traverseParentNode(child);
 							if (child == null) continue;
 						}
-						Pair<ITree, String> pair = new Pair<ITree, String>(child, readSuspiciousCode(startLine, endLine));
+						Pair<ITree, String> pair = new Pair<ITree, String>(child, readSuspiciousCode(child));
 						if (!suspiciousCode.contains(pair)) {
 							suspiciousCode.add(pair);
 						}

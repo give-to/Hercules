@@ -270,16 +270,25 @@ public class FileHelper {
 	 * @return String, the content of a file.
 	 */
 	public static String readFile(File file) {
-		StringBuilder sb = new StringBuilder();
-		try (BufferedReader reader = new BufferedReader(new FileReader(file))) {
-			String line;
-			while ((line = reader.readLine()) != null) {
-				sb.append(line).append("\n");
-			}
+		byte[] input = null;
+		BufferedInputStream bis = null;
+		try {
+			bis = new BufferedInputStream(new FileInputStream(file));
+			input = new byte[bis.available()];
+			bis.read(input);
+
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
 		} catch (IOException e) {
 			e.printStackTrace();
+		} finally {
+			close(bis);
 		}
-		return sb.toString();
+		String sourceCode = null;
+		if (input != null) {
+			sourceCode = new String(input);
+		}
+		return sourceCode;
 	}
 
 
